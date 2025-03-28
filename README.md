@@ -7,6 +7,8 @@ kit, iptv, dll). Berikut list data :
 2. IPTV Indonesia
 3. UI Kit Tailwind
 
+untuk melakukan request data apapun bisa melalui issue.
+
 data ini akan selalu di update oleh admin, jika terdapat kesalahan atau tambahan
 silahkan submit disini, terimakasih.
 
