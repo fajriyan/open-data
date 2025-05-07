@@ -3,9 +3,10 @@
 Repository ini akan berisi data apapun yang bersifat public seperti (journal, ui
 kit, iptv, dll). Berikut list data :
 
-1. Repository Journal Indonesia
-2. IPTV Indonesia
-3. UI Kit Tailwind
+1. Repository Journal Indonesia [(akses)](https://github.com/fajriyan/open-data/blob/main/journal-idn.md)
+2. IPTV Indonesia [(akses)](https://github.com/fajriyan/open-data/blob/main/iptv-indonesia.m3u)
+3. UI Kit Tailwind [(akses)](https://github.com/fajriyan/open-data/blob/main/ui-kit.md)
+4. Rest API Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
 
 untuk melakukan request data apapun bisa melalui issue.
 
