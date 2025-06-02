@@ -7,6 +7,7 @@ kit, iptv, dll). Berikut list data :
 2. IPTV Indonesia [(akses)](https://github.com/fajriyan/open-data/blob/main/iptv-indonesia.m3u)
 3. UI Kit Tailwind [(akses)](https://github.com/fajriyan/open-data/blob/main/ui-kit.md)
 4. Rest API Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
+4. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.md)
 
 untuk melakukan request data apapun bisa melalui issue.
 
