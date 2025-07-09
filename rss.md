@@ -1,0 +1,12 @@
+## Kumpulan RSS Berita di Indonesia
+- https://www.cnnindonesia.com/rss
+- https://www.cnbcindonesia.com/rss
+- https://www.antaranews.com/rss
+- https://www.sindonews.com/feed
+- https://www.okezone.com/rss
+- https://www.tribunnews.com/rss
+- https://www.merdeka.com/rss
+- https://www.republika.co.id/rss
+- https://www.cna.id/rss
+- https://mediaindonesia.com/feed/all
+- https://www.benarnews.org/arc/outboundfeeds/indonesian/rss/
