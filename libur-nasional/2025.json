@@ -1,0 +1,127 @@
+[
+  {
+    "date": "1 Januari",
+    "day": "Rabu",
+    "holiday_name": "Tahun Baru Masehi"
+  },
+  {
+    "date": "27 Januari",
+    "day": "Senin",
+    "holiday_name": "Isra Mi'raj"
+  },
+  {
+    "date": "28 Januari",
+    "day": "Selasa",
+    "holiday_name": "Cuti Bersama Tahun Baru Imlek"
+  },
+  {
+    "date": "29 Januari",
+    "day": "Rabu",
+    "holiday_name": "Tahun Baru Imlek"
+  },
+  {
+    "date": "28 Maret",
+    "day": "Jumat",
+    "holiday_name": "Cuti Bersama Hari Suci Nyepi"
+  },
+  {
+    "date": "29 Maret",
+    "day": "Sabtu",
+    "holiday_name": "Hari Suci Nyepi"
+  },
+  {
+    "date": "31 Maret",
+    "day": "Senin",
+    "holiday_name": "Hari Raya Idul Fitri"
+  },
+  {
+    "date": "1 April to 4 April",
+    "day": "Selasa to Jumat",
+    "holiday_name": "Cuti Bersama Lebaran"
+  },
+  {
+    "date": "7 April",
+    "day": "Senin",
+    "holiday_name": "Cuti Bersama Lebaran"
+  },
+  {
+    "date": "18 April",
+    "day": "Jumat",
+    "holiday_name": "Jumat Agung"
+  },
+  {
+    "date": "20 April",
+    "day": "Minggu",
+    "holiday_name": "Paskah"
+  },
+  {
+    "date": "1 Mei",
+    "day": "Kamis",
+    "holiday_name": "Hari Buruh"
+  },
+  {
+    "date": "12 Mei",
+    "day": "Senin",
+    "holiday_name": "Hari Waisak"
+  },
+  {
+    "date": "13 Mei",
+    "day": "Selasa",
+    "holiday_name": "Cuti Bersama Hari Waisak"
+  },
+  {
+    "date": "29 Mei",
+    "day": "Kamis",
+    "holiday_name": "Kenaikan Isa Almasih"
+  },
+  {
+    "date": "30 Mei",
+    "day": "Jumat",
+    "holiday_name": "Cuti Bersama Kenaikan Isa Almasih"
+  },
+  {
+    "date": "1 Juni",
+    "day": "Minggu",
+    "holiday_name": "Hari Lahir Pancasila"
+  },
+  {
+    "date": "6 Juni",
+    "day": "Jumat",
+    "holiday_name": "Idul Adha"
+  },
+  {
+    "date": "9 Juni",
+    "day": "Senin",
+    "holiday_name": "Cuti Bersama Idul Adha"
+  },
+  {
+    "date": "27 Juni",
+    "day": "Jumat",
+    "holiday_name": "Tahun Baru Islam"
+  },
+  {
+    "date": "17 Agustus",
+    "day": "Minggu",
+    "holiday_name": "Hari Kemerdekaan"
+  },
+  {
+    "date": "18 Agustus",
+    "day": "Senin",
+    "holiday_name": "Cuti Bersama Hari Kemerdekaan"
+  },
+  {
+    "date": "5 September",
+    "day": "Jumat",
+    "holiday_name": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "date": "25 Desember",
+    "day": "Kamis",
+    "holiday_name": "Hari Natal"
+  },
+  {
+    "date": "26 Desember",
+    "day": "Jumat",
+    "holiday_name": "Cuti Bersama Hari Natal"
+  }
+]

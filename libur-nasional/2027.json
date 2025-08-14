@@ -1,0 +1,87 @@
+[
+  {
+    "date": "1 Januari",
+    "day": "Jumat",
+    "holiday_name": "Tahun Baru Masehi"
+  },
+  {
+    "date": "5 Januari",
+    "day": "Selasa",
+    "holiday_name": "Isra Mi'raj"
+  },
+  {
+    "date": "6 Februari",
+    "day": "Sabtu",
+    "holiday_name": "Tahun Baru Imlek"
+  },
+  {
+    "date": "9 Maret",
+    "day": "Selasa",
+    "holiday_name": "Hari Suci Nyepi"
+  },
+  {
+    "date": "10 Maret",
+    "day": "Rabu",
+    "holiday_name": "Hari Raya Idul Fitri"
+  },
+  {
+    "date": "11 Maret",
+    "day": "Kamis",
+    "holiday_name": "Cuti Bersama Lebaran"
+  },
+  {
+    "date": "26 Maret",
+    "day": "Jumat",
+    "holiday_name": "Jumat Agung"
+  },
+  {
+    "date": "1 Mei",
+    "day": "Sabtu",
+    "holiday_name": "Hari Buruh"
+  },
+  {
+    "date": "6 Mei",
+    "day": "Kamis",
+    "holiday_name": "Kenaikan Isa Almasih"
+  },
+  {
+    "date": "17 Mei",
+    "day": "Senin",
+    "holiday_name": "Idul Adha"
+  },
+  {
+    "date": "20 Mei",
+    "day": "Kamis",
+    "holiday_name": "Hari Waisak"
+  },
+  {
+    "date": "1 Juni",
+    "day": "Selasa",
+    "holiday_name": "Hari Lahir Pancasila"
+  },
+  {
+    "date": "6 Juni",
+    "day": "Minggu",
+    "holiday_name": "Tahun Baru Islam"
+  },
+  {
+    "date": "15 Agustus",
+    "day": "Minggu",
+    "holiday_name": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "date": "17 Agustus",
+    "day": "Selasa",
+    "holiday_name": "Hari Kemerdekaan"
+  },
+  {
+    "date": "25 Desember",
+    "day": "Sabtu",
+    "holiday_name": "Hari Natal"
+  },
+  {
+    "date": "26 Desember",
+    "day": "Minggu",
+    "holiday_name": "Isra Mi'raj"
+  }
+]
