@@ -1,0 +1,976 @@
+{
+    "updated_at": "2025-08-30T09:37:58.908810",
+    "data": [
+        {
+            "huruf": "BL",
+            "wilayah": "Aceh ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Banda Aceh (BL xxxx A**/J*)",
+                "Gayo Lues (BL xxxx B**)",
+                "Aceh Barat Daya (BL xxxx C**)",
+                "Aceh Timur (BL xxxx D**)",
+                "Aceh Barat (BL xxxx E**)",
+                "Kota Langsa (BL xxxx F**)",
+                "Aceh Tengah (BL xxxx G**)",
+                "Aceh Tenggara (BL xxxx H**)",
+                "Kota Subulussalam (BL xxxx I**)",
+                "Aceh Utara (BL xxxx K**/Q*)",
+                "Aceh Besar (BL xxxx L**)",
+                "Kota Sabang (BL xxxx M**)",
+                "Kota Lhokseumawe (BL xxxx N**)",
+                "Pidie Jaya (BL xxxx O**)",
+                "Pidie (BL xxxx P**)",
+                "Aceh Singkil (BL xxxx R**)",
+                "Simeulue (BL xxxx S**)",
+                "Aceh Selatan (BL xxxx T**)",
+                "Aceh Tamiang (BL xxxx U**)",
+                "Nagan Raya (BL xxxx V**)",
+                "Aceh Jaya (BL xxxx W**)",
+                "Bener Meriah (BL xxxx Y**)",
+                "Bireuen (BL xxxx Z**)"
+            ]
+        },
+        {
+            "huruf": "BB",
+            "wilayah": "Sumatera Utara bagian Barat ( Tapanuli )",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Sibolga (BB xxxx A*/L*/N*)",
+                "Tapanuli Utara (BB xxxx B*)",
+                "Samosir (BB xxxx C*)",
+                "Humbang Hasundutan (BB xxxx D*)",
+                "Toba (BB xxxx E*)",
+                "Kota Padang Sidempuan (BB xxxx F*/H*)",
+                "Tapanuli Selatan (BB xxxx G*)",
+                "Padang Lawas Utara (BB xxxx J*)",
+                "Padang Lawas (BB xxxx K*)",
+                "Tapanuli Tengah (BB xxxx M*)",
+                "Nias Utara (BB xxxx Q*)",
+                "Mandailing Natal (BB xxxx R*)",
+                "Kota Gunungsitoli (BB xxxx T*)",
+                "Nias Barat (BB xxxx U*)",
+                "Nias (BB xxxx V*)",
+                "Nias Selatan (BB xxxx W*)",
+                "Dairi (BB xxxx Y*)",
+                "Pakpak Bharat (BB xxxx Z*)"
+            ]
+        },
+        {
+            "huruf": "BK",
+            "wilayah": "Sumatera Utara bagian Timur ( Pesisir Timur Sumatra )",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Medan (BK xxxx A**/B*/C*/D*/E*/F*/G*/H*/I*/K**/L**)",
+                "Labuhanbatu Utara (BK xxxx J**)",
+                "Deli Serdang (BK xxxx M**)",
+                "Kota Tebing Tinggi (BK xxxx N**)",
+                "Batubara (BK xxxx O**)",
+                "Langkat (BK xxxx P**)",
+                "Kota Tanjung Balai (BK xxxx Q**)",
+                "Kota Binjai (BK xxxx R**)",
+                "Karo (BK xxxx S**)",
+                "Simalungun (BK xxxx T**/U*)",
+                "Asahan (BK xxxx V**)",
+                "Kota Pematang Siantar (BK xxxx W**)",
+                "Serdang Bedagai (BK xxxx X**)",
+                "Labuhanbatu (BK xxxx Y**)",
+                "Labuhanbatu Selatan (BK xxxx Z**)"
+            ]
+        },
+        {
+            "huruf": "BA",
+            "wilayah": "Sumatera Barat ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Padang (BA xxxx A**/B*/O*/Q**)",
+                "Lima Puluh Kota (BA xxxx C*/X*)",
+                "Pasaman (BA xxxx D*)",
+                "Tanah Datar (BA xxxx E**)",
+                "Padang Pariaman (BA xxxx F*)",
+                "Pesisir Selatan (BA xxxx G**/I*)",
+                "Solok (BA xxxx H*)",
+                "Kota Sawahlunto (BA xxxx J*)",
+                "Sijunjung (BA xxxx K*)",
+                "Kota Bukittinggi (BA xxxx L*)",
+                "Kota Payakumbuh (BA xxxx M*)",
+                "Kota Padang Panjang (BA xxxx N*)",
+                "Kota Solok (BA xxxx P*)",
+                "Pasaman Barat (BA xxxx S*)",
+                "Agam (BA xxxx T*/Z*)",
+                "Kepulauan Mentawai (BA xxxx U*)",
+                "Dharmasraya (BA xxxx V**)",
+                "Kota Pariaman (BA xxxx W**)",
+                "Solok Selatan (BA xxxx Y**)"
+            ]
+        },
+        {
+            "huruf": "BM",
+            "wilayah": "Riau ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Pekanbaru (BM xxxx A**/J*/N*/O*/Q*/T*/V*)",
+                "Indragiri Hulu (BM xxxx B**)",
+                "Pelalawan (BM xxxx C**/I**)",
+                "Bengkalis (BM xxxx D**/E**)",
+                "Kampar (BM xxxx F**/Z**)",
+                "Indragiri Hilir (BM xxxx G**)",
+                "Kota Dumai (BM xxxx H**/R**)",
+                "Kuantan Singingi (BM xxxx K**/XK-XZ)",
+                "Rokan Hulu (BM xxxx M**/U**)",
+                "Rokan Hilir (BM xxxx P**/W**)",
+                "Siak (BM xxxx S**/Y**)",
+                "Kepulauan Meranti (BM xxxx XA-XJ)"
+            ]
+        },
+        {
+            "huruf": "BH",
+            "wilayah": "Jambi ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Jambi (BH xxxx A*/H*/M*/N*/Y*/Z*)",
+                "Batanghari (BH xxxx B*/V*)",
+                "Tebo (BH xxxx C*/W*)",
+                "Kerinci (BH xxxx D*)",
+                "Tanjung Jabung Barat (BH xxxx E*/O*)",
+                "Merangin (BH xxxx F*/P*/X*)",
+                "Muaro Jambi (BH xxxx G*/I*)",
+                "Tanjung Jabung Timur (BH xxxx J*/T*)",
+                "Bungo (BH xxxx K*/U*)",
+                "Sarolangun (BH xxxx Q*/S*)",
+                "Kota Sungai Penuh (BH xxxx R*)"
+            ]
+        },
+        {
+            "huruf": "BG",
+            "wilayah": "Sumatera Selatan ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Palembang (BG xxxx A**/I*/M*/N*/O*/U*/X*/Z*)",
+                "Musi Banyuasin (BG xxxx B**)",
+                "Kota Prabumulih (BG xxxx C*)",
+                "Muara Enim (BG xxxx D**)",
+                "Lahat (BG xxxx E**)",
+                "Ogan Komering Ulu (BG xxxx F**)",
+                "Musi Rawas (BG xxxx G**)",
+                "Kota Lubuk Linggau (BG xxxx H**)",
+                "Banyuasin (BG xxxx J**/R*)",
+                "Ogan Komering Ilir (BG xxxx K**)",
+                "Penukal Abab Lematang Ilir (BG xxxx P**)",
+                "Musi Rawas Utara (BG xxxx Q**)",
+                "Empat Lawang (BG xxxx S*)",
+                "Ogan Ilir (BG xxxx T**)",
+                "Ogan Komering Ulu Selatan (BG xxxx V*)",
+                "Kota Pagaralam (BG xxxx W**)",
+                "Ogan Komering Ulu Timur (BG xxxx Y**)"
+            ]
+        },
+        {
+            "huruf": "BD",
+            "wilayah": "Bengkulu ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Bengkulu (BD xxxx A*/C*/E*/I*/U*/V*)",
+                "Bengkulu Selatan (BD xxxx B*/M*)",
+                "Bengkulu Utara (BD xxxx D*/Q*/S*)",
+                "Rejang Lebong (BD xxxx F*/K*)",
+                "Kepahiang (BD xxxx G*)",
+                "Lebong (BD xxxx H*)",
+                "Muko Muko (BD xxxx N*/T*)",
+                "Seluma (BD xxxx P*/R*)",
+                "Kaur (BD xxxx W*)",
+                "Bengkulu Tengah (BD xxxx Y*)"
+            ]
+        },
+        {
+            "huruf": "BE",
+            "wilayah": "Lampung ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Bandar Lampung (BE xxxx A**/B*/C*)",
+                "Lampung Selatan (BE xxxx D**/E*/O*)",
+                "Kota Metro (BE xxxx F**)",
+                "Lampung Tengah (BE xxxx G**/H*/I*)",
+                "Lampung Utara (BE xxxx J**/K*)",
+                "Mesuji (BE xxxx L**)",
+                "Lampung Barat (BE xxxx M**)",
+                "Lampung Timur (BE xxxx N**/P*)",
+                "Tulang Bawang Barat (BE xxxx Q**)",
+                "Pesawaran (BE xxxx R**)",
+                "Tulang Bawang (BE xxxx S**/T*)",
+                "Pringsewu (BE xxxx U**)",
+                "Tanggamus (BE xxxx V**/Z*)",
+                "Way Kanan (BE xxxx W**)",
+                "Pesisir Barat (BE xxxx X**)"
+            ]
+        },
+        {
+            "huruf": "BN",
+            "wilayah": "Kepulauan Bangka Belitung ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Pangkal Pinang (BN xxxx A*/P*)",
+                "Bangka (BN xxxx B*/Q*)",
+                "Bangka Tengah (BN xxxx C*/T*)",
+                "Bangka Barat (BN xxxx D*/R*)",
+                "Bangka Selatan (BN xxxx E*/V*)",
+                "Belitung (BN xxxx F*/W*)",
+                "Belitung Timur (BN xxxx G*/X*)"
+            ]
+        },
+        {
+            "huruf": "BP",
+            "wilayah": "Kepulauan Riau ",
+            "region": "Sumatra",
+            "daerah": [
+                "Kota Tanjung Pinang (BP xxxx A*/P*/*P/T*/*T/W*/*W)",
+                "Bintan (BP xxxx B*/*B)",
+                "Kota Batam (BP xxxx C*/D*/E*/F*/G*/H*/I*/J*/M*/O*/Q*/R*/U*/V*/X*/*Z)",
+                "Karimun (BP xxxx K*/*K)",
+                "Lingga (BP xxxx L*)",
+                "Natuna (BP xxxx N*)",
+                "Kepulauan Anambas (BP xxxx S*)"
+            ]
+        },
+        {
+            "huruf": "B",
+            "wilayah": "DKI Jakarta Jakarta Barat ",
+            "region": "Jawa",
+            "daerah": [
+                "DKI Jakarta Jakarta Barat : (B xxxx B**) Jakarta Pusat : (B xxxx P**) Jakarta Selatan : (B xxxx S**) Jakarta Timur : (B xxxx T**) Jakarta Utara : (B xxxx U**) [ f ]",
+                "Jakarta Barat : (B xxxx B**)",
+                "Jakarta Pusat : (B xxxx P**)",
+                "Jakarta Selatan : (B xxxx S**)",
+                "Jakarta Timur : (B xxxx T**)",
+                "Jakarta Utara : (B xxxx U**) [ f ]",
+                "Jawa Barat (wilayah Polda Metro Jaya ) Kabupaten Bekasi : (B xxxx F**/Y**) Kota Bekasi : (B xxxx K**) Kota Depok Wilayah pelayanan Samsat Kota Depok: (B xxxx E**) [ g ] Wilayah pelayanan Samsat Cinere: (B xxxx Z**) [ h ]",
+                "Kabupaten Bekasi : (B xxxx F**/Y**)",
+                "Kota Bekasi : (B xxxx K**)",
+                "Kota Depok Wilayah pelayanan Samsat Kota Depok: (B xxxx E**) [ g ] Wilayah pelayanan Samsat Cinere: (B xxxx Z**) [ h ]",
+                "Wilayah pelayanan Samsat Kota Depok: (B xxxx E**) [ g ]",
+                "Wilayah pelayanan Samsat Cinere: (B xxxx Z**) [ h ]",
+                "Banten (wilayah Polda Metro Jaya) Kabupaten Tangerang dibawah wilayah pelayanan Samsat Kelapa Dua: (B xxxx J**) [ i ] Kota Tangerang Wilayah pelayanan Samsat Cikokol: (B xxxx C**) [ j ] Wilayah pelayanan Samsat Ciledug: (B xxxx V**) [ k ] Kota Tangerang Selatan Wilayah pelayanan Samsat Serpong: (B xxxx N**) [ l ] Wilayah pelayanan Samsat Ciputat: (B xxxx W**) [ m ]",
+                "Kabupaten Tangerang dibawah wilayah pelayanan Samsat Kelapa Dua: (B xxxx J**) [ i ]",
+                "Kota Tangerang Wilayah pelayanan Samsat Cikokol: (B xxxx C**) [ j ] Wilayah pelayanan Samsat Ciledug: (B xxxx V**) [ k ]",
+                "Wilayah pelayanan Samsat Cikokol: (B xxxx C**) [ j ]",
+                "Wilayah pelayanan Samsat Ciledug: (B xxxx V**) [ k ]",
+                "Kota Tangerang Selatan Wilayah pelayanan Samsat Serpong: (B xxxx N**) [ l ] Wilayah pelayanan Samsat Ciputat: (B xxxx W**) [ m ]",
+                "Wilayah pelayanan Samsat Serpong: (B xxxx N**) [ l ]",
+                "Wilayah pelayanan Samsat Ciputat: (B xxxx W**) [ m ]"
+            ]
+        },
+        {
+            "huruf": "D",
+            "wilayah": "Jawa Barat ( Bandung Raya tidak termasuk Kabupaten Sumedang ) Kota Bandung ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Barat ( Bandung Raya tidak termasuk Kabupaten Sumedang ) Kota Bandung : (D xxxx A**/B*/C*/D*/E*/F*/G*/H*/I*/J*/K*/L*/M**/N**/O*/P*/Q*/R*) Kota Cimahi : (D xxxx S**/T*) Bandung Barat : (D xxxx U**/X**) Kabupaten Bandung : (D xxxx V**/W*/Y**/Z**)",
+                "Kota Bandung : (D xxxx A**/B*/C*/D*/E*/F*/G*/H*/I*/J*/K*/L*/M**/N**/O*/P*/Q*/R*)",
+                "Kota Cimahi : (D xxxx S**/T*)",
+                "Bandung Barat : (D xxxx U**/X**)",
+                "Kabupaten Bandung : (D xxxx V**/W*/Y**/Z**)"
+            ]
+        },
+        {
+            "huruf": "E",
+            "wilayah": "Jawa Barat (eks keresidenan Cirebon ) Kota Cirebon ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Barat (eks keresidenan Cirebon ) Kota Cirebon : (E xxxx A*/B**/C*/D*/E*/F*/G*) Kabupaten Cirebon : (E xxxx H**/I*/J*/K*/L*/M**/N*/O*) Indramayu : (E xxxx P**/Q**/R*/S*/T*) Majalengka : (E xxxx U**/V*/W*/X*) Kuningan : (E xxxx Y**/Z**)",
+                "Kota Cirebon : (E xxxx A*/B**/C*/D*/E*/F*/G*)",
+                "Kabupaten Cirebon : (E xxxx H**/I*/J*/K*/L*/M**/N*/O*)",
+                "Indramayu : (E xxxx P**/Q**/R*/S*/T*)",
+                "Majalengka : (E xxxx U**/V*/W*/X*)",
+                "Kuningan : (E xxxx Y**/Z**)"
+            ]
+        },
+        {
+            "huruf": "F",
+            "wilayah": "Jawa Barat (eks keresidenan Bogor dan Priangan Barat tidak termasuk Kota Depok) Kota Bogor ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Barat (eks keresidenan Bogor dan Priangan Barat tidak termasuk Kota Depok) Kota Bogor : (F xxxx A**/B*/C*/D*/E*) Kabupaten Bogor : (F xxxx F**/G*/H*/I*/J*/K*/L*/M*/N*/P*/R*) [ n ] Kota Sukabumi : (F xxxx O*/S*/T**) Kabupaten Sukabumi : (F xxxx Q**/U*/V*) Cianjur : (F xxxx W**/X*/Y*/Z*)",
+                "Kota Bogor : (F xxxx A**/B*/C*/D*/E*)",
+                "Kabupaten Bogor : (F xxxx F**/G*/H*/I*/J*/K*/L*/M*/N*/P*/R*) [ n ]",
+                "Kota Sukabumi : (F xxxx O*/S*/T**)",
+                "Kabupaten Sukabumi : (F xxxx Q**/U*/V*)",
+                "Cianjur : (F xxxx W**/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "T",
+            "wilayah": "Jawa Barat (eks keresidenan Karawang ) Purwakarta ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Barat (eks keresidenan Karawang ) Purwakarta : (T xxxx A*/B*/C*/I*/J*) Karawang : (T xxxx D*/E*/F*/G*/H*/K*/L*/M*/N*/O*/P*/Q*/R*/S*) Subang : (T xxxx T*/U*/V*/W*/X*/Y*/Z*)",
+                "Purwakarta : (T xxxx A*/B*/C*/I*/J*)",
+                "Karawang : (T xxxx D*/E*/F*/G*/H*/K*/L*/M*/N*/O*/P*/Q*/R*/S*)",
+                "Subang : (T xxxx T*/U*/V*/W*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "Z",
+            "wilayah": "Jawa Barat (eks keresidenan Priangan Timur dan Kabupaten Sumedang) Sumedang ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Barat (eks keresidenan Priangan Timur dan Kabupaten Sumedang) Sumedang : (Z xxxx A**/B*/C*) Garut : (Z xxxx D**/E*/F*/G**) Kota Tasikmalaya : (Z xxxx H**/I*/J*/K*/L*/M*) Kabupaten Tasikmalaya : (Z xxxx N*/O*/P*/Q*/R*/S*) Ciamis : (Z xxxx T**/V*/W*) Pangandaran : (Z xxxx U*) Kota Banjar : (Z xxxx X*/Y*/Z*)",
+                "Sumedang : (Z xxxx A**/B*/C*)",
+                "Garut : (Z xxxx D**/E*/F*/G**)",
+                "Kota Tasikmalaya : (Z xxxx H**/I*/J*/K*/L*/M*)",
+                "Kabupaten Tasikmalaya : (Z xxxx N*/O*/P*/Q*/R*/S*)",
+                "Ciamis : (Z xxxx T**/V*/W*)",
+                "Pangandaran : (Z xxxx U*)",
+                "Kota Banjar : (Z xxxx X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "G",
+            "wilayah": "Jawa Tengah (eks keresidenan Pekalongan ) Kota Pekalongan ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Tengah (eks keresidenan Pekalongan ) Kota Pekalongan : (G xxxx *A/*H/*S) Kabupaten Pekalongan : (G xxxx **B/*K/*O/*T) Batang : (G xxxx **C/*L/*V) Pemalang : (G xxxx **D/*I/*M/*W) Kota Tegal : (G xxxx **E/*N/*Y) Kabupaten Tegal : (G xxxx **F/*P/*Q/*Z) Brebes : (G xxxx **G/*J/*R/*U)",
+                "Kota Pekalongan : (G xxxx *A/*H/*S)",
+                "Kabupaten Pekalongan : (G xxxx **B/*K/*O/*T)",
+                "Batang : (G xxxx **C/*L/*V)",
+                "Pemalang : (G xxxx **D/*I/*M/*W)",
+                "Kota Tegal : (G xxxx **E/*N/*Y)",
+                "Kabupaten Tegal : (G xxxx **F/*P/*Q/*Z)",
+                "Brebes : (G xxxx **G/*J/*R/*U)"
+            ]
+        },
+        {
+            "huruf": "H",
+            "wilayah": "Jawa Tengah (eks keresidenan Semarang tidak termasuk Kabupaten Grobogan ) Kota Semarang ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Tengah (eks keresidenan Semarang tidak termasuk Kabupaten Grobogan ) Kota Semarang : (H xxxx **A/*F/**G/*H/*P/*Q/*R/*S/**W/*Y/*Z) Kota Salatiga : (H xxxx **B/*K/*O/*T) Kabupaten Semarang : (H xxxx **C/*I/*L/*V) Kendal : (H xxxx **D/*M/*U) Demak : (H xxxx **E/*J/*N)",
+                "Kota Semarang : (H xxxx **A/*F/**G/*H/*P/*Q/*R/*S/**W/*Y/*Z)",
+                "Kota Salatiga : (H xxxx **B/*K/*O/*T)",
+                "Kabupaten Semarang : (H xxxx **C/*I/*L/*V)",
+                "Kendal : (H xxxx **D/*M/*U)",
+                "Demak : (H xxxx **E/*J/*N)"
+            ]
+        },
+        {
+            "huruf": "K",
+            "wilayah": "Jawa Tengah (eks keresidenan Pati dan Kabupaten Grobogan) Pati ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Tengah (eks keresidenan Pati dan Kabupaten Grobogan) Pati : (K xxxx **A/*G/*H/*S/*U) Kudus : (K xxxx **B/*K/*O/*R/*T) Jepara : (K xxxx **C/*L/*Q/*V) Rembang : (K xxxx **D/*I/*M/*W) Blora : (K xxxx **E/*N/*Y) Grobogan : (K xxxx **F/*J/*P/*Z)",
+                "Pati : (K xxxx **A/*G/*H/*S/*U)",
+                "Kudus : (K xxxx **B/*K/*O/*R/*T)",
+                "Jepara : (K xxxx **C/*L/*Q/*V)",
+                "Rembang : (K xxxx **D/*I/*M/*W)",
+                "Blora : (K xxxx **E/*N/*Y)",
+                "Grobogan : (K xxxx **F/*J/*P/*Z)"
+            ]
+        },
+        {
+            "huruf": "R",
+            "wilayah": "Jawa Tengah (eks keresidenan Banyumas ) Banyumas ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Tengah (eks keresidenan Banyumas ) Banyumas : (R xxxx *A/*E/*G/*H/*J/*R/*S) Cilacap : (R xxxx **B/*F/*K/*N/*P/*T) Purbalingga : (R xxxx **C/*L/*Q/*U/*V/*Z) Banjarnegara : (R xxxx **D/*I/*M/*O/*W/*Y)",
+                "Banyumas : (R xxxx *A/*E/*G/*H/*J/*R/*S)",
+                "Cilacap : (R xxxx **B/*F/*K/*N/*P/*T)",
+                "Purbalingga : (R xxxx **C/*L/*Q/*U/*V/*Z)",
+                "Banjarnegara : (R xxxx **D/*I/*M/*O/*W/*Y)"
+            ]
+        },
+        {
+            "huruf": "AA",
+            "wilayah": "Jawa Tengah (eks keresidenan Kedu ) Kota Magelang ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Tengah (eks keresidenan Kedu ) Kota Magelang : (AA xxxx *A/*H/*S/*U) Kabupaten Magelang : (AA xxxx **B/*G/*K/*O/*T) Purworejo : (AA xxxx **C/*L/*Q/*V) Kebumen : (AA xxxx **D/*J/**M/*W) Temanggung : (AA xxxx **E/*N/*Y) Wonosobo : (AA xxxx **F/*P/*Z)",
+                "Kota Magelang : (AA xxxx *A/*H/*S/*U)",
+                "Kabupaten Magelang : (AA xxxx **B/*G/*K/*O/*T)",
+                "Purworejo : (AA xxxx **C/*L/*Q/*V)",
+                "Kebumen : (AA xxxx **D/*J/**M/*W)",
+                "Temanggung : (AA xxxx **E/*N/*Y)",
+                "Wonosobo : (AA xxxx **F/*P/*Z)"
+            ]
+        },
+        {
+            "huruf": "AD",
+            "wilayah": "Jawa Tengah (eks keresidenan Surakarta ) Kota Surakarta ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Tengah (eks keresidenan Surakarta ) Kota Surakarta : (AD xxxx **A/*H/*S/*U) Sukoharjo : (AD xxxx **B/*K/*O/*T) Klaten : (AD xxxx **C/*J/*L/*Q/*V) Boyolali : (AD xxxx **D/*M/*W) Sragen : (AD xxxx **E/*N/*Y) Karanganyar : (AD xxxx **F/*P/*Z) Wonogiri : (AD xxxx **G/*I/*R)",
+                "Kota Surakarta : (AD xxxx **A/*H/*S/*U)",
+                "Sukoharjo : (AD xxxx **B/*K/*O/*T)",
+                "Klaten : (AD xxxx **C/*J/*L/*Q/*V)",
+                "Boyolali : (AD xxxx **D/*M/*W)",
+                "Sragen : (AD xxxx **E/*N/*Y)",
+                "Karanganyar : (AD xxxx **F/*P/*Z)",
+                "Wonogiri : (AD xxxx **G/*I/*R)"
+            ]
+        },
+        {
+            "huruf": "AB",
+            "wilayah": "Daerah Istimewa Yogyakarta Kota Yogyakarta ",
+            "region": "Jawa",
+            "daerah": [
+                "Daerah Istimewa Yogyakarta Kota Yogyakarta : (AB xxxx A*/F*/H*/I*/S*) Bantul : (AB xxxx B**/G*/J*/K*/T*) Kulon Progo : (AB xxxx C*/L*/O*/P*/V*) Gunungkidul : (AB xxxx D*/M*/R*/W*) Sleman : (AB xxxx E**/N*/Q*/U*/X*/Y*/Z*)",
+                "Kota Yogyakarta : (AB xxxx A*/F*/H*/I*/S*)",
+                "Bantul : (AB xxxx B**/G*/J*/K*/T*)",
+                "Kulon Progo : (AB xxxx C*/L*/O*/P*/V*)",
+                "Gunungkidul : (AB xxxx D*/M*/R*/W*)",
+                "Sleman : (AB xxxx E**/N*/Q*/U*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "L",
+            "wilayah": "Jawa Timur Kota Surabaya ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur Kota Surabaya : (L xxxx A**/B**/C**/D**/E*/F*/G*/H*/I*/J*/K*/L*/M*/N*/O*/P**/Q*/R*/S*/T*/U**/V*/W*/X*/Y*/Z*)",
+                "Kota Surabaya : (L xxxx A**/B**/C**/D**/E*/F*/G*/H*/I*/J*/K*/L*/M*/N*/O*/P**/Q*/R*/S*/T*/U**/V*/W*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "M",
+            "wilayah": "Jawa Timur (eks keresidenan Madura ) Pamekasan ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks keresidenan Madura ) Pamekasan : (M xxxx A*/B*/C*/D*/E*/F*) Bangkalan : (M xxxx G*/H*/I*/J*/K*/L*/M*) Sampang : (M xxxx N*/O*/P*/Q*/R*/S*) Sumenep : (M xxxx T*/U*/V*/W*/X*/Y*/Z*)",
+                "Pamekasan : (M xxxx A*/B*/C*/D*/E*/F*)",
+                "Bangkalan : (M xxxx G*/H*/I*/J*/K*/L*/M*)",
+                "Sampang : (M xxxx N*/O*/P*/Q*/R*/S*)",
+                "Sumenep : (M xxxx T*/U*/V*/W*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "N",
+            "wilayah": "Jawa Timur (eks keresidenan Pasuruan - Malang ) Kota Malang ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks keresidenan Pasuruan - Malang ) Kota Malang : (N xxxx A**/B**/C**/D**) Kabupaten Malang : (N xxxx E**/F*/G**/H**/I*) Kota Batu : (N xxxx J*/K*/L*) Kabupaten Probolinggo : (N xxxx M*/N**/O*) Kota Probolinggo : (N xxxx P**/Q*/R*) Kabupaten Pasuruan : (N xxxx T**) Lumajang : (N xxxx U*/Y**/Z*) Kota Pasuruan : (N xxxx V**/W*/X*)",
+                "Kota Malang : (N xxxx A**/B**/C**/D**)",
+                "Kabupaten Malang : (N xxxx E**/F*/G**/H**/I*)",
+                "Kota Batu : (N xxxx J*/K*/L*)",
+                "Kabupaten Probolinggo : (N xxxx M*/N**/O*)",
+                "Kota Probolinggo : (N xxxx P**/Q*/R*)",
+                "Kabupaten Pasuruan : (N xxxx T**)",
+                "Lumajang : (N xxxx U*/Y**/Z*)",
+                "Kota Pasuruan : (N xxxx V**/W*/X*)"
+            ]
+        },
+        {
+            "huruf": "P",
+            "wilayah": "Jawa Timur (eks keresidenan Besuki ) Bondowoso ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks keresidenan Besuki ) Bondowoso : (P xxxx A*/B*/C*) Situbondo : (P xxxx D*/E*/F*) Jember : (P xxxx G*/H*/I*/J*/K*/L*/M*/N*/O*/P*) Banyuwangi : (P xxxx Q**/R*/S*/T*/U*/V*/W*/X*/Y*/Z*)",
+                "Bondowoso : (P xxxx A*/B*/C*)",
+                "Situbondo : (P xxxx D*/E*/F*)",
+                "Jember : (P xxxx G*/H*/I*/J*/K*/L*/M*/N*/O*/P*)",
+                "Banyuwangi : (P xxxx Q**/R*/S*/T*/U*/V*/W*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "S",
+            "wilayah": "Jawa Timur (eks keresidenan Bojonegoro , Kabupaten – Kota Mojokerto , Lamongan , dan Jombang ) Bojonegoro ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks keresidenan Bojonegoro , Kabupaten – Kota Mojokerto , Lamongan , dan Jombang ) Bojonegoro : (S xxxx A**/B*/C*/D*) Tuban : (S xxxx E**/F*/G*/H*/I*) Lamongan : (S xxxx J**/K*/L*/M*) Kabupaten Mojokerto : (S xxxx N**/P*/Q*/R*) Jombang : (S xxxx O**/W**/X*/Y*/Z*) Kota Mojokerto : (S xxxx S*/T*/U*/V*)",
+                "Bojonegoro : (S xxxx A**/B*/C*/D*)",
+                "Tuban : (S xxxx E**/F*/G*/H*/I*)",
+                "Lamongan : (S xxxx J**/K*/L*/M*)",
+                "Kabupaten Mojokerto : (S xxxx N**/P*/Q*/R*)",
+                "Jombang : (S xxxx O**/W**/X*/Y*/Z*)",
+                "Kota Mojokerto : (S xxxx S*/T*/U*/V*)"
+            ]
+        },
+        {
+            "huruf": "W",
+            "wilayah": "Jawa Timur (eks keresidenan Surabaya ) Gresik ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks keresidenan Surabaya ) Gresik : (W xxxx A*/B*/C*/D*/E*/F*/G*/H*/I*/J*/K*/L*/M*) Sidoarjo : (W xxxx N**/O*/P*/Q*/R*/S*/T*/U*/V*/W*/X*/Y*/Z*)",
+                "Gresik : (W xxxx A*/B*/C*/D*/E*/F*/G*/H*/I*/J*/K*/L*/M*)",
+                "Sidoarjo : (W xxxx N**/O*/P*/Q*/R*/S*/T*/U*/V*/W*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "AE",
+            "wilayah": "Jawa Timur (eks keresidenan Madiun ) Kota Madiun ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks keresidenan Madiun ) Kota Madiun : (AE xxxx A*/B*/C*/D*) Kabupaten Madiun : (AE xxxx E*/F*/G*/H*/I*) Ngawi : (AE xxxx J**/K*/L*/M*) Magetan : (AE xxxx N*/O*/P*/Q*/R*) Ponorogo : (AE xxxx S**/T*/U*/V*/W*) Pacitan : (AE xxxx X*/Y*/Z*)",
+                "Kota Madiun : (AE xxxx A*/B*/C*/D*)",
+                "Kabupaten Madiun : (AE xxxx E*/F*/G*/H*/I*)",
+                "Ngawi : (AE xxxx J**/K*/L*/M*)",
+                "Magetan : (AE xxxx N*/O*/P*/Q*/R*)",
+                "Ponorogo : (AE xxxx S**/T*/U*/V*/W*)",
+                "Pacitan : (AE xxxx X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "AG",
+            "wilayah": "Jawa Timur (eks Keresidenan Kediri ) Kota Kediri ",
+            "region": "Jawa",
+            "daerah": [
+                "Jawa Timur (eks Keresidenan Kediri ) Kota Kediri : (AG xxxx A**/B*/C*/D*) Kabupaten Kediri : (AG xxxx E**/F*/G*/H*/J*/O*) Kabupaten Blitar : (AG xxxx I*/K**/L*/M*/O**/P**) Kota Blitar : (AG xxxx K**/N*/Q*) Tulungagung : (AG xxxx R**/S*/T*) Nganjuk : (AG xxxx U*/V**/W*/X*) Trenggalek : (AG xxxx Y**/Z*)",
+                "Kota Kediri : (AG xxxx A**/B*/C*/D*)",
+                "Kabupaten Kediri : (AG xxxx E**/F*/G*/H*/J*/O*)",
+                "Kabupaten Blitar : (AG xxxx I*/K**/L*/M*/O**/P**)",
+                "Kota Blitar : (AG xxxx K**/N*/Q*)",
+                "Tulungagung : (AG xxxx R**/S*/T*)",
+                "Nganjuk : (AG xxxx U*/V**/W*/X*)",
+                "Trenggalek : (AG xxxx Y**/Z*)"
+            ]
+        },
+        {
+            "huruf": "A",
+            "wilayah": "Banten Kota Serang ",
+            "region": "Jawa",
+            "daerah": [
+                "Banten Kota Serang : (A xxxx A*/B*/C*/D*) Serang : (A xxxx E*/F*/G*/H*/I*) Pandeglang : (A xxxx J*/K*/L*/M*) Lebak : (A xxxx N*/O*/P*/Q*) Kota Cilegon : (A xxxx R*/S*/T*/U*) Tangerang dibawah wilayah pelayanan Samsat Balaraja: (A xxxx V**/W**/X**/Y*/Z*) [ o ]",
+                "Kota Serang : (A xxxx A*/B*/C*/D*)",
+                "Serang : (A xxxx E*/F*/G*/H*/I*)",
+                "Pandeglang : (A xxxx J*/K*/L*/M*)",
+                "Lebak : (A xxxx N*/O*/P*/Q*)",
+                "Kota Cilegon : (A xxxx R*/S*/T*/U*)",
+                "Tangerang dibawah wilayah pelayanan Samsat Balaraja: (A xxxx V**/W**/X**/Y*/Z*) [ o ]"
+            ]
+        },
+        {
+            "huruf": "DK",
+            "wilayah": "Bali ",
+            "region": "Kepulauan Nusa Tenggara",
+            "daerah": [
+                "Kota Denpasar (DK xxxx A**/B**/C*/D*/E*/I*/X*)",
+                "Badung (DK xxxx F**/J*/O*/Q*)",
+                "Tabanan (DK xxxx G**/H*)",
+                "Gianyar (DK xxxx K**/L*)",
+                "Klungkung (DK xxxx M**/N*)",
+                "Bangli (DK xxxx P*/R*)",
+                "Karangasem (DK xxxx S*/T*)",
+                "Buleleng (DK xxxx U**/V*)",
+                "Jembrana (DK xxxx W*/Z*)"
+            ]
+        },
+        {
+            "huruf": "DR",
+            "wilayah": "NTB ( Pulau Lombok )",
+            "region": "Kepulauan Nusa Tenggara",
+            "daerah": [
+                "Kota Mataram (DR xxxx A*/B*/C*/D*/E*/F*/N*/O*/P*/R*/X*)",
+                "Lombok Utara (DR xxxx D*/G*/M*)",
+                "Lombok Barat (DR xxxx H*/J*/K*/T*/W*)",
+                "Lombok Timur (DR xxxx L*/Q*/Y*)",
+                "Lombok Tengah (DR xxxx S*/U*/V*/Z*)"
+            ]
+        },
+        {
+            "huruf": "EA",
+            "wilayah": "NTB ( Pulau Sumbawa )",
+            "region": "Kepulauan Nusa Tenggara",
+            "daerah": [
+                "Sumbawa (EA xxxx A*/C*/D*/E*/F*/P*)",
+                "Sumbawa Barat (EA xxxx H*/K*)",
+                "Kota Bima (EA xxxx L*/S*)",
+                "Dompu (EA xxxx M*/N*/Q*/R*/T*)",
+                "Bima (EA xxxx W*/X*/Y*/Z*)"
+            ]
+        },
+        {
+            "huruf": "DH",
+            "wilayah": "NTT ( Pulau Timor )",
+            "region": "Kepulauan Nusa Tenggara",
+            "daerah": [
+                "Kota Kupang (DH xxxx A*/H*/K*)",
+                "Kupang (DH xxxx B*/N*)",
+                "Timor Tengah Selatan (DH xxxx C*)",
+                "Timor Tengah Utara (DH xxxx D*/M*)",
+                "Belu (DH xxxx E*/T*)",
+                "Sabu Raijua (DH xxxx F*)",
+                "Rote Ndao (DH xxxx G*)",
+                "Malaka (DH xxxx J*)"
+            ]
+        },
+        {
+            "huruf": "EB",
+            "wilayah": "NTT ( Pulau Flores dan kepulauan)",
+            "region": "Kepulauan Nusa Tenggara",
+            "daerah": [
+                "Ende (EB xxxx A*)",
+                "Sikka (EB xxxx B*)",
+                "Flores Timur (EB xxxx C*)",
+                "Ngada (EB xxxx D*)",
+                "Manggarai (EB xxxx E*)",
+                "Lembata (EB xxxx F*)",
+                "Manggarai Barat (EB xxxx G*)",
+                "Nagekeo (EB xxxx H*)",
+                "Alor (EB xxxx J*/K*)",
+                "Manggarai Timur (EB xxxx P*)"
+            ]
+        },
+        {
+            "huruf": "ED",
+            "wilayah": "NTT ( Pulau Sumba )",
+            "region": "Kepulauan Nusa Tenggara",
+            "daerah": [
+                "Sumba Timur (ED xxxx A*)",
+                "Sumba Barat (ED xxxx B*)",
+                "Sumba Barat Daya (ED xxxx C*)",
+                "Sumba Tengah (ED xxxx D*)"
+            ]
+        },
+        {
+            "huruf": "KB",
+            "wilayah": "Kalimantan Barat ",
+            "region": "Kalimantan",
+            "daerah": [
+                "Kota Pontianak (KB xxxx A*/H*/O*/Q*/S**/W*)",
+                "Mempawah (KB xxxx B*)",
+                "Kota Singkawang (KB xxxx C*/Y*)",
+                "Sanggau (KB xxxx D*/U*)",
+                "Sintang (KB xxxx E*)",
+                "Kapuas Hulu (KB xxxx F*)",
+                "Ketapang (KB xxxx G*)",
+                "Melawi (KB xxxx J*)",
+                "Bengkayang (KB xxxx K*)",
+                "Landak (KB xxxx L*)",
+                "Kubu Raya (KB xxxx M**/N*)",
+                "Sambas (KB xxxx P**/T*)",
+                "Sekadau (KB xxxx V*)",
+                "Kayong Utara (KB xxxx Z*)"
+            ]
+        },
+        {
+            "huruf": "KH",
+            "wilayah": "Kalimantan Tengah ",
+            "region": "Kalimantan",
+            "daerah": [
+                "Kota Palangkaraya (KH xxxx A*/Q*/T*/Y*)",
+                "Kapuas (KH xxxx B*/C*/U*)",
+                "Barito Selatan (KH xxxx D*)",
+                "Barito Utara (KH xxxx E*)",
+                "Kotawaringin Timur (KH xxxx F*/L*/W*)",
+                "Kotawaringin Barat (KH xxxx G*/V*)",
+                "Gunung Mas (KH xxxx H*)",
+                "Pulang Pisau (KH xxxx J*)",
+                "Barito Timur (KH xxxx K*)",
+                "Murung Raya (KH xxxx M*)",
+                "Katingan (KH xxxx N*)",
+                "Seruyan (KH xxxx P*)",
+                "Lamandau (KH xxxx R*)",
+                "Sukamara (KH xxxx S*)"
+            ]
+        },
+        {
+            "huruf": "DA",
+            "wilayah": "Kalimantan Selatan ",
+            "region": "Kalimantan",
+            "daerah": [
+                "Kota Banjarmasin (DA xxxx A**/C**/I**/J**/N**/S**/T**/V**/X*)",
+                "Banjar (DA xxxx B**/O**/Q**)",
+                "Hulu Sungai Selatan (DA xxxx D**)",
+                "Hulu Sungai Tengah (DA xxxx E**)",
+                "Hulu Sungai Utara (DA xxxx F**)",
+                "Kota Baru (DA xxxx G**)",
+                "Tabalong (DA xxxx H**/U**)",
+                "Tapin (DA xxxx K**)",
+                "Tanah Laut (DA xxxx L**)",
+                "Barito Kuala (DA xxxx M**)",
+                "Kota Banjarbaru (DA xxxx P**/R**/W**)",
+                "Balangan (DA xxxx Y**)",
+                "Tanah Bumbu (DA xxxx Z**)"
+            ]
+        },
+        {
+            "huruf": "KT",
+            "wilayah": "Kalimantan Timur ",
+            "region": "Kalimantan",
+            "daerah": [
+                "Kota Balikpapan (KT xxxx A**/H*/K*/L*/Y*/Z*)",
+                "Kota Samarinda (KT xxxx B**/F*/I*/M*/N*/S*/W*)",
+                "Kutai Kartanegara (KT xxxx C**/J*/O*/S*/U*)",
+                "Kota Bontang (KT xxxx D**/Q*)",
+                "Paser (KT xxxx E**/J*/S*)",
+                "Berau (KT xxxx G**)",
+                "Kutai Timur (KT xxxx J*/R**/S*)",
+                "Kutai Barat (KT xxxx P**)",
+                "Mahakam Ulu (KT xxxx T*)",
+                "Penajam Paser Utara (KT xxxx V*)"
+            ]
+        },
+        {
+            "huruf": "KU",
+            "wilayah": "Kalimantan Utara ",
+            "region": "Kalimantan",
+            "daerah": [
+                "Bulungan (KU xxxx A*/B*)",
+                "Kota Tarakan (KU xxxx G*/J*)",
+                "Tana Tidung (KU xxxx H*)",
+                "Nunukan (KU xxxx N*/P*)",
+                "Malinau (KU xxxx S*)"
+            ]
+        },
+        {
+            "huruf": "DB",
+            "wilayah": "Sulawesi Utara (Daratan)",
+            "region": "Sulawesi",
+            "daerah": [
+                "Kota Manado (DB xxxx A*/L*/M*/R*/T*/V*)",
+                "Minahasa (DB xxxx  B*/Q*)",
+                "Kota Bitung (DB xxxx C*/O*)",
+                "Bolaang Mongondow (DB xxxx D*)",
+                "Minahasa Selatan (DB xxxx E*)",
+                "Minahasa Utara (DB xxxx F*/W*)",
+                "Kota Tomohon (DB xxxx G*)",
+                "Bolaang Mongondow Utara (DB xxxx H*)",
+                "Minahasa Tenggara (DB xxxx J*)",
+                "Kota Kotamobagu (DB xxxx K*)",
+                "Bolaang Mongondow Timur (DB xxxx N*)",
+                "Bolaang Mongondow Selatan (DB xxxx P*)"
+            ]
+        },
+        {
+            "huruf": "DL",
+            "wilayah": "Sulawesi Utara (Kepulauan)",
+            "region": "Sulawesi",
+            "daerah": [
+                "Kepulauan Sangihe (DL xxxx A*)",
+                "Kepulauan Talaud (DL xxxx B*)",
+                "Kepulauan Sitaro (Siau Tagulandang Biaro) (DL xxxx C*)"
+            ]
+        },
+        {
+            "huruf": "DN",
+            "wilayah": "Sulawesi Tengah ",
+            "region": "Sulawesi",
+            "daerah": [
+                "Kota Palu (DN xxxx A*/I*/N*/V*/Y*)",
+                "Donggala (DN xxxx B*/J*)",
+                "Banggai (DN xxxx C*/R*)",
+                "Toli-Toli (DN xxxx D*)",
+                "Poso (DN xxxx E*)",
+                "Buol (DN xxxx F*)",
+                "Morowali (DN xxxx G*)",
+                "Banggai Kepulauan (DN xxxx H*)",
+                "Parigi Moutong (DN xxxx K*/P*)",
+                "Tojo Una-Una (DN xxxx L*)",
+                "Sigi (DN xxxx M*)",
+                "Banggai Laut (DN xxxx Q*)",
+                "Morowali Utara (DN xxxx U*)"
+            ]
+        },
+        {
+            "huruf": "DD",
+            "wilayah": "Sulawesi Selatan (bagian selatan)",
+            "region": "Sulawesi",
+            "daerah": [
+                "Kota Makassar (DD xxxx A**/I*/K**/M*/O*/Q*/R**/S**/U*/V*/X**)",
+                "Gowa (DD xxxx B*/L*/N**/Y**)",
+                "Takalar (DD xxxx C**/P**)",
+                "Maros (DD xxxx D**/T*)",
+                "Pangkajene dan Kepulauan (DD xxxx E**/W*)",
+                "Bantaeng (DD xxxx F**)",
+                "Jeneponto (DD xxxx G*)",
+                "Bulukumba (DD xxxx H*/Z**)",
+                "Selayar (DD xxxx J**)"
+            ]
+        },
+        {
+            "huruf": "DW",
+            "wilayah": "Sulawesi Selatan (bagian tengah)",
+            "region": "Sulawesi",
+            "daerah": [
+                "Bone (DW xxxx A*/E*/F*/G*/H*)",
+                "Wajo (DW xxxx B*/L*/M*/N*/O*/P*)",
+                "Soppeng (DW xxxx C*/Q*/Y*)",
+                "Sinjai (DW xxxx D*/V*/Z*)"
+            ]
+        },
+        {
+            "huruf": "DP",
+            "wilayah": "Sulawesi Selatan (bagian utara)",
+            "region": "Sulawesi",
+            "daerah": [
+                "Kota Parepare (DP xxxx A*/L*/M*)",
+                "Barru (DP xxxx B*/O*)",
+                "Sidenreng Rappang (DP xxxx C*/P*/Q*)",
+                "Pinrang (DP xxxx D*/R*/S*)",
+                "Kota Palopo (DP xxxx E*/T*)",
+                "Luwu (DP xxxx F*/U*)",
+                "Luwu Timur (DP xxxx G*/V*)",
+                "Luwu Utara (DP xxxx H*/W*)",
+                "Tana Toraja (DP xxxx J*/Y*)",
+                "Toraja Utara (DP xxxx K*/Z*)",
+                "Enrekang (DP xxxx N*/X*)"
+            ]
+        },
+        {
+            "huruf": "DT",
+            "wilayah": "Sulawesi Tenggara ",
+            "region": "Sulawesi",
+            "daerah": [
+                "Konawe (DT xxxx *A)",
+                "Kolaka (DT xxxx *B)",
+                "Buton (DT xxxx *C)",
+                "Muna (DT xxxx *D)",
+                "Kota Kendari (DT xxxx *E/*F/*I)",
+                "Kota Baubau (DT xxxx *G)",
+                "Konawe Selatan (DT xxxx *H)",
+                "Kolaka Utara (DT xxxx *J)",
+                "Bombana (DT xxxx *K)",
+                "Wakatobi (DT xxxx *L)",
+                "Konawe Utara (DT xxxx *M)",
+                "Buton Utara (DT xxxx *N)",
+                "Konawe Kepulauan (DT xxxx *O)",
+                "Muna Barat (DT xxxx *R)",
+                "Kolaka Timur (DT xxxx *T)",
+                "Buton Selatan (DT xxxx *W)",
+                "Buton Tengah (DT xxxx *Y)"
+            ]
+        },
+        {
+            "huruf": "DM",
+            "wilayah": "Gorontalo ",
+            "region": "Sulawesi",
+            "daerah": [
+                "Kota Gorontalo (DM xxxx A*/J*/X*)",
+                "Gorontalo (DM xxxx B*/H*)",
+                "Boalemo (DM xxxx C*)",
+                "Pohuwato (DM xxxx D*)",
+                "Bone Bolango (DM xxxx E*)",
+                "Gorontalo Utara (DM xxxx F*)"
+            ]
+        },
+        {
+            "huruf": "DC",
+            "wilayah": "Sulawesi Barat ",
+            "region": "Sulawesi",
+            "daerah": [
+                "Mamuju (DC xxxx A*/G*/L*/P*)",
+                "Majene (DC xxxx B*/Q*)",
+                "Polewali Mandar (DC xxxx C*/N*)",
+                "Mamasa (DC xxxx D*)",
+                "Pasangkayu (DC xxxx E*/X*)",
+                "Mamuju Tengah (DC xxxx F*)"
+            ]
+        },
+        {
+            "huruf": "DE",
+            "wilayah": "Maluku ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Kota Ambon (DE xxxx A*/L*/N*)",
+                "Maluku Tengah (DE xxxx B*)",
+                "Maluku Tenggara (DE xxxx C*)",
+                "Buru (DE xxxx D*)",
+                "Kepulauan Tanimbar (DE xxxx E*)",
+                "Kepulauan Aru (DE xxxx F*)",
+                "Seram Bagian Barat (DE xxxx G*/O*)",
+                "Seram Bagian Timur (DE xxxx H*)",
+                "Kota Tual (DE xxxx I*)",
+                "Maluku Barat Daya (DE xxxx J*)",
+                "Buru Selatan (DE xxxx K*)"
+            ]
+        },
+        {
+            "huruf": "DG",
+            "wilayah": "Maluku Utara ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Kota Ternate (DG xxxx A*/K*/Q*)",
+                "Kota Tidore Kepulauan (DG xxxx B*/L*)",
+                "Pulau Taliabu (DG xxxx H*)",
+                "Pulau Morotai (DG xxxx J*)",
+                "Halmahera Barat (DG xxxx M*)",
+                "Halmahera Utara (DG xxxx N*)",
+                "Halmahera Selatan (DG xxxx P*)",
+                "Kepulauan Sula (DG xxxx R*)",
+                "Halmahera Tengah (DG xxxx S*)",
+                "Halmahera Timur (DG xxxx T*)"
+            ]
+        },
+        {
+            "huruf": "PA",
+            "wilayah": "Papua ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Kota Jayapura (PA xxxx A*/F*/R*)",
+                "Biak Numfor (PA xxxx C*)",
+                "Jayapura (PA xxxx J*)",
+                "Kepulauan Yapen (PA xxxx L*)",
+                "Waropen (PA xxxx N*)",
+                "Keerom (PA xxxx Q*)",
+                "Sarmi (PA xxxx S*)",
+                "Supiori (PA xxxx U*)",
+                "Mamberamo Raya (PA xxxx X*)"
+            ]
+        },
+        {
+            "huruf": "PB",
+            "wilayah": "Papua Barat ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Teluk Bintuni (PB xxxx B*)",
+                "Pegunungan Arfak (PB xxxx D*)",
+                "Fakfak (PB xxxx F*)",
+                "Manokwari (PB xxxx G*/H*/M*)",
+                "Kaimana (PB xxxx K*)",
+                "Manokwari Selatan (PB xxxx L*)",
+                "Teluk Wondama (PB xxxx W*)"
+            ]
+        },
+        {
+            "huruf": "PG",
+            "wilayah": "Papua Pegunungan ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Jayawijaya (PG xxxx A*)",
+                "Lanny Jaya (PG xxxx -*)",
+                "Mamberamo Tengah (PG xxxx -*)",
+                "Pegunungan Bintang (PG xxxx F*)",
+                "Tolikara (PG xxxx -*)",
+                "Yahukimo (PG xxxx J*)",
+                "Nduga (PG xxxx X*)",
+                "Yalimo (PG xxxx -*)"
+            ]
+        },
+        {
+            "huruf": "PS",
+            "wilayah": "Papua Selatan ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Merauke (PS xxxx A*)",
+                "Asmat (PS xxxx -*)",
+                "Mappi (PS xxxx -*)",
+                "Boven Digoel (PS xxxx -*)"
+            ]
+        },
+        {
+            "huruf": "PT",
+            "wilayah": "Papua Tengah ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Nabire (PT xxxx A*)",
+                "Dogiyai (PT xxxx E*)",
+                "Deiyai (PT xxxx H*)",
+                "Mimika (PT xxxx L*/M*/N*)",
+                "Paniai (PT xxxx P*)",
+                "Puncak Jaya (PT xxxx S*)",
+                "Intan Jaya (PT xxxx V*)",
+                "Puncak (PT xxxx Y*)"
+            ]
+        },
+        {
+            "huruf": "PY",
+            "wilayah": "Papua Barat Daya ",
+            "region": "Maluku dan Papua",
+            "daerah": [
+                "Kota Sorong (PY xxxx A*)",
+                "Sorong (PY xxxx E*)",
+                "Raja Ampat (PY xxxx K*)",
+                "Tambrauw (PY xxxx Q*)",
+                "Sorong Selatan (PY xxxx T*)",
+                "Maybrat (PY xxxx V*)"
+            ]
+        }
+    ]
+}

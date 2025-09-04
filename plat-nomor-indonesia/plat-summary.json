@@ -1,0 +1,340 @@
+{
+    "updated_at": "2025-08-30T09:37:58.909662",
+    "regions": [
+        {
+            "region": "Sumatra",
+            "plat": [
+                {
+                    "huruf": "BL",
+                    "wilayah": "Aceh ",
+                    "jumlah_daerah": 23
+                },
+                {
+                    "huruf": "BB",
+                    "wilayah": "Sumatera Utara bagian Barat ( Tapanuli )",
+                    "jumlah_daerah": 18
+                },
+                {
+                    "huruf": "BK",
+                    "wilayah": "Sumatera Utara bagian Timur ( Pesisir Timur Sumatra )",
+                    "jumlah_daerah": 15
+                },
+                {
+                    "huruf": "BA",
+                    "wilayah": "Sumatera Barat ",
+                    "jumlah_daerah": 19
+                },
+                {
+                    "huruf": "BM",
+                    "wilayah": "Riau ",
+                    "jumlah_daerah": 12
+                },
+                {
+                    "huruf": "BH",
+                    "wilayah": "Jambi ",
+                    "jumlah_daerah": 11
+                },
+                {
+                    "huruf": "BG",
+                    "wilayah": "Sumatera Selatan ",
+                    "jumlah_daerah": 17
+                },
+                {
+                    "huruf": "BD",
+                    "wilayah": "Bengkulu ",
+                    "jumlah_daerah": 10
+                },
+                {
+                    "huruf": "BE",
+                    "wilayah": "Lampung ",
+                    "jumlah_daerah": 15
+                },
+                {
+                    "huruf": "BN",
+                    "wilayah": "Kepulauan Bangka Belitung ",
+                    "jumlah_daerah": 7
+                },
+                {
+                    "huruf": "BP",
+                    "wilayah": "Kepulauan Riau ",
+                    "jumlah_daerah": 7
+                }
+            ]
+        },
+        {
+            "region": "Jawa",
+            "plat": [
+                {
+                    "huruf": "B",
+                    "wilayah": "DKI Jakarta Jakarta Barat ",
+                    "jumlah_daerah": 20
+                },
+                {
+                    "huruf": "D",
+                    "wilayah": "Jawa Barat ( Bandung Raya tidak termasuk Kabupaten Sumedang ) Kota Bandung ",
+                    "jumlah_daerah": 5
+                },
+                {
+                    "huruf": "E",
+                    "wilayah": "Jawa Barat (eks keresidenan Cirebon ) Kota Cirebon ",
+                    "jumlah_daerah": 6
+                },
+                {
+                    "huruf": "F",
+                    "wilayah": "Jawa Barat (eks keresidenan Bogor dan Priangan Barat tidak termasuk Kota Depok) Kota Bogor ",
+                    "jumlah_daerah": 6
+                },
+                {
+                    "huruf": "T",
+                    "wilayah": "Jawa Barat (eks keresidenan Karawang ) Purwakarta ",
+                    "jumlah_daerah": 4
+                },
+                {
+                    "huruf": "Z",
+                    "wilayah": "Jawa Barat (eks keresidenan Priangan Timur dan Kabupaten Sumedang) Sumedang ",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "G",
+                    "wilayah": "Jawa Tengah (eks keresidenan Pekalongan ) Kota Pekalongan ",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "H",
+                    "wilayah": "Jawa Tengah (eks keresidenan Semarang tidak termasuk Kabupaten Grobogan ) Kota Semarang ",
+                    "jumlah_daerah": 6
+                },
+                {
+                    "huruf": "K",
+                    "wilayah": "Jawa Tengah (eks keresidenan Pati dan Kabupaten Grobogan) Pati ",
+                    "jumlah_daerah": 7
+                },
+                {
+                    "huruf": "R",
+                    "wilayah": "Jawa Tengah (eks keresidenan Banyumas ) Banyumas ",
+                    "jumlah_daerah": 5
+                },
+                {
+                    "huruf": "AA",
+                    "wilayah": "Jawa Tengah (eks keresidenan Kedu ) Kota Magelang ",
+                    "jumlah_daerah": 7
+                },
+                {
+                    "huruf": "AD",
+                    "wilayah": "Jawa Tengah (eks keresidenan Surakarta ) Kota Surakarta ",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "AB",
+                    "wilayah": "Daerah Istimewa Yogyakarta Kota Yogyakarta ",
+                    "jumlah_daerah": 6
+                },
+                {
+                    "huruf": "L",
+                    "wilayah": "Jawa Timur Kota Surabaya ",
+                    "jumlah_daerah": 2
+                },
+                {
+                    "huruf": "M",
+                    "wilayah": "Jawa Timur (eks keresidenan Madura ) Pamekasan ",
+                    "jumlah_daerah": 5
+                },
+                {
+                    "huruf": "N",
+                    "wilayah": "Jawa Timur (eks keresidenan Pasuruan - Malang ) Kota Malang ",
+                    "jumlah_daerah": 9
+                },
+                {
+                    "huruf": "P",
+                    "wilayah": "Jawa Timur (eks keresidenan Besuki ) Bondowoso ",
+                    "jumlah_daerah": 5
+                },
+                {
+                    "huruf": "S",
+                    "wilayah": "Jawa Timur (eks keresidenan Bojonegoro , Kabupaten – Kota Mojokerto , Lamongan , dan Jombang ) Bojonegoro ",
+                    "jumlah_daerah": 7
+                },
+                {
+                    "huruf": "W",
+                    "wilayah": "Jawa Timur (eks keresidenan Surabaya ) Gresik ",
+                    "jumlah_daerah": 3
+                },
+                {
+                    "huruf": "AE",
+                    "wilayah": "Jawa Timur (eks keresidenan Madiun ) Kota Madiun ",
+                    "jumlah_daerah": 7
+                },
+                {
+                    "huruf": "AG",
+                    "wilayah": "Jawa Timur (eks Keresidenan Kediri ) Kota Kediri ",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "A",
+                    "wilayah": "Banten Kota Serang ",
+                    "jumlah_daerah": 7
+                }
+            ]
+        },
+        {
+            "region": "Kepulauan Nusa Tenggara",
+            "plat": [
+                {
+                    "huruf": "DK",
+                    "wilayah": "Bali ",
+                    "jumlah_daerah": 9
+                },
+                {
+                    "huruf": "DR",
+                    "wilayah": "NTB ( Pulau Lombok )",
+                    "jumlah_daerah": 5
+                },
+                {
+                    "huruf": "EA",
+                    "wilayah": "NTB ( Pulau Sumbawa )",
+                    "jumlah_daerah": 5
+                },
+                {
+                    "huruf": "DH",
+                    "wilayah": "NTT ( Pulau Timor )",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "EB",
+                    "wilayah": "NTT ( Pulau Flores dan kepulauan)",
+                    "jumlah_daerah": 10
+                },
+                {
+                    "huruf": "ED",
+                    "wilayah": "NTT ( Pulau Sumba )",
+                    "jumlah_daerah": 4
+                }
+            ]
+        },
+        {
+            "region": "Kalimantan",
+            "plat": [
+                {
+                    "huruf": "KB",
+                    "wilayah": "Kalimantan Barat ",
+                    "jumlah_daerah": 14
+                },
+                {
+                    "huruf": "KH",
+                    "wilayah": "Kalimantan Tengah ",
+                    "jumlah_daerah": 14
+                },
+                {
+                    "huruf": "DA",
+                    "wilayah": "Kalimantan Selatan ",
+                    "jumlah_daerah": 13
+                },
+                {
+                    "huruf": "KT",
+                    "wilayah": "Kalimantan Timur ",
+                    "jumlah_daerah": 10
+                },
+                {
+                    "huruf": "KU",
+                    "wilayah": "Kalimantan Utara ",
+                    "jumlah_daerah": 5
+                }
+            ]
+        },
+        {
+            "region": "Sulawesi",
+            "plat": [
+                {
+                    "huruf": "DB",
+                    "wilayah": "Sulawesi Utara (Daratan)",
+                    "jumlah_daerah": 12
+                },
+                {
+                    "huruf": "DL",
+                    "wilayah": "Sulawesi Utara (Kepulauan)",
+                    "jumlah_daerah": 3
+                },
+                {
+                    "huruf": "DN",
+                    "wilayah": "Sulawesi Tengah ",
+                    "jumlah_daerah": 13
+                },
+                {
+                    "huruf": "DD",
+                    "wilayah": "Sulawesi Selatan (bagian selatan)",
+                    "jumlah_daerah": 9
+                },
+                {
+                    "huruf": "DW",
+                    "wilayah": "Sulawesi Selatan (bagian tengah)",
+                    "jumlah_daerah": 4
+                },
+                {
+                    "huruf": "DP",
+                    "wilayah": "Sulawesi Selatan (bagian utara)",
+                    "jumlah_daerah": 11
+                },
+                {
+                    "huruf": "DT",
+                    "wilayah": "Sulawesi Tenggara ",
+                    "jumlah_daerah": 17
+                },
+                {
+                    "huruf": "DM",
+                    "wilayah": "Gorontalo ",
+                    "jumlah_daerah": 6
+                },
+                {
+                    "huruf": "DC",
+                    "wilayah": "Sulawesi Barat ",
+                    "jumlah_daerah": 6
+                }
+            ]
+        },
+        {
+            "region": "Maluku dan Papua",
+            "plat": [
+                {
+                    "huruf": "DE",
+                    "wilayah": "Maluku ",
+                    "jumlah_daerah": 11
+                },
+                {
+                    "huruf": "DG",
+                    "wilayah": "Maluku Utara ",
+                    "jumlah_daerah": 10
+                },
+                {
+                    "huruf": "PA",
+                    "wilayah": "Papua ",
+                    "jumlah_daerah": 9
+                },
+                {
+                    "huruf": "PB",
+                    "wilayah": "Papua Barat ",
+                    "jumlah_daerah": 7
+                },
+                {
+                    "huruf": "PG",
+                    "wilayah": "Papua Pegunungan ",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "PS",
+                    "wilayah": "Papua Selatan ",
+                    "jumlah_daerah": 4
+                },
+                {
+                    "huruf": "PT",
+                    "wilayah": "Papua Tengah ",
+                    "jumlah_daerah": 8
+                },
+                {
+                    "huruf": "PY",
+                    "wilayah": "Papua Barat Daya ",
+                    "jumlah_daerah": 6
+                }
+            ]
+        }
+    ]
+}
