@@ -18,6 +18,8 @@ Repository ini akan berisi data apapun yang bersifat public seperti. Berikut lis
    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia)
 9. Plat Nomor Indonesia (.json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/plat-nomor-indonesia)
+10. Terminal Bus Indonesia (.json)
+   [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/terminal-bus.json)
 
 
 untuk melakukan request data apapun bisa melalui [issue](https://github.com/fajriyan/open-data/issues/new).
