@@ -1,6 +1,7 @@
 ## open data
 
-Repository ini akan berisi data apapun yang bersifat public seperti. Berikut list data yang bisa digunakan :
+Repository ini akan berisi data apapun yang bersifat public seperti. Berikut
+list data yang bisa digunakan :
 
 1. Repository Journal Indonesia
    [(akses)](https://github.com/fajriyan/open-data/blob/main/journal-idn.md)
@@ -19,10 +20,12 @@ Repository ini akan berisi data apapun yang bersifat public seperti. Berikut lis
 9. Plat Nomor Indonesia (.json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/plat-nomor-indonesia)
 10. Terminal Bus Indonesia (.json)
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/terminal-bus.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/terminal-bus-indonesia.json)
+11. Stasiun Kereta Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/stasiun-kereta-indonesia.json)
 
-
-untuk melakukan request data apapun bisa melalui [issue](https://github.com/fajriyan/open-data/issues/new).
+untuk melakukan request data apapun bisa melalui
+[issue](https://github.com/fajriyan/open-data/issues/new).
 
 data ini akan selalu di update oleh admin, jika terdapat kesalahan atau tambahan
 silahkan submit [disini](mailto:fajriyan20@gmail.com), terimakasih.
@@ -37,5 +40,15 @@ silahkan submit [disini](mailto:fajriyan20@gmail.com), terimakasih.
 ![Repo Size](https://img.shields.io/github/repo-size/fajriyan/open-data)
 ![License](https://img.shields.io/github/license/fajriyan/open-data)
 
-tag :
-open data indonesia, data publik indonesia, dataset indonesia, repository data indonesia, kumpulan data indonesia, free dataset indonesia, jurnal indonesia open access, repository jurnal indonesia, jurnal ilmiah indonesia pdf, IPTV indonesia gratis, IPTV playlist m3u indonesia, channel tv indonesia m3u8, ui kit tailwind css free, tailwind components indonesia, tailwind ui kit open source, rest api publik gratis, public api indonesia, api gratis untuk developer, artificial intelligence dataset indonesia, ai dataset free, rss feed publik indonesia, rss news indonesia, json libur nasional indonesia, hari libur nasional json, kalender libur nasional indonesia, data wilayah indonesia, data wilayah indonesia sql, dataset provinsi kota kecamatan indonesia, wilayah indonesia json, kode wilayah indonesia, plat nomor kendaraan indonesia json, dataset plat nomor polisi indonesia, kode plat nomor kendaraan indonesia, 
+tag : open data indonesia, data publik indonesia, dataset indonesia, repository
+data indonesia, kumpulan data indonesia, free dataset indonesia, jurnal
+indonesia open access, repository jurnal indonesia, jurnal ilmiah indonesia pdf,
+IPTV indonesia gratis, IPTV playlist m3u indonesia, channel tv indonesia m3u8,
+ui kit tailwind css free, tailwind components indonesia, tailwind ui kit open
+source, rest api publik gratis, public api indonesia, api gratis untuk
+developer, artificial intelligence dataset indonesia, ai dataset free, rss feed
+publik indonesia, rss news indonesia, json libur nasional indonesia, hari libur
+nasional json, kalender libur nasional indonesia, data wilayah indonesia, data
+wilayah indonesia sql, dataset provinsi kota kecamatan indonesia, wilayah
+indonesia json, kode wilayah indonesia, plat nomor kendaraan indonesia json,
+dataset plat nomor polisi indonesia, kode plat nomor kendaraan indonesia,
