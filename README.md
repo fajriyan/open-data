@@ -23,6 +23,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/terminal-bus-indonesia.json)
 11. Stasiun Kereta Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/stasiun-kereta-indonesia.json)
+12. Pelabuhan Penyebrangan Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-penyebrangan.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).

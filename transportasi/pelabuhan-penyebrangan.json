@@ -1,0 +1,3042 @@
+{
+    "updated_at": "2025-09-16T16:31:29.095378",
+    "count": 213,
+    "data": [
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Balohan",
+            "kab_kota": "Kota Sabang",
+            "pulau": "Pulau Weh",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Lamteng",
+                "Ulee Lheue"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Lamteng",
+            "kab_kota": "Kabupaten Aceh Besar",
+            "pulau": "Pulau Nasi",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Balohan",
+                "Ulee Lheue"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ulee Lheue",
+            "kab_kota": "Kota Banda Aceh",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Balohan",
+                "Lamteng"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Calang",
+            "kab_kota": "Kabupaten Aceh Jaya",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Sinabang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Meulaboh",
+            "kab_kota": "Kabupaten Aceh Barat",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Sinabang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Labuhan Haji",
+            "kab_kota": "Kabupaten Aceh Barat Daya",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Sinabang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Singkil",
+            "kab_kota": "Kabupaten Aceh Singkil",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Pulau Banyak",
+                "Sinabang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pulau Banyak",
+            "kab_kota": "Kabupaten Aceh Singkil",
+            "pulau": "Pulau Balai",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Sinabang",
+                "Singkil"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sinabang",
+            "kab_kota": "Kabupaten Simeulue",
+            "pulau": "Pulau Simeulue",
+            "provinsi": "Aceh",
+            "tujuan": [
+                "Calang",
+                "Labuhan Haji",
+                "Meulaboh",
+                "Pulau Banyak",
+                "Singkil"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sibolga",
+            "kab_kota": "Kota Sibolga",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Gunungsitoli",
+                "Teluk Dalam"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tigaras",
+            "kab_kota": "Kabupaten Simalungun",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Simanindo"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ajibata",
+            "kab_kota": "Kabupaten Toba",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Ambarita"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Balige",
+            "kab_kota": "Kabupaten Toba",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Onan Runggu"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Onan Runggu",
+            "kab_kota": "Kabupaten Samosir",
+            "pulau": "Pulau Samosir",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Balige"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tomok",
+            "kab_kota": "Kabupaten Samosir",
+            "pulau": "Pulau Samosir",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Ajibata"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ambarita",
+            "kab_kota": "Kabupaten Samosir",
+            "pulau": "Pulau Samosir",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Ajibata"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Simanindo",
+            "kab_kota": "Kabupaten Samosir",
+            "pulau": "Pulau Samosir",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Tigaras"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Toba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Gunungsitoli",
+            "kab_kota": "Kota Gunungsitoli",
+            "pulau": "Pulau Nias",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Sibolga"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Teluk Dalam",
+            "kab_kota": "Kabupaten Nias Selatan",
+            "pulau": "Pulau Nias",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Pulau Tello",
+                "Sibolga"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pulau Tello",
+            "kab_kota": "Kabupaten Nias Selatan",
+            "pulau": "Pulau Tello",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Teluk Dalam"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Teluk Nibung",
+            "kab_kota": "Kota Tanjung Balai",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Utara",
+            "tujuan": [
+                "Port Klang ( Malaysia )"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Asahan Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Dumai",
+            "kab_kota": "Kota Dumai",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Bandar Sri Bentan",
+                "Malaka (Malaysia)",
+                "Port Dickson (Malaysia)"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Rupat Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bandar Sri Junjungan",
+            "kab_kota": "Kota Dumai",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Tanjung Kapal"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Rupat"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sei Selari",
+            "kab_kota": "Kabupaten Bengkalis",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Air Putih",
+                "Parit Rempak",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bengkalis Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Kapal",
+            "kab_kota": "Kabupaten Bengkalis",
+            "pulau": "Pulau Rupat",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Bandar Sri Junjungan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Rupat"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Air Putih",
+            "kab_kota": "Kabupaten Bengkalis",
+            "pulau": "Pulau Bengkalis",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Sei Selari"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bengkalis Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Buton",
+            "kab_kota": "Kabupaten Siak",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Parit Rempak",
+                "Selatpanjang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Panjang"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Selatpanjang",
+            "kab_kota": "Kabupaten Kepulauan Meranti",
+            "pulau": "Pulau Tebing Tinggi",
+            "provinsi": "Riau",
+            "tujuan": [
+                "Tanjung Buton",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Rengit"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Teluk Bungus",
+            "kab_kota": "Kota Padang",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Barat",
+            "tujuan": [
+                "Maileppet",
+                "Tuapejat"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Maileppet",
+            "kab_kota": "Kabupaten Kepulauan Mentawai",
+            "pulau": "Pulau Siberut",
+            "provinsi": "Sumatera Barat",
+            "tujuan": [
+                "Teluk Bungus",
+                "Tuapejat"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tuapejat",
+            "kab_kota": "Kabupaten Kepulauan Mentawai",
+            "pulau": "Pulau Sipora",
+            "provinsi": "Sumatera Barat",
+            "tujuan": [
+                "Maileppet",
+                "Teluk Bungus"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kuala Tungkal",
+            "kab_kota": "Kabupaten Tanjung Jabung Barat",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Jambi",
+            "tujuan": [
+                "Dabo",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Tungkal Selat Berhala"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Api-Api",
+            "kab_kota": "Kabupaten Banyuasin",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Sumatera Selatan",
+            "tujuan": [
+                "Tanjung Kelian"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bangka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pulau Baai",
+            "kab_kota": "Kota Bengkulu",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Bengkulu",
+            "tujuan": [
+                "Malakoni"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Malakoni",
+            "kab_kota": "Kabupaten Bengkulu Utara",
+            "pulau": "Pulau Enggano",
+            "provinsi": "Bengkulu",
+            "tujuan": [
+                "Pulau Baai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bakauheni",
+            "kab_kota": "Kabupaten Lampung Selatan",
+            "pulau": "Pulau Sumatera",
+            "provinsi": "Lampung",
+            "tujuan": [
+                "Merak"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Sunda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Balai Karimun",
+            "kab_kota": "Kabupaten Karimun",
+            "pulau": "Pulau Karimun",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Batu Ampar",
+                "Harbourfront ( Singapura )",
+                "Kukup (Malaysia)",
+                "Puteri Harbour (Malaysia)",
+                "Sekupang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Parit Rempak",
+            "kab_kota": "Kabupaten Karimun",
+            "pulau": "Pulau Karimun",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Sei Selari",
+                "Selat Beliah",
+                "Tanjung Buton",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Selat Beliah",
+            "kab_kota": "Kabupaten Karimun",
+            "pulau": "Pulau Kundur",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Parit Rempak"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Malaka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Telaga Punggur",
+            "kab_kota": "Kota Batam",
+            "pulau": "Pulau Batam",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Dabo",
+                "Dompak",
+                "Jagoh",
+                "Kuala Tungkal",
+                "Parit Rempak",
+                "Sei Selari",
+                "Sintete",
+                "Tambelan",
+                "Tanjung Uban"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Riau"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Uban",
+            "kab_kota": "Kabupaten Bintan",
+            "pulau": "Pulau Bintan",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Matak",
+                "Midai",
+                "Penagi",
+                "Sintete",
+                "Tambelan",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Riau"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bandar Bentan Telani",
+            "kab_kota": "Kabupaten Bintan",
+            "pulau": "Pulau Bintan",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Tanah Merah (Singapura)"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Riau"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tambelan",
+            "kab_kota": "Kabupaten Bintan",
+            "pulau": "Pulau Tambelan",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Matak",
+                "Midai",
+                "Penagi",
+                "Sintete",
+                "Tanjung Uban",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Dompak",
+            "kab_kota": "Kota Tanjung Pinang",
+            "pulau": "Pulau Bintan",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Riau"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Penarik",
+            "kab_kota": "Kabupaten Lingga",
+            "pulau": "Pulau Lingga",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Jagoh"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna Selat Berhala"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Jagoh",
+            "kab_kota": "Kabupaten Lingga",
+            "pulau": "Pulau Singkep",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Penarik",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna Selat Berhala"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Matak",
+            "kab_kota": "Kabupaten Kepulauan Anambas",
+            "pulau": "Pulau Matak",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Midai",
+                "Penagi",
+                "Sintete",
+                "Tambelan",
+                "Tanjung Uban",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Penagi",
+            "kab_kota": "Kabupaten Natuna",
+            "pulau": "Pulau Natuna",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Matak",
+                "Midai",
+                "Sintete",
+                "Tambelan",
+                "Tanjung Uban",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna Utara"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Midai",
+            "kab_kota": "Kabupaten Natuna",
+            "pulau": "Pulau Midai",
+            "provinsi": "Kepulauan Riau",
+            "tujuan": [
+                "Matak",
+                "Penagi",
+                "Sintete",
+                "Tambelan",
+                "Tanjung Uban",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Kelian",
+            "kab_kota": "Kabupaten Bangka Barat",
+            "pulau": "Pulau Bangka",
+            "provinsi": "Kepulauan Bangka Belitung",
+            "tujuan": [
+                "Tanjung Api-Api"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bangka"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pangkal Balam",
+            "kab_kota": "Kota Pangkal Pinang",
+            "pulau": "Pulau Bangka",
+            "provinsi": "Kepulauan Bangka Belitung",
+            "tujuan": [
+                "Tanjung Priok",
+                "Tanjung Rhu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Natuna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sadai",
+            "kab_kota": "Kabupaten Bangka Selatan",
+            "pulau": "Pulau Bangka",
+            "provinsi": "Kepulauan Bangka Belitung",
+            "tujuan": [
+                "Tanjung Rhu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Gaspar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Rhu",
+            "kab_kota": "Kabupaten Belitung",
+            "pulau": "Pulau Belitung",
+            "provinsi": "Kepulauan Bangka Belitung",
+            "tujuan": [
+                "Pangkal Balam",
+                "Sadai",
+                "Tanjung Priok"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Gaspar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Manggar",
+            "kab_kota": "Kabupaten Belitung Timur",
+            "pulau": "Pulau Belitung",
+            "provinsi": "Kepulauan Bangka Belitung",
+            "tujuan": [],
+            "jenis": "Laut",
+            "perairan": "Selat Karimata"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Merak",
+            "kab_kota": "Kota Cilegon",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Banten",
+            "tujuan": [
+                "Bakauheni"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Sunda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Priok",
+            "kab_kota": "Jakarta Utara",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jakarta",
+            "tujuan": [
+                "Pangkal Balam",
+                "Tanjung Rhu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Jakarta"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kaliadem",
+            "kab_kota": "Jakarta Utara",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jakarta",
+            "tujuan": [
+                "Pulau Pramuka",
+                "Pulau Tidung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Jakarta"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Majingklak",
+            "kab_kota": "Kabupaten Pangandaran",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Barat",
+            "tujuan": [],
+            "jenis": "Laut",
+            "perairan": "Sungai Citanduy Segara Anakan"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kendal",
+            "kab_kota": "Kabupaten Kendal",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Tengah",
+            "tujuan": [
+                "Karimunjawa",
+                "Kumai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Jawa"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Emas",
+            "kab_kota": "Kota Semarang",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Tengah",
+            "tujuan": [
+                "Kumai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Jawa"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Jepara",
+            "kab_kota": "Kabupaten Jepara",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Tengah",
+            "tujuan": [
+                "Karimunjawa"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Jawa"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Karimunjawa",
+            "kab_kota": "Kabupaten Jepara",
+            "pulau": "Pulau Karimunjawa",
+            "provinsi": "Jawa Tengah",
+            "tujuan": [
+                "Jepara",
+                "Kendal",
+                "Kumai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Jawa"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Paciran",
+            "kab_kota": "Kabupaten Lamongan",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Bahaur",
+                "Bawean",
+                "Garongkong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Jawa"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Perak",
+            "kab_kota": "Kota Surabaya",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Kumai",
+                "Lembar"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Madura"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ujung",
+            "kab_kota": "Kota Surabaya",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Kamal"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Madura"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Jangkar",
+            "kab_kota": "Kabupaten Situbondo",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Kalianget",
+                "Lembar",
+                "Raas",
+                "Tarebung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Madura"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Wangi",
+            "kab_kota": "Kabupaten Banyuwangi",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Lembar"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bali"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ketapang",
+            "kab_kota": "Kabupaten Banyuwangi",
+            "pulau": "Pulau Jawa",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Gilimanuk"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bali"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kamal",
+            "kab_kota": "Kabupaten Bangkalan",
+            "pulau": "Pulau Madura",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Ujung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Madura"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kalianget",
+            "kab_kota": "Kabupaten Sumenep",
+            "pulau": "Pulau Madura",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Batu Guluk",
+                "Jangkar",
+                "Raas",
+                "Tarebung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Madura"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tarebung",
+            "kab_kota": "Kabupaten Sumenep",
+            "pulau": "Pulau Sapudi",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Batu Guluk",
+                "Jangkar",
+                "Kalianget",
+                "Raas"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Madura"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Raas",
+            "kab_kota": "Kabupaten Sumenep",
+            "pulau": "Pulau Raas",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Batu Guluk",
+                "Jangkar",
+                "Kalianget",
+                "Tarebung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Bali"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Batu Guluk",
+            "kab_kota": "Kabupaten Sumenep",
+            "pulau": "Pulau Kangean",
+            "provinsi": "Jawa Timur",
+            "tujuan": [
+                "Kalianget",
+                "Raas",
+                "Tarebung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Jawa"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Gilimanuk",
+            "kab_kota": "Kabupaten Jembrana",
+            "pulau": "Pulau Bali",
+            "provinsi": "Bali",
+            "tujuan": [
+                "Ketapang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Bali"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sanur",
+            "kab_kota": "Kota Denpasar",
+            "pulau": "Pulau Bali",
+            "provinsi": "Bali",
+            "tujuan": [
+                "Nusa Ceningan",
+                "Nusa Lembongan",
+                "Nusa Penida"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Badung"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kusamba",
+            "kab_kota": "Kabupaten Klungkung",
+            "pulau": "Pulau Bali",
+            "provinsi": "Bali",
+            "tujuan": [
+                "Nusa Lembongan",
+                "Nusa Penida"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Badung"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sampalan",
+            "kab_kota": "Kabupaten Klungkung",
+            "pulau": "Pulau Nusa Penida",
+            "provinsi": "Bali",
+            "tujuan": [
+                "Padangbai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lombok"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Padangbai",
+            "kab_kota": "Kabupaten Karangasem",
+            "pulau": "Pulau Bali",
+            "provinsi": "Bali",
+            "tujuan": [
+                "Lembar",
+                "Sampalan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lombok"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Lembar",
+            "kab_kota": "Kabupaten Lombok Barat",
+            "pulau": "Pulau Lombok",
+            "provinsi": "Nusa Tenggara Barat",
+            "tujuan": [
+                "Jangkar",
+                "Tanjung Perak",
+                "Tanjung Wangi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lombok"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bangsal",
+            "kab_kota": "Kabupaten Lombok Utara",
+            "pulau": "Pulau Lombok",
+            "provinsi": "Nusa Tenggara Barat",
+            "tujuan": [
+                "Gili Air",
+                "Gili Meno",
+                "Gili Trawangan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lombok"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kayangan",
+            "kab_kota": "Kabupaten Lombok Timur",
+            "pulau": "Pulau Lombok",
+            "provinsi": "Nusa Tenggara Barat",
+            "tujuan": [
+                "Benete",
+                "Pototano"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Alas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pototano",
+            "kab_kota": "Kabupaten Sumbawa Barat",
+            "pulau": "Pulau Sumbawa",
+            "provinsi": "Nusa Tenggara Barat",
+            "tujuan": [
+                "Kayangan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Alas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Benete",
+            "kab_kota": "Kabupaten Sumbawa Barat",
+            "pulau": "Pulau Sumbawa",
+            "provinsi": "Nusa Tenggara Barat",
+            "tujuan": [
+                "Kayangan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Alas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sape",
+            "kab_kota": "Kabupaten Bima",
+            "pulau": "Pulau Sumbawa",
+            "provinsi": "Nusa Tenggara Barat",
+            "tujuan": [
+                "Labuan Bajo",
+                "Waikelo",
+                "Waingapu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Sape"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Labuan Bajo",
+            "kab_kota": "Kabupaten Manggarai Barat",
+            "pulau": "Pulau Flores",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bira",
+                "Jampea",
+                "Pulau Rinca",
+                "Sape",
+                "Waingapu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Molo"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pulau Rinca",
+            "kab_kota": "Kabupaten Manggarai Barat",
+            "pulau": "Pulau Rinca",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Labuan Bajo"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Molo"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Aimere",
+            "kab_kota": "Kabupaten Ngada",
+            "pulau": "Pulau Flores",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Waingapu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Marapokot",
+            "kab_kota": "Kabupaten Nagekeo",
+            "pulau": "Pulau Flores",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Jampea",
+                "Palue"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ende",
+            "kab_kota": "Kabupaten Ende",
+            "pulau": "Pulau Flores",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Waingapu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kewapante",
+            "kab_kota": "Kabupaten Sikka",
+            "pulau": "Pulau Flores",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Deri",
+                "Palue",
+                "Pamana",
+                "Waibalun"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Waibalun",
+            "kab_kota": "Kabupaten Flores Timur",
+            "pulau": "Pulau Flores",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Deri",
+                "Kewapante",
+                "Lohayong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lowotobi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Lohayong",
+            "kab_kota": "Kabupaten Flores Timur",
+            "pulau": "Pulau Solor",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Waibalun",
+                "Waijarang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Solor"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Deri",
+            "kab_kota": "Kabupaten Flores Timur",
+            "pulau": "Pulau Adonara",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Baranusa",
+                "Kewapante",
+                "Waijarang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lamakera"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Waijarang",
+            "kab_kota": "Kabupaten Lembata",
+            "pulau": "Pulau Lembata",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Deri",
+                "Lohayong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lamakera"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Baranusa",
+            "kab_kota": "Kabupaten Alor",
+            "pulau": "Pulau Pantar",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bakalang",
+                "Bolok",
+                "Deri",
+                "Kalabahi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Alor"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bakalang",
+            "kab_kota": "Kabupaten Alor",
+            "pulau": "Pulau Pantar",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Baranusa",
+                "Kalabahi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Pantar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kalabahi",
+            "kab_kota": "Kabupaten Alor",
+            "pulau": "Pulau Alor",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bakalang",
+                "Baranusa",
+                "Bolok"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Pantar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Waikelo",
+            "kab_kota": "Kabupaten Sumba Barat Daya",
+            "pulau": "Pulau Sumba",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Sape"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Sumba"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Waingapu",
+            "kab_kota": "Kabupaten Sumba Timur",
+            "pulau": "Pulau Sumba",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Aimere",
+                "Bolok",
+                "Ende",
+                "Labuan Bajo",
+                "Raijua",
+                "Sabu",
+                "Sape"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Raijua",
+            "kab_kota": "Kabupaten Sabu Raijua",
+            "pulau": "Pulau Raijua",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Sabu",
+                "Waingapu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sabu",
+            "kab_kota": "Kabupaten Sabu Raijua",
+            "pulau": "Pulau Sabu",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Raijua",
+                "Waingapu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ndao",
+            "kab_kota": "Kabupaten Rote Ndao",
+            "pulau": "Pulau Ndao",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Rote"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Rote",
+            "kab_kota": "Kabupaten Rote Ndao",
+            "pulau": "Pulau Rote",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok",
+                "Ndao"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu Samudera Hindia"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Hansisi",
+            "kab_kota": "Kabupaten Kupang",
+            "pulau": "Pulau Semau",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Bolok"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bolok",
+            "kab_kota": "Kabupaten Kupang",
+            "pulau": "Pulau Timor",
+            "provinsi": "Nusa Tenggara Timur",
+            "tujuan": [
+                "Aimere",
+                "Deri",
+                "Ende",
+                "Hansisi",
+                "Kalabahi",
+                "Kawepante",
+                "Naikliu",
+                "Raijua",
+                "Rote",
+                "Sabu",
+                "Teluk Gurita",
+                "Waibalun",
+                "Waijarang",
+                "Waingapu",
+                "Wini"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sawu"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Teluk Kalong",
+            "kab_kota": "Kabupaten Sambas",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Tanjung Harapan"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Sambas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Harapan",
+            "kab_kota": "Kabupaten Sambas",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Teluk Kalong"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Sambas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kuala Tebas",
+            "kab_kota": "Kabupaten Sambas",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Tebas Seberang"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Sambas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tebas Seberang",
+            "kab_kota": "Kabupaten Sambas",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Kuala Tebas"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Sambas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sintete",
+            "kab_kota": "Kabupaten Sambas",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Matak",
+                "Midai",
+                "Penagi",
+                "Tambelan",
+                "Tanjung Uban",
+                "Telaga Punggur"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Sambas Laut Natuna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Siantan",
+            "kab_kota": "Kota Pontianak",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Bardan"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Kapuas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bardan",
+            "kab_kota": "Kota Pontianak",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Siantan"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Kapuas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Parit Sarim",
+            "kab_kota": "Kabupaten Kubu Raya",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Sungai Nipah"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Kapuas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sungai Nipah",
+            "kab_kota": "Kabupaten Kubu Raya",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Parit Sarim"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Kapuas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Rasau Jaya",
+            "kab_kota": "Kabupaten Kubu Raya",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Pinang Luar",
+                "Teluk Batang"
+            ],
+            "jenis": "Sungai & Laut",
+            "perairan": "Sungai Kapuas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pinang Luar",
+            "kab_kota": "Kabupaten Kubu Raya",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Rasau Jaya"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Kapuas"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Teluk Batang",
+            "kab_kota": "Kabupaten Kayong Utara",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [
+                "Rasau Jaya"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Karimata"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ketapang",
+            "kab_kota": "Kabupaten Ketapang",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Barat",
+            "tujuan": [],
+            "jenis": "Laut",
+            "perairan": "Sungai Ketapang"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kumai",
+            "kab_kota": "Kabupaten Kotawaringin Barat",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Tengah",
+            "tujuan": [
+                "Karimunjawa",
+                "Kendal",
+                "Tanjung Emas",
+                "Tanjung Perak"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Kumai"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bahaur",
+            "kab_kota": "Kabupaten Pulang Pisau",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Tengah",
+            "tujuan": [
+                "Paciran"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Kahayan"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Batulicin",
+            "kab_kota": "Kabupaten Tanah Bumbu",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Selatan",
+            "tujuan": [
+                "Garongkong",
+                "Tanjung Serdang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Laut"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tarjun",
+            "kab_kota": "Kabupaten Kotabaru",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Selatan",
+            "tujuan": [
+                "Stagen"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Laut"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Stagen",
+            "kab_kota": "Kabupaten Kotabaru",
+            "pulau": "Pulau Laut",
+            "provinsi": "Kalimantan Selatan",
+            "tujuan": [
+                "Tarjun"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Laut"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tanjung Serdang",
+            "kab_kota": "Kabupaten Kotabaru",
+            "pulau": "Pulau Laut",
+            "provinsi": "Kalimantan Selatan",
+            "tujuan": [
+                "Batulicin"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Laut"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Teluk Gosong",
+            "kab_kota": "Kabupaten Kotabaru",
+            "pulau": "Pulau Laut",
+            "provinsi": "Kalimantan Selatan",
+            "tujuan": [
+                "Sebuku"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Sebuku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sebuku",
+            "kab_kota": "Kabupaten Kotabaru",
+            "pulau": "Pulau Sebuku",
+            "provinsi": "Kalimantan Selatan",
+            "tujuan": [
+                "Teluk Gosong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Sebuku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Penajam",
+            "kab_kota": "Kabupaten Penajam Paser Utara",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Timur",
+            "tujuan": [
+                "Kariangau"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Balikpapan"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kariangau",
+            "kab_kota": "Kota Balikpapan",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Timur",
+            "tujuan": [
+                "Mamuju",
+                "Parepare",
+                "Penajam",
+                "Taipa"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Balikpapan"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Samarinda",
+            "kab_kota": "Kota Samarinda",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Timur",
+            "tujuan": [
+                "Parepare"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Mahakam"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sungai Kunjang",
+            "kab_kota": "Kota Samarinda",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Timur",
+            "tujuan": [
+                "Kota Bangun",
+                "Long Bangun",
+                "Melak",
+                "Tering"
+            ],
+            "jenis": "Sungai",
+            "perairan": "Sungai Mahakam"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Loktuan",
+            "kab_kota": "Kota Bontang",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Timur",
+            "tujuan": [
+                "Mamuju"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Makassar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Ancam",
+            "kab_kota": "Kabupaten Bulungan",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Juata Laut"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Ancam"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sebawang",
+            "kab_kota": "Kabupaten Tana Tidung",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Juata Laut"
+            ],
+            "jenis": "Laut",
+            "perairan": "Sungai Sesayap"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Juata Laut",
+            "kab_kota": "Kota Tarakan",
+            "pulau": "Pulau Tarakan",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Ancam",
+                "Bunyu",
+                "Sebawang",
+                "Sei Jepun",
+                "Tolitoli"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bunyu",
+            "kab_kota": "Kabupaten Bulungan",
+            "pulau": "Pulau Bunyu",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Juata Laut"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sei Jepun",
+            "kab_kota": "Kabupaten Nunukan",
+            "pulau": "Pulau Nunukan",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Juata Laut",
+                "Liang Bunyu",
+                "Sei Menggaris"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Liem Hie Djung",
+            "kab_kota": "Kabupaten Nunukan",
+            "pulau": "Pulau Nunukan",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Tawau (Malaysia)"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sei Menggaris",
+            "kab_kota": "Kabupaten Nunukan",
+            "pulau": "Pulau Kalimantan",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Sei Jepun"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Liang Bunyu",
+            "kab_kota": "Kabupaten Nunukan",
+            "pulau": "Pulau Sebatik",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Sei Jepun"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sei Pancang",
+            "kab_kota": "Kabupaten Nunukan",
+            "pulau": "Pulau Sebatik",
+            "provinsi": "Kalimantan Utara",
+            "tujuan": [
+                "Tawau (Malaysia)"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Garongkong",
+            "kab_kota": "Kabupaten Barru",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Batulicin",
+                "Paciran"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Makassar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Parepare",
+            "kab_kota": "Kota Parepare",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Kariangau",
+                "Samarinda"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Makassar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sorowako",
+            "kab_kota": "Kabupaten Luwu Timur",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Nuha"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Matano"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Nuha",
+            "kab_kota": "Kabupaten Luwu Timur",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Sorowako"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Matano"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Timampu",
+            "kab_kota": "Kabupaten Luwu Timur",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Tokalimbo"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Towuti"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tokalimbo",
+            "kab_kota": "Kabupaten Luwu Timur",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Timampu"
+            ],
+            "jenis": "Danau",
+            "perairan": "Danau Towuti"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Siwa",
+            "kab_kota": "Kabupaten Wajo",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Tobaku"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Bone"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bajoe",
+            "kab_kota": "Kabupaten Bone",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Kolaka"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Bone"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bira",
+            "kab_kota": "Kabupaten Bulukumba",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Jampea",
+                "Labuan Bajo",
+                "Pamatata",
+                "Pattumbukang",
+                "Sikeli"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pamatata",
+            "kab_kota": "Kabupaten Kepulauan Selayar",
+            "pulau": "Pulau Selayar",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Bira"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pattumbukang",
+            "kab_kota": "Kabupaten Kepulauan Selayar",
+            "pulau": "Pulau Selayar",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Bira",
+                "Jampea",
+                "Kalaotoa",
+                "Kayuadi",
+                "Labuan Bajo"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kayuadi",
+            "kab_kota": "Kabupaten Kepulauan Selayar",
+            "pulau": "Pulau Kayuadi",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Bira",
+                "Bonerate",
+                "Jampea",
+                "Kalaotoa",
+                "Labuan Bajo",
+                "Pattumbukang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Jampea",
+            "kab_kota": "Kabupaten Kepulauan Selayar",
+            "pulau": "Pulau Tanajampea",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Bira",
+                "Bonerate",
+                "Kalaotoa",
+                "Kayuadi",
+                "Labuan Bajo",
+                "Pattumbukang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bonerate",
+            "kab_kota": "Kabupaten Kepulauan Selayar",
+            "pulau": "Pulau Bonerate",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Jampea",
+                "Kalaotoa",
+                "Kayuadi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kalaotoa",
+            "kab_kota": "Kabupaten Kepulauan Selayar",
+            "pulau": "Pulau Kalaotoa",
+            "provinsi": "Sulawesi Selatan",
+            "tujuan": [
+                "Bonerate",
+                "Jampea",
+                "Kayuadi",
+                "Pattumbukang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Mamuju",
+            "kab_kota": "Kabupaten Mamuju",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Barat",
+            "tujuan": [
+                "Kariangau",
+                "Loktuan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Makassar"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tobaku",
+            "kab_kota": "Kabupaten Kolaka Utara",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Siwa"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Bone"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kolaka",
+            "kab_kota": "Kabupaten Kolaka",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Bajoe"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Bone"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kasipute",
+            "kab_kota": "Kabupaten Bombana",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Dongkala",
+                "Pising",
+                "Sikeli",
+                "Tondasi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Tiworo"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sikeli",
+            "kab_kota": "Kabupaten Bombana",
+            "pulau": "Pulau Kabaena",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Bira",
+                "Kasipute"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Flores"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pising",
+            "kab_kota": "Kabupaten Bombana",
+            "pulau": "Pulau Kabaena",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kasipute"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Kabaena"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Dongkala",
+            "kab_kota": "Kabupaten Bombana",
+            "pulau": "Pulau Kabaena",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Baubau",
+                "Kasipute",
+                "Mawasangka"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Muna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Torobulu",
+            "kab_kota": "Kabupaten Konawe Selatan",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Tampo"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Tiworo"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Amolengo",
+            "kab_kota": "Kabupaten Konawe Selatan",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Labuan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kendari",
+            "kab_kota": "Kota Kendari",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Langara",
+                "Raha"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Kendari"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kendari Kapal Malam",
+            "kab_kota": "Kota Kendari",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Langara",
+                "Waode Buri",
+                "Wanci"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Kendari"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Langara",
+            "kab_kota": "Kabupaten Konawe Kepulauan",
+            "pulau": "Pulau Wowoni",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kendari"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tondasi",
+            "kab_kota": "Kabupaten Muna Barat",
+            "pulau": "Pulau Muna",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kasipute"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Tiworo"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tompo",
+            "kab_kota": "Kabupaten Muna",
+            "pulau": "Pulau Muna",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Torobulu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Raha",
+            "kab_kota": "Kabupaten Muna",
+            "pulau": "Pulau Muna",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kendari",
+                "Pure"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Mawasangka",
+            "kab_kota": "Kabupaten Buton Tengah",
+            "pulau": "Pulau Muna",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Dongkala"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Muna"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Wamengkoli",
+            "kab_kota": "Kabupaten Buton Tengah",
+            "pulau": "Pulau Muna",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Baubau"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tolandona",
+            "kab_kota": "Kabupaten Buton Tengah",
+            "pulau": "Pulau Muna",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Baubau"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Labuan",
+            "kab_kota": "Kabupaten Buton Utara",
+            "pulau": "Pulau Buton",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Amolengo"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pure",
+            "kab_kota": "Kabupaten Muna",
+            "pulau": "Pulau Buton",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Raha"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kamaru",
+            "kab_kota": "Kabupaten Buton",
+            "pulau": "Pulau Buton",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kaledupa",
+                "Wangiwangi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Baubau",
+            "kab_kota": "Kota Baubau",
+            "pulau": "Pulau Buton",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Dongkala",
+                "Tolandona",
+                "Wamengkoli"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Buton"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Wangiwangi",
+            "kab_kota": "Kabupaten Wakatobi",
+            "pulau": "Pulau Wangiwangi",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kamaru"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kaledupa",
+            "kab_kota": "Kabupaten Wakatobi",
+            "pulau": "Pulau Kaledupa",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Binongko",
+                "Kamaru",
+                "Tomia"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tomia",
+            "kab_kota": "Kabupaten Wakatobi",
+            "pulau": "Pulau Kaledupa",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Binongko",
+                "Kaledupa",
+                "Kamaru"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Binongko",
+            "kab_kota": "Kabupaten Wakatobi",
+            "pulau": "Pulau Kaledupa",
+            "provinsi": "Sulawesi Tenggara",
+            "tujuan": [
+                "Kaledupa",
+                "Kamaru",
+                "Tomia"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Kolonodale",
+            "kab_kota": "Kabupaten Morowali Utara",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Siliti"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tolo"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Siliti",
+            "kab_kota": "Kabupaten Morowali Utara",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Kolonodale"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Banda"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Luwuk",
+            "kab_kota": "Kabupaten Banggai",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Banggai",
+                "Saiyong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Luwuk"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pagimana",
+            "kab_kota": "Kabupaten Banggai",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Gorontalo"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Saiyong",
+            "kab_kota": "Kabupaten Banggai Kepulauan",
+            "pulau": "Pulau Peleng",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Luwuk"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Boniton",
+            "kab_kota": "Kabupaten Banggai Kepulauan",
+            "pulau": "Pulau Peleng",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Banggai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Banggai",
+            "kab_kota": "Kabupaten Banggai Laut",
+            "pulau": "Pulau Banggai",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Boniton",
+                "Luwuk",
+                "Taliabu"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Uebone",
+            "kab_kota": "Kabupaten Tojo Una-una",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Gorontalo",
+                "Pasokan",
+                "Wakai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Wakai",
+            "kab_kota": "Kabupaten Tojo Una-una",
+            "pulau": "Pulau Batudaka",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Gorontalo",
+                "Uebone"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Dolong",
+            "kab_kota": "Kabupaten Tojo Una-una",
+            "pulau": "Pulau Waleakodi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Marisa",
+                "Pasokan"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pasokan",
+            "kab_kota": "Kabupaten Tojo Una-una",
+            "pulau": "Pulau Waleabahi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Dolong",
+                "Uebone"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Taipa",
+            "kab_kota": "Kota Palu",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Kariangau"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Palu"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Tolitoli",
+            "kab_kota": "Kabupaten Tolitoli",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Tengah",
+            "tujuan": [
+                "Boroko",
+                "Juata Laut"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Marisa",
+            "kab_kota": "Kabupaten Pohuwato",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Gorontalo",
+            "tujuan": [
+                "Dolong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Gorontalo",
+            "kab_kota": "Kota Gorontalo",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Gorontalo",
+            "tujuan": [
+                "Pagimana",
+                "Uebone",
+                "Wakai"
+            ],
+            "jenis": "Laut",
+            "perairan": "Teluk Tomini"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Boroko",
+            "kab_kota": "Kabupaten Bolaang Mongondow Utara",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Amurang",
+                "Tolitoli"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Amurang",
+            "kab_kota": "Kabupaten Minahasa Selatan",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Boroko",
+                "Pananaru"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Manado",
+            "kab_kota": "Kota Manado",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Biaro",
+                "Jailolo",
+                "Melonguane",
+                "Siau",
+                "Tagulandang",
+                "Tahuna",
+                "Ternate"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Munte",
+            "kab_kota": "Kabupaten Minahasa Utara",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Biaro",
+                "Buhias",
+                "Makalehi",
+                "Melonguane",
+                "Miangas",
+                "Minanga",
+                "Pananaru",
+                "Sawang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bitung",
+            "kab_kota": "Kota Bitung",
+            "pulau": "Pulau Sulawesi",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Bastiong",
+                "Melonguane",
+                "Minanga",
+                "Papusungan",
+                "Sawang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lembeh"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Papusungan",
+            "kab_kota": "Kota Bitung",
+            "pulau": "Pulau Lembeh",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Bitung"
+            ],
+            "jenis": "Laut",
+            "perairan": "Selat Lembeh"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Biaro",
+            "kab_kota": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+            "pulau": "Pulau Biaro",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Buhias",
+                "Makalehi",
+                "Munte",
+                "Sawang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Minanga",
+            "kab_kota": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+            "pulau": "Pulau Tagulandang",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Biaro",
+                "Bitung",
+                "Buhias",
+                "Makalehi",
+                "Munte",
+                "Sawang"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Sawang",
+            "kab_kota": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+            "pulau": "Pulau Siau",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Biaro",
+                "Bitung",
+                "Buhias",
+                "Makalehi",
+                "Minanga",
+                "Munte"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Pananaru",
+            "kab_kota": "Kabupaten Kepulauan Sangihe",
+            "pulau": "Pulau Sangihe",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Amurang",
+                "Melonguane",
+                "Miangas",
+                "Munte"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Melonguane",
+            "kab_kota": "Kabupaten Kepulauan Talaud",
+            "pulau": "Pulau Karakelong",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Miangas",
+                "Munte",
+                "Pananaru"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Sulawesi"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Miangas",
+            "kab_kota": "Kabupaten Kepulauan Talaud",
+            "pulau": "Pulau Miangas",
+            "provinsi": "Sulawesi Utara",
+            "tujuan": [
+                "Melonguane",
+                "Munte",
+                "Pananaru"
+            ],
+            "jenis": "Laut",
+            "perairan": "Samudera Pasifik"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Batang Dua",
+            "kab_kota": "Kota Ternate",
+            "pulau": "Pulau Tifore",
+            "provinsi": "Maluku Utara",
+            "tujuan": [
+                "Bastiong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Keramat",
+            "kab_kota": "Kota Ternate",
+            "pulau": "Pulau Mayu",
+            "provinsi": "Maluku Utara",
+            "tujuan": [
+                "Bastiong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Bastiong",
+            "kab_kota": "Kota Ternate",
+            "pulau": "Pulau Ternate",
+            "provinsi": "Maluku Utara",
+            "tujuan": [
+                "Batang Dua",
+                "Bitung",
+                "Daruba",
+                "Keramat",
+                "Makian",
+                "Moti",
+                "Rum",
+                "Sidangoli",
+                "Sofifi"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Moti",
+            "kab_kota": "Kota Ternate",
+            "pulau": "Pulau Moti",
+            "provinsi": "Maluku Utara",
+            "tujuan": [
+                "Bastiong",
+                "Makian"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        },
+        {
+            "section": null,
+            "source_table_index": 1,
+            "nama_pelabuhan": "Rum",
+            "kab_kota": "Kota Tidore Kepulauan",
+            "pulau": "Pulau Tidore",
+            "provinsi": "Maluku Utara",
+            "tujuan": [
+                "Bastiong"
+            ],
+            "jenis": "Laut",
+            "perairan": "Laut Maluku"
+        }
+    ]
+}
