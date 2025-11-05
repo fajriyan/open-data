@@ -13,8 +13,8 @@ list data yang bisa digunakan :
    [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
 5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.md)
 6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.md)
-7. Libur Nasional (.json)
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
+7. Libur Nasional (.json) 
+   [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional) (updated)
 8. Wilayah Indonesia (.sql dan .json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia)
 9. Plat Nomor Indonesia (.json)
@@ -25,6 +25,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/stasiun-kereta-indonesia.json)
 12. Pelabuhan Penyebrangan Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-penyebrangan.json)
+13. Pelabuhan Perikanan Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-perikanan.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).

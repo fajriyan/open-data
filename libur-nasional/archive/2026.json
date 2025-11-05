@@ -10,19 +10,9 @@
     "holiday_name": "Isra Mi'raj"
   },
   {
-    "date": "16 Februari",
-    "day": "Senin",
-    "holiday_name": "Cuti Bersama Tahun Baru Imlek"
-  },
-  {
     "date": "17 Februari",
     "day": "Selasa",
     "holiday_name": "Tahun Baru Imlek"
-  },
-  {
-    "date": "18 Maret",
-    "day": "Rabu",
-    "holiday_name": "Cuti Bersama Hari Suci Nyepi"
   },
   {
     "date": "19 Maret",
@@ -32,27 +22,17 @@
   {
     "date": "20 Maret",
     "day": "Jumat",
-    "holiday_name": "Cuti Bersama Lebaran"
-  },
-  {
-    "date": "21 Maret to 22 Maret",
-    "day": "Sabtu to Minggu",
     "holiday_name": "Hari Raya Idul Fitri"
   },
   {
-    "date": "23 Maret to 24 Maret",
-    "day": "Senin to Selasa",
+    "date": "21 Maret",
+    "day": "Sabtu",
     "holiday_name": "Cuti Bersama Lebaran"
   },
   {
     "date": "3 April",
     "day": "Jumat",
     "holiday_name": "Jumat Agung"
-  },
-  {
-    "date": "5 April",
-    "day": "Minggu",
-    "holiday_name": "Paskah"
   },
   {
     "date": "1 Mei",
@@ -65,19 +45,9 @@
     "holiday_name": "Kenaikan Isa Almasih"
   },
   {
-    "date": "15 Mei",
-    "day": "Jumat",
-    "holiday_name": "Cuti Bersama Kenaikan Isa Almasih"
-  },
-  {
     "date": "27 Mei",
     "day": "Rabu",
     "holiday_name": "Idul Adha"
-  },
-  {
-    "date": "28 Mei",
-    "day": "Kamis",
-    "holiday_name": "Cuti Bersama Idul Adha"
   },
   {
     "date": "31 Mei",
@@ -90,8 +60,8 @@
     "holiday_name": "Hari Lahir Pancasila"
   },
   {
-    "date": "16 Juni",
-    "day": "Selasa",
+    "date": "17 Juni",
+    "day": "Rabu",
     "holiday_name": "Tahun Baru Islam"
   },
   {
@@ -103,11 +73,6 @@
     "date": "25 Agustus",
     "day": "Selasa",
     "holiday_name": "Maulid Nabi Muhammad SAW"
-  },
-  {
-    "date": "24 Desember",
-    "day": "Kamis",
-    "holiday_name": "Cuti Bersama Hari Natal"
   },
   {
     "date": "25 Desember",
