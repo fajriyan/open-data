@@ -44,6 +44,11 @@ silahkan submit [disini](mailto:fajriyan20@gmail.com), terimakasih.
 ![Repo Size](https://img.shields.io/github/repo-size/fajriyan/open-data)
 ![License](https://img.shields.io/github/license/fajriyan/open-data)
 
+next data:
+- data bandara indonesia
+- data taman indonesia
+- data perpustakaan indonesia
+
 tag : open data indonesia, data publik indonesia, dataset indonesia, repository
 data indonesia, kumpulan data indonesia, free dataset indonesia, jurnal
 indonesia open access, repository jurnal indonesia, jurnal ilmiah indonesia pdf,
