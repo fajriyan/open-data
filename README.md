@@ -13,8 +13,9 @@ list data yang bisa digunakan :
    [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
 5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.md)
 6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.md)
-7. Libur Nasional (.json) 
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional) (updated)
+7. Libur Nasional (.json)
+   [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
+   (updated)
 8. Wilayah Indonesia (.sql dan .json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia)
 9. Plat Nomor Indonesia (.json)
@@ -27,6 +28,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-penyebrangan.json)
 13. Pelabuhan Perikanan Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-perikanan.json)
+14. Bandar Udara Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/bandar-udara-indonesia.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -45,7 +48,7 @@ silahkan submit [disini](mailto:fajriyan20@gmail.com), terimakasih.
 ![License](https://img.shields.io/github/license/fajriyan/open-data)
 
 next data:
-- data bandara indonesia
+
 - data taman indonesia
 - data perpustakaan indonesia
 
