@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "updated_at": "2025-12-24T14:00:00+07:00"
+  },
+  "zones": {
+    "WIB": {
+      "label": "Waktu Indonesia Barat",
+      "code": "UTC+07:00",
+      "utc_offset": "+07:00",
+      "order": 1,
+      "example_time": "07:00",
+      "count": {
+        "islands": 3,
+        "provinces": 18
+      },
+      "regions": {
+        "Pulau Sumatra": [
+          "Aceh",
+          "Sumatera Utara",
+          "Sumatera Barat",
+          "Riau",
+          "Kepulauan Riau",
+          "Jambi",
+          "Bengkulu",
+          "Sumatera Selatan",
+          "Kepulauan Bangka Belitung",
+          "Lampung"
+        ],
+        "Pulau Jawa": [
+          "Banten",
+          "Daerah Khusus Jakarta",
+          "Jawa Barat",
+          "Jawa Tengah",
+          "Daerah Istimewa Yogyakarta",
+          "Jawa Timur"
+        ],
+        "Pulau Kalimantan": ["Kalimantan Barat", "Kalimantan Tengah"]
+      }
+    },
+    "WITA": {
+      "label": "Waktu Indonesia Tengah",
+      "code": "UTC+08:00",
+      "utc_offset": "+08:00",
+      "order": 2,
+      "example_time": "08:00",
+      "count": {
+        "islands": 3,
+        "provinces": 13
+      },
+      "regions": {
+        "Pulau Kalimantan": [
+          "Kalimantan Selatan",
+          "Kalimantan Timur",
+          "Ibu Kota Nusantara",
+          "Kalimantan Utara"
+        ],
+        "Pulau Sulawesi": [
+          "Sulawesi Utara",
+          "Gorontalo",
+          "Sulawesi Tengah",
+          "Sulawesi Tenggara",
+          "Sulawesi Selatan",
+          "Sulawesi Barat"
+        ],
+        "Kepulauan Nusa Tenggara": [
+          "Bali",
+          "Nusa Tenggara Barat",
+          "Nusa Tenggara Timur"
+        ]
+      }
+    },
+    "WIT": {
+      "label": "Waktu Indonesia Timur",
+      "code": "UTC+09:00",
+      "utc_offset": "+09:00",
+      "order": 3,
+      "example_time": "09:00",
+      "count": {
+        "islands": 2,
+        "provinces": 8
+      },
+      "regions": {
+        "Kepulauan Maluku": ["Maluku Utara", "Maluku"],
+        "Pulau Papua": [
+          "Papua Barat Daya",
+          "Papua Barat",
+          "Papua Tengah",
+          "Papua",
+          "Papua Pegunungan",
+          "Papua Selatan"
+        ]
+      }
+    }
+  }
+}

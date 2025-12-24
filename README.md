@@ -32,6 +32,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/bandar-udara-indonesia.json)
 15. Taman Nasional Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/taman_nasional.json)
+16. Zona Waktu Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/zona_waktu_id.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -52,7 +54,7 @@ silahkan submit [disini](mailto:fajriyan20@gmail.com), terimakasih.
 next data:
 
 - Data perpustakaan indonesia
-- Zona Waktu Indonesia
+- Zona Waktu Indonesia ✅
 - Pulau Besar & Sub-Pulau di Indonesia
 - Daftar Universitas di Indonesia (PTN + PTS)
 - Flora & Fauna Dilindungi Indonesia
@@ -64,7 +66,6 @@ next data:
 - Waterfall / Air Terjun Indonesia
 - Daftar Desa Wisata Indonesia
 - ISP di Indonesia + ASN
-
 
 tag : open data indonesia, data publik indonesia, dataset indonesia, repository
 data indonesia, kumpulan data indonesia, free dataset indonesia, jurnal
