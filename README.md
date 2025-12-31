@@ -16,8 +16,8 @@ list data yang bisa digunakan :
 7. Libur Nasional (.json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
    (updated)
-8. Wilayah Indonesia (.sql dan .json)
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia)
+8. Data Wilayah Indonesia (.sql dan .json)
+   [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/data-wilayah)
 9. Plat Nomor Indonesia (.json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/plat-nomor-indonesia)
 10. Terminal Bus Indonesia (.json)
@@ -34,6 +34,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/taman_nasional.json)
 16. Zona Waktu Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/zona_waktu_id.json)
+17. Map Topologi Indonesia 38 Provinsi (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/map-topologi/38-provinces)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
