@@ -36,6 +36,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/zona_waktu_id.json)
 17. Map Topologi Indonesia 38 Provinsi (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/map-topologi/38-provinces)
+18. Universitas di Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/universitas-indonesia.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
