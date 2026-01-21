@@ -36,8 +36,10 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/zona_waktu_id.json)
 17. Map Topologi Indonesia 38 Provinsi (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/map-topologi/38-provinces)
-18. Universitas di Indonesia (.json)
+18. Perguruan Tinggi (PTN & PTS) Nasional (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/universitas-indonesia.json)
+19. Rumah Sakit Nasional (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/rumah-sakit-nasional.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -60,9 +62,9 @@ next data:
 - Data perpustakaan indonesia
 - Zona Waktu Indonesia ✅
 - Pulau Besar & Sub-Pulau di Indonesia
-- Daftar Universitas di Indonesia (PTN + PTS)
+- Daftar Universitas di Indonesia (PTN + PTS) ✅
 - Flora & Fauna Dilindungi Indonesia
-- Data Rumah Sakit Indonesia
+- Data Rumah Sakit Indonesia ✅
 - Data Puskesmas Indonesia
 - Data Kode POS Indonesia
 - Daftar Bank dan Kode Bank Indonesia
