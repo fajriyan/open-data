@@ -40,6 +40,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/universitas-indonesia.json)
 19. Rumah Sakit Nasional (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/rumah-sakit-nasional.json)
+20. Bank Nasional (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/bank-nasional.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -67,7 +69,7 @@ next data:
 - Data Rumah Sakit Indonesia ✅
 - Data Puskesmas Indonesia
 - Data Kode POS Indonesia
-- Daftar Bank dan Kode Bank Indonesia
+- Daftar Bank dan Kode Bank Indonesia ✅
 - Daftar Candi Indonesia
 - Waterfall / Air Terjun Indonesia
 - Daftar Desa Wisata Indonesia
