@@ -42,6 +42,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/rumah-sakit-nasional.json)
 20. Bank Nasional (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/bank-nasional.json)
+21. Candi di Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/candi-indonesia.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).

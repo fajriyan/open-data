@@ -1,0 +1,2144 @@
+{
+  "source": "wikipedia",
+  "updated_at": "2026-02-03T04:59:13.106576",
+  "data": [
+    {
+      "provinsi": "Sumatera Utara",
+      "kabupaten": "Kabupaten Padang Lawas Utara",
+      "candi": [
+        {
+          "name": "Candi Bahal",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bahal",
+          "children": []
+        },
+        {
+          "name": "Candi Bara",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bara",
+          "children": []
+        },
+        {
+          "name": "Candi Pulo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pulo",
+          "children": []
+        },
+        {
+          "name": "Candi Sitopayan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sitopayan",
+          "children": []
+        },
+        {
+          "name": "Biaro Tanjung Bangun",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tanjung_Bangun",
+          "children": []
+        },
+        {
+          "name": "Candi Aek Haruaya",
+          "url": "https://id.wikipedia.org/wiki/Candi_Aek_Haruaya?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Mangaledang",
+          "url": "https://id.wikipedia.org/wiki/Situs_Mangaledang?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Naga Saribu",
+          "url": "https://id.wikipedia.org/wiki/Situs_Naga_Saribu?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Utara",
+      "kabupaten": "Kabupaten Mandailing Natal",
+      "candi": [
+        {
+          "name": "Caṇḍi Simangambat",
+          "url": "https://id.wikipedia.org/wiki/Candi_Simangambat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Utara",
+      "kabupaten": "Kabupaten Padang Lawas",
+      "candi": [
+        {
+          "name": "Candi Sipamutung",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sipamutung",
+          "children": []
+        },
+        {
+          "name": "Situs Aek Tunjang",
+          "url": "https://id.wikipedia.org/wiki/Situs_Aek_Tunjang?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Tandihat",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tandihat",
+          "children": []
+        },
+        {
+          "name": "Situs Aek Linta",
+          "url": "https://id.wikipedia.org/wiki/Situs_Aek_Linta?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Sangkilon",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sangkilon?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Barat",
+      "kabupaten": "Kabupaten Dharmasraya",
+      "candi": [
+        {
+          "name": "Candi Padang Roco",
+          "url": "https://id.wikipedia.org/wiki/Candi_Padangroco",
+          "children": []
+        },
+        {
+          "name": "Candi Pulau Sawah",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pulau_Sawah",
+          "children": [
+            {
+              "name": "Candi Pulau Sawah I",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pulau_Sawah_I?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Pulau Sawah II",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pulau_Sawah_II?action=edit&redlink=1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Candi Bukik Awang Maombiak",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bukik_Awang_Maombiak?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Barat",
+      "kabupaten": "Kabupaten Pasaman",
+      "candi": [
+        {
+          "name": "Candi Tanjungmedan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tanjungmedan",
+          "children": []
+        },
+        {
+          "name": "Candi Koto Rao",
+          "url": "https://id.wikipedia.org/wiki/Candi_Koto_Rao",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jambi",
+      "kabupaten": "Kabupaten Muaro Jambi",
+      "candi": [
+        {
+          "name": "Candi Muaro Jambi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Muaro_Jambi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jambi",
+      "kabupaten": "Kabupaten Tanjung Jabung Timur",
+      "candi": [
+        {
+          "name": "Situs Orang Kayu Hitam",
+          "url": "https://id.wikipedia.org/wiki/Situs_Orang_Kayo_Hitam",
+          "children": [
+            {
+              "name": "Candi Satu",
+              "url": "https://id.wikipedia.org/wiki/Candi_Satu?action=edit&redlink=1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Selatan",
+      "kabupaten": "Kota Palembang",
+      "candi": [
+        {
+          "name": "Candi Angsoka",
+          "url": "https://id.wikipedia.org/wiki/Candi_Angsoka?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Selatan",
+      "kabupaten": "Kabupaten Musi Rawas",
+      "candi": [
+        {
+          "name": "Candi Lesung Batu",
+          "url": "https://id.wikipedia.org/wiki/Candi_Lesung_Batu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Selatan",
+      "kabupaten": "Kabupaten Muara Enim",
+      "candi": [
+        {
+          "name": "Candi Bumi Ayu",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bumiayu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Selatan",
+      "kabupaten": "Kota Pagar Alam",
+      "candi": [
+        {
+          "name": "Situs Rimba Candi",
+          "url": "https://id.wikipedia.org/wiki/Situs_Rimba_Candi?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Sumatera Selatan",
+      "kabupaten": "Kabupaten Ogan Komering Ulu Selatan",
+      "candi": [
+        {
+          "name": "Candi Jepara",
+          "url": "https://id.wikipedia.org/wiki/Candi_Jepara",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Banten",
+      "kabupaten": "Kabupaten Pandeglang",
+      "candi": [
+        {
+          "name": "Gunung Pulosari",
+          "url": "https://id.wikipedia.org/wiki/Gunung_Pulosari",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Banten",
+      "kabupaten": "Kota Serang",
+      "candi": [
+        {
+          "name": "Banten Girang",
+          "url": "https://id.wikipedia.org/wiki/Banten_Girang",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kabupaten Garut",
+      "candi": [
+        {
+          "name": "Candi Cangkuang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Cangkuang",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kabupaten Karawang",
+      "candi": [
+        {
+          "name": "Situs Batujaya",
+          "url": "https://id.wikipedia.org/wiki/Situs_Batujaya",
+          "children": [
+            {
+              "name": "Candi Jiwa",
+              "url": "https://id.wikipedia.org/wiki/Candi_Jiwa?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Blandongan",
+              "url": "https://id.wikipedia.org/wiki/Candi_Blandongan?action=edit&redlink=1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Situs Cibuaya",
+          "url": "https://id.wikipedia.org/wiki/Situs_Cibuaya",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kota Tasikmalaya",
+      "candi": [
+        {
+          "name": "Situs Lingga Yoni",
+          "url": "https://id.wikipedia.org/wiki/Situs_Lingga_Yoni?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kabupaten Bandung",
+      "candi": [
+        {
+          "name": "Candi Bojongmenje",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bojongmenje",
+          "children": []
+        },
+        {
+          "name": "Candi Bojongemas",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bojongemas?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kabupaten Ciamis",
+      "candi": [
+        {
+          "name": "Situs Batu Kalde",
+          "url": "https://id.wikipedia.org/wiki/Situs_Batu_Kalde?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Karangkamulyan",
+          "url": "https://id.wikipedia.org/wiki/Situs_Karangkamulyan",
+          "children": []
+        },
+        {
+          "name": "Situs Mangunjaya",
+          "url": "https://id.wikipedia.org/wiki/Situs_Mangunjaya?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Barat",
+      "kabupaten": "Kota Banjar",
+      "candi": [
+        {
+          "name": "Situs Rajegwesi",
+          "url": "https://id.wikipedia.org/wiki/Situs_Rajegwesi?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Magelang",
+      "candi": [
+        {
+          "name": "Candi Borobudur",
+          "url": "https://id.wikipedia.org/wiki/Candi_Borobudur",
+          "children": []
+        },
+        {
+          "name": "Candi Mendut",
+          "url": "https://id.wikipedia.org/wiki/Candi_Mendut",
+          "children": []
+        },
+        {
+          "name": "Candi Pawon",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pawon",
+          "children": []
+        },
+        {
+          "name": "Candi Ngawen",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ngawen",
+          "children": []
+        },
+        {
+          "name": "Candi Asu",
+          "url": "https://id.wikipedia.org/wiki/Candi_Asu",
+          "children": []
+        },
+        {
+          "name": "Candi Lumbung (Sengi)",
+          "url": "https://id.wikipedia.org/wiki/Candi_Lumbung_(Sengi)",
+          "children": []
+        },
+        {
+          "name": "Candi Pendem",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pendem",
+          "children": []
+        },
+        {
+          "name": "Candi Canggal",
+          "url": "https://id.wikipedia.org/wiki/Candi_Canggal",
+          "children": []
+        },
+        {
+          "name": "Candi Selogriyo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Selogriyo",
+          "children": []
+        },
+        {
+          "name": "Candi Losari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Losari",
+          "children": []
+        },
+        {
+          "name": "Candi Gunungsari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gunungsari",
+          "children": []
+        },
+        {
+          "name": "Candi Umbul",
+          "url": "https://id.wikipedia.org/wiki/Candi_Umbul",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Klaten",
+      "candi": [
+        {
+          "name": "Candi Bubrah (Klaten)",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bubrah_(Klaten)",
+          "children": []
+        },
+        {
+          "name": "Candi Prambanan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Prambanan",
+          "children": []
+        },
+        {
+          "name": "Candi Plaosan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Plaosan",
+          "children": []
+        },
+        {
+          "name": "Candi Plaosan Kidul",
+          "url": "https://id.wikipedia.org/wiki/Candi_Plaosan_Kidul?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Sewu",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sewu",
+          "children": []
+        },
+        {
+          "name": "Candi Lumbung",
+          "url": "https://id.wikipedia.org/wiki/Candi_Lumbung",
+          "children": []
+        },
+        {
+          "name": "Candi Sojiwan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sojiwan",
+          "children": []
+        },
+        {
+          "name": "Candi Karangnongko",
+          "url": "https://id.wikipedia.org/wiki/Candi_Karangnongko",
+          "children": []
+        },
+        {
+          "name": "Candi Merak",
+          "url": "https://id.wikipedia.org/wiki/Candi_Merak",
+          "children": []
+        },
+        {
+          "name": "Situs Kunden",
+          "url": "https://id.wikipedia.org/wiki/Situs_Kunden",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Karanganyar",
+      "candi": [
+        {
+          "name": "Candi Sukuh",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sukuh",
+          "children": []
+        },
+        {
+          "name": "Candi Cetho",
+          "url": "https://id.wikipedia.org/wiki/Candi_Cetho",
+          "children": []
+        },
+        {
+          "name": "Candi Kethek",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kethek",
+          "children": []
+        },
+        {
+          "name": "Candi Planggatan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Planggatan",
+          "children": []
+        },
+        {
+          "name": "Situs Menggung",
+          "url": "https://id.wikipedia.org/wiki/Situs_Menggung",
+          "children": []
+        },
+        {
+          "name": "Arca Nandi Colomadu",
+          "url": "https://id.wikipedia.org/wiki/Arca_Nandi_Colomadu",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Semarang",
+      "candi": [
+        {
+          "name": "Candi Dukuh",
+          "url": "https://id.wikipedia.org/wiki/Candi_Dukuh",
+          "children": []
+        },
+        {
+          "name": "Candi Gedong Songo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gedong_Songo",
+          "children": []
+        },
+        {
+          "name": "Candi Klero",
+          "url": "https://id.wikipedia.org/wiki/Candi_Klero",
+          "children": []
+        },
+        {
+          "name": "Candi Ngempon",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ngempon",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Banjarnegara",
+      "candi": [
+        {
+          "name": "Kompleks Candi Dieng",
+          "url": "https://id.wikipedia.org/wiki/Kompleks_Candi_Dieng",
+          "children": [
+            {
+              "name": "Candi Arjuna",
+              "url": "https://id.wikipedia.org/wiki/Candi_Arjuna",
+              "children": []
+            },
+            {
+              "name": "Candi Puntadewa",
+              "url": "https://id.wikipedia.org/wiki/Candi_Puntadewa",
+              "children": []
+            },
+            {
+              "name": "Candi Semar",
+              "url": "https://id.wikipedia.org/wiki/Candi_Semar",
+              "children": []
+            },
+            {
+              "name": "Candi Srikandi",
+              "url": "https://id.wikipedia.org/wiki/Candi_Srikandi",
+              "children": []
+            },
+            {
+              "name": "Candi Sembadra",
+              "url": "https://id.wikipedia.org/wiki/Candi_Sembadra",
+              "children": []
+            },
+            {
+              "name": "Candi Gatotkaca",
+              "url": "https://id.wikipedia.org/wiki/Candi_Gatotkaca",
+              "children": []
+            },
+            {
+              "name": "Candi Setyaki",
+              "url": "https://id.wikipedia.org/wiki/Candi_Setyaki",
+              "children": []
+            },
+            {
+              "name": "Candi Bima",
+              "url": "https://id.wikipedia.org/wiki/Candi_Bima",
+              "children": []
+            },
+            {
+              "name": "Candi Dwarawati",
+              "url": "https://id.wikipedia.org/wiki/Candi_Dwarawati",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Wonosobo",
+      "candi": [
+        {
+          "name": "Candi Bogang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bogang",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Temanggung",
+      "candi": [
+        {
+          "name": "Candi Pringapus",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pringapus",
+          "children": []
+        },
+        {
+          "name": "Candi Gondosuli",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gondosuli?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Liyangan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Liyangan",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Tegal",
+      "candi": [
+        {
+          "name": "Candi Bulus",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bulus",
+          "children": []
+        },
+        {
+          "name": "Candi Kesuben",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kesuben?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Boyolali",
+      "candi": [
+        {
+          "name": "Candi Sari Cepogo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sari_Cepogo",
+          "children": []
+        },
+        {
+          "name": "Candi Lawang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Lawang",
+          "children": []
+        },
+        {
+          "name": "Situs Sumur Pitu",
+          "url": "https://id.wikipedia.org/wiki/Situs_Sumur_Pitu?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Sumur Songo",
+          "url": "https://id.wikipedia.org/wiki/Situs_Sumur_Songo?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Petirtaan Selodoko",
+          "url": "https://id.wikipedia.org/wiki/Petirtaan_Selodoko?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Watugenuk",
+          "url": "https://id.wikipedia.org/wiki/Candi_Watugenuk",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Pati",
+      "candi": [
+        {
+          "name": "Candi Miyono",
+          "url": "https://id.wikipedia.org/wiki/Candi_Miyono",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Blora",
+      "candi": [
+        {
+          "name": "Candi Sentono",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sentono?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Tengah",
+      "kabupaten": "Kabupaten Jepara",
+      "candi": [
+        {
+          "name": "Candi Bubrah (Jepara)",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bubrah_(Jepara)",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kabupaten": "Kabupaten Sleman",
+      "candi": [
+        {
+          "name": "Candi Prambanan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Prambanan",
+          "children": []
+        },
+        {
+          "name": "Situs Arca Gupolo",
+          "url": "https://id.wikipedia.org/wiki/Situs_Arca_Gupolo",
+          "children": []
+        },
+        {
+          "name": "Situs Goa Sentono",
+          "url": "https://id.wikipedia.org/wiki/Situs_Goa_Sentono",
+          "children": []
+        },
+        {
+          "name": "Candi Kalasan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kalasan",
+          "children": []
+        },
+        {
+          "name": "Candi Banyunibo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Banyunibo",
+          "children": []
+        },
+        {
+          "name": "Candi Ratu Boko",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ratu_Boko",
+          "children": []
+        },
+        {
+          "name": "Candi Sambi Sari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sambi_Sari",
+          "children": []
+        },
+        {
+          "name": "Candi Sari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sari",
+          "children": []
+        },
+        {
+          "name": "Candi Ijo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ijo",
+          "children": []
+        },
+        {
+          "name": "Candi Barong",
+          "url": "https://id.wikipedia.org/wiki/Candi_Barong",
+          "children": []
+        },
+        {
+          "name": "Candi Kedulan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kedulan",
+          "children": []
+        },
+        {
+          "name": "Candi Gebang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gebang",
+          "children": []
+        },
+        {
+          "name": "Candi Morangan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Morangan",
+          "children": []
+        },
+        {
+          "name": "Candi Keblak",
+          "url": "https://id.wikipedia.org/wiki/Candi_Keblak",
+          "children": []
+        },
+        {
+          "name": "Candi Abang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Abang",
+          "children": []
+        },
+        {
+          "name": "Candi Miri",
+          "url": "https://id.wikipedia.org/wiki/Candi_Miri",
+          "children": []
+        },
+        {
+          "name": "Candi Dawangsari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Dawangsari",
+          "children": []
+        },
+        {
+          "name": "Candi Kimpulan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kimpulan",
+          "children": []
+        },
+        {
+          "name": "Candi Klodangan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Klodangan",
+          "children": []
+        },
+        {
+          "name": "Candi Palgading",
+          "url": "https://id.wikipedia.org/wiki/Candi_Palgading",
+          "children": []
+        },
+        {
+          "name": "Arca Bugisan",
+          "url": "https://id.wikipedia.org/wiki/Arca_Bugisan",
+          "children": []
+        },
+        {
+          "name": "Candi Watu Gudhig",
+          "url": "https://id.wikipedia.org/wiki/Candi_Watu_Gudhig",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kabupaten": "Kabupaten Bantul",
+      "candi": [
+        {
+          "name": "Situs Mantup",
+          "url": "https://id.wikipedia.org/wiki/Situs_Mantup",
+          "children": []
+        },
+        {
+          "name": "Candi Gampingan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gampingan",
+          "children": []
+        },
+        {
+          "name": "Situs Payak Bantul",
+          "url": "https://id.wikipedia.org/wiki/Situs_Payak_Bantul",
+          "children": []
+        },
+        {
+          "name": "Situs Mangir",
+          "url": "https://id.wikipedia.org/wiki/Situs_Mangir?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kabupaten": "Kabupaten Kulon Progo",
+      "candi": [
+        {
+          "name": "Candi Pringtali",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pringtali",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "kabupaten": "Kabupaten Gunung Kidul",
+      "candi": [
+        {
+          "name": "Candi Risan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Risan",
+          "children": []
+        },
+        {
+          "name": "Situs Gembirowati",
+          "url": "https://id.wikipedia.org/wiki/Situs_Gembirowati",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Malang",
+      "candi": [
+        {
+          "name": "Situs Waturejo",
+          "url": "https://id.wikipedia.org/wiki/Situs_Waturejo?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Kagenengan (Wagir,Malang)",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Jago",
+          "url": "https://id.wikipedia.org/wiki/Candi_Jago",
+          "children": []
+        },
+        {
+          "name": "Candi Kidal",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kidal",
+          "children": []
+        },
+        {
+          "name": "Situs Ngawonggo",
+          "url": "https://id.wikipedia.org/wiki/Situs_Ngawonggo?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Singosari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Singosari",
+          "children": []
+        },
+        {
+          "name": "Sumberawan",
+          "url": "https://id.wikipedia.org/wiki/Sumberawan",
+          "children": []
+        },
+        {
+          "name": "Candi Selakelir",
+          "url": "https://id.wikipedia.org/wiki/Candi_Selakelir?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Kompleks Percandian Gunung Arjuna",
+          "url": "https://id.wikipedia.org/wiki/Kompleks_Percandian_Gunung_Arjuna?action=edit&redlink=1",
+          "children": [
+            {
+              "name": "Grup SepiloBhatara GuruCandi MadrinPatuk LesungCandi KembangCandi LepekRhatawuHyang SemarWatu IrengRancang KencanaCandi WesiMakutaramaSepilo",
+              "url": "",
+              "children": [
+                {
+                  "name": "Bhatara Guru",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Candi Madrin",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Patuk Lesung",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Candi Kembang",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Candi Lepek",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Rhatawu",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Hyang Semar",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Watu Ireng",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Rancang Kencana",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Candi Wesi",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Makutarama",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Sepilo",
+                  "url": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Grup IndrokiloSatria ManggungIndrikiloCandi LarasGua Gambir",
+              "url": "",
+              "children": [
+                {
+                  "name": "Satria Manggung",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Indrikilo",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Candi Laras",
+                  "url": "",
+                  "children": []
+                },
+                {
+                  "name": "Gua Gambir",
+                  "url": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Candi Jawar Ombo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Jawar_Ombo?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Bocok",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bocok",
+          "children": []
+        },
+        {
+          "name": "Petirtaan Watugede",
+          "url": "https://id.wikipedia.org/wiki/Petirtaan_Watugede",
+          "children": []
+        },
+        {
+          "name": "Candi Ngabab",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ngabab",
+          "children": []
+        },
+        {
+          "name": "Candi Gunung Telih",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gunung_Telih?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kota Malang",
+      "candi": [
+        {
+          "name": "Candi Badut",
+          "url": "https://id.wikipedia.org/wiki/Candi_Badut",
+          "children": []
+        },
+        {
+          "name": "Candi Karang Besuki",
+          "url": "https://id.wikipedia.org/wiki/Candi_Karang_Besuki",
+          "children": []
+        },
+        {
+          "name": "Situs Watugong",
+          "url": "https://id.wikipedia.org/wiki/Situs_Watugong",
+          "children": []
+        },
+        {
+          "name": "Situs Sumur Windu",
+          "url": "https://id.wikipedia.org/wiki/Situs_Sumur_Windu?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kota Batu",
+      "candi": [
+        {
+          "name": "Candi Sanggariti",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sanggariti",
+          "children": []
+        },
+        {
+          "name": "Punden Mojorejo",
+          "url": "https://id.wikipedia.org/wiki/Punden_Mojorejo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Kediri",
+      "candi": [
+        {
+          "name": "Candi Surawana",
+          "url": "https://id.wikipedia.org/wiki/Candi_Surawana",
+          "children": []
+        },
+        {
+          "name": "Candi Tegowangi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tegowangi",
+          "children": []
+        },
+        {
+          "name": "Arca Totok Kerot",
+          "url": "https://id.wikipedia.org/wiki/Arca_Totok_Kerot",
+          "children": []
+        },
+        {
+          "name": "Situs Tunglur",
+          "url": "https://id.wikipedia.org/wiki/Situs_Tunglur?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Panji Gambyok",
+          "url": "https://id.wikipedia.org/wiki/Situs_Panji_Gambyok?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Bandara Kediri",
+          "url": "https://id.wikipedia.org/wiki/Situs_Bandara_Kediri?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Calon Arang",
+          "url": "https://id.wikipedia.org/wiki/Situs_Calon_Arang?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Tondowongso",
+          "url": "https://id.wikipedia.org/wiki/Situs_Tondowongso",
+          "children": []
+        },
+        {
+          "name": "Situs Adan-Adan",
+          "url": "https://id.wikipedia.org/wiki/Situs_Adan-Adan",
+          "children": []
+        },
+        {
+          "name": "Candi Dorok",
+          "url": "https://id.wikipedia.org/wiki/Candi_Dorok",
+          "children": []
+        },
+        {
+          "name": "Petirtaan Geneng",
+          "url": "https://id.wikipedia.org/wiki/Petirtaan_Geneng?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Kepung Petirtaan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kepung_Petirtaan?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Arca Ringin Budha",
+          "url": "https://id.wikipedia.org/wiki/Arca_Ringin_Budha?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Nambaan",
+          "url": "https://id.wikipedia.org/wiki/Situs_Nambaan?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Candi Semen",
+          "url": "https://id.wikipedia.org/wiki/Situs_Candi_Semen?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Babadan",
+          "url": "https://id.wikipedia.org/wiki/Situs_Babadan?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kota Kediri",
+      "candi": [
+        {
+          "name": "Kompleks Pertapaan Goa Selomangleng",
+          "url": "https://id.wikipedia.org/wiki/Kompleks_Pertapaan_Goa_Selomangleng",
+          "children": []
+        },
+        {
+          "name": "Candi Gunung Klotok",
+          "url": "https://id.wikipedia.org/wiki/Gunung_Klotok",
+          "children": []
+        },
+        {
+          "name": "Gua Selobale",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Setono Gedong, Candi masa Kerajaan Kadhiri yang terletak di Jl. Dhoho ini pada bulan Oktober 2013 hampir dihancurkan demi perluasan Masjid.",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Pandean (Arca Durga)",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Siti Inggil",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Joko Dolog",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Botolengket",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Candi Burengan",
+          "url": "",
+          "children": []
+        },
+        {
+          "name": "Petirtaaan Dadapan",
+          "url": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Nganjuk",
+      "candi": [
+        {
+          "name": "Candi Lor",
+          "url": "https://id.wikipedia.org/wiki/Candi_Lor",
+          "children": []
+        },
+        {
+          "name": "Candi Ngetos",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ngetos",
+          "children": []
+        },
+        {
+          "name": "Yoni Brebek",
+          "url": "https://id.wikipedia.org/wiki/Yoni_Brebek?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Situs Pace Kulon",
+          "url": "https://id.wikipedia.org/wiki/Situs_Pace_Kulon?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Jombang",
+      "candi": [
+        {
+          "name": "Candi Rimbi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Rimbi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Pasuruan",
+      "candi": [
+        {
+          "name": "Candi Jawi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Jawi",
+          "children": []
+        },
+        {
+          "name": "Candi Kebo Ireng",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kebo_Ireng",
+          "children": []
+        },
+        {
+          "name": "Candi Gunung Gangsir",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gunung_Gangsir",
+          "children": []
+        },
+        {
+          "name": "Kompleks Percandian Gunung Welirang",
+          "url": "https://id.wikipedia.org/wiki/Kompleks_Percandian_Gunung_Welirang?action=edit&redlink=1",
+          "children": [
+            {
+              "name": "Reco Lanang",
+              "url": "https://id.wikipedia.org/wiki/Reco_Lanang?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Reco Wadon",
+              "url": "https://id.wikipedia.org/wiki/Reco_Wadon?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Watu Meja",
+              "url": "https://id.wikipedia.org/wiki/Watu_Meja?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Watu Kaca",
+              "url": "https://id.wikipedia.org/wiki/Watu_Kaca?action=edit&redlink=1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Kompleks Percandian Gunung Ringgit",
+          "url": "https://id.wikipedia.org/wiki/Kompleks_Percandian_Gunung_Ringgit?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Lulumbang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Lulumbang?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Mojokerto",
+      "candi": [
+        {
+          "name": "Candi Bangkal",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bangkal",
+          "children": []
+        },
+        {
+          "name": "Kompleks Situs Trowulan",
+          "url": "https://id.wikipedia.org/wiki/Situs_Trowulan",
+          "children": [
+            {
+              "name": "Candi Tikus",
+              "url": "https://id.wikipedia.org/wiki/Candi_Tikus",
+              "children": []
+            },
+            {
+              "name": "Candi Klinterejo",
+              "url": "https://id.wikipedia.org/wiki/Candi_Klinterejo?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Menak Jingga",
+              "url": "https://id.wikipedia.org/wiki/Candi_Menak_Jingga?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Brahu",
+              "url": "https://id.wikipedia.org/wiki/Candi_Brahu",
+              "children": []
+            },
+            {
+              "name": "Candi Gentong",
+              "url": "https://id.wikipedia.org/wiki/Candi_Gentong",
+              "children": []
+            },
+            {
+              "name": "Gapura Wringin Lawang",
+              "url": "https://id.wikipedia.org/wiki/Gapura_Wringin_Lawang",
+              "children": []
+            },
+            {
+              "name": "Gapura Bajang Ratu",
+              "url": "https://id.wikipedia.org/wiki/Gapura_Bajang_Ratu",
+              "children": []
+            },
+            {
+              "name": "Candi Kedaton",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kedaton",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Kompleks Percandian Gunung Penanggungan",
+          "url": "https://id.wikipedia.org/wiki/Kompleks_Percandian_Gunung_Penanggungan?action=edit&redlink=1",
+          "children": [
+            {
+              "name": "Petirtaan Jalatunda",
+              "url": "https://id.wikipedia.org/wiki/Petirtaan_Jalatunda",
+              "children": []
+            },
+            {
+              "name": "Candi Kama I",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kama_I?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Kama II",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kama_II?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Gajah Mungkur",
+              "url": "https://id.wikipedia.org/wiki/Candi_Gajah_Mungkur?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Wayang",
+              "url": "https://id.wikipedia.org/wiki/Candi_Wayang",
+              "children": []
+            },
+            {
+              "name": "Candi Kendalisada",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kendalisada",
+              "children": []
+            },
+            {
+              "name": "Candi Pasetran",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pasetran?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Gapura Jedong",
+              "url": "https://id.wikipedia.org/wiki/Gapura_Jedong",
+              "children": []
+            },
+            {
+              "name": "Petirtaan Watu Tetek",
+              "url": "https://id.wikipedia.org/wiki/Petirtaan_Watu_Tetek?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Petirtaan Belahan",
+              "url": "https://id.wikipedia.org/wiki/Petirtaan_Belahan",
+              "children": []
+            },
+            {
+              "name": "Candi Lemari",
+              "url": "https://id.wikipedia.org/wiki/Candi_Lemari?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Bayi",
+              "url": "https://id.wikipedia.org/wiki/Candi_Bayi?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Putri",
+              "url": "https://id.wikipedia.org/wiki/Candi_Putri?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Pura",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pura?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Gentong",
+              "url": "https://id.wikipedia.org/wiki/Candi_Gentong",
+              "children": []
+            },
+            {
+              "name": "Candi Shinta",
+              "url": "https://id.wikipedia.org/wiki/Candi_Shinta?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Lurah",
+              "url": "https://id.wikipedia.org/wiki/Candi_Lurah?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Carik",
+              "url": "https://id.wikipedia.org/wiki/Candi_Carik?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Yudha",
+              "url": "https://id.wikipedia.org/wiki/Candi_Yudha?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Wisnu",
+              "url": "https://id.wikipedia.org/wiki/Candi_Wisnu?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Kepurbakalaan XII",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kepurbakalaan_XII?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi kepurbakalaan XIII",
+              "url": "https://id.wikipedia.org/wiki/Candi_kepurbakalaan_XIII?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Buyung",
+              "url": "https://id.wikipedia.org/wiki/Candi_Buyung?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Kursi",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kursi?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Kendalisodo",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kendalisodo",
+              "children": []
+            },
+            {
+              "name": "Candi Selakir dan Tekingblandong",
+              "url": "https://id.wikipedia.org/wiki/Candi_Selakir_dan_Tekingblandong?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Naga I",
+              "url": "https://id.wikipedia.org/wiki/Candi_Naga_I?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Pendawa",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pendawa?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Merak",
+              "url": "https://id.wikipedia.org/wiki/Candi_Merak",
+              "children": []
+            },
+            {
+              "name": "Candi Naga II",
+              "url": "https://id.wikipedia.org/wiki/Candi_Naga_II?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Goa Botol",
+              "url": "https://id.wikipedia.org/wiki/Goa_Botol?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Makam Mbah Lipan",
+              "url": "https://id.wikipedia.org/wiki/Makam_Mbah_Lipan?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Griya",
+              "url": "https://id.wikipedia.org/wiki/Candi_Griya",
+              "children": []
+            },
+            {
+              "name": "Candi Dharmawangsa",
+              "url": "https://id.wikipedia.org/wiki/Candi_Dharmawangsa?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Kerajaan",
+              "url": "https://id.wikipedia.org/wiki/Candi_Kerajaan?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Pelakan Jawa I",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pelakan_Jawa_I?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Pelakan Jawa II",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pelakan_Jawa_II?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Baru",
+              "url": "https://id.wikipedia.org/wiki/Candi_Baru?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama I",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_I?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama II",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_II?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama III",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_III?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama IV",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_IV?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama V",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_V?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama VI",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_VI?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi tanpa nama VII",
+              "url": "https://id.wikipedia.org/wiki/Candi_tanpa_nama_VII?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Batu Jolang",
+              "url": "https://id.wikipedia.org/wiki/Candi_Batu_Jolang?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Goa I",
+              "url": "https://id.wikipedia.org/wiki/Goa_I?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Goa II",
+              "url": "https://id.wikipedia.org/wiki/Goa_II?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Goa III",
+              "url": "https://id.wikipedia.org/wiki/Goa_III?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Goa tanpa nama",
+              "url": "https://id.wikipedia.org/wiki/Goa_tanpa_nama?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Batu Tulis",
+              "url": "https://id.wikipedia.org/wiki/Batu_Tulis?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Goa Widodaren",
+              "url": "https://id.wikipedia.org/wiki/Goa_Widodaren?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Batu Terbang",
+              "url": "https://id.wikipedia.org/wiki/Candi_Batu_Terbang?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Arca Fragmen",
+              "url": "https://id.wikipedia.org/wiki/Arca_Fragmen?action=edit&redlink=1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kota Surabaya",
+      "candi": [
+        {
+          "name": "Arca Joko Dolog",
+          "url": "https://id.wikipedia.org/wiki/Arca_Joko_Dolog",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Blitar",
+      "candi": [
+        {
+          "name": "Candi Bacem",
+          "url": "https://id.wikipedia.org/wiki/Candi_Bacem",
+          "children": []
+        },
+        {
+          "name": "Arca Ganesha Boro",
+          "url": "https://id.wikipedia.org/wiki/Arca_Ganesha_Boro?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Kalicilik",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kalicilik",
+          "children": []
+        },
+        {
+          "name": "Candi Kotes",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kotes",
+          "children": []
+        },
+        {
+          "name": "Candi Wringin Branjang",
+          "url": "https://id.wikipedia.org/wiki/Candi_Wringin_Branjang",
+          "children": []
+        },
+        {
+          "name": "Candi Sawentar",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sawentar",
+          "children": []
+        },
+        {
+          "name": "Candi Sumbernanas",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sumbernanas",
+          "children": []
+        },
+        {
+          "name": "Candi Simping",
+          "url": "https://id.wikipedia.org/wiki/Candi_Simping",
+          "children": []
+        },
+        {
+          "name": "Kompleks Percandian Penataran",
+          "url": "https://id.wikipedia.org/wiki/Candi_Panataran",
+          "children": [
+            {
+              "name": "Bale Agung",
+              "url": "https://id.wikipedia.org/wiki/Bale_Agung?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Pendopo Teras",
+              "url": "https://id.wikipedia.org/wiki/Pendopo_Teras?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Angka Tahun",
+              "url": "https://id.wikipedia.org/wiki/Candi_Angka_Tahun?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Naga",
+              "url": "https://id.wikipedia.org/wiki/Candi_Naga?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Induk Penataran",
+              "url": "https://id.wikipedia.org/wiki/Candi_Induk_Penataran?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Kolam Candi Penataran",
+              "url": "https://id.wikipedia.org/wiki/Kolam_Candi_Penataran?action=edit&redlink=1",
+              "children": []
+            },
+            {
+              "name": "Candi Pemandian Penataran",
+              "url": "https://id.wikipedia.org/wiki/Candi_Pemandian_Penataran?action=edit&redlink=1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Candi Gambar Wetan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gambar_Wetan",
+          "children": []
+        },
+        {
+          "name": "Candi Plumbangan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Plumbangan",
+          "children": []
+        },
+        {
+          "name": "Candi Tepas",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tepas",
+          "children": []
+        },
+        {
+          "name": "Candi Selo Tumpuk",
+          "url": "https://id.wikipedia.org/wiki/Candi_Selo_Tumpuk",
+          "children": []
+        },
+        {
+          "name": "Candi Sumber Agung",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sumber_Agung",
+          "children": []
+        },
+        {
+          "name": "Candi Sirah Kencong",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sirah_Kencong",
+          "children": []
+        },
+        {
+          "name": "Candi Tapan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tapan",
+          "children": []
+        },
+        {
+          "name": "Situs Jeding",
+          "url": "https://id.wikipedia.org/wiki/Situs_Jeding?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Mleri",
+          "url": "https://id.wikipedia.org/wiki/Candi_Mleri?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Rambut Monte",
+          "url": "https://id.wikipedia.org/wiki/Candi_Rambut_Monte",
+          "children": []
+        },
+        {
+          "name": "Situs Bale Kambang",
+          "url": "https://id.wikipedia.org/wiki/Situs_Bale_Kambang?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Probolinggo",
+      "candi": [
+        {
+          "name": "Candi Kedaton",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kedaton",
+          "children": []
+        },
+        {
+          "name": "Candi Jabung",
+          "url": "https://id.wikipedia.org/wiki/Candi_Jabung",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Tulungagung",
+      "candi": [
+        {
+          "name": "Candi Gayatri",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gayatri",
+          "children": []
+        },
+        {
+          "name": "Candi Dadi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Dadi",
+          "children": []
+        },
+        {
+          "name": "Candi Meja",
+          "url": "https://id.wikipedia.org/wiki/Candi_Meja",
+          "children": []
+        },
+        {
+          "name": "Candi Cungkup",
+          "url": "https://id.wikipedia.org/wiki/Candi_Cungkup?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Selomangleng",
+          "url": "https://id.wikipedia.org/wiki/Candi_Selomangleng",
+          "children": []
+        },
+        {
+          "name": "Candi Penampihan",
+          "url": "https://id.wikipedia.org/wiki/Candi_Penampihan",
+          "children": []
+        },
+        {
+          "name": "Candi Mirigambar",
+          "url": "https://id.wikipedia.org/wiki/Candi_Mirigambar",
+          "children": []
+        },
+        {
+          "name": "Candi Ngampel",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ngampel",
+          "children": []
+        },
+        {
+          "name": "Candi Ngampel",
+          "url": "https://id.wikipedia.org/wiki/Candi_Ngampel",
+          "children": []
+        },
+        {
+          "name": "Goa Trtitis",
+          "url": "https://id.wikipedia.org/wiki/Goa_Trtitis?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Goa Pasir",
+          "url": "https://id.wikipedia.org/wiki/Goa_Pasir?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Trenggalek",
+      "candi": [
+        {
+          "name": "Candi Brongkah",
+          "url": "https://id.wikipedia.org/wiki/Candi_Brongkah?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Magetan",
+      "candi": [
+        {
+          "name": "Candi Sadon",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sadon?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Dewi Sri",
+          "url": "https://id.wikipedia.org/wiki/Candi_Dewi_Sri?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Sidoarjo",
+      "candi": [
+        {
+          "name": "Candi Pari",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pari",
+          "children": []
+        },
+        {
+          "name": "Candi Sumur",
+          "url": "https://id.wikipedia.org/wiki/Candi_Sumur",
+          "children": []
+        },
+        {
+          "name": "Candi Medalem",
+          "url": "https://id.wikipedia.org/wiki/Candi_Medalem",
+          "children": []
+        },
+        {
+          "name": "Candi Wangkal",
+          "url": "https://id.wikipedia.org/wiki/Candi_Wangkal",
+          "children": []
+        },
+        {
+          "name": "Candi Pamotan I dan II",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pamotan_I_dan_II",
+          "children": []
+        },
+        {
+          "name": "Candi Dermo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Dermo",
+          "children": []
+        },
+        {
+          "name": "Candi Tawangalun",
+          "url": "https://id.wikipedia.org/wiki/Candi_Tawangalun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Lumajang",
+      "candi": [
+        {
+          "name": "Candi Gedhong Putri",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gedhong_Putri?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Candi Gelisah",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gelisah?action=edit&redlink=1",
+          "children": []
+        },
+        {
+          "name": "Kutorenon, Sukodono",
+          "url": "https://id.wikipedia.org/wiki/Kutorenon,_Sukodono,_Lumajang",
+          "children": []
+        },
+        {
+          "name": "Candi Kunir",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kunir",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Pamekasan",
+      "candi": [
+        {
+          "name": "Situs Candi Burung",
+          "url": "https://id.wikipedia.org/wiki/Situs_Candi_Burung?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Jember",
+      "candi": [
+        {
+          "name": "Candi Deres",
+          "url": "https://id.wikipedia.org/wiki/Candi_Deres",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Ponorogo",
+      "candi": [
+        {
+          "name": "Situs Altar Raja Dharmawangsa",
+          "url": "https://id.wikipedia.org/wiki/Situs_Altar_Raja_Dharmawangsa?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Bojonegoro",
+      "candi": [
+        {
+          "name": "Situs Kayangan Api",
+          "url": "https://id.wikipedia.org/wiki/Situs_Kayangan_Api?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Gresik",
+      "candi": [
+        {
+          "name": "Candi Kepuh Klagen",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kepuh_Klagen?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Madiun",
+      "candi": [
+        {
+          "name": "Candi Wonorejo",
+          "url": "https://id.wikipedia.org/wiki/Candi_Wonorejo?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Jawa Timur",
+      "kabupaten": "Kabupaten Ngawi",
+      "candi": [
+        {
+          "name": "Candi Pendem Ngawi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Pendem_Ngawi?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Bali",
+      "kabupaten": "Kabupaten Buleleng",
+      "candi": [
+        {
+          "name": "Candi Kalibukbuk",
+          "url": "https://id.wikipedia.org/wiki/Candi_Kalibukbuk",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Bali",
+      "kabupaten": "Kabupaten Gianyar",
+      "candi": [
+        {
+          "name": "Candi Gunung Kawi",
+          "url": "https://id.wikipedia.org/wiki/Candi_Gunung_Kawi",
+          "children": []
+        },
+        {
+          "name": "Situs Goa Gajah",
+          "url": "https://id.wikipedia.org/wiki/Situs_Gua_Gajah",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Kalimantan Selatan",
+      "kabupaten": "Kabupaten Hulu Sungai Utara",
+      "candi": [
+        {
+          "name": "Candi Agung",
+          "url": "https://id.wikipedia.org/wiki/Candi_Agung",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Kalimantan Selatan",
+      "kabupaten": "Kabupaten Tapin",
+      "candi": [
+        {
+          "name": "Candi Laras",
+          "url": "https://id.wikipedia.org/wiki/Candi_Laras",
+          "children": []
+        },
+        {
+          "name": "Situs Pematang Bata",
+          "url": "https://id.wikipedia.org/wiki/Situs_Pematang_Bata?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Kalimantan Selatan",
+      "kabupaten": "Kabupaten Kotabaru",
+      "candi": [
+        {
+          "name": "Lasung Batu",
+          "url": "https://id.wikipedia.org/wiki/Lasung_Batu?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Kalimantan Timur",
+      "kabupaten": "Kabupaten Kutai Kartanegara",
+      "candi": [
+        {
+          "name": "Lesong Batu",
+          "url": "https://id.wikipedia.org/wiki/Lesong_Batu",
+          "children": []
+        },
+        {
+          "name": "Arca Buddha Kota Bangun",
+          "url": "https://id.wikipedia.org/wiki/Arca_Buddha_Kota_Bangun?action=edit&redlink=1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "provinsi": "Kalimantan Timur",
+      "kabupaten": "Kabupaten Kutai Timur",
+      "candi": [
+        {
+          "name": "Situs Goa Gunung Kombeng",
+          "url": "https://id.wikipedia.org/wiki/Gua_Gunung_Kombeng",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
