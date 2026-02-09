@@ -44,6 +44,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/bank-nasional.json)
 21. Candi di Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/candi-indonesia.json)
+22. Flora dan Fauna Dilindungi di Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/biodiversity)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -72,7 +74,7 @@ next data:
 - Data Puskesmas Indonesia
 - Data Kode POS Indonesia
 - Daftar Bank dan Kode Bank Indonesia ✅
-- Daftar Candi Indonesia
+- Daftar Candi Indonesia ✅
 - Waterfall / Air Terjun Indonesia
 - Daftar Desa Wisata Indonesia
 - ISP di Indonesia + ASN

@@ -1,0 +1,943 @@
+{
+  "source": "kehutanan.go.id",
+  "scraped_at": "2026-02-06T19:52:22.240790",
+  "total": 117,
+  "data": [
+    {
+      "no": "1",
+      "nama_ilmiah": "Aetoxylon sympetalum",
+      "nama_lokal": "Gaharu buaya",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3569721"
+    },
+    {
+      "no": "2",
+      "nama_ilmiah": "Agathis labillardierei",
+      "nama_lokal": null,
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5284400"
+    },
+    {
+      "no": "3",
+      "nama_ilmiah": "Amorphophallus decus-silvae",
+      "nama_lokal": "Acung jangkung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2871401"
+    },
+    {
+      "no": "4",
+      "nama_ilmiah": "Amorphophallus titanum",
+      "nama_lokal": "Bunga bangkai raksasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2871508"
+    },
+    {
+      "no": "5",
+      "nama_ilmiah": "Anaphalis javanica",
+      "nama_lokal": "Edelweis",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3137058"
+    },
+    {
+      "no": "6",
+      "nama_ilmiah": "Borassodendron borneense",
+      "nama_lokal": "Bindang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2735610"
+    },
+    {
+      "no": "7",
+      "nama_ilmiah": "Camptostemon philippinense",
+      "nama_lokal": "Kayu baluno filipina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4073240"
+    },
+    {
+      "no": "8",
+      "nama_ilmiah": "Caryota no",
+      "nama_lokal": "Palem ekor ikan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2738880"
+    },
+    {
+      "no": "9",
+      "nama_ilmiah": "Castanopsis argentea",
+      "nama_lokal": "Saninten",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5333061"
+    },
+    {
+      "no": "10",
+      "nama_ilmiah": "Ceratolobus glaucescens",
+      "nama_lokal": "Palem jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2733731"
+    },
+    {
+      "no": "11",
+      "nama_ilmiah": "Cymbidium hartinahianum",
+      "nama_lokal": "Anggrek ibu tien",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5305581"
+    },
+    {
+      "no": "12",
+      "nama_ilmiah": "Eurycoma apiculata",
+      "nama_lokal": "Pasak bumi daun runcing",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3709227"
+    },
+    {
+      "no": "13",
+      "nama_ilmiah": "Heritiera globosa",
+      "nama_lokal": "Dungun besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3669117"
+    },
+    {
+      "no": "14",
+      "nama_ilmiah": "Johannesteijsmannia altifrons",
+      "nama_lokal": "Daun sang gajah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2731747"
+    },
+    {
+      "no": "15",
+      "nama_ilmiah": "Nepenthes adnata",
+      "nama_lokal": "Kantong semar menggala",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702022"
+    },
+    {
+      "no": "16",
+      "nama_ilmiah": "Nepenthes adrianii",
+      "nama_lokal": "Kantong semar slamet",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3190711"
+    },
+    {
+      "no": "17",
+      "nama_ilmiah": "Nepenthes albomarginata",
+      "nama_lokal": "Kantong semar bibir putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702230"
+    },
+    {
+      "no": "18",
+      "nama_ilmiah": "Nepenthes aristolochioides",
+      "nama_lokal": "Kantong semar guci",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702095"
+    },
+    {
+      "no": "19",
+      "nama_ilmiah": "Nepenthes bicalcarata",
+      "nama_lokal": "Kantong semar taji dua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702248"
+    },
+    {
+      "no": "20",
+      "nama_ilmiah": "Nepenthes bongso",
+      "nama_lokal": "Kantong semar putri bungsu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702220"
+    },
+    {
+      "no": "21",
+      "nama_ilmiah": "Nepenthes boschiana",
+      "nama_lokal": "Kantong semar daun sompitan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7167258"
+    },
+    {
+      "no": "22",
+      "nama_ilmiah": "Nepenthes campanulata",
+      "nama_lokal": "Kantong semar lonceng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702133"
+    },
+    {
+      "no": "23",
+      "nama_ilmiah": "Nepenthes clipeata",
+      "nama_lokal": "Kantong semar kelam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702027"
+    },
+    {
+      "no": "24",
+      "nama_ilmiah": "Nepenthes danseri",
+      "nama_lokal": "Kantong semar danser",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702195"
+    },
+    {
+      "no": "25",
+      "nama_ilmiah": "Nepenthes densiflora",
+      "nama_lokal": "Kantong semar bibir seksi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702162"
+    },
+    {
+      "no": "26",
+      "nama_ilmiah": "Nepenthes diatas",
+      "nama_lokal": "Kantong semar bandahara",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702131"
+    },
+    {
+      "no": "27",
+      "nama_ilmiah": "Nepenthes dubia",
+      "nama_lokal": "Kantong semar tutup lidah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702051"
+    },
+    {
+      "no": "28",
+      "nama_ilmiah": "Nepenthes ephippiata",
+      "nama_lokal": "Kantong semar pelana",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702232"
+    },
+    {
+      "no": "29",
+      "nama_ilmiah": "Nepenthes epiphytica",
+      "nama_lokal": "Kantong semar epifit",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7219397"
+    },
+    {
+      "no": "30",
+      "nama_ilmiah": "Nepenthes eustachya",
+      "nama_lokal": "Kantong semar rumah siput",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930499"
+    },
+    {
+      "no": "31",
+      "nama_ilmiah": "Nepenthes eymae",
+      "nama_lokal": "Kantong semar cawan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702202"
+    },
+    {
+      "no": "32",
+      "nama_ilmiah": "Nepenthes fusca",
+      "nama_lokal": "Kantong semar tutup kunci",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702129"
+    },
+    {
+      "no": "33",
+      "nama_ilmiah": "Nepenthes glabrata",
+      "nama_lokal": "Kantong semar gundul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930522"
+    },
+    {
+      "no": "34",
+      "nama_ilmiah": "Nepenthes gymnamphora",
+      "nama_lokal": "Kantong semar pinggang seksi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702020"
+    },
+    {
+      "no": "35",
+      "nama_ilmiah": "Nepenthes hamata",
+      "nama_lokal": "Kantong semar tutup bersungut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930512"
+    },
+    {
+      "no": "36",
+      "nama_ilmiah": "Nepenthes hirsuta",
+      "nama_lokal": "Kantong semar daun berbulu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930505"
+    },
+    {
+      "no": "37",
+      "nama_ilmiah": "Nepenthes hispida",
+      "nama_lokal": "Kantong semar bulu sikat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702209"
+    },
+    {
+      "no": "38",
+      "nama_ilmiah": "Nepenthes inermis",
+      "nama_lokal": "Kantong semar trombon",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702125"
+    },
+    {
+      "no": "39",
+      "nama_ilmiah": "Nepenthes insignis",
+      "nama_lokal": "Kantong semar bibir lebar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702103"
+    },
+    {
+      "no": "40",
+      "nama_ilmiah": "Nepenthes izumiae",
+      "nama_lokal": "Kantong semar izumi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702084"
+    },
+    {
+      "no": "41",
+      "nama_ilmiah": "Nepenthes jacquelineae",
+      "nama_lokal": "Kantong semar jaklin",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702072"
+    },
+    {
+      "no": "42",
+      "nama_ilmiah": "Nepenthes jamban",
+      "nama_lokal": "Kantong semar jamban",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8282020"
+    },
+    {
+      "no": "43",
+      "nama_ilmiah": "Nepenthes klossii",
+      "nama_lokal": "Kantong semar antariksa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702206"
+    },
+    {
+      "no": "44",
+      "nama_ilmiah": "Nepenthes lamii",
+      "nama_lokal": "Kantong semar lam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702141"
+    },
+    {
+      "no": "45",
+      "nama_ilmiah": "Nepenthes lavicola",
+      "nama_lokal": "Kantong semar lahar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702122"
+    },
+    {
+      "no": "46",
+      "nama_ilmiah": "Nepenthes lingulata",
+      "nama_lokal": "Kantong semar lidah panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7427946"
+    },
+    {
+      "no": "47",
+      "nama_ilmiah": "Nepenthes lowii",
+      "nama_lokal": "Kantong semar kukusan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702034"
+    },
+    {
+      "no": "48",
+      "nama_ilmiah": "Nepenthes mapuluensis",
+      "nama_lokal": "Kantong semar mapulu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702225"
+    },
+    {
+      "no": "49",
+      "nama_ilmiah": "Nepenthes maxima",
+      "nama_lokal": "Kantong semar maksimum",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7996454"
+    },
+    {
+      "no": "50",
+      "nama_ilmiah": "Nepenthes mikei",
+      "nama_lokal": "Kantong semar pangulubao",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702160"
+    },
+    {
+      "no": "51",
+      "nama_ilmiah": "Nepenthes mollis",
+      "nama_lokal": "Kantong semar kemal",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702077"
+    },
+    {
+      "no": "52",
+      "nama_ilmiah": "Nepenthes naga",
+      "nama_lokal": "Kantong semar naga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702260"
+    },
+    {
+      "no": "53",
+      "nama_ilmiah": "Nepenthes neoguineensis",
+      "nama_lokal": "Kantong semar sayap rumbai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702229"
+    },
+    {
+      "no": "54",
+      "nama_ilmiah": "Nepenthes nigra",
+      "nama_lokal": "Kantong semar hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7219395"
+    },
+    {
+      "no": "55",
+      "nama_ilmiah": "Nepenthes ovata",
+      "nama_lokal": "Kantong semar bibir merekah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702157"
+    },
+    {
+      "no": "56",
+      "nama_ilmiah": "Nepenthes paniculata",
+      "nama_lokal": "Kantong semar malai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702145"
+    },
+    {
+      "no": "57",
+      "nama_ilmiah": "Nepenthes papuana",
+      "nama_lokal": "Kantong semar papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702135"
+    },
+    {
+      "no": "58",
+      "nama_ilmiah": "Nepenthes pectinata",
+      "nama_lokal": "Kantong semar bersisir",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702094"
+    },
+    {
+      "no": "59",
+      "nama_ilmiah": "Nepenthes pilosa",
+      "nama_lokal": "Kantong semar meroma",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702266"
+    },
+    {
+      "no": "60",
+      "nama_ilmiah": "Nepenthes pitopangii",
+      "nama_lokal": "Kantong semar gading",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930501"
+    },
+    {
+      "no": "61",
+      "nama_ilmiah": "Nepenthes rhombicaulis",
+      "nama_lokal": "Kantong semar belah ketupat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702113"
+    },
+    {
+      "no": "62",
+      "nama_ilmiah": "Nepenthes rigidifolia",
+      "nama_lokal": "Kantong semar daun kaku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702101"
+    },
+    {
+      "no": "63",
+      "nama_ilmiah": "Nepenthes singalana",
+      "nama_lokal": "Kantong semar singgalang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702182"
+    },
+    {
+      "no": "64",
+      "nama_ilmiah": "Nepenthes spathulata",
+      "nama_lokal": "Kantong semar spatula",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702151"
+    },
+    {
+      "no": "65",
+      "nama_ilmiah": "Nepenthes spectabilis",
+      "nama_lokal": "Kantong semar bibir bergaris",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702130"
+    },
+    {
+      "no": "66",
+      "nama_ilmiah": "Nepenthes stenophylla",
+      "nama_lokal": "Kantong semar daun sempit",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702099"
+    },
+    {
+      "no": "67",
+      "nama_ilmiah": "Nepenthes sumatrana",
+      "nama_lokal": "Kantong semar sayap alur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930502"
+    },
+    {
+      "no": "68",
+      "nama_ilmiah": "Nepenthes tentaculata",
+      "nama_lokal": "Kantong semar bersungut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4930497"
+    },
+    {
+      "no": "69",
+      "nama_ilmiah": "Nepenthes tobaica",
+      "nama_lokal": "Kantong semar toba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702262"
+    },
+    {
+      "no": "70",
+      "nama_ilmiah": "Nepenthes tomoriana",
+      "nama_lokal": "Kantong semar tomori",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702242"
+    },
+    {
+      "no": "71",
+      "nama_ilmiah": "Nepenthes treubiana",
+      "nama_lokal": "Kantong semar treub",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702231"
+    },
+    {
+      "no": "72",
+      "nama_ilmiah": "Nepenthes undulatifolia",
+      "nama_lokal": "Kantong semar daun gelombang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7219392"
+    },
+    {
+      "no": "73",
+      "nama_ilmiah": "Nepenthes veitchii",
+      "nama_lokal": "Kantong semar kerah lebar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3702168"
+    },
+    {
+      "no": "74",
+      "nama_ilmiah": "Paphiopedilum gigantifolium",
+      "nama_lokal": "Anggrek kasut raksasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825271"
+    },
+    {
+      "no": "75",
+      "nama_ilmiah": "Paphiopedilum glanduliferum",
+      "nama_lokal": "Anggrek kasut berkelenjar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825180"
+    },
+    {
+      "no": "76",
+      "nama_ilmiah": "Paphiopedilum glaucophyllum",
+      "nama_lokal": "Anggrek kasut berbulu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825480"
+    },
+    {
+      "no": "77",
+      "nama_ilmiah": "Paphiopedilum kolopakingii",
+      "nama_lokal": "Anggrek kasut kolopaking",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825375"
+    },
+    {
+      "no": "78",
+      "nama_ilmiah": "Paphiopedilum liemianum",
+      "nama_lokal": "Anggrek kasut liem",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825546"
+    },
+    {
+      "no": "79",
+      "nama_ilmiah": "Paphiopedilum mastersianum",
+      "nama_lokal": "Anggrek kasut master",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825425"
+    },
+    {
+      "no": "80",
+      "nama_ilmiah": "Paphiopedilum nataschae",
+      "nama_lokal": "Anggrek kasut natascha",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9543321"
+    },
+    {
+      "no": "81",
+      "nama_ilmiah": "Paphiopedilum primulinum",
+      "nama_lokal": "Anggrek kasut kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825463"
+    },
+    {
+      "no": "82",
+      "nama_ilmiah": "Paphiopedilum robinsonianum",
+      "nama_lokal": "Anggrek kasut robinson",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8205675"
+    },
+    {
+      "no": "83",
+      "nama_ilmiah": "Paphiopedilum sangii",
+      "nama_lokal": "Anggrek kasut sang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825633"
+    },
+    {
+      "no": "84",
+      "nama_ilmiah": "Paphiopedilum supardii",
+      "nama_lokal": "Anggrek kasut supardi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825261"
+    },
+    {
+      "no": "85",
+      "nama_ilmiah": "Paphiopedilum victoria-mariae",
+      "nama_lokal": "Anggrek kasut maria",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825494"
+    },
+    {
+      "no": "86",
+      "nama_ilmiah": "Paphiopedilum victoria-regina",
+      "nama_lokal": "Anggrek kasut regina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825453"
+    },
+    {
+      "no": "87",
+      "nama_ilmiah": "Paphiopedilum violacens",
+      "nama_lokal": "Anggrek kasut ungu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825630"
+    },
+    {
+      "no": "88",
+      "nama_ilmiah": "Paphiopedilum wilhelminae",
+      "nama_lokal": "Anggrek kasut wilhelmina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2825532"
+    },
+    {
+      "no": "89",
+      "nama_ilmiah": "Paraphalaenopsis denevei",
+      "nama_lokal": "Anggrek ekor tikus denevi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2783421"
+    },
+    {
+      "no": "90",
+      "nama_ilmiah": "Paraphalaenopsis labukensis",
+      "nama_lokal": "Anggrek tikus labuk",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2783417"
+    },
+    {
+      "no": "91",
+      "nama_ilmiah": "Paraphalaenopsis laycockii",
+      "nama_lokal": "Anggrek ekor tikus laycock",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2783424"
+    },
+    {
+      "no": "92",
+      "nama_ilmiah": "Paraphalaenopsis serpentilingua",
+      "nama_lokal": "Anggrek ekor tikus lidah ular",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2783419"
+    },
+    {
+      "no": "93",
+      "nama_ilmiah": "Phalaenopsis bellina",
+      "nama_lokal": "Anggrek kelip",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5310935"
+    },
+    {
+      "no": "94",
+      "nama_ilmiah": "Phalaenopsis celebensis",
+      "nama_lokal": "Anggrek bulan sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5310930"
+    },
+    {
+      "no": "95",
+      "nama_ilmiah": "Phalaenopsis floresensis",
+      "nama_lokal": "Anggrek bulan flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5310916"
+    },
+    {
+      "no": "96",
+      "nama_ilmiah": "Phalaenopsis gigantea",
+      "nama_lokal": "Anggrek bulan raksasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5310961"
+    },
+    {
+      "no": "97",
+      "nama_ilmiah": "Phalaenopsis javanica",
+      "nama_lokal": "Anggrek bulan jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5310932"
+    },
+    {
+      "no": "98",
+      "nama_ilmiah": "Phalaenopsis sumatrana",
+      "nama_lokal": "Anggrek bulan sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5310965"
+    },
+    {
+      "no": "99",
+      "nama_ilmiah": "Pigafetta filaris",
+      "nama_lokal": "Wanga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5293794"
+    },
+    {
+      "no": "100",
+      "nama_ilmiah": "Pinanga javana",
+      "nama_lokal": "Pinang jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2739419"
+    },
+    {
+      "no": "101",
+      "nama_ilmiah": "Rafflesia arnoldii",
+      "nama_lokal": "Rafflesia raksasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7279683"
+    },
+    {
+      "no": "102",
+      "nama_ilmiah": "Rafflesia bengkuluensis",
+      "nama_lokal": "Rafflesia bengkulu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941094"
+    },
+    {
+      "no": "103",
+      "nama_ilmiah": "Rafflesia gadutensis",
+      "nama_lokal": "Rafflesia gadut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941220"
+    },
+    {
+      "no": "104",
+      "nama_ilmiah": "Rafflesia hasseltii",
+      "nama_lokal": "Tindawan biring",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941213"
+    },
+    {
+      "no": "105",
+      "nama_ilmiah": "Rafflesia kemumu",
+      "nama_lokal": "Rafflesia kemumu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9686085"
+    },
+    {
+      "no": "106",
+      "nama_ilmiah": "Rafflesia lawangensis",
+      "nama_lokal": "Rafflesia lawang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8347954"
+    },
+    {
+      "no": "107",
+      "nama_ilmiah": "Rafflesia meijeri",
+      "nama_lokal": "Rafflesia meyer",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8129987"
+    },
+    {
+      "no": "108",
+      "nama_ilmiah": "Rafflesia micropylora",
+      "nama_lokal": "Rafflesia mulut kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941159"
+    },
+    {
+      "no": "109",
+      "nama_ilmiah": "Rafflesia patma",
+      "nama_lokal": "Patmo sari",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941137"
+    },
+    {
+      "no": "110",
+      "nama_ilmiah": "Rafflesia pricei",
+      "nama_lokal": "Rafflesia prise",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941123"
+    },
+    {
+      "no": "111",
+      "nama_ilmiah": "Rafflesia rochussenii",
+      "nama_lokal": "Perud kibarera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941120"
+    },
+    {
+      "no": "112",
+      "nama_ilmiah": "Rafflesia tuan-mudae",
+      "nama_lokal": "Bunga patma",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941238"
+    },
+    {
+      "no": "113",
+      "nama_ilmiah": "Rafflesia zollingeriana",
+      "nama_lokal": "Patma, kembang banyu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/3941227"
+    },
+    {
+      "no": "114",
+      "nama_ilmiah": "Taxus sumatrana",
+      "nama_lokal": "Taksus",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5284551"
+    },
+    {
+      "no": "115",
+      "nama_ilmiah": "Vanda celebica",
+      "nama_lokal": "Anggrek vanda mungil minahasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2783140"
+    },
+    {
+      "no": "116",
+      "nama_ilmiah": "Vanda sumatrana",
+      "nama_lokal": "Anggrek vanda sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2783125"
+    },
+    {
+      "no": "117",
+      "nama_ilmiah": "Vatica javanica",
+      "nama_lokal": "Resak jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7299017"
+    }
+  ]
+}

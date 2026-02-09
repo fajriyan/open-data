@@ -1,0 +1,6303 @@
+{
+  "source": "kehutanan.go.id",
+  "updated_at": "2026-02-06T19:49:32.713984",
+  "total": 787,
+  "data": [
+    {
+      "no": "1",
+      "nama_ilmiah": "Accipiter badius",
+      "nama_lokal": "Elangalap shikra",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480610"
+    },
+    {
+      "no": "2",
+      "nama_ilmiah": "Accipiter cirrocephalus",
+      "nama_lokal": "Elangalap kalung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480601"
+    },
+    {
+      "no": "3",
+      "nama_ilmiah": "Accipiter erythrauchen",
+      "nama_lokal": "Elangalap maluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480582"
+    },
+    {
+      "no": "4",
+      "nama_ilmiah": "Accipiter fasciatus",
+      "nama_lokal": "Elangalap coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480626"
+    },
+    {
+      "no": "5",
+      "nama_ilmiah": "Accipiter griseiceps",
+      "nama_lokal": "Elangalap kepala-kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9794986"
+    },
+    {
+      "no": "6",
+      "nama_ilmiah": "Accipiter gularis",
+      "nama_lokal": "Elangalap nipon",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480583"
+    },
+    {
+      "no": "7",
+      "nama_ilmiah": "Accipiter henicogrammus",
+      "nama_lokal": "Elangalap halmahera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480608"
+    },
+    {
+      "no": "8",
+      "nama_ilmiah": "Accipiter hiogaster",
+      "nama_lokal": "Elangalap kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788526"
+    },
+    {
+      "no": "9",
+      "nama_ilmiah": "Accipiter melanochlamys",
+      "nama_lokal": "Elangalap mantel-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480634"
+    },
+    {
+      "no": "10",
+      "nama_ilmiah": "Accipiter meyerianus",
+      "nama_lokal": "Elangalap meyer",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480602"
+    },
+    {
+      "no": "11",
+      "nama_ilmiah": "Accipiter nanus",
+      "nama_lokal": "Elangalap kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480630"
+    },
+    {
+      "no": "12",
+      "nama_ilmiah": "Accipiter nisus",
+      "nama_lokal": "Elangalap eurasia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480637"
+    },
+    {
+      "no": "13",
+      "nama_ilmiah": "Accipiter poliocephalus",
+      "nama_lokal": "Elangalap pucat-sosonokan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480607"
+    },
+    {
+      "no": "14",
+      "nama_ilmiah": "Accipiter rhodogaster",
+      "nama_lokal": "Elangalap dada-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480639"
+    },
+    {
+      "no": "15",
+      "nama_ilmiah": "Accipiter soloensis",
+      "nama_lokal": "Elangalap p cina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480588"
+    },
+    {
+      "no": "16",
+      "nama_ilmiah": "Accipiter sylvestris",
+      "nama_lokal": "Elangalap tenggara",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8726466"
+    },
+    {
+      "no": "17",
+      "nama_ilmiah": "Accipiter trinotatus",
+      "nama_lokal": "Elangalap ekor-totol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480611"
+    },
+    {
+      "no": "18",
+      "nama_ilmiah": "Accipiter trivirgatus",
+      "nama_lokal": "Elangalap jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480603"
+    },
+    {
+      "no": "19",
+      "nama_ilmiah": "Accipiter virgatus",
+      "nama_lokal": "Elangalap besra",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480595"
+    },
+    {
+      "no": "20",
+      "nama_ilmiah": "Acerodon humilis",
+      "nama_lokal": "Codot talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5218706"
+    },
+    {
+      "no": "21",
+      "nama_ilmiah": "Acridotheres melanopterus",
+      "nama_lokal": "Jalak putih-sayap hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5845376"
+    },
+    {
+      "no": "22",
+      "nama_ilmiah": "Acridotheres tertius",
+      "nama_lokal": "Jalak putih – tunggirabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7442754"
+    },
+    {
+      "no": "23",
+      "nama_ilmiah": "Acridotheres tricolor",
+      "nama_lokal": "Jalak putih – punggungabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/11098191"
+    },
+    {
+      "no": "24",
+      "nama_ilmiah": "Actenoides capucinus",
+      "nama_lokal": "Cekakak hutan kepala-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7904383"
+    },
+    {
+      "no": "25",
+      "nama_ilmiah": "Actenoides concretus",
+      "nama_lokal": "Cekakak hutan melayu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475663"
+    },
+    {
+      "no": "26",
+      "nama_ilmiah": "Actenoides monachus",
+      "nama_lokal": "Cekakak hutan tunggir-hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475660"
+    },
+    {
+      "no": "27",
+      "nama_ilmiah": "Actenoides princeps",
+      "nama_lokal": "Cekakak hutan dada-sisik",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475671"
+    },
+    {
+      "no": "28",
+      "nama_ilmiah": "Aepypodius arfakianus",
+      "nama_lokal": "Maleo gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482104"
+    },
+    {
+      "no": "29",
+      "nama_ilmiah": "Aepypodius bruijnii",
+      "nama_lokal": "Maleo waigeo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482103"
+    },
+    {
+      "no": "30",
+      "nama_ilmiah": "Aerodramus vulcanorum",
+      "nama_lokal": "Walet gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2477234"
+    },
+    {
+      "no": "31",
+      "nama_ilmiah": "Aethopyga duyvenbodei",
+      "nama_lokal": "Burung madu sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2484668"
+    },
+    {
+      "no": "32",
+      "nama_ilmiah": "Aethopyga mystacalis",
+      "nama_lokal": "Burung madu jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2484675"
+    },
+    {
+      "no": "33",
+      "nama_ilmiah": "Aethopyga siparaja",
+      "nama_lokal": "Burung madu sepah-raja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2484677"
+    },
+    {
+      "no": "34",
+      "nama_ilmiah": "Ailuroedus buccoides",
+      "nama_lokal": "Burungkucing kuping-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494795"
+    },
+    {
+      "no": "35",
+      "nama_ilmiah": "Ailuroedus melanotis",
+      "nama_lokal": "Burungkucing tutul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494802"
+    },
+    {
+      "no": "36",
+      "nama_ilmiah": "Ailurops melanotis",
+      "nama_lokal": "Kuskus talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219995"
+    },
+    {
+      "no": "37",
+      "nama_ilmiah": "Alcedo euryzona",
+      "nama_lokal": "Rajaudang kalung-biru jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475500"
+    },
+    {
+      "no": "38",
+      "nama_ilmiah": "Alcedo peninsulae",
+      "nama_lokal": "Rajaudang kalung-biru sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10779995"
+    },
+    {
+      "no": "39",
+      "nama_ilmiah": "Alisterus amboinensis",
+      "nama_lokal": "Nuri-raja ambon",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479932"
+    },
+    {
+      "no": "40",
+      "nama_ilmiah": "Alisterus chloropterus",
+      "nama_lokal": "Nuri-raja sayap-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479928"
+    },
+    {
+      "no": "41",
+      "nama_ilmiah": "Amaurornis magnirostris",
+      "nama_lokal": "Kareo talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4852292"
+    },
+    {
+      "no": "42",
+      "nama_ilmiah": "Amblyornis flavifrons",
+      "nama_lokal": "Namdur dahi-emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494840"
+    },
+    {
+      "no": "43",
+      "nama_ilmiah": "Amblyornis inornata",
+      "nama_lokal": "Namdur polos",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494841"
+    },
+    {
+      "no": "44",
+      "nama_ilmiah": "Amblyornis macgregoriae",
+      "nama_lokal": "Namdur jambul-emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494832"
+    },
+    {
+      "no": "45",
+      "nama_ilmiah": "Anhinga melanogaster",
+      "nama_lokal": "Pecukular asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482081"
+    },
+    {
+      "no": "46",
+      "nama_ilmiah": "Anorrhinus galeritus",
+      "nama_lokal": "Enggang klihingan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475930"
+    },
+    {
+      "no": "47",
+      "nama_ilmiah": "Anous minutus",
+      "nama_lokal": "Camarangguk hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9803471"
+    },
+    {
+      "no": "48",
+      "nama_ilmiah": "Anous stolidus",
+      "nama_lokal": "Camarangguk coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9512459"
+    },
+    {
+      "no": "49",
+      "nama_ilmiah": "Anoxypristis cuspidata",
+      "nama_lokal": "Pari gergaji lancip",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2420848"
+    },
+    {
+      "no": "50",
+      "nama_ilmiah": "Anseranas semipalmata",
+      "nama_lokal": "Boha wasur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2497981"
+    },
+    {
+      "no": "51",
+      "nama_ilmiah": "Anthracoceros albirostris",
+      "nama_lokal": "Kangkareng perut-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475991"
+    },
+    {
+      "no": "52",
+      "nama_ilmiah": "Anthracoceros malayanus",
+      "nama_lokal": "Kangkareng hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475989"
+    },
+    {
+      "no": "53",
+      "nama_ilmiah": "Anthreptes rhodolaemus",
+      "nama_lokal": "Burung madu leher-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788731"
+    },
+    {
+      "no": "54",
+      "nama_ilmiah": "Antigone rubicunda",
+      "nama_lokal": "Jenjang brolga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9295466"
+    },
+    {
+      "no": "55",
+      "nama_ilmiah": "Apalharpactes mackloti",
+      "nama_lokal": "Luntur sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788450"
+    },
+    {
+      "no": "56",
+      "nama_ilmiah": "Apalharpactes reinwardtii",
+      "nama_lokal": "Luntur jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788449"
+    },
+    {
+      "no": "57",
+      "nama_ilmiah": "Aprosmictus erythropterus",
+      "nama_lokal": "Nuri-raja papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479862"
+    },
+    {
+      "no": "58",
+      "nama_ilmiah": "Aprosmictus jonquillaceus",
+      "nama_lokal": "Nuri-raja kembang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479866"
+    },
+    {
+      "no": "59",
+      "nama_ilmiah": "Aquila audax",
+      "nama_lokal": "Rajawali ekor-baji",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229181"
+    },
+    {
+      "no": "60",
+      "nama_ilmiah": "Aquila fasciata",
+      "nama_lokal": "Elang bonelli",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5844449"
+    },
+    {
+      "no": "61",
+      "nama_ilmiah": "Aquila gurneyi",
+      "nama_lokal": "Rajawali kuskus",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229189"
+    },
+    {
+      "no": "62",
+      "nama_ilmiah": "Aramidopsis plateni",
+      "nama_lokal": "Mandar dengkur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474453"
+    },
+    {
+      "no": "63",
+      "nama_ilmiah": "Archboldia papuensis",
+      "nama_lokal": "Namdur archbold",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231668"
+    },
+    {
+      "no": "64",
+      "nama_ilmiah": "Arctictis binturong",
+      "nama_lokal": "Binturong",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434615"
+    },
+    {
+      "no": "65",
+      "nama_ilmiah": "Arctonyx collaris",
+      "nama_lokal": "Sigung sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433743"
+    },
+    {
+      "no": "66",
+      "nama_ilmiah": "Ardea alba",
+      "nama_lokal": "Cangak besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9752617"
+    },
+    {
+      "no": "67",
+      "nama_ilmiah": "Ardea sumatrana",
+      "nama_lokal": "Cangak laut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480924"
+    },
+    {
+      "no": "68",
+      "nama_ilmiah": "Ardenna carneipes",
+      "nama_lokal": "Penggunting-laut kaki-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8601090"
+    },
+    {
+      "no": "69",
+      "nama_ilmiah": "Ardenna pacifica",
+      "nama_lokal": "Penggunting-laut pasifik",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7763948"
+    },
+    {
+      "no": "70",
+      "nama_ilmiah": "Ardeola bacchus",
+      "nama_lokal": "Blekok cina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480907"
+    },
+    {
+      "no": "71",
+      "nama_ilmiah": "Ardeotis australis",
+      "nama_lokal": "Kalkunpadang australia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474903"
+    },
+    {
+      "no": "72",
+      "nama_ilmiah": "Argusianus argus",
+      "nama_lokal": "Kuau raja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5227762"
+    },
+    {
+      "no": "73",
+      "nama_ilmiah": "Astrapia nigra",
+      "nama_lokal": "Astrapia arfak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494868"
+    },
+    {
+      "no": "74",
+      "nama_ilmiah": "Astrapia splendidissima",
+      "nama_lokal": "Astrapia cemerlang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494869"
+    },
+    {
+      "no": "75",
+      "nama_ilmiah": "Aviceda jerdoni",
+      "nama_lokal": "Baza jerdon",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480708"
+    },
+    {
+      "no": "76",
+      "nama_ilmiah": "Aviceda leuphotes",
+      "nama_lokal": "Baza hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480706"
+    },
+    {
+      "no": "77",
+      "nama_ilmiah": "Aviceda subcristata",
+      "nama_lokal": "Baza pasifik",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480707"
+    },
+    {
+      "no": "78",
+      "nama_ilmiah": "Axis kuhlii",
+      "nama_lokal": "Rusa bawean",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220129"
+    },
+    {
+      "no": "79",
+      "nama_ilmiah": "Babyrousa babyrussa",
+      "nama_lokal": "Babirusa tualangio",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441209"
+    },
+    {
+      "no": "80",
+      "nama_ilmiah": "Balaenoptera acutorostrata",
+      "nama_lokal": "Paus tombak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440728"
+    },
+    {
+      "no": "81",
+      "nama_ilmiah": "Balaenoptera bonaerensis",
+      "nama_lokal": "Paus minke antartika",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7759914"
+    },
+    {
+      "no": "82",
+      "nama_ilmiah": "Balaenoptera borealis",
+      "nama_lokal": "Paus sei",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440709"
+    },
+    {
+      "no": "83",
+      "nama_ilmiah": "Balaenoptera edeni",
+      "nama_lokal": "Paus edeni",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440714"
+    },
+    {
+      "no": "84",
+      "nama_ilmiah": "Balaenoptera musculus",
+      "nama_lokal": "Paus biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440735"
+    },
+    {
+      "no": "85",
+      "nama_ilmiah": "Balaenoptera omurai",
+      "nama_lokal": "Paus omura",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440734"
+    },
+    {
+      "no": "86",
+      "nama_ilmiah": "Balantiocheilos melanopterus",
+      "nama_lokal": "Ikan balashark",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2363816"
+    },
+    {
+      "no": "87",
+      "nama_ilmiah": "Barbodes microps",
+      "nama_lokal": "Wader goa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9349290"
+    },
+    {
+      "no": "88",
+      "nama_ilmiah": "Batagur affinis",
+      "nama_lokal": "Biuku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7759753"
+    },
+    {
+      "no": "89",
+      "nama_ilmiah": "Batagur borneoensis",
+      "nama_lokal": "Beluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789403"
+    },
+    {
+      "no": "90",
+      "nama_ilmiah": "Batrachostomus harterti",
+      "nama_lokal": "Paruhkodok dulit",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2497136"
+    },
+    {
+      "no": "91",
+      "nama_ilmiah": "Berenicornis comatus",
+      "nama_lokal": "Enggang jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2476030"
+    },
+    {
+      "no": "92",
+      "nama_ilmiah": "Birgus latro",
+      "nama_lokal": "Ketam kenari",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4311512"
+    },
+    {
+      "no": "93",
+      "nama_ilmiah": "Bos javanicus",
+      "nama_lokal": "Banteng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441027"
+    },
+    {
+      "no": "94",
+      "nama_ilmiah": "Bubalus depressicornis",
+      "nama_lokal": "Anoa dataran rendah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8085503"
+    },
+    {
+      "no": "95",
+      "nama_ilmiah": "Bubalus quarlesi",
+      "nama_lokal": "Anoa gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7846959"
+    },
+    {
+      "no": "96",
+      "nama_ilmiah": "Buceros bicornis",
+      "nama_lokal": "Enggang papan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2476012"
+    },
+    {
+      "no": "97",
+      "nama_ilmiah": "Buceros rhinoceros",
+      "nama_lokal": "Enggang cula",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2476004"
+    },
+    {
+      "no": "98",
+      "nama_ilmiah": "Bulweria bulwerii",
+      "nama_lokal": "Petrel bulwer",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481606"
+    },
+    {
+      "no": "99",
+      "nama_ilmiah": "Bulweria fallax",
+      "nama_lokal": "Petrel hindia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481605"
+    },
+    {
+      "no": "100",
+      "nama_ilmiah": "Burhinus grallarius",
+      "nama_lokal": "Wili-wili semak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482098"
+    },
+    {
+      "no": "101",
+      "nama_ilmiah": "Butastur indicus",
+      "nama_lokal": "Elang kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480477"
+    },
+    {
+      "no": "102",
+      "nama_ilmiah": "Butastur liventer",
+      "nama_lokal": "Elang sayap-coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480479"
+    },
+    {
+      "no": "103",
+      "nama_ilmiah": "Butastur teesa",
+      "nama_lokal": "Elang mata putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480478"
+    },
+    {
+      "no": "104",
+      "nama_ilmiah": "Buteo japonicus",
+      "nama_lokal": "Elang buteo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5844385"
+    },
+    {
+      "no": "105",
+      "nama_ilmiah": "Cacatua alba",
+      "nama_lokal": "Kakatua putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479870"
+    },
+    {
+      "no": "106",
+      "nama_ilmiah": "Cacatua galerita",
+      "nama_lokal": "Kakatua koki",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479888"
+    },
+    {
+      "no": "107",
+      "nama_ilmiah": "Cacatua goffiniana",
+      "nama_lokal": "Kakatua tanimbar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479886"
+    },
+    {
+      "no": "108",
+      "nama_ilmiah": "Cacatua moluccensis",
+      "nama_lokal": "Kakatua maluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479898"
+    },
+    {
+      "no": "109",
+      "nama_ilmiah": "Cacatua sanguiena",
+      "nama_lokal": "Kakatua rawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479871"
+    },
+    {
+      "no": "110",
+      "nama_ilmiah": "Cacatua sulphurea",
+      "nama_lokal": "Kakatua jambul-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479893"
+    },
+    {
+      "no": "111",
+      "nama_ilmiah": "Cairina scutulata",
+      "nama_lokal": "Mentok rimba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2498184"
+    },
+    {
+      "no": "112",
+      "nama_ilmiah": "Caloenas nicobarica",
+      "nama_lokal": "Junai emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231891"
+    },
+    {
+      "no": "113",
+      "nama_ilmiah": "Calonectris leucomelas",
+      "nama_lokal": "Penggunting-laut belang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481519"
+    },
+    {
+      "no": "114",
+      "nama_ilmiah": "Caloramphus hayii",
+      "nama_lokal": "Takur ampis-sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8855774"
+    },
+    {
+      "no": "115",
+      "nama_ilmiah": "Calorhamphus fuliginosus",
+      "nama_lokal": "Takur ampis-kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7340155"
+    },
+    {
+      "no": "116",
+      "nama_ilmiah": "Capricornis sumatraensis",
+      "nama_lokal": "Kambing hutan sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4262616"
+    },
+    {
+      "no": "117",
+      "nama_ilmiah": "Caprimulgus concretus",
+      "nama_lokal": "Cabak kolong",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2496897"
+    },
+    {
+      "no": "118",
+      "nama_ilmiah": "Carcinoscorpius rotundicauda",
+      "nama_lokal": "Belangkas padi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1010612"
+    },
+    {
+      "no": "119",
+      "nama_ilmiah": "Caretta caretta",
+      "nama_lokal": "Penyu bromo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8894817"
+    },
+    {
+      "no": "120",
+      "nama_ilmiah": "Carettochelys insculpta",
+      "nama_lokal": "Labi-labi moncong babi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2442506"
+    },
+    {
+      "no": "121",
+      "nama_ilmiah": "Caridonax fulgidus",
+      "nama_lokal": "Cekakak tunggir-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475884"
+    },
+    {
+      "no": "122",
+      "nama_ilmiah": "Carpococcyx viridis",
+      "nama_lokal": "Tokhtor sumatra",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2496389"
+    },
+    {
+      "no": "123",
+      "nama_ilmiah": "Cassis cornuta",
+      "nama_lokal": "Kepala kambing",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5192350"
+    },
+    {
+      "no": "124",
+      "nama_ilmiah": "Casuarius bennetti",
+      "nama_lokal": "Kasuari kerdil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231784"
+    },
+    {
+      "no": "125",
+      "nama_ilmiah": "Casuarius casuarius",
+      "nama_lokal": "Kasuari gelambir-ganda",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231783"
+    },
+    {
+      "no": "126",
+      "nama_ilmiah": "Casuarius unappendiculatus",
+      "nama_lokal": "Kasuari gelambir-tunggal",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231785"
+    },
+    {
+      "no": "127",
+      "nama_ilmiah": "Catharacta maccormicki",
+      "nama_lokal": "Skua kutub",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481617"
+    },
+    {
+      "no": "128",
+      "nama_ilmiah": "Catopuma badia",
+      "nama_lokal": "Kucing merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2435093"
+    },
+    {
+      "no": "129",
+      "nama_ilmiah": "Catopuma temminckii",
+      "nama_lokal": "Kucing emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2435094"
+    },
+    {
+      "no": "130",
+      "nama_ilmiah": "Centropus nigrorufus",
+      "nama_lokal": "Bubut jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232012"
+    },
+    {
+      "no": "131",
+      "nama_ilmiah": "Centropus rectunguis",
+      "nama_lokal": "Bubut teragop",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231972"
+    },
+    {
+      "no": "132",
+      "nama_ilmiah": "Cethosia myrina",
+      "nama_lokal": "Kupu-kupu bidadari",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1904760"
+    },
+    {
+      "no": "133",
+      "nama_ilmiah": "Ceyx sangirensis",
+      "nama_lokal": "Rajaudang sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10981316"
+    },
+    {
+      "no": "134",
+      "nama_ilmiah": "Chalcopsitta atra",
+      "nama_lokal": "Nuri hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479706"
+    },
+    {
+      "no": "135",
+      "nama_ilmiah": "Chalcopsitta duivenbodei",
+      "nama_lokal": "Nuri coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479715"
+    },
+    {
+      "no": "136",
+      "nama_ilmiah": "Chalcopsitta scintillata",
+      "nama_lokal": "Nuri aru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479711"
+    },
+    {
+      "no": "137",
+      "nama_ilmiah": "Charadrius alexandrinus",
+      "nama_lokal": "Cerek tilil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480311"
+    },
+    {
+      "no": "138",
+      "nama_ilmiah": "Charadrius javanicus",
+      "nama_lokal": "Cerek jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480290"
+    },
+    {
+      "no": "139",
+      "nama_ilmiah": "Charadrius placidus",
+      "nama_lokal": "Cerek paruh-panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480322"
+    },
+    {
+      "no": "140",
+      "nama_ilmiah": "Charadrius ruficapillus",
+      "nama_lokal": "Cerek topi-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480307"
+    },
+    {
+      "no": "141",
+      "nama_ilmiah": "Charadrius veredus",
+      "nama_lokal": "Cerek asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480309"
+    },
+    {
+      "no": "142",
+      "nama_ilmiah": "Charmosyna josefinae",
+      "nama_lokal": "Perkici josephina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479784"
+    },
+    {
+      "no": "143",
+      "nama_ilmiah": "Charmosyna multistriata",
+      "nama_lokal": "Perkici garis",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479758"
+    },
+    {
+      "no": "144",
+      "nama_ilmiah": "Charmosyna papou",
+      "nama_lokal": "Perkici papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479745"
+    },
+    {
+      "no": "145",
+      "nama_ilmiah": "Charmosyna placentis",
+      "nama_lokal": "Perkici dagu-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479761"
+    },
+    {
+      "no": "146",
+      "nama_ilmiah": "Charmosyna pulchella",
+      "nama_lokal": "Perkici punggung-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479780"
+    },
+    {
+      "no": "147",
+      "nama_ilmiah": "Charmosyna rubronotata",
+      "nama_lokal": "Perkici kepala-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479740"
+    },
+    {
+      "no": "148",
+      "nama_ilmiah": "Charmosyna stellae",
+      "nama_lokal": "Perkici stella",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7993519"
+    },
+    {
+      "no": "149",
+      "nama_ilmiah": "Charmosyna toxopei",
+      "nama_lokal": "Perkici buru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479737"
+    },
+    {
+      "no": "150",
+      "nama_ilmiah": "Charmosyna wilhelminae",
+      "nama_lokal": "Perkici kerdil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479774"
+    },
+    {
+      "no": "151",
+      "nama_ilmiah": "Charonia tritonis",
+      "nama_lokal": "Triton terompet",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5192644"
+    },
+    {
+      "no": "152",
+      "nama_ilmiah": "Chelodina mccordii",
+      "nama_lokal": "Kura-kura rote",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441956"
+    },
+    {
+      "no": "153",
+      "nama_ilmiah": "Chelodina novaeguineae",
+      "nama_lokal": "Kura-kura papua leher panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441967"
+    },
+    {
+      "no": "154",
+      "nama_ilmiah": "Chelonia mydas",
+      "nama_lokal": "Penyu hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2442225"
+    },
+    {
+      "no": "155",
+      "nama_ilmiah": "Chitala borneensis",
+      "nama_lokal": "Belida borneo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2402276"
+    },
+    {
+      "no": "156",
+      "nama_ilmiah": "Chitala hypselonotus",
+      "nama_lokal": "Belida sumatra",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2402269"
+    },
+    {
+      "no": "157",
+      "nama_ilmiah": "Chitala lopis",
+      "nama_lokal": "Belida lopis",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2402271"
+    },
+    {
+      "no": "158",
+      "nama_ilmiah": "Chitra chitra",
+      "nama_lokal": "Labi-labi bintang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9081144"
+    },
+    {
+      "no": "159",
+      "nama_ilmiah": "Chlamydera cerviniventris",
+      "nama_lokal": "Namdur coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494821"
+    },
+    {
+      "no": "160",
+      "nama_ilmiah": "Chlamydera lauterbachi",
+      "nama_lokal": "Namdur dada-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494822"
+    },
+    {
+      "no": "161",
+      "nama_ilmiah": "Chlamydosaurus kingii",
+      "nama_lokal": "Soa payung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2466087"
+    },
+    {
+      "no": "162",
+      "nama_ilmiah": "Chlidonias hybrida",
+      "nama_lokal": "Daralaut kumis",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481121"
+    },
+    {
+      "no": "163",
+      "nama_ilmiah": "Chlidonias leucopterus",
+      "nama_lokal": "Daralaut sayap-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481120"
+    },
+    {
+      "no": "164",
+      "nama_ilmiah": "Chloropsis cochinchinensis",
+      "nama_lokal": "Cica daun sayap-biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5230732"
+    },
+    {
+      "no": "165",
+      "nama_ilmiah": "Chloropsis cyanopogon",
+      "nama_lokal": "Cica daun kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5230729"
+    },
+    {
+      "no": "166",
+      "nama_ilmiah": "Chloropsis kinabaluensis",
+      "nama_lokal": "Cica daun sayap-biru kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789034"
+    },
+    {
+      "no": "167",
+      "nama_ilmiah": "Chloropsis media",
+      "nama_lokal": "Cica daun dahi-emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789033"
+    },
+    {
+      "no": "168",
+      "nama_ilmiah": "Chloropsis moluccensis",
+      "nama_lokal": "Cica daun sayap-biru sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10880827"
+    },
+    {
+      "no": "169",
+      "nama_ilmiah": "Chloropsis sonnerati",
+      "nama_lokal": "Cica daun besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5230730"
+    },
+    {
+      "no": "170",
+      "nama_ilmiah": "Chloropsis venusta",
+      "nama_lokal": "Cica daun sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5230727"
+    },
+    {
+      "no": "171",
+      "nama_ilmiah": "Chrysocorythus estherae",
+      "nama_lokal": "Kenari melayu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7993210"
+    },
+    {
+      "no": "172",
+      "nama_ilmiah": "Cicinnurus magnificus",
+      "nama_lokal": "Cendrawasih belah-rotan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494914"
+    },
+    {
+      "no": "173",
+      "nama_ilmiah": "Cicinnurus regius",
+      "nama_lokal": "Cendrawasih raja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494913"
+    },
+    {
+      "no": "174",
+      "nama_ilmiah": "Cicinnurus respublica",
+      "nama_lokal": "Cendrawasih botak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494912"
+    },
+    {
+      "no": "175",
+      "nama_ilmiah": "Ciconia episcopus",
+      "nama_lokal": "Bangau sandang-lawe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481918"
+    },
+    {
+      "no": "176",
+      "nama_ilmiah": "Ciconia stormi",
+      "nama_lokal": "Bangau storm",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481917"
+    },
+    {
+      "no": "177",
+      "nama_ilmiah": "Cinnyris buettikoferi",
+      "nama_lokal": "Burung madu sumba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6087385"
+    },
+    {
+      "no": "178",
+      "nama_ilmiah": "Circaetus gallicus",
+      "nama_lokal": "Elangular jari-pendek",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480666"
+    },
+    {
+      "no": "179",
+      "nama_ilmiah": "Circus aeruginosus",
+      "nama_lokal": "Elangrawa katak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480482"
+    },
+    {
+      "no": "180",
+      "nama_ilmiah": "Circus approximans",
+      "nama_lokal": "Elangrawa coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229172"
+    },
+    {
+      "no": "181",
+      "nama_ilmiah": "Circus assimilis",
+      "nama_lokal": "Elangrawa tutul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229176"
+    },
+    {
+      "no": "182",
+      "nama_ilmiah": "Circus melanoleucos",
+      "nama_lokal": "Elangrawa tangling",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229171"
+    },
+    {
+      "no": "183",
+      "nama_ilmiah": "Circus spilonotus",
+      "nama_lokal": "Elangrawa timur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229180"
+    },
+    {
+      "no": "184",
+      "nama_ilmiah": "Circus spilothorax",
+      "nama_lokal": "Elangrawa papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6066235"
+    },
+    {
+      "no": "185",
+      "nama_ilmiah": "Cissa chinensis",
+      "nama_lokal": "Ekek layongan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482587"
+    },
+    {
+      "no": "186",
+      "nama_ilmiah": "Cissa thalassina",
+      "nama_lokal": "Ekek geling",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482585"
+    },
+    {
+      "no": "187",
+      "nama_ilmiah": "Clamator coromandus",
+      "nama_lokal": "Bubutpacar jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2496467"
+    },
+    {
+      "no": "188",
+      "nama_ilmiah": "Clanga clanga",
+      "nama_lokal": "Rajawali totol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7477624"
+    },
+    {
+      "no": "189",
+      "nama_ilmiah": "Cnemophilus loriae",
+      "nama_lokal": "Cenderawasih loria",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492274"
+    },
+    {
+      "no": "190",
+      "nama_ilmiah": "Cnemophilus sanguineus",
+      "nama_lokal": "Cenderawasih jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10718256"
+    },
+    {
+      "no": "191",
+      "nama_ilmiah": "Cochoa azurea",
+      "nama_lokal": "Ciung-mungkal jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492555"
+    },
+    {
+      "no": "192",
+      "nama_ilmiah": "Cochoa beccarii",
+      "nama_lokal": "Ciung-mungkal sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492553"
+    },
+    {
+      "no": "193",
+      "nama_ilmiah": "Columba argentina",
+      "nama_lokal": "Merpatihutan perak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231850"
+    },
+    {
+      "no": "194",
+      "nama_ilmiah": "Corvus florensis",
+      "nama_lokal": "Gagak flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482505"
+    },
+    {
+      "no": "195",
+      "nama_ilmiah": "Corvus fuscicapillus",
+      "nama_lokal": "Gagak kepala-coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482485"
+    },
+    {
+      "no": "196",
+      "nama_ilmiah": "Corvus orru",
+      "nama_lokal": "Gagak orru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482491"
+    },
+    {
+      "no": "197",
+      "nama_ilmiah": "Corvus splendens",
+      "nama_lokal": "Gagak rumah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482499"
+    },
+    {
+      "no": "198",
+      "nama_ilmiah": "Corvus tristis",
+      "nama_lokal": "Gagak kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482482"
+    },
+    {
+      "no": "199",
+      "nama_ilmiah": "Corvus typicus",
+      "nama_lokal": "Gagak sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482488"
+    },
+    {
+      "no": "200",
+      "nama_ilmiah": "Corvus unicolor",
+      "nama_lokal": "Gagak banggai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482469"
+    },
+    {
+      "no": "201",
+      "nama_ilmiah": "Corvus validus",
+      "nama_lokal": "Gagak halmahera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482504"
+    },
+    {
+      "no": "202",
+      "nama_ilmiah": "Crocodylus novaeguineae",
+      "nama_lokal": "Buaya irian",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441326"
+    },
+    {
+      "no": "203",
+      "nama_ilmiah": "Crocodylus porosus",
+      "nama_lokal": "Buaya muara",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441333"
+    },
+    {
+      "no": "204",
+      "nama_ilmiah": "Crocodylus siamensis",
+      "nama_lokal": "Buaya siam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441348"
+    },
+    {
+      "no": "205",
+      "nama_ilmiah": "Crypsirina temia",
+      "nama_lokal": "Tangkar centrong",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482611"
+    },
+    {
+      "no": "206",
+      "nama_ilmiah": "Cuculus crassirostris",
+      "nama_lokal": "Kangkok sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231925"
+    },
+    {
+      "no": "207",
+      "nama_ilmiah": "Cuon alpinus",
+      "nama_lokal": "Anjing ajag",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434317"
+    },
+    {
+      "no": "208",
+      "nama_ilmiah": "Cyclopsitta diophthalma",
+      "nama_lokal": "Nuri-ara mata-ganda",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480157"
+    },
+    {
+      "no": "209",
+      "nama_ilmiah": "Cyclopsitta gulielmitertii",
+      "nama_lokal": "Nuri-ara dada-jingga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480148"
+    },
+    {
+      "no": "210",
+      "nama_ilmiah": "Cyclopsitta melanogenia",
+      "nama_lokal": "Nuri-ara pipi-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/11082194"
+    },
+    {
+      "no": "211",
+      "nama_ilmiah": "Cyclopsitta nigrifrons",
+      "nama_lokal": "Nuri-ara dahi-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/11016342"
+    },
+    {
+      "no": "212",
+      "nama_ilmiah": "Cynogale bennettii",
+      "nama_lokal": "Musang air",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434758"
+    },
+    {
+      "no": "213",
+      "nama_ilmiah": "Cynornis brunneatus",
+      "nama_lokal": "Sikatanrimba coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4845638"
+    },
+    {
+      "no": "214",
+      "nama_ilmiah": "Cyornis concretus",
+      "nama_lokal": "Sikatan besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492424"
+    },
+    {
+      "no": "215",
+      "nama_ilmiah": "Cyornis ruckii",
+      "nama_lokal": "Sikatan aceh",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492441"
+    },
+    {
+      "no": "216",
+      "nama_ilmiah": "Cyornis sanfordi",
+      "nama_lokal": "Sikatan matinan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492435"
+    },
+    {
+      "no": "217",
+      "nama_ilmiah": "Dacelo tyro",
+      "nama_lokal": "Kukabura aru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475651"
+    },
+    {
+      "no": "218",
+      "nama_ilmiah": "Daption capense",
+      "nama_lokal": "Petrel tanjung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481545"
+    },
+    {
+      "no": "219",
+      "nama_ilmiah": "Delphinus capensis",
+      "nama_lokal": "Lumba lumba moncong panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5314"
+    },
+    {
+      "no": "220",
+      "nama_ilmiah": "Dendrocitta cinerascens",
+      "nama_lokal": "Tangkaruli kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6092817"
+    },
+    {
+      "no": "221",
+      "nama_ilmiah": "Dendrocitta occipitalis",
+      "nama_lokal": "Tangkaruli sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482453"
+    },
+    {
+      "no": "222",
+      "nama_ilmiah": "Dendrolagus dorianus",
+      "nama_lokal": "Kangguru pohon ndomea",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440213"
+    },
+    {
+      "no": "223",
+      "nama_ilmiah": "Dendrolagus goodfellowi",
+      "nama_lokal": "Kangguru pohon hias",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440222"
+    },
+    {
+      "no": "224",
+      "nama_ilmiah": "Dendrolagus inustus",
+      "nama_lokal": "Kangguru pohon wakera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440217"
+    },
+    {
+      "no": "225",
+      "nama_ilmiah": "Dendrolagus mbaiso",
+      "nama_lokal": "Kangguru pohon mbaiso",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440211"
+    },
+    {
+      "no": "226",
+      "nama_ilmiah": "Dendrolagus ursinus",
+      "nama_lokal": "Kangguru pohon nemena",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440221"
+    },
+    {
+      "no": "227",
+      "nama_ilmiah": "Dermochelys coriacea",
+      "nama_lokal": "Penyu belimbing",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9789983"
+    },
+    {
+      "no": "228",
+      "nama_ilmiah": "Dicerorhinus sumatrensis",
+      "nama_lokal": "Badak sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440878"
+    },
+    {
+      "no": "229",
+      "nama_ilmiah": "Drepanornis albertisi",
+      "nama_lokal": "Paruh sabit ekor-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5844986"
+    },
+    {
+      "no": "230",
+      "nama_ilmiah": "Drepanornis bruijnii",
+      "nama_lokal": "Paruh sabit paruh-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788946"
+    },
+    {
+      "no": "231",
+      "nama_ilmiah": "Dugong dugon",
+      "nama_lokal": "Duyung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9729967"
+    },
+    {
+      "no": "232",
+      "nama_ilmiah": "Eclectus roratus",
+      "nama_lokal": "Nuri bayan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480075"
+    },
+    {
+      "no": "233",
+      "nama_ilmiah": "Egretta eulophotes",
+      "nama_lokal": "Kuntul cina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480887"
+    },
+    {
+      "no": "234",
+      "nama_ilmiah": "Egretta novaehollandiae",
+      "nama_lokal": "Kuntul australia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480897"
+    },
+    {
+      "no": "235",
+      "nama_ilmiah": "Egretta picata",
+      "nama_lokal": "Kuntul belang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6066403"
+    },
+    {
+      "no": "236",
+      "nama_ilmiah": "Elanus caeruleus",
+      "nama_lokal": "Elang tikus",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480372"
+    },
+    {
+      "no": "237",
+      "nama_ilmiah": "Elephas maximus",
+      "nama_lokal": "Gajah asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219461"
+    },
+    {
+      "no": "238",
+      "nama_ilmiah": "Eos bornea",
+      "nama_lokal": "Nuri baluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479486"
+    },
+    {
+      "no": "239",
+      "nama_ilmiah": "Eos cyanogenia",
+      "nama_lokal": "Nuri sayap-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479483"
+    },
+    {
+      "no": "240",
+      "nama_ilmiah": "Eos histrio",
+      "nama_lokal": "Nuri talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479490"
+    },
+    {
+      "no": "241",
+      "nama_ilmiah": "Eos reticulata",
+      "nama_lokal": "Nuri tanimbar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479484"
+    },
+    {
+      "no": "242",
+      "nama_ilmiah": "Eos semilarvata",
+      "nama_lokal": "Nuri telinga-biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479485"
+    },
+    {
+      "no": "243",
+      "nama_ilmiah": "Eos squamata",
+      "nama_lokal": "Nuri kalung-ungu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479479"
+    },
+    {
+      "no": "244",
+      "nama_ilmiah": "Ephippiorhynchus asiaticus",
+      "nama_lokal": "Bangau leher-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481905"
+    },
+    {
+      "no": "245",
+      "nama_ilmiah": "Epimachus fastosus",
+      "nama_lokal": "Paruh sabit kuri-kuri",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6100769"
+    },
+    {
+      "no": "246",
+      "nama_ilmiah": "Epimachus meyeri",
+      "nama_lokal": "Paruh sabit coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494880"
+    },
+    {
+      "no": "247",
+      "nama_ilmiah": "Eretmochelys imbricata",
+      "nama_lokal": "Penyu sisik",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8841716"
+    },
+    {
+      "no": "248",
+      "nama_ilmiah": "Erythrogonys cinctus",
+      "nama_lokal": "Cerek lutut-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480212"
+    },
+    {
+      "no": "249",
+      "nama_ilmiah": "Erythropitta arquata",
+      "nama_lokal": "Paok kalung-biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101099"
+    },
+    {
+      "no": "250",
+      "nama_ilmiah": "Erythropitta caeruleitorques",
+      "nama_lokal": "Paok mopo-sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7756563"
+    },
+    {
+      "no": "251",
+      "nama_ilmiah": "Erythropitta celebensis",
+      "nama_lokal": "Paok mopo-sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7506024"
+    },
+    {
+      "no": "252",
+      "nama_ilmiah": "Erythropitta dohertyi",
+      "nama_lokal": "Paok dohertyi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8335250"
+    },
+    {
+      "no": "253",
+      "nama_ilmiah": "Erythropitta granatina",
+      "nama_lokal": "Paok delima",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101096"
+    },
+    {
+      "no": "254",
+      "nama_ilmiah": "Erythropitta inspeculata",
+      "nama_lokal": "Paok mopo-talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8187668"
+    },
+    {
+      "no": "255",
+      "nama_ilmiah": "Erythropitta macklotii",
+      "nama_lokal": "Paok mopo-papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7824398"
+    },
+    {
+      "no": "256",
+      "nama_ilmiah": "Erythropitta palliceps",
+      "nama_lokal": "Paok mopo-siau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8011274"
+    },
+    {
+      "no": "257",
+      "nama_ilmiah": "Erythropitta rubrinucha",
+      "nama_lokal": "Paok mopo-amboyna",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7694238"
+    },
+    {
+      "no": "258",
+      "nama_ilmiah": "Erythropitta rufiventris",
+      "nama_lokal": "Paok mopo-sultan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8323366"
+    },
+    {
+      "no": "259",
+      "nama_ilmiah": "Erythropitta venusta",
+      "nama_lokal": "Paok topi-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101100"
+    },
+    {
+      "no": "260",
+      "nama_ilmiah": "Erythrotriorchis buergersi",
+      "nama_lokal": "Elangalap bahu coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480458"
+    },
+    {
+      "no": "261",
+      "nama_ilmiah": "Esacus magnirostris",
+      "nama_lokal": "Wili-wili besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482091"
+    },
+    {
+      "no": "262",
+      "nama_ilmiah": "Eulabeornis castaneoventris",
+      "nama_lokal": "Mandar bakau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474372"
+    },
+    {
+      "no": "263",
+      "nama_ilmiah": "Eulipoa wallacei",
+      "nama_lokal": "Gosong maluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482112"
+    },
+    {
+      "no": "264",
+      "nama_ilmiah": "Eurostopodus diabolicus",
+      "nama_lokal": "Taktarau iblis",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2497100"
+    },
+    {
+      "no": "265",
+      "nama_ilmiah": "Eutrichomyias rowleyi",
+      "nama_lokal": "Seriwang sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2486697"
+    },
+    {
+      "no": "266",
+      "nama_ilmiah": "Falco berigora",
+      "nama_lokal": "Alap-alap coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481059"
+    },
+    {
+      "no": "267",
+      "nama_ilmiah": "Falco cenchroides",
+      "nama_lokal": "Alap-alap layang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481009"
+    },
+    {
+      "no": "268",
+      "nama_ilmiah": "Falco longipennis",
+      "nama_lokal": "Alap-alap australia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481027"
+    },
+    {
+      "no": "269",
+      "nama_ilmiah": "Falco moluccensis",
+      "nama_lokal": "Alap-alap sapi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481001"
+    },
+    {
+      "no": "270",
+      "nama_ilmiah": "Falco peregrinus",
+      "nama_lokal": "Alap-alap kawah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481047"
+    },
+    {
+      "no": "271",
+      "nama_ilmiah": "Falco severus",
+      "nama_lokal": "Alap-alap macan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481060"
+    },
+    {
+      "no": "272",
+      "nama_ilmiah": "Falco subbuteo",
+      "nama_lokal": "Alap-alap walet",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481035"
+    },
+    {
+      "no": "273",
+      "nama_ilmiah": "Falco tinnunculus",
+      "nama_lokal": "Alap-alap erasia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9616058"
+    },
+    {
+      "no": "274",
+      "nama_ilmiah": "Feresa attenuata",
+      "nama_lokal": "Paus pemangsa kerdil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440530"
+    },
+    {
+      "no": "275",
+      "nama_ilmiah": "Fregata andrewsi",
+      "nama_lokal": "Cikalang christmas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480185"
+    },
+    {
+      "no": "276",
+      "nama_ilmiah": "Fregata minor",
+      "nama_lokal": "Cikalang besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480187"
+    },
+    {
+      "no": "277",
+      "nama_ilmiah": "Gallicolumba hoedtii",
+      "nama_lokal": "Delimukan wetar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495252"
+    },
+    {
+      "no": "278",
+      "nama_ilmiah": "Garrulax bicolor",
+      "nama_lokal": "Poksai sumatra",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788995"
+    },
+    {
+      "no": "279",
+      "nama_ilmiah": "Garrulax leucolophus",
+      "nama_lokal": "Poksai jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2493447"
+    },
+    {
+      "no": "280",
+      "nama_ilmiah": "Garrulax rufifrons",
+      "nama_lokal": "Poksai kuda",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2493475"
+    },
+    {
+      "no": "281",
+      "nama_ilmiah": "Gelochelidon nilotica",
+      "nama_lokal": "Daralaut tiram",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481263"
+    },
+    {
+      "no": "282",
+      "nama_ilmiah": "Geoffroyus geoffroyi",
+      "nama_lokal": "Nuri pipi-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479334"
+    },
+    {
+      "no": "283",
+      "nama_ilmiah": "Geoffroyus simplex",
+      "nama_lokal": "Nuri kalung-biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479351"
+    },
+    {
+      "no": "284",
+      "nama_ilmiah": "Glareola maldivarum",
+      "nama_lokal": "Terik asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480759"
+    },
+    {
+      "no": "285",
+      "nama_ilmiah": "Globicephala macrorhynchus",
+      "nama_lokal": "Paus pilot bersirip pendek",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440605"
+    },
+    {
+      "no": "286",
+      "nama_ilmiah": "Gorsachius goisagi",
+      "nama_lokal": "Kowak jepang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480839"
+    },
+    {
+      "no": "287",
+      "nama_ilmiah": "Gorsachius melanolophus",
+      "nama_lokal": "Kowak melayu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480841"
+    },
+    {
+      "no": "288",
+      "nama_ilmiah": "Goura cristata",
+      "nama_lokal": "Mambruk ubiaat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495207"
+    },
+    {
+      "no": "289",
+      "nama_ilmiah": "Goura sclaterii",
+      "nama_lokal": "Mambruk selatan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9737580"
+    },
+    {
+      "no": "290",
+      "nama_ilmiah": "Goura victoria",
+      "nama_lokal": "Mambruk victoria",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495204"
+    },
+    {
+      "no": "291",
+      "nama_ilmiah": "Gracula religiosa",
+      "nama_lokal": "Tiong emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2488999"
+    },
+    {
+      "no": "292",
+      "nama_ilmiah": "Gracula robusta",
+      "nama_lokal": "Tiong nias",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6092101"
+    },
+    {
+      "no": "293",
+      "nama_ilmiah": "Gracula venerata",
+      "nama_lokal": "Tiong nusa-tenggara",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8017669"
+    },
+    {
+      "no": "294",
+      "nama_ilmiah": "Grampus griseus",
+      "nama_lokal": "Lumba-lumba risso",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220027"
+    },
+    {
+      "no": "295",
+      "nama_ilmiah": "Gygis alba",
+      "nama_lokal": "Daralaut putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481213"
+    },
+    {
+      "no": "296",
+      "nama_ilmiah": "Gymnocrex rosenbergii",
+      "nama_lokal": "Mandar mukabiru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474685"
+    },
+    {
+      "no": "297",
+      "nama_ilmiah": "Gymnocrex talaudensis",
+      "nama_lokal": "Mandar talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474684"
+    },
+    {
+      "no": "298",
+      "nama_ilmiah": "Gyps himalayensis",
+      "nama_lokal": "Nasar himalaya",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9561629"
+    },
+    {
+      "no": "299",
+      "nama_ilmiah": "Habroptila wallacii",
+      "nama_lokal": "Mandar gendang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474484"
+    },
+    {
+      "no": "300",
+      "nama_ilmiah": "Haematopus fuliginosus",
+      "nama_lokal": "Kedidir kelam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480271"
+    },
+    {
+      "no": "301",
+      "nama_ilmiah": "Haematopus longirostris",
+      "nama_lokal": "Kedidir belang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480261"
+    },
+    {
+      "no": "302",
+      "nama_ilmiah": "Haliaeetus leucogaster",
+      "nama_lokal": "Elanglaut perut-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480455"
+    },
+    {
+      "no": "303",
+      "nama_ilmiah": "Haliastur indus",
+      "nama_lokal": "Elang bondol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480437"
+    },
+    {
+      "no": "304",
+      "nama_ilmiah": "Haliastur sphenurus",
+      "nama_lokal": "Elang siul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480438"
+    },
+    {
+      "no": "305",
+      "nama_ilmiah": "Harpactes diardii",
+      "nama_lokal": "Luntur kasumba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232061"
+    },
+    {
+      "no": "306",
+      "nama_ilmiah": "Harpactes duvaucelli",
+      "nama_lokal": "Luntur kepala-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232068"
+    },
+    {
+      "no": "307",
+      "nama_ilmiah": "Harpactes erythrocephalus",
+      "nama_lokal": "Luntur harimau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232031"
+    },
+    {
+      "no": "308",
+      "nama_ilmiah": "Harpactes kasumba",
+      "nama_lokal": "Luntur kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232070"
+    },
+    {
+      "no": "309",
+      "nama_ilmiah": "Harpactes oreskios",
+      "nama_lokal": "Luntur diard",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232055"
+    },
+    {
+      "no": "310",
+      "nama_ilmiah": "Harpactes orrhophaeus",
+      "nama_lokal": "Luntur putri",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232042"
+    },
+    {
+      "no": "311",
+      "nama_ilmiah": "Harpactes whiteheadi",
+      "nama_lokal": "Luntur tunggir-coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232069"
+    },
+    {
+      "no": "312",
+      "nama_ilmiah": "Harpyopsis novaeguineae",
+      "nama_lokal": "Rajawali papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480424"
+    },
+    {
+      "no": "313",
+      "nama_ilmiah": "Helarctos malayanus",
+      "nama_lokal": "Beruang madu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433403"
+    },
+    {
+      "no": "314",
+      "nama_ilmiah": "Heleia javanica",
+      "nama_lokal": "Opior jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/11060979"
+    },
+    {
+      "no": "315",
+      "nama_ilmiah": "Heleia wallacei",
+      "nama_lokal": "Kacamata wallacea",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10904336"
+    },
+    {
+      "no": "316",
+      "nama_ilmiah": "Heliopais personatus",
+      "nama_lokal": "Pedendang topeng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474351"
+    },
+    {
+      "no": "317",
+      "nama_ilmiah": "Henicopernis longicauda",
+      "nama_lokal": "Elang ekor-panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480464"
+    },
+    {
+      "no": "318",
+      "nama_ilmiah": "Hieraaetus pennatus",
+      "nama_lokal": "Elang setiwel",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480685"
+    },
+    {
+      "no": "319",
+      "nama_ilmiah": "Hieraaetus weiskei",
+      "nama_lokal": "Elang kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788523"
+    },
+    {
+      "no": "320",
+      "nama_ilmiah": "Himantopus himantopus",
+      "nama_lokal": "Gagangbayang belang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229126"
+    },
+    {
+      "no": "321",
+      "nama_ilmiah": "Himantura oxyrhyncha",
+      "nama_lokal": "Pari sungai tutul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5215891"
+    },
+    {
+      "no": "322",
+      "nama_ilmiah": "Himantura polylepis",
+      "nama_lokal": "Pari sungai raksasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5215945"
+    },
+    {
+      "no": "323",
+      "nama_ilmiah": "Himantura signifer",
+      "nama_lokal": "Pari sungai pinggir putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5215939"
+    },
+    {
+      "no": "324",
+      "nama_ilmiah": "Hippopus hippopus",
+      "nama_lokal": "Kima tapak kuda",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5729353"
+    },
+    {
+      "no": "325",
+      "nama_ilmiah": "Hippopus porcellanus",
+      "nama_lokal": "Kima cina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5729352"
+    },
+    {
+      "no": "326",
+      "nama_ilmiah": "Homaloptera gymnogaster",
+      "nama_lokal": "Selusur maninjau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2358593"
+    },
+    {
+      "no": "327",
+      "nama_ilmiah": "Hydrobates matsudairae",
+      "nama_lokal": "Petrelbadai matsudairae",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9306959"
+    },
+    {
+      "no": "328",
+      "nama_ilmiah": "Hydrobates monorhis",
+      "nama_lokal": "Petrelbadai swinhoe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9378883"
+    },
+    {
+      "no": "329",
+      "nama_ilmiah": "Hydrochous gigas",
+      "nama_lokal": "Walet raksasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228600"
+    },
+    {
+      "no": "330",
+      "nama_ilmiah": "Hydroprogne caspia",
+      "nama_lokal": "Daralaut caspia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481236"
+    },
+    {
+      "no": "331",
+      "nama_ilmiah": "Hydrornis baudii",
+      "nama_lokal": "Paok kepala-biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101093"
+    },
+    {
+      "no": "332",
+      "nama_ilmiah": "Hydrornis caeruleus",
+      "nama_lokal": "Paok sintau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101088"
+    },
+    {
+      "no": "333",
+      "nama_ilmiah": "Hydrornis guajanus",
+      "nama_lokal": "Paok pancawarna-jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101094"
+    },
+    {
+      "no": "334",
+      "nama_ilmiah": "Hydrornis irena",
+      "nama_lokal": "Paok pancawarna-sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101086"
+    },
+    {
+      "no": "335",
+      "nama_ilmiah": "Hydrornis schneideri",
+      "nama_lokal": "Paok schneider",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101084"
+    },
+    {
+      "no": "336",
+      "nama_ilmiah": "Hydrornis schwaneri",
+      "nama_lokal": "Paok pancawarna-kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101090"
+    },
+    {
+      "no": "337",
+      "nama_ilmiah": "Hylobates agilis",
+      "nama_lokal": "Owa ungko",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219550"
+    },
+    {
+      "no": "338",
+      "nama_ilmiah": "Hylobates albibarbis",
+      "nama_lokal": "Owa jenggot putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5707402"
+    },
+    {
+      "no": "339",
+      "nama_ilmiah": "Hylobates klosii",
+      "nama_lokal": "Owa bilau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219546"
+    },
+    {
+      "no": "340",
+      "nama_ilmiah": "Hylobates lar",
+      "nama_lokal": "Owa serudung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219553"
+    },
+    {
+      "no": "341",
+      "nama_ilmiah": "Hylobates moloch",
+      "nama_lokal": "Owa jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219552"
+    },
+    {
+      "no": "342",
+      "nama_ilmiah": "Hylobates muelleri",
+      "nama_lokal": "Owa kalawat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219548"
+    },
+    {
+      "no": "343",
+      "nama_ilmiah": "Hystrix javanica",
+      "nama_lokal": "Landak jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219887"
+    },
+    {
+      "no": "344",
+      "nama_ilmiah": "Ichthyophaga humilis",
+      "nama_lokal": "Elangikan kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229194"
+    },
+    {
+      "no": "345",
+      "nama_ilmiah": "Ichthyophaga ichthyaetus",
+      "nama_lokal": "Elangikan kepala-kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229193"
+    },
+    {
+      "no": "346",
+      "nama_ilmiah": "Ictinaetus malaiensis",
+      "nama_lokal": "Elang hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229198"
+    },
+    {
+      "no": "347",
+      "nama_ilmiah": "Indicator archipelagicus",
+      "nama_lokal": "Pemandulebah asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229002"
+    },
+    {
+      "no": "348",
+      "nama_ilmiah": "Indopacetus pacificus",
+      "nama_lokal": "Paus hidung botol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440391"
+    },
+    {
+      "no": "349",
+      "nama_ilmiah": "Iomys horsfieldi",
+      "nama_lokal": "Cukbo ekor merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2437357"
+    },
+    {
+      "no": "350",
+      "nama_ilmiah": "Ixobrychus eurhythmus",
+      "nama_lokal": "Bambangan coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480847"
+    },
+    {
+      "no": "351",
+      "nama_ilmiah": "Ixobrychus flavicollis",
+      "nama_lokal": "Bambangan hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480844"
+    },
+    {
+      "no": "352",
+      "nama_ilmiah": "Kogia breviceps",
+      "nama_lokal": "Paus lodan kecil jauba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440694"
+    },
+    {
+      "no": "353",
+      "nama_ilmiah": "Kogia sima",
+      "nama_lokal": "Paus lodan kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440691"
+    },
+    {
+      "no": "354",
+      "nama_ilmiah": "Lagenodelphis hosei",
+      "nama_lokal": "Lumba-lumba fraser",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440493"
+    },
+    {
+      "no": "355",
+      "nama_ilmiah": "Laniellus albonotatus",
+      "nama_lokal": "Cica matahari",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10672637"
+    },
+    {
+      "no": "356",
+      "nama_ilmiah": "Lanthanotus borneensis",
+      "nama_lokal": "Biawak kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4287471"
+    },
+    {
+      "no": "357",
+      "nama_ilmiah": "Lariscus hosei",
+      "nama_lokal": "Bokol borneo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2437526"
+    },
+    {
+      "no": "358",
+      "nama_ilmiah": "Larus brunnicephalus",
+      "nama_lokal": "Camar kepala-coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481135"
+    },
+    {
+      "no": "359",
+      "nama_ilmiah": "Larus fuscus",
+      "nama_lokal": "Camar baltik",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481174"
+    },
+    {
+      "no": "360",
+      "nama_ilmiah": "Larus novaehollandiae",
+      "nama_lokal": "Camar perak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481161"
+    },
+    {
+      "no": "361",
+      "nama_ilmiah": "Larus ridibundus",
+      "nama_lokal": "Camar kepala-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481137"
+    },
+    {
+      "no": "362",
+      "nama_ilmiah": "Larus schistisagus",
+      "nama_lokal": "Camar punggung-abu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481163"
+    },
+    {
+      "no": "363",
+      "nama_ilmiah": "Latimeria menadoensis",
+      "nama_lokal": "Ikan raja laut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441276"
+    },
+    {
+      "no": "364",
+      "nama_ilmiah": "Leiothrix laurinae",
+      "nama_lokal": "Mesia telinga-perak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8258914"
+    },
+    {
+      "no": "365",
+      "nama_ilmiah": "Lepidochelys olivacea",
+      "nama_lokal": "Penyu lekang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2442153"
+    },
+    {
+      "no": "366",
+      "nama_ilmiah": "Leptophryne cruentata",
+      "nama_lokal": "Kodok merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2422138"
+    },
+    {
+      "no": "367",
+      "nama_ilmiah": "Leptoptilos javanicus",
+      "nama_lokal": "Bangau tongtong",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481947"
+    },
+    {
+      "no": "368",
+      "nama_ilmiah": "Leucopsar rothschildii",
+      "nama_lokal": "Curik bali",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489068"
+    },
+    {
+      "no": "369",
+      "nama_ilmiah": "Limnodromus scolopaceus",
+      "nama_lokal": "Trinil-lumpur paruh-panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481670"
+    },
+    {
+      "no": "370",
+      "nama_ilmiah": "Limnodromus semipalmatus",
+      "nama_lokal": "Trinil-lumpur asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481671"
+    },
+    {
+      "no": "371",
+      "nama_ilmiah": "Loboparadisea sericea",
+      "nama_lokal": "Cenderawasih sutera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492271"
+    },
+    {
+      "no": "372",
+      "nama_ilmiah": "Lonchura oryzivora",
+      "nama_lokal": "Gelatik jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4845776"
+    },
+    {
+      "no": "373",
+      "nama_ilmiah": "Lonchura vana",
+      "nama_lokal": "Bondol arfak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2493596"
+    },
+    {
+      "no": "374",
+      "nama_ilmiah": "Lophorina magnifica",
+      "nama_lokal": "Toowa cemerlang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/11017325"
+    },
+    {
+      "no": "375",
+      "nama_ilmiah": "Lophorina superba",
+      "nama_lokal": "Cendrawasih kerah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494916"
+    },
+    {
+      "no": "376",
+      "nama_ilmiah": "Lophotriorchis kienerii",
+      "nama_lokal": "Elang perut-karat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788511"
+    },
+    {
+      "no": "377",
+      "nama_ilmiah": "Lophura bulweri",
+      "nama_lokal": "Sempidan kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228005"
+    },
+    {
+      "no": "378",
+      "nama_ilmiah": "Loriculus amabilis",
+      "nama_lokal": "Serindit maluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479374"
+    },
+    {
+      "no": "379",
+      "nama_ilmiah": "Loriculus aurantiifrons",
+      "nama_lokal": "Serindit papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479381"
+    },
+    {
+      "no": "380",
+      "nama_ilmiah": "Loriculus catamene",
+      "nama_lokal": "Serindit sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479380"
+    },
+    {
+      "no": "381",
+      "nama_ilmiah": "Loriculus exilis",
+      "nama_lokal": "Serindit paruh-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479378"
+    },
+    {
+      "no": "382",
+      "nama_ilmiah": "Loriculus flosculus",
+      "nama_lokal": "Serindit flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479387"
+    },
+    {
+      "no": "383",
+      "nama_ilmiah": "Loriculus galgulus",
+      "nama_lokal": "Serindit melayu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479372"
+    },
+    {
+      "no": "384",
+      "nama_ilmiah": "Loriculus pusillus",
+      "nama_lokal": "Serindit jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479373"
+    },
+    {
+      "no": "385",
+      "nama_ilmiah": "Loriculus sclateri",
+      "nama_lokal": "Serindit sula",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4851265"
+    },
+    {
+      "no": "386",
+      "nama_ilmiah": "Loriculus stigmatus",
+      "nama_lokal": "Serindit sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479379"
+    },
+    {
+      "no": "387",
+      "nama_ilmiah": "Lorius domicella",
+      "nama_lokal": "Kasturi tengkuk-ungu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479426"
+    },
+    {
+      "no": "388",
+      "nama_ilmiah": "Lorius garrulus",
+      "nama_lokal": "Kasturi ternate",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479414"
+    },
+    {
+      "no": "389",
+      "nama_ilmiah": "Lorius lory",
+      "nama_lokal": "Kasturi kepala-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479418"
+    },
+    {
+      "no": "390",
+      "nama_ilmiah": "Lutra lutra",
+      "nama_lokal": "Berang-berang pantai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433753"
+    },
+    {
+      "no": "391",
+      "nama_ilmiah": "Lutra sumatrana",
+      "nama_lokal": "Berang-berang gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433752"
+    },
+    {
+      "no": "392",
+      "nama_ilmiah": "Lutrogale perspicillata",
+      "nama_lokal": "Berang-berang wregul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433686"
+    },
+    {
+      "no": "393",
+      "nama_ilmiah": "Lycocorax obiensis",
+      "nama_lokal": "Cenderawasih gagak-obi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7941569"
+    },
+    {
+      "no": "394",
+      "nama_ilmiah": "Lycocorax pyrrhopterus",
+      "nama_lokal": "Cendrawasih gagak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494874"
+    },
+    {
+      "no": "395",
+      "nama_ilmiah": "Macaca maura",
+      "nama_lokal": "Monyet darre",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436606"
+    },
+    {
+      "no": "396",
+      "nama_ilmiah": "Macaca nigra",
+      "nama_lokal": "Monyet yaki",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436616"
+    },
+    {
+      "no": "397",
+      "nama_ilmiah": "Macaca ochreata",
+      "nama_lokal": "Monyet digo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436607"
+    },
+    {
+      "no": "398",
+      "nama_ilmiah": "Macaca pagensis",
+      "nama_lokal": "Beruk mentawai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4267149"
+    },
+    {
+      "no": "399",
+      "nama_ilmiah": "Macaca tonkeana",
+      "nama_lokal": "Monyet boti",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436614"
+    },
+    {
+      "no": "400",
+      "nama_ilmiah": "Macgregoria pulchra",
+      "nama_lokal": "Cendrawasih elok",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231672"
+    },
+    {
+      "no": "401",
+      "nama_ilmiah": "Macheiramphus alcinus",
+      "nama_lokal": "Elang kelelawar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480379"
+    },
+    {
+      "no": "402",
+      "nama_ilmiah": "Macrocephalon maleo",
+      "nama_lokal": "Maleo senkawor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482154"
+    },
+    {
+      "no": "403",
+      "nama_ilmiah": "Macrogalidia musschenbroekii",
+      "nama_lokal": "Musang sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434740"
+    },
+    {
+      "no": "404",
+      "nama_ilmiah": "Malayophython timoriensis",
+      "nama_lokal": "Sanca timor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9392647"
+    },
+    {
+      "no": "405",
+      "nama_ilmiah": "Manis javanica",
+      "nama_lokal": "Trenggiling",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219628"
+    },
+    {
+      "no": "406",
+      "nama_ilmiah": "Manouria emys",
+      "nama_lokal": "Baning coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441830"
+    },
+    {
+      "no": "407",
+      "nama_ilmiah": "Manucodia ater",
+      "nama_lokal": "Manukodia kilap",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7341546"
+    },
+    {
+      "no": "408",
+      "nama_ilmiah": "Manucodia chalybatus",
+      "nama_lokal": "Manukodia leher-keriting",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788948"
+    },
+    {
+      "no": "409",
+      "nama_ilmiah": "Manucodia jobiensis",
+      "nama_lokal": "Manukodia jobi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494906"
+    },
+    {
+      "no": "410",
+      "nama_ilmiah": "Megacrex inepta",
+      "nama_lokal": "Mandar kasuari",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474443"
+    },
+    {
+      "no": "411",
+      "nama_ilmiah": "Megapodius bernsteinii",
+      "nama_lokal": "Gosong sula",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482142"
+    },
+    {
+      "no": "412",
+      "nama_ilmiah": "Megapodius cumingii",
+      "nama_lokal": "Gosong pilipina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482131"
+    },
+    {
+      "no": "413",
+      "nama_ilmiah": "Megapodius decollatus",
+      "nama_lokal": "Gosong papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482126"
+    },
+    {
+      "no": "414",
+      "nama_ilmiah": "Megapodius forstenii",
+      "nama_lokal": "Gosong forsten",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7808617"
+    },
+    {
+      "no": "415",
+      "nama_ilmiah": "Megapodius freycinet",
+      "nama_lokal": "Gosong kelam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482147"
+    },
+    {
+      "no": "416",
+      "nama_ilmiah": "Megapodius geelvinkianus",
+      "nama_lokal": "Gosong biak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482127"
+    },
+    {
+      "no": "417",
+      "nama_ilmiah": "Megapodius reinwardt",
+      "nama_lokal": "Gosong kaki-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482118"
+    },
+    {
+      "no": "418",
+      "nama_ilmiah": "Megapodius tenimberensis",
+      "nama_lokal": "Gosong tanimbar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482125"
+    },
+    {
+      "no": "419",
+      "nama_ilmiah": "Megaptera novaeangliae",
+      "nama_lokal": "Paus bongkok",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220086"
+    },
+    {
+      "no": "420",
+      "nama_ilmiah": "Megatriorchis doriae",
+      "nama_lokal": "Elangalap doria",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480694"
+    },
+    {
+      "no": "421",
+      "nama_ilmiah": "Melipotes carolae",
+      "nama_lokal": "Melipotes foja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789263"
+    },
+    {
+      "no": "422",
+      "nama_ilmiah": "Melipotes fumigatus",
+      "nama_lokal": "Melipotes pipi-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2487155"
+    },
+    {
+      "no": "423",
+      "nama_ilmiah": "Melipotes gymnops",
+      "nama_lokal": "Melipotes arfak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2487159"
+    },
+    {
+      "no": "424",
+      "nama_ilmiah": "Meropogon forsteni",
+      "nama_lokal": "Cirik-cirik sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475390"
+    },
+    {
+      "no": "425",
+      "nama_ilmiah": "Mesoplodon densirostris",
+      "nama_lokal": "Paus paruh blainville",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440403"
+    },
+    {
+      "no": "426",
+      "nama_ilmiah": "Mesoplodon ginkgodens",
+      "nama_lokal": "Paus paruh bergigi ginkgo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440410"
+    },
+    {
+      "no": "427",
+      "nama_ilmiah": "Microhierax fringillarius",
+      "nama_lokal": "Alap-alap capung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481076"
+    },
+    {
+      "no": "428",
+      "nama_ilmiah": "Microhierax latifrons",
+      "nama_lokal": "Alap-alap dahi putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481077"
+    },
+    {
+      "no": "429",
+      "nama_ilmiah": "Micropsitta bruijnii",
+      "nama_lokal": "Nuri-kate dada-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479251"
+    },
+    {
+      "no": "430",
+      "nama_ilmiah": "Micropsitta geelvinkiana",
+      "nama_lokal": "Nuri-kategeelvink",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479257"
+    },
+    {
+      "no": "431",
+      "nama_ilmiah": "Micropsitta keiensis",
+      "nama_lokal": "Nuri-kate topi-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479239"
+    },
+    {
+      "no": "432",
+      "nama_ilmiah": "Micropsitta pusio",
+      "nama_lokal": "Nuri-kate pusio",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479246"
+    },
+    {
+      "no": "433",
+      "nama_ilmiah": "Milvus migrans",
+      "nama_lokal": "Elang paria",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229167"
+    },
+    {
+      "no": "434",
+      "nama_ilmiah": "Morelia viridis",
+      "nama_lokal": "Sanca hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5225681"
+    },
+    {
+      "no": "435",
+      "nama_ilmiah": "Mulleripicus fulvus",
+      "nama_lokal": "Pelatuk kelabu-sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2478335"
+    },
+    {
+      "no": "436",
+      "nama_ilmiah": "Mulleripicus pulverulentus",
+      "nama_lokal": "Pelatuk kelabu-besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2478328"
+    },
+    {
+      "no": "437",
+      "nama_ilmiah": "Muntiacus atherodes",
+      "nama_lokal": "Kijang kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440942"
+    },
+    {
+      "no": "438",
+      "nama_ilmiah": "Muntiacus muntjak",
+      "nama_lokal": "Kijang muncak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440943"
+    },
+    {
+      "no": "439",
+      "nama_ilmiah": "Muscicapa sodhii",
+      "nama_lokal": "Sikatanrimba sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7793395"
+    },
+    {
+      "no": "440",
+      "nama_ilmiah": "Mycteria cinerea",
+      "nama_lokal": "Bangau bluwok",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481935"
+    },
+    {
+      "no": "441",
+      "nama_ilmiah": "Nasalis larvatus",
+      "nama_lokal": "Bekantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436525"
+    },
+    {
+      "no": "442",
+      "nama_ilmiah": "Natator depressus",
+      "nama_lokal": "Penyu pipih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2442173"
+    },
+    {
+      "no": "443",
+      "nama_ilmiah": "Nautilus pompilius",
+      "nama_lokal": "Linne, 1758 nautilus berongga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2289202"
+    },
+    {
+      "no": "444",
+      "nama_ilmiah": "Neofelis diardi",
+      "nama_lokal": "Macan dahan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5787229"
+    },
+    {
+      "no": "445",
+      "nama_ilmiah": "Neolissochilus thienemanni",
+      "nama_lokal": "Ikan batak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2362810"
+    },
+    {
+      "no": "446",
+      "nama_ilmiah": "Neophocaena phocaenoides",
+      "nama_lokal": "Lumba-lumba hitam tak bersirip",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440656"
+    },
+    {
+      "no": "447",
+      "nama_ilmiah": "Neopsittacus musschenbroeki",
+      "nama_lokal": "Perkici paruh-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480067"
+    },
+    {
+      "no": "448",
+      "nama_ilmiah": "Neopsittacus pullicauda",
+      "nama_lokal": "Perkici paruh-jingga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480070"
+    },
+    {
+      "no": "449",
+      "nama_ilmiah": "Neopteryx frosti",
+      "nama_lokal": "Codot gigi kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2432935"
+    },
+    {
+      "no": "450",
+      "nama_ilmiah": "Nesolagus netscheri",
+      "nama_lokal": "Kelinci sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436684"
+    },
+    {
+      "no": "451",
+      "nama_ilmiah": "Nettapus coromandelianus",
+      "nama_lokal": "Trutu hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2498310"
+    },
+    {
+      "no": "452",
+      "nama_ilmiah": "Ninox burhani",
+      "nama_lokal": "Pungguk togian",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2497826"
+    },
+    {
+      "no": "453",
+      "nama_ilmiah": "Ninox ios",
+      "nama_lokal": "Pungguk merah-tua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2497791"
+    },
+    {
+      "no": "454",
+      "nama_ilmiah": "Nisaetus alboniger",
+      "nama_lokal": "Elang gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788510"
+    },
+    {
+      "no": "455",
+      "nama_ilmiah": "Nisaetus bartelsi",
+      "nama_lokal": "Elang jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788506"
+    },
+    {
+      "no": "456",
+      "nama_ilmiah": "Nisaetus cirrhatus",
+      "nama_lokal": "Elang brontok",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788501"
+    },
+    {
+      "no": "457",
+      "nama_ilmiah": "Nisaetus floris",
+      "nama_lokal": "Elang flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788507"
+    },
+    {
+      "no": "458",
+      "nama_ilmiah": "Nisaetus lanceolatus",
+      "nama_lokal": "Elang sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788502"
+    },
+    {
+      "no": "459",
+      "nama_ilmiah": "Nisaetus nanus",
+      "nama_lokal": "Elang wallace",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788505"
+    },
+    {
+      "no": "460",
+      "nama_ilmiah": "Notopterus notopterus",
+      "nama_lokal": "Belida jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5212862"
+    },
+    {
+      "no": "461",
+      "nama_ilmiah": "Numenius arquata",
+      "nama_lokal": "Gajahan erasia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481792"
+    },
+    {
+      "no": "462",
+      "nama_ilmiah": "Numenius madagascariensis",
+      "nama_lokal": "Gajahan timur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481791"
+    },
+    {
+      "no": "463",
+      "nama_ilmiah": "Numenius minutus",
+      "nama_lokal": "Gajahan kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481782"
+    },
+    {
+      "no": "464",
+      "nama_ilmiah": "Numenius phaeopus",
+      "nama_lokal": "Gajahan penggala",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481784"
+    },
+    {
+      "no": "465",
+      "nama_ilmiah": "Nycticebus coucang",
+      "nama_lokal": "Kukang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436629"
+    },
+    {
+      "no": "466",
+      "nama_ilmiah": "Nycticebus javanicus",
+      "nama_lokal": "Kukang jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5786064"
+    },
+    {
+      "no": "467",
+      "nama_ilmiah": "Nycticebus menagensis",
+      "nama_lokal": "Kukang kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5786051"
+    },
+    {
+      "no": "468",
+      "nama_ilmiah": "Nycticorax caledonicus",
+      "nama_lokal": "Kowakmalam merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480857"
+    },
+    {
+      "no": "469",
+      "nama_ilmiah": "Oceanites oceanicus",
+      "nama_lokal": "Petrelbadai coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229419"
+    },
+    {
+      "no": "470",
+      "nama_ilmiah": "Onychoprion aleuticus",
+      "nama_lokal": "Dara laut aleutian",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789282"
+    },
+    {
+      "no": "471",
+      "nama_ilmiah": "Onychoprion anaethetus",
+      "nama_lokal": "Dara laut batu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789286"
+    },
+    {
+      "no": "472",
+      "nama_ilmiah": "Onychoprion fuscatus",
+      "nama_lokal": "Dara laut sayap-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789284"
+    },
+    {
+      "no": "473",
+      "nama_ilmiah": "Onychoprion lunatus",
+      "nama_lokal": "Dara laut fiji",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789278"
+    },
+    {
+      "no": "474",
+      "nama_ilmiah": "Orcaella brevirostris",
+      "nama_lokal": "Pesut mahakam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440460"
+    },
+    {
+      "no": "475",
+      "nama_ilmiah": "Orcinus orca",
+      "nama_lokal": "Paus pembunuh, paus seguni",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440483"
+    },
+    {
+      "no": "476",
+      "nama_ilmiah": "Oreopsittacus arfaki",
+      "nama_lokal": "Perkici arfak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480174"
+    },
+    {
+      "no": "477",
+      "nama_ilmiah": "Orlitia borneensis",
+      "nama_lokal": "Bajuku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2443466"
+    },
+    {
+      "no": "478",
+      "nama_ilmiah": "Ornithoptera aesacus",
+      "nama_lokal": "Kupu-kupu sayap burung obi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937480"
+    },
+    {
+      "no": "479",
+      "nama_ilmiah": "Ornithoptera chimaera",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937477"
+    },
+    {
+      "no": "480",
+      "nama_ilmiah": "Ornithoptera croesus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937481"
+    },
+    {
+      "no": "481",
+      "nama_ilmiah": "Ornithoptera goliath",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937442"
+    },
+    {
+      "no": "482",
+      "nama_ilmiah": "Ornithoptera meridionalis",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937478"
+    },
+    {
+      "no": "483",
+      "nama_ilmiah": "Ornithoptera paradisea",
+      "nama_lokal": "Kupu-kupu sayap burung surga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937484"
+    },
+    {
+      "no": "484",
+      "nama_ilmiah": "Ornithoptera priamus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937444"
+    },
+    {
+      "no": "485",
+      "nama_ilmiah": "Ornithoptera rothschildi",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937479"
+    },
+    {
+      "no": "486",
+      "nama_ilmiah": "Ornithoptera tithonus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937487"
+    },
+    {
+      "no": "487",
+      "nama_ilmiah": "Otus alfredi",
+      "nama_lokal": "Celepuk flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232353"
+    },
+    {
+      "no": "488",
+      "nama_ilmiah": "Otus angelinae",
+      "nama_lokal": "Celepuk jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232356"
+    },
+    {
+      "no": "489",
+      "nama_ilmiah": "Otus beccarii",
+      "nama_lokal": "Celepuk biak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232282"
+    },
+    {
+      "no": "490",
+      "nama_ilmiah": "Otus brookii",
+      "nama_lokal": "Celepuk raja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232304"
+    },
+    {
+      "no": "491",
+      "nama_ilmiah": "Otus collari",
+      "nama_lokal": "Celepuk sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232355"
+    },
+    {
+      "no": "492",
+      "nama_ilmiah": "Otus enganensis",
+      "nama_lokal": "Celepuk enggano",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789317"
+    },
+    {
+      "no": "493",
+      "nama_ilmiah": "Otus jolandae",
+      "nama_lokal": "Celepuk rinjani",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7810820"
+    },
+    {
+      "no": "494",
+      "nama_ilmiah": "Otus manadensis",
+      "nama_lokal": "Celepuk sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232327"
+    },
+    {
+      "no": "495",
+      "nama_ilmiah": "Otus mendeni",
+      "nama_lokal": "Celepuk banggai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10871324"
+    },
+    {
+      "no": "496",
+      "nama_ilmiah": "Otus mentawi",
+      "nama_lokal": "Celepuk mentawai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232349"
+    },
+    {
+      "no": "497",
+      "nama_ilmiah": "Otus siaoensis",
+      "nama_lokal": "Celepuk siau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789318"
+    },
+    {
+      "no": "498",
+      "nama_ilmiah": "Otus umbra",
+      "nama_lokal": "Celepuk simalur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232278"
+    },
+    {
+      "no": "499",
+      "nama_ilmiah": "Pachyptila desolata",
+      "nama_lokal": "Petrel antartika",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229327"
+    },
+    {
+      "no": "500",
+      "nama_ilmiah": "Pandion haliaetus",
+      "nama_lokal": "Elang tiram",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480726"
+    },
+    {
+      "no": "501",
+      "nama_ilmiah": "Panthera pardus",
+      "nama_lokal": "Melas harimau tutul/ macan tutul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219436"
+    },
+    {
+      "no": "502",
+      "nama_ilmiah": "Panthera tigris",
+      "nama_lokal": "Sumatrae harimau sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219416"
+    },
+    {
+      "no": "503",
+      "nama_ilmiah": "Papasula abbotti",
+      "nama_lokal": "Angsabatu christmas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480983"
+    },
+    {
+      "no": "504",
+      "nama_ilmiah": "Paradigalla brevicauda",
+      "nama_lokal": "Paradigalla ibinimi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494885"
+    },
+    {
+      "no": "505",
+      "nama_ilmiah": "Paradigalla carunculata",
+      "nama_lokal": "Paradigalla ekor-panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494886"
+    },
+    {
+      "no": "506",
+      "nama_ilmiah": "Paradisaea apoda",
+      "nama_lokal": "Cendrawasih besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494862"
+    },
+    {
+      "no": "507",
+      "nama_ilmiah": "Paradisaea minor",
+      "nama_lokal": "Cendrawasih kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494859"
+    },
+    {
+      "no": "508",
+      "nama_ilmiah": "Paradisaea rubra",
+      "nama_lokal": "Cendrawasih merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494858"
+    },
+    {
+      "no": "509",
+      "nama_ilmiah": "Pardofelis marmorata",
+      "nama_lokal": "Kucing batu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2435089"
+    },
+    {
+      "no": "510",
+      "nama_ilmiah": "Parotia berlepschi",
+      "nama_lokal": "Parotia foja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6100768"
+    },
+    {
+      "no": "511",
+      "nama_ilmiah": "Parotia carolae",
+      "nama_lokal": "Parotia carola",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494893"
+    },
+    {
+      "no": "512",
+      "nama_ilmiah": "Parotia sefilata",
+      "nama_lokal": "Parotia arfak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494892"
+    },
+    {
+      "no": "513",
+      "nama_ilmiah": "Pavo muticus",
+      "nama_lokal": "Merak hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2473599"
+    },
+    {
+      "no": "514",
+      "nama_ilmiah": "Pelagodroma marina",
+      "nama_lokal": "Petrelbadai muka-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481991"
+    },
+    {
+      "no": "515",
+      "nama_ilmiah": "Pelecanus conspicillatus",
+      "nama_lokal": "Undan kacamata",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229156"
+    },
+    {
+      "no": "516",
+      "nama_ilmiah": "Pelecanus onocrotalus",
+      "nama_lokal": "Undan putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480350"
+    },
+    {
+      "no": "517",
+      "nama_ilmiah": "Pelecanus philippensis",
+      "nama_lokal": "Undan paruh-totol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229163"
+    },
+    {
+      "no": "518",
+      "nama_ilmiah": "Peponocephala electra",
+      "nama_lokal": "Paus kepala melon",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440470"
+    },
+    {
+      "no": "519",
+      "nama_ilmiah": "Pernis celebensis",
+      "nama_lokal": "Sikepmadu sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480422"
+    },
+    {
+      "no": "520",
+      "nama_ilmiah": "Pernis ptilorhynchus",
+      "nama_lokal": "Sikepmadu asia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5793241"
+    },
+    {
+      "no": "521",
+      "nama_ilmiah": "Petroica archboldi",
+      "nama_lokal": "Robin salju",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489316"
+    },
+    {
+      "no": "522",
+      "nama_ilmiah": "Petroica bivittata",
+      "nama_lokal": "Robin gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489319"
+    },
+    {
+      "no": "523",
+      "nama_ilmiah": "Phaethon lepturus",
+      "nama_lokal": "Buntutsate putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481364"
+    },
+    {
+      "no": "524",
+      "nama_ilmiah": "Phaethon rubricauda",
+      "nama_lokal": "Buntutsate merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481361"
+    },
+    {
+      "no": "525",
+      "nama_ilmiah": "Phalanger alexandrae",
+      "nama_lokal": "Kuskus gebe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440257"
+    },
+    {
+      "no": "526",
+      "nama_ilmiah": "Phalanger carmelitae",
+      "nama_lokal": "Kuskus gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440278"
+    },
+    {
+      "no": "527",
+      "nama_ilmiah": "Phalanger gymnotis",
+      "nama_lokal": "Kuskus guannal",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440266"
+    },
+    {
+      "no": "528",
+      "nama_ilmiah": "Phalanger intercastellanus",
+      "nama_lokal": "Kuskus selatan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440276"
+    },
+    {
+      "no": "529",
+      "nama_ilmiah": "Phalanger matabiru",
+      "nama_lokal": "Kuskus matabiru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440277"
+    },
+    {
+      "no": "530",
+      "nama_ilmiah": "Phalanger rothschildi",
+      "nama_lokal": "Kuskus obi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440265"
+    },
+    {
+      "no": "531",
+      "nama_ilmiah": "Phalanger sericeus",
+      "nama_lokal": "Kuskus yaben",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440262"
+    },
+    {
+      "no": "532",
+      "nama_ilmiah": "Phalanger vestitus",
+      "nama_lokal": "Kuskus siku putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440275"
+    },
+    {
+      "no": "533",
+      "nama_ilmiah": "Phalaropus lobatus",
+      "nama_lokal": "Lakirumbai kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5739290"
+    },
+    {
+      "no": "534",
+      "nama_ilmiah": "Phonygammus keraudrenii",
+      "nama_lokal": "Manukodia terompet",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7341526"
+    },
+    {
+      "no": "535",
+      "nama_ilmiah": "Physeter macrocephalus",
+      "nama_lokal": "Paus sperma",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8123917"
+    },
+    {
+      "no": "536",
+      "nama_ilmiah": "Pitta elegans",
+      "nama_lokal": "Paok laus",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489459"
+    },
+    {
+      "no": "537",
+      "nama_ilmiah": "Pitta maxima",
+      "nama_lokal": "Paok halmahera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489496"
+    },
+    {
+      "no": "538",
+      "nama_ilmiah": "Pitta megarhyncha",
+      "nama_lokal": "Paok bakau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489559"
+    },
+    {
+      "no": "539",
+      "nama_ilmiah": "Pitta moluccensis",
+      "nama_lokal": "Paok hujan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489520"
+    },
+    {
+      "no": "540",
+      "nama_ilmiah": "Pitta morotaiensis",
+      "nama_lokal": "Paok morotai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7569772"
+    },
+    {
+      "no": "541",
+      "nama_ilmiah": "Pitta nympha",
+      "nama_lokal": "Paok bidadari",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489521"
+    },
+    {
+      "no": "542",
+      "nama_ilmiah": "Pitta rosenbergii",
+      "nama_lokal": "Paok hijau-biak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10758000"
+    },
+    {
+      "no": "543",
+      "nama_ilmiah": "Pitta sordida",
+      "nama_lokal": "Paok hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489527"
+    },
+    {
+      "no": "544",
+      "nama_ilmiah": "Pitta versicolor",
+      "nama_lokal": "Paok lantang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489546"
+    },
+    {
+      "no": "545",
+      "nama_ilmiah": "Platalea regia",
+      "nama_lokal": "Ibis sendok raja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480799"
+    },
+    {
+      "no": "546",
+      "nama_ilmiah": "Platylophus galericulatus",
+      "nama_lokal": "Tangkar ongklet",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229486"
+    },
+    {
+      "no": "547",
+      "nama_ilmiah": "Platysmurus leucopterus",
+      "nama_lokal": "Tangkar kambing",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482536"
+    },
+    {
+      "no": "548",
+      "nama_ilmiah": "Plegadis falcinellus",
+      "nama_lokal": "Ibis rokoroko",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480773"
+    },
+    {
+      "no": "549",
+      "nama_ilmiah": "Podiceps cristatus",
+      "nama_lokal": "Titihan jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482054"
+    },
+    {
+      "no": "550",
+      "nama_ilmiah": "Polyplectron chalcurum",
+      "nama_lokal": "Kuaukerdil sumatera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474084"
+    },
+    {
+      "no": "551",
+      "nama_ilmiah": "Polyplectron schleiermacheri",
+      "nama_lokal": "Kuaukerdil kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474077"
+    },
+    {
+      "no": "552",
+      "nama_ilmiah": "Pongo abelii",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5707420"
+    },
+    {
+      "no": "553",
+      "nama_ilmiah": "Pongo pygmaeus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219532"
+    },
+    {
+      "no": "554",
+      "nama_ilmiah": "Pongo tapanuliensis",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9311132"
+    },
+    {
+      "no": "555",
+      "nama_ilmiah": "Porzana paykullii",
+      "nama_lokal": "Tikusan siberia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474615"
+    },
+    {
+      "no": "556",
+      "nama_ilmiah": "Porzana tabuensis",
+      "nama_lokal": "Tikusan polos",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474607"
+    },
+    {
+      "no": "557",
+      "nama_ilmiah": "Presbytis comata",
+      "nama_lokal": "Lutung surili",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219565"
+    },
+    {
+      "no": "558",
+      "nama_ilmiah": "Presbytis frontata",
+      "nama_lokal": "Lutung jirangan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219559"
+    },
+    {
+      "no": "559",
+      "nama_ilmiah": "Presbytis melalophos",
+      "nama_lokal": "Lutung simpai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219561"
+    },
+    {
+      "no": "560",
+      "nama_ilmiah": "Presbytis natunae",
+      "nama_lokal": "Kekah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5707308"
+    },
+    {
+      "no": "561",
+      "nama_ilmiah": "Presbytis potenziani",
+      "nama_lokal": "Lutung joja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219563"
+    },
+    {
+      "no": "562",
+      "nama_ilmiah": "Presbytis rubicunda",
+      "nama_lokal": "Lutung merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219560"
+    },
+    {
+      "no": "563",
+      "nama_ilmiah": "Presbytis thomasi",
+      "nama_lokal": "Lutung kedih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5219558"
+    },
+    {
+      "no": "564",
+      "nama_ilmiah": "Prionailurus bengalensis",
+      "nama_lokal": "Kucing kuwuk",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434903"
+    },
+    {
+      "no": "565",
+      "nama_ilmiah": "Prionailurus planiceps",
+      "nama_lokal": "Kucing tandang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434917"
+    },
+    {
+      "no": "566",
+      "nama_ilmiah": "Prionailurus viverrinus",
+      "nama_lokal": "Kucing bakau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2434899"
+    },
+    {
+      "no": "567",
+      "nama_ilmiah": "Prioniturus flavicans",
+      "nama_lokal": "Kringkring dada-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480038"
+    },
+    {
+      "no": "568",
+      "nama_ilmiah": "Prioniturus mada",
+      "nama_lokal": "Kringkring buru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480032"
+    },
+    {
+      "no": "569",
+      "nama_ilmiah": "Prioniturus platurus",
+      "nama_lokal": "Kringkring bukit",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480039"
+    },
+    {
+      "no": "570",
+      "nama_ilmiah": "Prionodon linsang",
+      "nama_lokal": "Musang lingsang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5963050"
+    },
+    {
+      "no": "571",
+      "nama_ilmiah": "Pristis clavata",
+      "nama_lokal": "Pari gergaji kerdil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5216282"
+    },
+    {
+      "no": "572",
+      "nama_ilmiah": "Pristis pristis",
+      "nama_lokal": "Pari gergaji gigi besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5216276"
+    },
+    {
+      "no": "573",
+      "nama_ilmiah": "Pristis zijsron",
+      "nama_lokal": "Pari gergaji hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5216288"
+    },
+    {
+      "no": "574",
+      "nama_ilmiah": "Probosciger aterrimus",
+      "nama_lokal": "Kakatua raja",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479187"
+    },
+    {
+      "no": "575",
+      "nama_ilmiah": "Psaltria exilis",
+      "nama_lokal": "Cerecet jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231716"
+    },
+    {
+      "no": "576",
+      "nama_ilmiah": "Pseudeos fuscata",
+      "nama_lokal": "Nuri kelam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479306"
+    },
+    {
+      "no": "577",
+      "nama_ilmiah": "Pseudibis davisoni",
+      "nama_lokal": "Ibis karau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480777"
+    },
+    {
+      "no": "578",
+      "nama_ilmiah": "Pseudobulweria rostrata",
+      "nama_lokal": "Petrel tahiti",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481506"
+    },
+    {
+      "no": "579",
+      "nama_ilmiah": "Pseudorca crassidens",
+      "nama_lokal": "Paus pemangsa palsu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440440"
+    },
+    {
+      "no": "580",
+      "nama_ilmiah": "Psilopogon armillaris",
+      "nama_lokal": "Takur tohtor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7666111"
+    },
+    {
+      "no": "581",
+      "nama_ilmiah": "Psilopogon chrysopogon",
+      "nama_lokal": "Takur gedang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7497537"
+    },
+    {
+      "no": "582",
+      "nama_ilmiah": "Psilopogon corvinus",
+      "nama_lokal": "Takur bututut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7471066"
+    },
+    {
+      "no": "583",
+      "nama_ilmiah": "Psilopogon eximius",
+      "nama_lokal": "Takur leher-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7385758"
+    },
+    {
+      "no": "584",
+      "nama_ilmiah": "Psilopogon henricii",
+      "nama_lokal": "Takur topi-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7687489"
+    },
+    {
+      "no": "585",
+      "nama_ilmiah": "Psilopogon javensis",
+      "nama_lokal": "Takur tulung-tumpuk",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7395391"
+    },
+    {
+      "no": "586",
+      "nama_ilmiah": "Psilopogon lineatus",
+      "nama_lokal": "Takur bultok",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7934047"
+    },
+    {
+      "no": "587",
+      "nama_ilmiah": "Psilopogon monticola",
+      "nama_lokal": "Takur gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7880953"
+    },
+    {
+      "no": "588",
+      "nama_ilmiah": "Psilopogon mystacophanos",
+      "nama_lokal": "Takur warna-warni",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7515275"
+    },
+    {
+      "no": "589",
+      "nama_ilmiah": "Psilopogon oorti",
+      "nama_lokal": "Takur bukit",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8006809"
+    },
+    {
+      "no": "590",
+      "nama_ilmiah": "Psilopogon pulcherrimus",
+      "nama_lokal": "Takur tengkuk-emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8114638"
+    },
+    {
+      "no": "591",
+      "nama_ilmiah": "Psilopogon pyrolophus",
+      "nama_lokal": "Takur api",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229003"
+    },
+    {
+      "no": "592",
+      "nama_ilmiah": "Psilopogon rafflesii",
+      "nama_lokal": "Takur tutut",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7443473"
+    },
+    {
+      "no": "593",
+      "nama_ilmiah": "Psittacella brehmii",
+      "nama_lokal": "Nuri-macan brehm",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479178"
+    },
+    {
+      "no": "594",
+      "nama_ilmiah": "Psittacella lorentzi",
+      "nama_lokal": "Nuri-macan lorentz",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10809017"
+    },
+    {
+      "no": "595",
+      "nama_ilmiah": "Psittacella madaraszi",
+      "nama_lokal": "Nuri-macan madarasz",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479173"
+    },
+    {
+      "no": "596",
+      "nama_ilmiah": "Psittacella modesta",
+      "nama_lokal": "Nuri-macan sederhana",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479165"
+    },
+    {
+      "no": "597",
+      "nama_ilmiah": "Psittacella picta",
+      "nama_lokal": "Nuri-macan berbiru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479169"
+    },
+    {
+      "no": "598",
+      "nama_ilmiah": "Psittacula alexandri",
+      "nama_lokal": "Betet biasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229045"
+    },
+    {
+      "no": "599",
+      "nama_ilmiah": "Psittacula longicauda",
+      "nama_lokal": "Betet ekor-panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229038"
+    },
+    {
+      "no": "600",
+      "nama_ilmiah": "Psittaculirostris cervicalis",
+      "nama_lokal": "Nuri-ara muka-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8412863"
+    },
+    {
+      "no": "601",
+      "nama_ilmiah": "Psittaculirostris desmarestii",
+      "nama_lokal": "Nuri-ara besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480054"
+    },
+    {
+      "no": "602",
+      "nama_ilmiah": "Psittaculirostris edwardsii",
+      "nama_lokal": "Nuri-araedward",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480062"
+    },
+    {
+      "no": "603",
+      "nama_ilmiah": "Psittaculirostris godmani",
+      "nama_lokal": "Nuri-ara kuduk-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/10929369"
+    },
+    {
+      "no": "604",
+      "nama_ilmiah": "Psittaculirostris salvadorii",
+      "nama_lokal": "Nuri-ara pipi-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480061"
+    },
+    {
+      "no": "605",
+      "nama_ilmiah": "Psitteuteles goldiei",
+      "nama_lokal": "Perkici lembayung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479457"
+    },
+    {
+      "no": "606",
+      "nama_ilmiah": "Psitteuteles iris",
+      "nama_lokal": "Perkici iris",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479453"
+    },
+    {
+      "no": "607",
+      "nama_ilmiah": "Psittinus cyanurus",
+      "nama_lokal": "Nuri tanau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479524"
+    },
+    {
+      "no": "608",
+      "nama_ilmiah": "Psittrichas fulgidus",
+      "nama_lokal": "Nuri kabare",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479860"
+    },
+    {
+      "no": "609",
+      "nama_ilmiah": "Pteridophora alberti",
+      "nama_lokal": "Cendrawasih panji",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494888"
+    },
+    {
+      "no": "610",
+      "nama_ilmiah": "Pterodorma baraui",
+      "nama_lokal": "Petrel barau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481475"
+    },
+    {
+      "no": "611",
+      "nama_ilmiah": "Pterodorma sandwichensis",
+      "nama_lokal": "Petrel galapagos",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481449"
+    },
+    {
+      "no": "612",
+      "nama_ilmiah": "Pteropus pumilus",
+      "nama_lokal": "Kalong talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5218696"
+    },
+    {
+      "no": "613",
+      "nama_ilmiah": "Ptilinopus dohertyi",
+      "nama_lokal": "Walik rawa-manu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495613"
+    },
+    {
+      "no": "614",
+      "nama_ilmiah": "Ptilinopus granulifrons",
+      "nama_lokal": "Walik benjol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495620"
+    },
+    {
+      "no": "615",
+      "nama_ilmiah": "Ptilocichla leucogrammica",
+      "nama_lokal": "Berencet kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2492897"
+    },
+    {
+      "no": "616",
+      "nama_ilmiah": "Puffinus heinrothi",
+      "nama_lokal": "Penggunting-laut heinroth",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229369"
+    },
+    {
+      "no": "617",
+      "nama_ilmiah": "Python bivittatus",
+      "nama_lokal": "Sanca bodo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4820533"
+    },
+    {
+      "no": "618",
+      "nama_ilmiah": "Rallicula forbesi",
+      "nama_lokal": "Mandargunung koma",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474475"
+    },
+    {
+      "no": "619",
+      "nama_ilmiah": "Rallicula leucospila",
+      "nama_lokal": "Mandargunung garis-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474480"
+    },
+    {
+      "no": "620",
+      "nama_ilmiah": "Rallicula mayri",
+      "nama_lokal": "Mandargunung mayr",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474471"
+    },
+    {
+      "no": "621",
+      "nama_ilmiah": "Rhabdotorrhinus corrugatus",
+      "nama_lokal": "Julang jambul-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8413441"
+    },
+    {
+      "no": "622",
+      "nama_ilmiah": "Rhabdotorrhinus exarhatus",
+      "nama_lokal": "Kangkareng sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7609838"
+    },
+    {
+      "no": "623",
+      "nama_ilmiah": "Rhinoceros sondaicus",
+      "nama_lokal": "Badak jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220112"
+    },
+    {
+      "no": "624",
+      "nama_ilmiah": "Rhinoplax vigil",
+      "nama_lokal": "Rangkong gading",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475951"
+    },
+    {
+      "no": "625",
+      "nama_ilmiah": "Rhipidura euryura",
+      "nama_lokal": "Kipasan bukit",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231758"
+    },
+    {
+      "no": "626",
+      "nama_ilmiah": "Rhipidura javanica",
+      "nama_lokal": "Kipasan belang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231747"
+    },
+    {
+      "no": "627",
+      "nama_ilmiah": "Rhipidura phoenicura",
+      "nama_lokal": "Kipasan ekor-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5231727"
+    },
+    {
+      "no": "628",
+      "nama_ilmiah": "Rhyticeros cassidix",
+      "nama_lokal": "Julang sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8290357"
+    },
+    {
+      "no": "629",
+      "nama_ilmiah": "Rhyticeros everetti",
+      "nama_lokal": "Julang sumba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475904"
+    },
+    {
+      "no": "630",
+      "nama_ilmiah": "Rhyticeros plicatus",
+      "nama_lokal": "Julang irian",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475908"
+    },
+    {
+      "no": "631",
+      "nama_ilmiah": "Rhyticeros undulatus",
+      "nama_lokal": "Julang emas",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475916"
+    },
+    {
+      "no": "632",
+      "nama_ilmiah": "Rostratula benghalensis",
+      "nama_lokal": "Berkik-kembang besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482029"
+    },
+    {
+      "no": "633",
+      "nama_ilmiah": "Rusa timorensis",
+      "nama_lokal": "Rusa timor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4262397"
+    },
+    {
+      "no": "634",
+      "nama_ilmiah": "Rusa unicolor",
+      "nama_lokal": "Rusa sambar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7261386"
+    },
+    {
+      "no": "635",
+      "nama_ilmiah": "Salvadorina waigiuensis",
+      "nama_lokal": "Itik gunung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2498040"
+    },
+    {
+      "no": "636",
+      "nama_ilmiah": "Schismatorhynchus heterorhynchus",
+      "nama_lokal": "Pasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2365843"
+    },
+    {
+      "no": "637",
+      "nama_ilmiah": "Scleropages formosus",
+      "nama_lokal": "Siluk kalimantan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2402231"
+    },
+    {
+      "no": "638",
+      "nama_ilmiah": "Scleropages jardinii",
+      "nama_lokal": "Siluk irian",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2402234"
+    },
+    {
+      "no": "639",
+      "nama_ilmiah": "Scolopax celebensis",
+      "nama_lokal": "Berkik-gunung sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481697"
+    },
+    {
+      "no": "640",
+      "nama_ilmiah": "Scolopax rochussenii",
+      "nama_lokal": "Berkik-gunung maluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481694"
+    },
+    {
+      "no": "641",
+      "nama_ilmiah": "Scolopax rosenbergii",
+      "nama_lokal": "Berkik-gunung papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789295"
+    },
+    {
+      "no": "642",
+      "nama_ilmiah": "Scolopax saturata",
+      "nama_lokal": "Berkik-gunung merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481698"
+    },
+    {
+      "no": "643",
+      "nama_ilmiah": "Seleucidis melanoleucus",
+      "nama_lokal": "Cendrawasih mati-kawat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7341429"
+    },
+    {
+      "no": "644",
+      "nama_ilmiah": "Semioptera wallacii",
+      "nama_lokal": "Bidadari halmahera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494872"
+    },
+    {
+      "no": "645",
+      "nama_ilmiah": "Sericulus ardens",
+      "nama_lokal": "Namdur api",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5846070"
+    },
+    {
+      "no": "646",
+      "nama_ilmiah": "Sericulus aureus",
+      "nama_lokal": "Namdur topeng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2494815"
+    },
+    {
+      "no": "647",
+      "nama_ilmiah": "Setornis criniger",
+      "nama_lokal": "Empuloh paruh-kait",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2486216"
+    },
+    {
+      "no": "648",
+      "nama_ilmiah": "Simalia boeleni",
+      "nama_lokal": "Sanca bulan",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9427004"
+    },
+    {
+      "no": "649",
+      "nama_ilmiah": "Simias concolor",
+      "nama_lokal": "Lutung simakobu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4267130"
+    },
+    {
+      "no": "650",
+      "nama_ilmiah": "Sousa chinensis",
+      "nama_lokal": "Lumba-lumba bongkok",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440495"
+    },
+    {
+      "no": "651",
+      "nama_ilmiah": "Spilocuscus maculatus",
+      "nama_lokal": "Kuskus pontai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9818309"
+    },
+    {
+      "no": "652",
+      "nama_ilmiah": "Spilocuscus papuensis",
+      "nama_lokal": "Kuskus scham-scham",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440246"
+    },
+    {
+      "no": "653",
+      "nama_ilmiah": "Spilocuscus rufoniger",
+      "nama_lokal": "Kuskus bohai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440248"
+    },
+    {
+      "no": "654",
+      "nama_ilmiah": "Spilornis cheela",
+      "nama_lokal": "Elangular bido",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480433"
+    },
+    {
+      "no": "655",
+      "nama_ilmiah": "Spilornis kinabaluensis",
+      "nama_lokal": "Elangular kinabalu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480430"
+    },
+    {
+      "no": "656",
+      "nama_ilmiah": "Spilornis rufipectus",
+      "nama_lokal": "Elangular sulawesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480431"
+    },
+    {
+      "no": "657",
+      "nama_ilmiah": "Stachyris grammiceps",
+      "nama_lokal": "Tepus dada-putih",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2493412"
+    },
+    {
+      "no": "658",
+      "nama_ilmiah": "Stenella attenuata",
+      "nama_lokal": "Lumba-lumba totol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220050"
+    },
+    {
+      "no": "659",
+      "nama_ilmiah": "Stenella coeruleoalba",
+      "nama_lokal": "Lumba-lumba garis",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220055"
+    },
+    {
+      "no": "660",
+      "nama_ilmiah": "Stenella longirostris",
+      "nama_lokal": "Lumba-lumba moncong panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220060"
+    },
+    {
+      "no": "661",
+      "nama_ilmiah": "Steno bredanensis",
+      "nama_lokal": "Lumba-lumba gigi kasar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440433"
+    },
+    {
+      "no": "662",
+      "nama_ilmiah": "Stercorarius longicaudus",
+      "nama_lokal": "Camarkejar kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481613"
+    },
+    {
+      "no": "663",
+      "nama_ilmiah": "Stercorarius parasiticus",
+      "nama_lokal": "Camarkejar arktika",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481621"
+    },
+    {
+      "no": "664",
+      "nama_ilmiah": "Stercorarius pomarinus",
+      "nama_lokal": "Camarkejar pomarin",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481609"
+    },
+    {
+      "no": "665",
+      "nama_ilmiah": "Sterna dougallii",
+      "nama_lokal": "Dara laut jambon",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229249"
+    },
+    {
+      "no": "666",
+      "nama_ilmiah": "Sterna hirundo",
+      "nama_lokal": "Dara laut biasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9367409"
+    },
+    {
+      "no": "667",
+      "nama_ilmiah": "Sterna paradisea",
+      "nama_lokal": "Dara laut arktik",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229230"
+    },
+    {
+      "no": "668",
+      "nama_ilmiah": "Sterna sumatrana",
+      "nama_lokal": "Dara laut tengkuk-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229214"
+    },
+    {
+      "no": "669",
+      "nama_ilmiah": "Sternula albifrons",
+      "nama_lokal": "Dara laut kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789279"
+    },
+    {
+      "no": "670",
+      "nama_ilmiah": "Stiltia isabella",
+      "nama_lokal": "Terik australia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480749"
+    },
+    {
+      "no": "671",
+      "nama_ilmiah": "Strigocuscus celebensis",
+      "nama_lokal": "Kuskus tembung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440288"
+    },
+    {
+      "no": "672",
+      "nama_ilmiah": "Strigocuscus pelengensis",
+      "nama_lokal": "Kuskus peleng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440283"
+    },
+    {
+      "no": "673",
+      "nama_ilmiah": "Sula dactylatra",
+      "nama_lokal": "Angsabatu topeng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480967"
+    },
+    {
+      "no": "674",
+      "nama_ilmiah": "Sula leucogaster",
+      "nama_lokal": "Angsabatu coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480975"
+    },
+    {
+      "no": "675",
+      "nama_ilmiah": "Sula sula",
+      "nama_lokal": "Angsabatu kakimerah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480972"
+    },
+    {
+      "no": "676",
+      "nama_ilmiah": "Symphalangus syndactylus",
+      "nama_lokal": "Owa siamang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4267277"
+    },
+    {
+      "no": "677",
+      "nama_ilmiah": "Symposiachrus boanensis",
+      "nama_lokal": "Kehicap boano",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101041"
+    },
+    {
+      "no": "678",
+      "nama_ilmiah": "Symposiachrus brehmii",
+      "nama_lokal": "Kehicap biak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101046"
+    },
+    {
+      "no": "679",
+      "nama_ilmiah": "Symposiachrus everetti",
+      "nama_lokal": "Kehicap tanah-jampea",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101045"
+    },
+    {
+      "no": "680",
+      "nama_ilmiah": "Symposiachrus julianae",
+      "nama_lokal": "Kehicap kofiau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101043"
+    },
+    {
+      "no": "681",
+      "nama_ilmiah": "Symposiachrus sacerdotum",
+      "nama_lokal": "Kehicap flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6101048"
+    },
+    {
+      "no": "682",
+      "nama_ilmiah": "Tachybaptus novaehollandiae",
+      "nama_lokal": "Titihan australia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482043"
+    },
+    {
+      "no": "683",
+      "nama_ilmiah": "Tachybaptus ruficollis",
+      "nama_lokal": "Titihan jelaga",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482048"
+    },
+    {
+      "no": "684",
+      "nama_ilmiah": "Tachyglossus aculeatus",
+      "nama_lokal": "Nokdiak moncong pendek",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433378"
+    },
+    {
+      "no": "685",
+      "nama_ilmiah": "Tachypleus gigas",
+      "nama_lokal": "Belangkas besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1010607"
+    },
+    {
+      "no": "686",
+      "nama_ilmiah": "Tachypleus tridentatus",
+      "nama_lokal": "Belangkas tigaduri",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1010608"
+    },
+    {
+      "no": "687",
+      "nama_ilmiah": "Talegalla cuvieri",
+      "nama_lokal": "Maleo kamur",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482159"
+    },
+    {
+      "no": "688",
+      "nama_ilmiah": "Talegalla fuscirostris",
+      "nama_lokal": "Maleo paruh-hitam",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482162"
+    },
+    {
+      "no": "689",
+      "nama_ilmiah": "Talegalla jobiensis",
+      "nama_lokal": "Maleo kerah-coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2482156"
+    },
+    {
+      "no": "690",
+      "nama_ilmiah": "Tanygnathus gramineus",
+      "nama_lokal": "Betet-kelapa buru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229092"
+    },
+    {
+      "no": "691",
+      "nama_ilmiah": "Tanygnathus lucionensis",
+      "nama_lokal": "Betet-kelapa filipina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229074"
+    },
+    {
+      "no": "692",
+      "nama_ilmiah": "Tanygnathus megalorynchos",
+      "nama_lokal": "Betet-kelapa paruh-besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229079"
+    },
+    {
+      "no": "693",
+      "nama_ilmiah": "Tanygnathus sumatranus",
+      "nama_lokal": "Betet-kelapa punggung-biru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229086"
+    },
+    {
+      "no": "694",
+      "nama_ilmiah": "Tanysiptera carolinae",
+      "nama_lokal": "Cekakakpita numfor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475644"
+    },
+    {
+      "no": "695",
+      "nama_ilmiah": "Tanysiptera ellioti",
+      "nama_lokal": "Cekakakpita kofiau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475645"
+    },
+    {
+      "no": "696",
+      "nama_ilmiah": "Tanysiptera riedelii",
+      "nama_lokal": "Cekakakpita biak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2475637"
+    },
+    {
+      "no": "697",
+      "nama_ilmiah": "Tapirus indicus",
+      "nama_lokal": "Tapir tenuk",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440896"
+    },
+    {
+      "no": "698",
+      "nama_ilmiah": "Tarsius bancanus",
+      "nama_lokal": "Krabuku ingkat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436487"
+    },
+    {
+      "no": "699",
+      "nama_ilmiah": "Tarsius dentatus",
+      "nama_lokal": "Krabuku diana",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4266947"
+    },
+    {
+      "no": "700",
+      "nama_ilmiah": "Tarsius lariang",
+      "nama_lokal": "Tarsius lariang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5786490"
+    },
+    {
+      "no": "701",
+      "nama_ilmiah": "Tarsius pelengensis",
+      "nama_lokal": "Krabuku peleng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4266951"
+    },
+    {
+      "no": "702",
+      "nama_ilmiah": "Tarsius pumilus",
+      "nama_lokal": "Krabuku kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436488"
+    },
+    {
+      "no": "703",
+      "nama_ilmiah": "Tarsius sangirensis",
+      "nama_lokal": "Krabuku sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4266953"
+    },
+    {
+      "no": "704",
+      "nama_ilmiah": "Tarsius tarsier",
+      "nama_lokal": "Krabuku tangkasi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4266949"
+    },
+    {
+      "no": "705",
+      "nama_ilmiah": "Tarsius tumpara",
+      "nama_lokal": "Tarsius siau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8160643"
+    },
+    {
+      "no": "706",
+      "nama_ilmiah": "Thalasseus bengalensis",
+      "nama_lokal": "Dara laut benggala",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6065833"
+    },
+    {
+      "no": "707",
+      "nama_ilmiah": "Thalasseus bergii",
+      "nama_lokal": "Dara laut jambul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5789283"
+    },
+    {
+      "no": "708",
+      "nama_ilmiah": "Thalasseus bernsteini",
+      "nama_lokal": "Dara laut cina",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/6065837"
+    },
+    {
+      "no": "709",
+      "nama_ilmiah": "Threskiornis melanocephalus",
+      "nama_lokal": "Ibis cucukbesi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480767"
+    },
+    {
+      "no": "710",
+      "nama_ilmiah": "Threskiornis moluccus",
+      "nama_lokal": "Ibis australia",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480765"
+    },
+    {
+      "no": "711",
+      "nama_ilmiah": "Threskiornis spinicollis",
+      "nama_lokal": "Ibis papua",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480766"
+    },
+    {
+      "no": "712",
+      "nama_ilmiah": "Thylogale browni",
+      "nama_lokal": "Pelandu nugini",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440169"
+    },
+    {
+      "no": "713",
+      "nama_ilmiah": "Thylogale brunii",
+      "nama_lokal": "Pelandu aru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440170"
+    },
+    {
+      "no": "714",
+      "nama_ilmiah": "Thylogale stigmatica",
+      "nama_lokal": "Pelandu merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440164"
+    },
+    {
+      "no": "715",
+      "nama_ilmiah": "Todirhamphus australasia",
+      "nama_lokal": "Cekakak kalung-coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228354"
+    },
+    {
+      "no": "716",
+      "nama_ilmiah": "Todirhamphus enigma",
+      "nama_lokal": "Cekakak talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228353"
+    },
+    {
+      "no": "717",
+      "nama_ilmiah": "Todirhamphus funebris",
+      "nama_lokal": "Cekakak murung",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228352"
+    },
+    {
+      "no": "718",
+      "nama_ilmiah": "Todirhamphus lazuli",
+      "nama_lokal": "Cekakak lazuli",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228357"
+    },
+    {
+      "no": "719",
+      "nama_ilmiah": "Todirhamphus saurophagus",
+      "nama_lokal": "Cekakak pantai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5228359"
+    },
+    {
+      "no": "720",
+      "nama_ilmiah": "Tomistoma schlegelii",
+      "nama_lokal": "Buaya sinyulong",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2441378"
+    },
+    {
+      "no": "721",
+      "nama_ilmiah": "Trachypithecus auratus",
+      "nama_lokal": "Lutung budeng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9204783"
+    },
+    {
+      "no": "722",
+      "nama_ilmiah": "Trachypithecus cristatus",
+      "nama_lokal": "Lutung kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2436542"
+    },
+    {
+      "no": "723",
+      "nama_ilmiah": "Tragulus javanicus",
+      "nama_lokal": "Pelanduk kancil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220187"
+    },
+    {
+      "no": "724",
+      "nama_ilmiah": "Tragulus kanchil",
+      "nama_lokal": "Kancil kecil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7261464"
+    },
+    {
+      "no": "725",
+      "nama_ilmiah": "Tragulus napu",
+      "nama_lokal": "Pelanduk napu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5220186"
+    },
+    {
+      "no": "726",
+      "nama_ilmiah": "Treron psittaceus",
+      "nama_lokal": "Punai timor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495800"
+    },
+    {
+      "no": "727",
+      "nama_ilmiah": "Treron teysmannii",
+      "nama_lokal": "Punai sumba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2495782"
+    },
+    {
+      "no": "728",
+      "nama_ilmiah": "Trichoglossus capistratus",
+      "nama_lokal": "Perkici oranye",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479680"
+    },
+    {
+      "no": "729",
+      "nama_ilmiah": "Trichoglossus euteles",
+      "nama_lokal": "Perkici timor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479673"
+    },
+    {
+      "no": "730",
+      "nama_ilmiah": "Trichoglossus flavoviridis",
+      "nama_lokal": "Perkici kuning-hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479701"
+    },
+    {
+      "no": "731",
+      "nama_ilmiah": "Trichoglossus forsteni",
+      "nama_lokal": "Perkici dada-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479675"
+    },
+    {
+      "no": "732",
+      "nama_ilmiah": "Trichoglossus haematodus",
+      "nama_lokal": "Perkici pelangi",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479686"
+    },
+    {
+      "no": "733",
+      "nama_ilmiah": "Trichoglossus meyeri",
+      "nama_lokal": "Perkici kuning-gelap",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8867103"
+    },
+    {
+      "no": "734",
+      "nama_ilmiah": "Trichoglossus ornatus",
+      "nama_lokal": "Perkici dora",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479685"
+    },
+    {
+      "no": "735",
+      "nama_ilmiah": "Trichoglossus rosenbergii",
+      "nama_lokal": "Perkici biak",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479690"
+    },
+    {
+      "no": "736",
+      "nama_ilmiah": "Trichoglossus weberi",
+      "nama_lokal": "Perkici flores",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2479684"
+    },
+    {
+      "no": "737",
+      "nama_ilmiah": "Tringa erythropus",
+      "nama_lokal": "Trinil tutul",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481725"
+    },
+    {
+      "no": "738",
+      "nama_ilmiah": "Tringa flavipes",
+      "nama_lokal": "Trinil kaki-kuning",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481721"
+    },
+    {
+      "no": "739",
+      "nama_ilmiah": "Tringa guttifer",
+      "nama_lokal": "Trinil nordmann",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481723"
+    },
+    {
+      "no": "740",
+      "nama_ilmiah": "Tringa incana",
+      "nama_lokal": "Trinil penjelajah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/9733156"
+    },
+    {
+      "no": "741",
+      "nama_ilmiah": "Tringa ochropus",
+      "nama_lokal": "Trinil hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481728"
+    },
+    {
+      "no": "742",
+      "nama_ilmiah": "Trogonoptera brookiana",
+      "nama_lokal": "Kupu-kupu raja brooke",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937514"
+    },
+    {
+      "no": "743",
+      "nama_ilmiah": "Troides amphrysus",
+      "nama_lokal": "Kupu-kupu raja malaya",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937011"
+    },
+    {
+      "no": "744",
+      "nama_ilmiah": "Troides andromache",
+      "nama_lokal": "Kupu-kupu raja borneo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1936990"
+    },
+    {
+      "no": "745",
+      "nama_ilmiah": "Troides criton",
+      "nama_lokal": "Kupu raja criton",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937025"
+    },
+    {
+      "no": "746",
+      "nama_ilmiah": "Troides cuneifera",
+      "nama_lokal": "Kupu-kupu raja cuneifera",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937049"
+    },
+    {
+      "no": "747",
+      "nama_ilmiah": "Troides dohertyi",
+      "nama_lokal": "Kupu-kupu raja talaud",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5792150"
+    },
+    {
+      "no": "748",
+      "nama_ilmiah": "Troides haliphron",
+      "nama_lokal": "Kupu-kupu raja haliphron",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937050"
+    },
+    {
+      "no": "749",
+      "nama_ilmiah": "Troides helena",
+      "nama_lokal": "Kupu-kupu raja helena",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1936993"
+    },
+    {
+      "no": "750",
+      "nama_ilmiah": "Troides hypolitus",
+      "nama_lokal": "Kupu-kupu raja hypolitus",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937045"
+    },
+    {
+      "no": "751",
+      "nama_ilmiah": "Troides meoris",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1936987"
+    },
+    {
+      "no": "752",
+      "nama_ilmiah": "Troides miranda",
+      "nama_lokal": "Kupu-kupu raja miranda",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937003"
+    },
+    {
+      "no": "753",
+      "nama_ilmiah": "Troides oblongomaculatus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937033"
+    },
+    {
+      "no": "754",
+      "nama_ilmiah": "Troides plato",
+      "nama_lokal": "Kupu-kupu raja timor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937036"
+    },
+    {
+      "no": "755",
+      "nama_ilmiah": "Troides prattorum",
+      "nama_lokal": "Kupu-kupu raja prattorum",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937056"
+    },
+    {
+      "no": "756",
+      "nama_ilmiah": "Troides riedeli",
+      "nama_lokal": "Kupu-kupu raja tanimbar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937057"
+    },
+    {
+      "no": "757",
+      "nama_ilmiah": "Troides vandepolli",
+      "nama_lokal": "Kupu-kupu raja vandepolli",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/1937042"
+    },
+    {
+      "no": "758",
+      "nama_ilmiah": "Turdinus macrodactylus",
+      "nama_lokal": "Berencet besar",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/7341226"
+    },
+    {
+      "no": "759",
+      "nama_ilmiah": "Turnix everetti",
+      "nama_lokal": "Gemak sumba",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2474965"
+    },
+    {
+      "no": "760",
+      "nama_ilmiah": "Tursiops aduncus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440455"
+    },
+    {
+      "no": "761",
+      "nama_ilmiah": "Tursiops truncatus",
+      "nama_lokal": "Lumba-lumba hidung botol",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440447"
+    },
+    {
+      "no": "762",
+      "nama_ilmiah": "Tyto inexspectata",
+      "nama_lokal": "Serak minahasa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232409"
+    },
+    {
+      "no": "763",
+      "nama_ilmiah": "Tyto nigrobrunnea",
+      "nama_lokal": "Serak taliabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5232361"
+    },
+    {
+      "no": "764",
+      "nama_ilmiah": "Urolophus kaianus",
+      "nama_lokal": "Pari kai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2419388"
+    },
+    {
+      "no": "765",
+      "nama_ilmiah": "Vanellus cinereus",
+      "nama_lokal": "Trulek kelabu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229145"
+    },
+    {
+      "no": "766",
+      "nama_ilmiah": "Vanellus indicus",
+      "nama_lokal": "Trulek gelambir-merah",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229131"
+    },
+    {
+      "no": "767",
+      "nama_ilmiah": "Vanellus macropterus",
+      "nama_lokal": "Trulek jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229129"
+    },
+    {
+      "no": "768",
+      "nama_ilmiah": "Vanellus miles",
+      "nama_lokal": "Trulek topeng",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5229134"
+    },
+    {
+      "no": "769",
+      "nama_ilmiah": "Varanus auffenbergi",
+      "nama_lokal": "Biawak rote",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470771"
+    },
+    {
+      "no": "770",
+      "nama_ilmiah": "Varanus becarii",
+      "nama_lokal": "Biawak aru",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470700"
+    },
+    {
+      "no": "771",
+      "nama_ilmiah": "Varanus boehmei",
+      "nama_lokal": "Biawak waigeo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470851"
+    },
+    {
+      "no": "772",
+      "nama_ilmiah": "Varanus indicus",
+      "nama_lokal": "Biawak maluku",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470752"
+    },
+    {
+      "no": "773",
+      "nama_ilmiah": "Varanus komodoensis",
+      "nama_lokal": "Biawak komodo",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470854"
+    },
+    {
+      "no": "774",
+      "nama_ilmiah": "Varanus melinus",
+      "nama_lokal": "Biawak banggai",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470767"
+    },
+    {
+      "no": "775",
+      "nama_ilmiah": "Varanus nebulosus",
+      "nama_lokal": "Biawak abu-abu",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470732"
+    },
+    {
+      "no": "776",
+      "nama_ilmiah": "Varanus panoptes",
+      "nama_lokal": "Biawak coklat",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470772"
+    },
+    {
+      "no": "777",
+      "nama_ilmiah": "Varanus prasinus",
+      "nama_lokal": "Biawak hijau",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8491752"
+    },
+    {
+      "no": "778",
+      "nama_ilmiah": "Varanus reisingeri",
+      "nama_lokal": "Biawak misool",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470770"
+    },
+    {
+      "no": "779",
+      "nama_ilmiah": "Varanus similis",
+      "nama_lokal": "Biawak kerdil",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2470795"
+    },
+    {
+      "no": "780",
+      "nama_ilmiah": "Varanus timorensis",
+      "nama_lokal": "Biawak timor",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/8434026"
+    },
+    {
+      "no": "781",
+      "nama_ilmiah": "Varanus togianus",
+      "nama_lokal": "Biawak togian",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/4820713"
+    },
+    {
+      "no": "782",
+      "nama_ilmiah": "Xema sabini",
+      "nama_lokal": "Camar sabine",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2481221"
+    },
+    {
+      "no": "783",
+      "nama_ilmiah": "Zaglossus bruijni",
+      "nama_lokal": "Nokdiak moncong panjang",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2433391"
+    },
+    {
+      "no": "784",
+      "nama_ilmiah": "Ziphius cavirostris",
+      "nama_lokal": "Paus paruh angsa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2440369"
+    },
+    {
+      "no": "785",
+      "nama_ilmiah": "Zonerodius heliosylus",
+      "nama_lokal": "",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2480917"
+    },
+    {
+      "no": "786",
+      "nama_ilmiah": "Zosterops flavus",
+      "nama_lokal": "Kacamata jawa",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/2489400"
+    },
+    {
+      "no": "787",
+      "nama_ilmiah": "Zosterops nehrkorni",
+      "nama_lokal": "Kacamata sangihe",
+      "status_iucn": "N/A",
+      "appendix_cites": "N/A",
+      "profile_url": "https://www.gbif.org/species/5788599"
+    }
+  ]
+}
