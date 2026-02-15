@@ -46,6 +46,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/candi-indonesia.json)
 22. Flora dan Fauna Dilindungi di Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/biodiversity)
+23. Kode Pos Indonesia (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/kodepos-indonesia.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -69,10 +71,10 @@ next data:
 - Zona Waktu Indonesia ✅
 - Pulau Besar & Sub-Pulau di Indonesia
 - Daftar Universitas di Indonesia (PTN + PTS) ✅
-- Flora & Fauna Dilindungi Indonesia
+- Flora & Fauna Dilindungi Indonesia ✅
 - Data Rumah Sakit Indonesia ✅
 - Data Puskesmas Indonesia
-- Data Kode POS Indonesia
+- Data Kode POS Indonesia ✅
 - Daftar Bank dan Kode Bank Indonesia ✅
 - Daftar Candi Indonesia ✅
 - Waterfall / Air Terjun Indonesia
