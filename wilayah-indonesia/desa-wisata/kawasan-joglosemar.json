@@ -1,0 +1,658 @@
+{
+  "source": "https://kemenpar.go.id",
+  "updated_at": "2026-02-24T20:43:37.977723",
+  "count": 93,
+  "data": [
+    {
+      "nama": "Desa Wisata Lerep",
+      "kategori": "Maju",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/lerep",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/17823_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Rembes",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/rembes",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Eduwisata Glawan",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/eduwisata_glawan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156695_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Wates",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/wates_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sekar Tanjung",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/sekar_tanjung",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Rowoboni",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/rowoboni",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata GEDONG",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/gedong",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kopeng",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/kopeng_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156682_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Rawa Pening Eco Tourism",
+      "kategori": "Maju",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/rawa_pening_eco_tourism",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kalongan",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/kalongan_3",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sambirejo",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/sambirejo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Gemawang",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/gemawang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/139227_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Desa Wisata Kedunggondang",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/_kedunggondang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Susu Sumogawe",
+      "kategori": "Maju",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/kampung_susu_sumogawe",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/133748_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Curuk kembar baladewa",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/curuk_kembar_baladewa",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata KAMPOENG SERIBU BALAI PANJANG",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/kampoeng_seribu_balai_panjang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Menari Tanon",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/menari_tanon",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/130645_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Agropark & RC",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/agropark__rc",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata GILI PESONA",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/gili_pesona",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata KELEN LEPEN ASRI 07",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/kelen_lepen_asri_07_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Desa wisata Tegalwaton",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/_tegalwaton",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sitaring desa Kemambang",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/sitaring_desa_kemambang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/96599_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kenteng",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/kenteng",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Wisata Alam Desa Wirogomo",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/wisata_alam_desa_wirogomo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Samirono",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/samirono",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/53545_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Nyatnyono",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/nyatnyono",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Ngidam Muncar",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/ngidam_muncar",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/51778_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Lembah Kendalisodo",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/lembah_kendalisodo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/50333_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Branjang",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/branjang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/22351_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Gedangan",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Semarang",
+      "url": "https://jadesta.kemenpar.go.id/desa/gedangan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/21550_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Jajar",
+      "kategori": "",
+      "lokasi": "Kabupaten Semarang",
+      "url": "/desa/kampung_jajar",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/21547_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kreatif Perdamaian Srumbung Gunung",
+      "kategori": "",
+      "lokasi": "Kabupaten Semarang",
+      "url": "/desa/kreatif_perdamaian_srumbung_gunung",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/19165_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Wonolopo",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/wonolopo_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156913_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Jatirejo",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/jatirejo_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156893_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Tapak Tugurejo",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/tapak_tugurejo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156228_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Pudakpayung",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/pudakpayung",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156224_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Tambangan",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/_tambangan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156223_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Jajan Bangetayu Kulon",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/kampung_jajan_bangetayu_kulon",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156222_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Melayu Dadapsari",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/kampung_melayu_dadapsari",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156221_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cepoko",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/cepoko",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156220_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Nongkosawit",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/nongkosawit_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/129815_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampoeng Djadhoel",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/kampoeng_djadhoel",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/104816_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Jatirejo",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/jatirejo_2",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/81234_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Jamalsari Kedungpane",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/jamalsari_kedungpane",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/75353_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kandri",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/kandri",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/35438_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Wonolopo",
+      "kategori": "",
+      "lokasi": "Kota Semarang",
+      "url": "/desa/wonolopo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/18278_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Njawani",
+      "kategori": "",
+      "lokasi": "Kota Surakarta",
+      "url": "/desa/kampung_njawani",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/156536_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Kemlayan",
+      "kategori": "",
+      "lokasi": "Kota Surakarta",
+      "url": "/desa/kampung_kemlayan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/149722_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Langenastran",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_langenastran_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158516_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Wirobrajan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_wirobrajan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158472_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Patuk",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_patuk",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158463_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Mantrijeron",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_mantrijeron",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158439_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sumonggo Pringgo",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/sumonggo_pringgo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158438_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Demangan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_demangan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158426_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Muja Muju",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_muja_muju",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158419_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Langensari",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_langensari",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158374_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kawira",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kawira",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158226_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Purwokinanti",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/purwokinanti",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158222_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Notowisoto",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/notowisoto",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158221_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Bumijo",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/bumijo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158219_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Pakuncen",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_pakuncen",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158182_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Sorosutan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_sorosutan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158181_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Tari Suryodiningartan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kampung_tari_suryodiningartan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158174_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Gowongan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_gowongan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158172_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Tegalpanggung",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_tegalpanggung",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158171_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Pesona Kotabaru",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_pesona_kotabaru",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158169_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Semaki",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_semaki",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158166_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Tegalrejo",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_tegalrejo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158103_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Taman Sari",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/taman_sari_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/158098_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kamwis Dipowinatan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kamwis_dipowinatan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/133608_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Patangpuluhan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/patangpuluhan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/121923_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kamwis Pandeyan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kamwis_pandeyan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/121825_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Ben Mulyo",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_ben_mulyo",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/114967_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Wisata Sayidan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_sayidan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/108396_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata kauman",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kauman",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/106304_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata SURA AMERTA",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/sura_amerta",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/106019_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Sayur Bausasran",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kampung_sayur_bausasran",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/105774_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kricak",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kricak",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/105625_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata RATMAKAN",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/ratmakan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/105594_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Baciro Kawasan Bersejarah 1868.",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/baciro_kawasan_bersejarah_1868",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/105579_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Suryatmajan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/suryatmajan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/100941_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sekar Niti",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/sekar_niti",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/82839_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cokrodiningratan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/cokrodiningratan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/58022_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kadipaten",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/_kadipaten",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/53869_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Prenggan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/prenggan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/53586_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kali Gajah Wong Kelurahan Giwangan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kali_gajah_wong_kelurahan_giwangan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/53146_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kamwis Purbayan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kamwis_purbayan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/50414_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Warto Wisata Warungboto",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/kampung_warto_wisata_warungboto",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/50394_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Tahunan",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/tahunan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/22972_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Rejowinangun",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/rejowinangun",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/22841_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sosromenduran",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/sosromenduran",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/22759_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Dewa Bronto",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/dewa_bronto",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/22263_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Gunungketur (Pakualaman)",
+      "kategori": "",
+      "lokasi": "Kota Yogyakarta",
+      "url": "/desa/gunungketur_pakualaman",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2657_medium.jpg"
+    }
+  ]
+}

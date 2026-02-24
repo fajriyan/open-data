@@ -1,0 +1,357 @@
+{
+  "source": "https://kemenpar.go.id",
+  "updated_at": "2026-02-24T20:52:06.041309",
+  "count": 50,
+  "data": [
+    {
+      "nama": "Desa Wisata ciwangun",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/ciwangun",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Ciwangun Indah Camp",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/ciwangun_indah_camp",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata TANGGA 1000 KIDANG",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/tangga_1000_kidang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata 1000 TANGGA KIDANG",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/1000_tangga_kidang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Religi Makam Eyang Dalem Ibrohim",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/religi_makam_eyang_dalem_ibrohim",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Datar Nangka",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/datar_nangka",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Varia Hill",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/varia_hill",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Bojong Endah",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/bojong_endah",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata BIG FARMER",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/big_farmer",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/99597_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Pesona CIgugur",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/pesona_cigugur",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata sunten jaya",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/sunten_jaya",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cukang Rahong",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cukang_rahong",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Puncak gantole,gantole cihampelas",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/puncak_gantolegantole_cihampelas",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Mukapayung",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/mukapayung_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/92612_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Lembah Curugan Gunung Putri",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/lembah_curugan_gunung_putri",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cigugurgirang",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cigugurgirang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Kampung Jeruk Sukamulus",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/kampung_jeruk_sukamulus",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cipada",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cipada_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Hawu Pabeasan",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/hawu_pabeasan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/56605_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cipada",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cipada",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Rajamandala Geosite",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/rajamandala_geosite",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/53371_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Curug Sawer Cililin",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/curug_sawer_cililin",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Legenda Situ Ciburuy",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/legenda_situ_ciburuy",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Gunung Masigit",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/gunung_masigit",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cibodas",
+      "kategori": "Rintisan",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cibodas",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/32761_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cihanjuang Rahayu",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cihanjuang_rahayu",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/29924_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sirnajaya",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/sirnajaya",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/29277_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cikahuripan Area",
+      "kategori": "Maju",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/cikahuripan_area",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/24455_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Suntenjaya",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/suntenjaya",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Mukapayung",
+      "kategori": "Berkembang",
+      "lokasi": "Kabupaten Bandung Barat",
+      "url": "https://jadesta.kemenpar.go.id/desa/mukapayung",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/2664_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sukajadi",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/sukajadi_4",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/155716_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Malasari",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/malasari",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/149281_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Desa wisata Leuwimalang",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/_leuwimalang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/133922_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata TAJURHALANG",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/tajurhalang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/133411_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Lembur anyar",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/lembur_anyar",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/133355_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Koleang",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/koleang_2",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/132791_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata CIDERUM",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/ciderum",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/132575_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sipak",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/sipak",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/130662_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Sinarmakmur sirnajaya",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/sinarmakmur_sirnajaya",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/103727_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Bojongkulur Susur Sungai Cikeas",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/bojongkulur_susur_sungai_cikeas",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/99873_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cimande",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/cimande",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/98371_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Benteng",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/benteng_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/96266_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Gentra Pasundan Tamansari",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/gentra_pasundan_tamansari",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/94319_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Megamendung",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/megamendung_1",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/93772_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Cilember",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/cilember",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/25383_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Pasir Eurih",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/pasir_eurih",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/25195_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Batulayang",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/batulayang",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/21391_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Purwabakti",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/purwabakti",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/19438_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Tugu Selatan",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/tugu_selatan",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/19302_medium.jpg"
+    },
+    {
+      "nama": "Desa Wisata Tugu Utara",
+      "kategori": "",
+      "lokasi": "Kabupaten Bogor",
+      "url": "/desa/tugu_utara",
+      "image": "https://jadesta.kemenpar.go.id/imgpost/19004_medium.jpg"
+    }
+  ]
+}
