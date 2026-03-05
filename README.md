@@ -48,6 +48,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/biodiversity)
 23. Kode Pos Indonesia (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/kodepos-indonesia.json)
+24. Desa Wisata Indonesia (Pesona Indonesia) | 8 Kawasan (.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/desa-wisata)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -78,7 +80,7 @@ next data:
 - Daftar Bank dan Kode Bank Indonesia ✅
 - Daftar Candi Indonesia ✅
 - Waterfall / Air Terjun Indonesia
-- Daftar Desa Wisata Indonesia
+- Daftar Desa Wisata Indonesia ✅
 - ISP di Indonesia + ASN
 
 tag : open data indonesia, data publik indonesia, dataset indonesia, repository
