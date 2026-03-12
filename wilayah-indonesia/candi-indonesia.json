@@ -1,6 +1,8 @@
 {
-  "source": "wikipedia",
+  "source": "wikipedia.org",
+  "label": "Data Seluruh Candi Indonesia",
   "updated_at": "2026-02-03T04:59:13.106576",
+  "count": 67,
   "data": [
     {
       "provinsi": "Sumatera Utara",

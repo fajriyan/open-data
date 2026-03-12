@@ -1,7 +1,8 @@
 {
-  "meta": {
-    "updated_at": "2025-12-24T14:00:00+07:00"
-  },
+  "source": "wikipedia.org",
+  "label": "Zona Waktu Per Wilayah Indonesia",
+  "updated_at": "2026-01-21T13:41:39.493674",
+  "count": 3,
   "zones": {
     "WIB": {
       "label": "Waktu Indonesia Barat",
