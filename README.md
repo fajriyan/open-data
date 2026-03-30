@@ -50,6 +50,8 @@ list data yang bisa digunakan :
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/kodepos-indonesia.json)
 24. Desa Wisata Indonesia (Pesona Indonesia) | 8 Kawasan (.json)
     [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/desa-wisata)
+25. Peta Perguruan Tinggi Nasional(.json)
+    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/peta-perguruan-tinggi-nasional.json)
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
