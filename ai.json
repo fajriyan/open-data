@@ -1,0 +1,308 @@
+{
+  "title": "Public AI Tools Directory",
+  "description": "List AI tools yang tersedia secara public dengan matrix kepopuleran",
+  "last_updated": "2026-04-22",
+  "total": 30,
+  "data": [
+    {
+      "id": 1,
+      "name": "ChatGPT",
+      "provider": "OpenAI",
+      "url": "https://chatgpt.com",
+      "type": "chatbot",
+      "popularity_score": 98,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 100
+    },
+    {
+      "id": 2,
+      "name": "Claude",
+      "provider": "Anthropic",
+      "url": "https://claude.ai",
+      "type": "chatbot",
+      "popularity_score": 95,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 96
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "provider": "Google",
+      "url": "https://gemini.google.com",
+      "type": "chatbot",
+      "popularity_score": 94,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 95
+    },
+    {
+      "id": 4,
+      "name": "Copilot",
+      "provider": "Microsoft",
+      "url": "https://copilot.microsoft.com",
+      "type": "chatbot",
+      "popularity_score": 91,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 90
+    },
+    {
+      "id": 5,
+      "name": "Perplexity",
+      "provider": "Perplexity AI",
+      "url": "https://www.perplexity.ai",
+      "type": "search-assistant",
+      "popularity_score": 92,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 91
+    },
+    {
+      "id": 6,
+      "name": "DeepSeek",
+      "provider": "DeepSeek",
+      "url": "https://www.deepseek.com",
+      "type": "chatbot",
+      "popularity_score": 89,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 87
+    },
+    {
+      "id": 7,
+      "name": "Poe",
+      "provider": "Quora",
+      "url": "https://poe.com",
+      "type": "multi-model-chat",
+      "popularity_score": 85,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 82
+    },
+    {
+      "id": 8,
+      "name": "Character.AI",
+      "provider": "Character Technologies",
+      "url": "https://character.ai",
+      "type": "roleplay-chatbot",
+      "popularity_score": 88,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 86
+    },
+    {
+      "id": 9,
+      "name": "Pi",
+      "provider": "Inflection AI",
+      "url": "https://pi.ai",
+      "type": "chatbot",
+      "popularity_score": 79,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 75
+    },
+    {
+      "id": 10,
+      "name": "HuggingChat",
+      "provider": "Hugging Face",
+      "url": "https://huggingface.co/chat",
+      "type": "open-model-chat",
+      "popularity_score": 80,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 78
+    },
+    {
+      "id": 11,
+      "name": "Qwen",
+      "provider": "Alibaba",
+      "url": "https://chat.qwen.ai",
+      "type": "chatbot",
+      "popularity_score": 83,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 81
+    },
+    {
+      "id": 12,
+      "name": "Meta AI",
+      "provider": "Meta",
+      "url": "https://www.meta.ai",
+      "type": "chatbot",
+      "popularity_score": 84,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 80
+    },
+    {
+      "id": 13,
+      "name": "Mistral Le Chat",
+      "provider": "Mistral",
+      "url": "https://chat.mistral.ai",
+      "type": "chatbot",
+      "popularity_score": 81,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 77
+    },
+    {
+      "id": 14,
+      "name": "Grok",
+      "provider": "xAI",
+      "url": "https://grok.x.ai",
+      "type": "chatbot",
+      "popularity_score": 87,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 84
+    },
+    {
+      "id": 15,
+      "name": "You.com",
+      "provider": "You.com",
+      "url": "https://you.com",
+      "type": "search-assistant",
+      "popularity_score": 76,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 73
+    },
+    {
+      "id": 16,
+      "name": "Leonardo AI",
+      "provider": "Leonardo",
+      "url": "https://leonardo.ai",
+      "type": "image-generation",
+      "popularity_score": 82,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 79
+    },
+    {
+      "id": 17,
+      "name": "Dreamina",
+      "provider": "CapCut",
+      "url": "https://dreamina.capcut.com",
+      "type": "image-generation",
+      "popularity_score": 77,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 74
+    },
+    {
+      "id": 18,
+      "name": "DeepAI Chatbot",
+      "provider": "DeepAI",
+      "url": "https://deepai.org/chatbot",
+      "type": "chatbot",
+      "popularity_score": 65,
+      "popularity_tier": "low",
+      "monthly_popularity_index": 60
+    },
+    {
+      "id": 19,
+      "name": "AI Dungeon",
+      "provider": "Latitude",
+      "url": "https://play.aidungeon.io",
+      "type": "story-generation",
+      "popularity_score": 72,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 68
+    },
+    {
+      "id": 20,
+      "name": "Jasper Chat",
+      "provider": "Jasper",
+      "url": "https://www.jasper.ai",
+      "type": "content-generation",
+      "popularity_score": 74,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 70
+    },
+    {
+      "id": 21,
+      "name": "Canva AI",
+      "provider": "Canva",
+      "url": "https://www.canva.com",
+      "type": "design-ai",
+      "popularity_score": 86,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 83
+    },
+    {
+      "id": 22,
+      "name": "Runway",
+      "provider": "Runway",
+      "url": "https://runwayml.com",
+      "type": "video-generation",
+      "popularity_score": 84,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 80
+    },
+    {
+      "id": 23,
+      "name": "Midjourney",
+      "provider": "Midjourney",
+      "url": "https://www.midjourney.com",
+      "type": "image-generation",
+      "popularity_score": 90,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 88
+    },
+    {
+      "id": 24,
+      "name": "Notion AI",
+      "provider": "Notion",
+      "url": "https://www.notion.so/product/ai",
+      "type": "productivity-ai",
+      "popularity_score": 85,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 82
+    },
+    {
+      "id": 25,
+      "name": "Gamma",
+      "provider": "Gamma",
+      "url": "https://gamma.app",
+      "type": "presentation-ai",
+      "popularity_score": 78,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 76
+    },
+    {
+      "id": 26,
+      "name": "Tome",
+      "provider": "Tome",
+      "url": "https://tome.app",
+      "type": "presentation-ai",
+      "popularity_score": 73,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 69
+    },
+    {
+      "id": 27,
+      "name": "Cursor",
+      "provider": "Cursor",
+      "url": "https://cursor.com",
+      "type": "coding-ai",
+      "popularity_score": 89,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 85
+    },
+    {
+      "id": 28,
+      "name": "GitHub Copilot",
+      "provider": "GitHub",
+      "url": "https://github.com/features/copilot",
+      "type": "coding-ai",
+      "popularity_score": 93,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 92
+    },
+    {
+      "id": 29,
+      "name": "Claude Code",
+      "provider": "Anthropic",
+      "url": "https://claude.ai",
+      "type": "coding-ai",
+      "popularity_score": 88,
+      "popularity_tier": "high",
+      "monthly_popularity_index": 84
+    },
+    {
+      "id": 30,
+      "name": "Zapier AI",
+      "provider": "Zapier",
+      "url": "https://zapier.com",
+      "type": "automation-ai",
+      "popularity_score": 75,
+      "popularity_tier": "medium",
+      "monthly_popularity_index": 72
+    }
+  ]
+}

@@ -11,7 +11,7 @@ list data yang bisa digunakan :
    [(akses)](https://github.com/fajriyan/open-data/blob/main/ui-kit.md)
 4. Rest API Publik
    [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
-5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.md)
+5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.json)
 6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.md)
 7. Libur Nasional (.json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
