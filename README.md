@@ -7,12 +7,12 @@ list data yang bisa digunakan :
    [(akses)](https://github.com/fajriyan/open-data/blob/main/journal-idn.md)
 2. IPTV Indonesia
    [(akses)](https://github.com/fajriyan/open-data/blob/main/iptv-indonesia.m3u)
-3. UI Kit Tailwind
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/ui-kit.md)
+3. UI Kit (Tailwind / Vanila CSS)
+   [(akses)](https://github.com/fajriyan/open-data/blob/main/ui-kit.json)
 4. Rest API Publik
    [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
 5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.json)
-6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.md)
+6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.json)
 7. Libur Nasional (.json)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
    (updated)

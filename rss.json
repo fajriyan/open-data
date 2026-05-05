@@ -1,0 +1,30 @@
+{
+  "source": "Personal Collection",
+  "label": "Data RSS Berita",
+  "updated_at": "2026-05-05T01:48:52.295Z",
+  "count": 22,
+  "data": [
+    "https://www.cnnindonesia.com/rss",
+    "https://www.cnbcindonesia.com/rss",
+    "https://www.antaranews.com/rss",
+    "https://www.sindonews.com/feed",
+    "https://www.okezone.com/rss",
+    "https://www.tribunnews.com/rss",
+    "https://www.merdeka.com/rss",
+    "https://www.republika.co.id/rss",
+    "https://www.cna.id/rss",
+    "https://mediaindonesia.com/feed/all",
+    "https://www.benarnews.org/arc/outboundfeeds/indonesian/rss/",
+    "https://www.liputan6.com/rss",
+    "https://www.tempo.co/rss",
+    "https://www.suara.com/rss",
+    "https://www.viva.co.id/rss",
+    "https://www.jpnn.com/feed",
+    "https://www.tirto.id/rss",
+    "https://www.kompas.com/rss",
+    "https://www.kumparan.com/feed",
+    "https://www.beritasatu.com/rss",
+    "https://www.fajar.co.id/feed",
+    "https://www.timesindonesia.co.id/rss"
+  ]
+}
