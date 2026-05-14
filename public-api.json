@@ -1,0 +1,248 @@
+{
+  "source": "Personal Collection",
+  "label": "REST API Terbuka Gratis",
+  "updated_at": "2026-05-10T09:15:00.000Z",
+  "count": 40,
+  "data": [
+    {
+      "name": "E-Quran",
+      "category": "Religion",
+      "description": "API Al Quran digital lengkap dengan surat, ayat, tafsir, dan audio.",
+      "url": "https://equran.id/apidev/v2"
+    },
+    {
+      "name": "Aladhan",
+      "category": "Religion",
+      "description": "API jadwal sholat dan kalender hijriyah.",
+      "url": "https://aladhan.com/"
+    },
+    {
+      "name": "OpenWeather",
+      "category": "Weather",
+      "description": "API cuaca global dan prakiraan cuaca.",
+      "url": "https://openweathermap.org/"
+    },
+    {
+      "name": "BMKG",
+      "category": "Weather",
+      "description": "Data cuaca, gempa bumi, dan iklim Indonesia.",
+      "url": "https://data.bmkg.go.id/#data"
+    },
+    {
+      "name": "NewsData.io",
+      "category": "News",
+      "description": "API berita terbaru dari berbagai negara.",
+      "url": "https://newsdata.io/"
+    },
+    {
+      "name": "Resend",
+      "category": "Email",
+      "description": "API email SMTP modern untuk developer.",
+      "url": "https://resend.com/docs/api-reference/introduction"
+    },
+    {
+      "name": "IPAPI",
+      "category": "Networking",
+      "description": "API lokasi dan informasi IP address.",
+      "url": "https://ipapi.co/api/"
+    },
+    {
+      "name": "QR Code Generator",
+      "category": "Utilities",
+      "description": "Generate QR Code gratis menggunakan API.",
+      "url": "https://goqr.me/api/"
+    },
+    {
+      "name": "BigDataCloud",
+      "category": "Networking",
+      "description": "API data jaringan, lokasi, dan reverse geocoding.",
+      "url": "https://www.bigdatacloud.com/"
+    },
+    {
+      "name": "JSONPlaceholder",
+      "category": "Testing",
+      "description": "Fake REST API untuk testing dan prototyping.",
+      "url": "https://jsonplaceholder.typicode.com/"
+    },
+    {
+      "name": "ReqRes",
+      "category": "Testing",
+      "description": "REST API dummy untuk simulasi autentikasi dan CRUD.",
+      "url": "https://reqres.in/"
+    },
+    {
+      "name": "DummyJSON",
+      "category": "Testing",
+      "description": "Dummy API dengan data produk, user, dan post.",
+      "url": "https://dummyjson.com/"
+    },
+    {
+      "name": "REST Countries",
+      "category": "Geography",
+      "description": "Informasi negara lengkap di seluruh dunia.",
+      "url": "https://restcountries.com/"
+    },
+    {
+      "name": "ExchangeRate API",
+      "category": "Finance",
+      "description": "API kurs mata uang dunia.",
+      "url": "https://www.exchangerate-api.com/"
+    },
+    {
+      "name": "Fixer",
+      "category": "Finance",
+      "description": "API foreign exchange dan kurs realtime.",
+      "url": "https://fixer.io/"
+    },
+    {
+      "name": "CoinGecko",
+      "category": "Crypto",
+      "description": "API data cryptocurrency dan market.",
+      "url": "https://www.coingecko.com/en/api"
+    },
+    {
+      "name": "Binance API",
+      "category": "Crypto",
+      "description": "Data market crypto dari Binance.",
+      "url": "https://developers.binance.com/docs/binance-spot-api-docs"
+    },
+    {
+      "name": "PokeAPI",
+      "category": "Games",
+      "description": "API data Pokémon lengkap.",
+      "url": "https://pokeapi.co/"
+    },
+    {
+      "name": "RAWG",
+      "category": "Games",
+      "description": "Database game dan informasi game modern.",
+      "url": "https://rawg.io/apidocs"
+    },
+    {
+      "name": "Steam API",
+      "category": "Games",
+      "description": "API data game dan profile Steam.",
+      "url": "https://developer.valvesoftware.com/wiki/Steam_Web_API"
+    },
+    {
+      "name": "TheCatAPI",
+      "category": "Animals",
+      "description": "Foto dan data kucing random.",
+      "url": "https://thecatapi.com/"
+    },
+    {
+      "name": "TheDogAPI",
+      "category": "Animals",
+      "description": "Foto dan data anjing random.",
+      "url": "https://thedogapi.com/"
+    },
+    {
+      "name": "NASA API",
+      "category": "Science",
+      "description": "Data astronomi dan luar angkasa dari NASA.",
+      "url": "https://api.nasa.gov/"
+    },
+    {
+      "name": "SpaceX API",
+      "category": "Science",
+      "description": "Data peluncuran roket dan misi SpaceX.",
+      "url": "https://github.com/r-spacex/SpaceX-API"
+    },
+    {
+      "name": "OpenLibrary",
+      "category": "Books",
+      "description": "Database buku dan ISBN gratis.",
+      "url": "https://openlibrary.org/developers/api"
+    },
+    {
+      "name": "Google Books API",
+      "category": "Books",
+      "description": "Pencarian buku dari Google Books.",
+      "url": "https://developers.google.com/books"
+    },
+    {
+      "name": "TMDB",
+      "category": "Movies",
+      "description": "API film, TV series, dan trending movie.",
+      "url": "https://developer.themoviedb.org/"
+    },
+    {
+      "name": "OMDb API",
+      "category": "Movies",
+      "description": "Database film IMDb dan rating.",
+      "url": "https://www.omdbapi.com/"
+    },
+    {
+      "name": "Jikan API",
+      "category": "Anime",
+      "description": "REST API MyAnimeList unofficial.",
+      "url": "https://jikan.moe/"
+    },
+    {
+      "name": "AniList API",
+      "category": "Anime",
+      "description": "API anime dan manga modern.",
+      "url": "https://anilist.gitbook.io/anilist-apiv2-docs/"
+    },
+    {
+      "name": "Dictionary API",
+      "category": "Education",
+      "description": "API kamus bahasa Inggris gratis.",
+      "url": "https://dictionaryapi.dev/"
+    },
+    {
+      "name": "Quotable",
+      "category": "Quotes",
+      "description": "API kutipan random dan motivasi.",
+      "url": "https://github.com/lukePeavey/quotable"
+    },
+    {
+      "name": "ZenQuotes",
+      "category": "Quotes",
+      "description": "API quotes inspiratif harian.",
+      "url": "https://zenquotes.io/"
+    },
+    {
+      "name": "Bored API",
+      "category": "Fun",
+      "description": "API ide aktivitas random.",
+      "url": "https://www.boredapi.com/"
+    },
+    {
+      "name": "Agify",
+      "category": "AI",
+      "description": "Prediksi umur berdasarkan nama.",
+      "url": "https://agify.io/"
+    },
+    {
+      "name": "Genderize",
+      "category": "AI",
+      "description": "Prediksi gender berdasarkan nama.",
+      "url": "https://genderize.io/"
+    },
+    {
+      "name": "Nationalize",
+      "category": "AI",
+      "description": "Prediksi negara asal berdasarkan nama.",
+      "url": "https://nationalize.io/"
+    },
+    {
+      "name": "OpenMeteo",
+      "category": "Weather",
+      "description": "API cuaca gratis tanpa API key.",
+      "url": "https://open-meteo.com/"
+    },
+    {
+      "name": "LibreTranslate",
+      "category": "Translation",
+      "description": "API translate open source gratis.",
+      "url": "https://libretranslate.com/"
+    },
+    {
+      "name": "GeoDB Cities",
+      "category": "Geography",
+      "description": "Database kota dan populasi dunia.",
+      "url": "https://rapidapi.com/wirefreethought/api/geodb-cities/"
+    }
+  ]
+}

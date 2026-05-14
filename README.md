@@ -10,7 +10,7 @@ list data yang bisa digunakan :
 3. UI Kit (Tailwind / Vanila CSS)
    [(akses)](https://github.com/fajriyan/open-data/blob/main/ui-kit.json)
 4. Rest API Publik
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.md)
+   [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.json)
 5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.json)
 6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.json)
 7. Libur Nasional (.json)
