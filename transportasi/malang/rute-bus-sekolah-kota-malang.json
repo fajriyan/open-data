@@ -1,0 +1,193 @@
+{
+  "souce": "malangkota.go.id",
+  "label": "Rute Bus Sekolah Kota Malang",
+  "updated_at": "2026-06-28T13:23:03.001Z",
+  "count": 6,
+  "data": [
+    {
+      "id": 1,
+      "name": "Bus I",
+      "start_time": "05:45",
+      "timezone": "Asia/Jakarta",
+      "start_point": "SPBU Tlogomas / Halaman Baiduri Sepah",
+      "route": [
+        "Jl. MT Haryono",
+        "Jl. Soekarno-Hatta",
+        "Bundaran Pesawat",
+        "Taman Krida Budaya Jatim",
+        "Jl. DI Panjaitan",
+        "Jl. Bogor",
+        "Jl. Veteran",
+        "Bundaran Diknas/UB",
+        "Jl. Veteran",
+        "Jl. Bandung",
+        "Jl. Ijen",
+        "Jl. Semeru",
+        "Jl. Kahuripan",
+        "Bundaran Tugu",
+        "Balai Kota Malang"
+      ],
+      "stops": [
+        "Pasar Dinoyo",
+        "Griyashanta",
+        "Taman Krida Budaya",
+        "Ijen",
+        "Semeru",
+        "Stadion Gajayana"
+      ],
+      "schools": [
+        "SMPN 18",
+        "SMAN 9",
+        "MAN 3 Malang",
+        "MTsN Malang I",
+        "SMAN 8",
+        "SMPN 4",
+        "SMKN 2",
+        "SMPN 1",
+        "SMPN 8",
+        "SMPN 6",
+        "SMAN 1",
+        "SMAN 3",
+        "SMAN 4"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bus II",
+      "start_time": "05:45",
+      "timezone": "Asia/Jakarta",
+      "start_point": "SPBU Mergan (Pisang Candi)",
+      "route": [
+        "Jl. Raya Langsep",
+        "Jl. Raya Galunggung",
+        "Jl. Bondowoso",
+        "Jl. Jombang",
+        "Jl. Surabaya",
+        "Jl. Jakarta",
+        "Jl. Bogor Bawah",
+        "Jl. Veteran",
+        "U Turn SMAN 8",
+        "Bundaran Diknas",
+        "Jl. Veteran",
+        "Jl. Bandung",
+        "Jl. Ijen",
+        "Jl. Semeru",
+        "Jl. Kahuripan",
+        "Bundaran Tugu",
+        "Balai Kota Malang"
+      ],
+      "stops": ["Ijen", "Semeru", "Stadion Gajayana"],
+      "schools": [
+        "SMKN 3",
+        "MAN",
+        "MTsN",
+        "SMAN 8",
+        "SMPN 4",
+        "SMKN 2",
+        "SMPN 1",
+        "SMPN 8",
+        "SMPN 6",
+        "SMAN 1",
+        "SMAN 3",
+        "SMAN 4"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bus III",
+      "start_time": "05:45",
+      "timezone": "Asia/Jakarta",
+      "start_point": "Terminal Madyopuro (Sawojajar)",
+      "route": [
+        "Jl. Ki Ageng Gribig",
+        "Jl. Danau Toba",
+        "Jl. AM Wiyono",
+        "Jl. Kesatrian",
+        "Jl. Hamid Rusdi",
+        "Bundaran SMPN 5",
+        "Jl. Panglima Sudirman",
+        "Jl. Dr Cipto",
+        "Jl. Cokroaminoto",
+        "Jl. Trunojoyo",
+        "Jl. Kertanegara",
+        "Bundaran Tugu",
+        "Balai Kota Malang"
+      ],
+      "stops": ["AM Wiyono"],
+      "schools": ["SMPN 5", "SMPN 3", "SMAN 1", "SMAN 3", "SMAN 4"]
+    },
+    {
+      "id": 4,
+      "name": "Bus IV",
+      "start_time": "05:45",
+      "timezone": "Asia/Jakarta",
+      "start_point": "Terminal Madyopuro (Sawojajar)",
+      "route": [
+        "Jl. Ki Ageng Gribig",
+        "Jl. Mayjen Sungkono",
+        "Terminal Hamid Rusdi",
+        "Block Office"
+      ],
+      "schools": ["SMAN 6", "SMAN 10 (B)", "SMPN 10", "SMKN 10", "SMPN 23"]
+    },
+    {
+      "id": 5,
+      "name": "Bus V",
+      "start_time": "05:45",
+      "timezone": "Asia/Jakarta",
+      "start_point": "Block Office",
+      "route": [
+        "Jl. Mayjen Sungkono",
+        "Pasar Induk Gadang",
+        "PLN Satsuit Tubun",
+        "Jl. Kolonel Sugiono",
+        "Jl. RE Martadinata",
+        "Flyover Kotalama",
+        "Comboran",
+        "Jl. Sulawesi",
+        "SPBU Sawahan",
+        "Jl. Syarif Al Qodri",
+        "Jl. Kauman",
+        "Jl. KH. Hasyim Asy'ari",
+        "Jl. AR Hakim",
+        "Gereja",
+        "Jl. Mojopahit",
+        "Bundaran Tugu",
+        "Balai Kota Malang"
+      ],
+      "schools": ["SMAN 2", "SMAN 5", "SMKN 4", "SMAN 1", "SMAN 3", "SMAN 4"]
+    },
+    {
+      "id": 6,
+      "name": "Bus VI",
+      "start_time": "05:45",
+      "timezone": "Asia/Jakarta",
+      "start_point": "Samsat Kacuk",
+      "route": [
+        "Jl. Sudanco Supriyadi",
+        "Jl. Janti",
+        "Jl. Halmahera",
+        "Jl. Tanimbar",
+        "Jl. Sulawesi",
+        "Jl. Nusakambangan",
+        "Comboran",
+        "Jl. RE Martadinata",
+        "Jl. Gatot Subroto",
+        "Jl. Trunojoyo",
+        "Jl. Kertanegara",
+        "Bundaran Tugu",
+        "Balai Kota Malang"
+      ],
+      "schools": [
+        "SMAN 5",
+        "SMKN 4",
+        "SMAN 2",
+        "SMAN 1",
+        "SMAN 4",
+        "SMAN 3",
+        "SMKN 1",
+        "SMPN 19"
+      ]
+    }
+  ]
+}
