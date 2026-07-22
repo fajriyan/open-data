@@ -1,0 +1,1200 @@
+{
+  "souce": "malangkota.go.id",
+  "label": "Jalur Angkutan Kota Malang",
+  "updated_at": "2026-06-28T13:34:00.269Z",
+  "count": 6,
+  "meta": {
+    "title": "Data Trayek Angkutan Kota Malang",
+    "description": "Informasi karakteristik dan rute angkutan kota (MPU/Carry) di Kota Malang",
+    "tipe_kendaraan": "MPU / CARRY",
+    "kapasitas_kendaraan": 12,
+    "tarif_rp": 5000,
+    "sistem_keberangkatan": "Tidak Terjadwal",
+    "kepemilikan_kendaraan": "Perseorangan",
+    "total_trayek": 17
+  },
+  "data": [
+    {
+      "id": "MT",
+      "nama": "Mulyorejo - Tlogowaru",
+      "terminal_asal": "Terminal Mulyorejo",
+      "terminal_tujuan": "Tlogowaru",
+      "karakteristik": {
+        "jumlah_armada": 3,
+        "panjang_trayek_km": 13.07,
+        "waktu_tunggu_menit": 12,
+        "waktu_perjalanan_menit": 29
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Mulyorejo",
+            "Jl. Sutan Syahrir",
+            "Jl. Kyai Tamin",
+            "Jl. Laks. Martadinata",
+            "Jl. Gatot Subroto",
+            "Jl. Ir. H. Juanda",
+            "Jl. Muharto",
+            "Jl. Ki Ageng Gribig",
+            "Jl. Mayjen Sungkono",
+            "Jl. Wonokoyo",
+            "Tlogowaru"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Tlogowaru",
+            "Jl. Wonokoyo",
+            "Jl. Mayjen Sungkono",
+            "Jl. Ki. Ageng Gribig",
+            "Jl. Muharto",
+            "Jl. Ir. H. Juanda",
+            "Jl. Kebalen Wetan",
+            "Jl. Laks. Martadinata",
+            "Jl. Kyai Tamin",
+            "Jl. KP. Tendean",
+            "Jl. Syarief Al Qodri",
+            "Jl. Al. Suryani",
+            "Jl. Sutan Syahrir",
+            "Terminal Mulyorejo"
+          ]
+        }
+      }
+    },
+    {
+      "id": "MM",
+      "nama": "Mulyorejo - Madyopuro",
+      "terminal_asal": "Terminal Mulyorejo",
+      "terminal_tujuan": "Terminal Madyopuro",
+      "karakteristik": {
+        "jumlah_armada": 30,
+        "panjang_trayek_km": 11.46,
+        "waktu_tunggu_menit": 12,
+        "waktu_perjalanan_menit": 55
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Mulyorejo",
+            "Jl. Raya Mulyorejo",
+            "Jl. Raya Bandulan",
+            "Jl. Jupri",
+            "Jl. Raya Langsep",
+            "Jl. Raya Dieng",
+            "Jl. Kawi Atas",
+            "Jl. Kawi",
+            "Jl. AR. Hakim",
+            "Jl. Merdeka Utara",
+            "Jl. MGR. Sugiowiryopranoto",
+            "Jl. Mojopahit",
+            "Jl. Tugu",
+            "Jl. Kertanegara",
+            "Jl. Trunojoyo",
+            "Jl. Pattimura",
+            "Jl. Urip Sumoharjo",
+            "Jl. Mayjen. M. Wiyono",
+            "Jl. Ranu Grati",
+            "Jl. Danau Toba",
+            "Jl. Ki. A. Gribig",
+            "Terminal Madyopuro"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Madyopuro",
+            "Jl. Ki. A. Gribig",
+            "Jl. Danau Toba",
+            "Jl. Ranu Grati",
+            "Jl. Mayjen. M. Wiyono",
+            "Jl. Urip Sumoharjo",
+            "Jl. Pattimura",
+            "Jl. Trunojoyo",
+            "Jl. Kertanegara",
+            "Jl. Tugu",
+            "Jl. Mojopahit",
+            "Jl. Basuki Rachmad",
+            "Jl. Merdeka Barat",
+            "Jl. Kauman",
+            "Jl. KH. Hasyim Ashari",
+            "Jl. Kawi",
+            "Jl. Kawi Atas",
+            "Jl. Raya Dieng",
+            "Jl. Raya Langsep",
+            "Jl. Jupri",
+            "Jl. Raya Bandulan",
+            "Terminal Mulyorejo"
+          ]
+        }
+      }
+    },
+    {
+      "id": "MK",
+      "nama": "Madyopuro - Karang Besuki",
+      "terminal_asal": "Terminal Madyopuro",
+      "terminal_tujuan": "Karang Besuki",
+      "karakteristik": {
+        "jumlah_armada": 30,
+        "panjang_trayek_km": 16.52,
+        "waktu_tunggu_menit": 3,
+        "waktu_perjalanan_menit": 42
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Madyopuro",
+            "Jl. Ki. A. Gribig",
+            "Jl. Muharto",
+            "Jl. Zaenal Zakse",
+            "Jl. Pasar Besar",
+            "Jl. Zaenal Arifin",
+            "Jl. A. Munandar",
+            "Jl. MGR. Sugiowiryopranoto",
+            "Jl. Merdeka Timur",
+            "Jl. Merdeka Selatan",
+            "Jl. Kauman",
+            "Jl. KH. Hasyim Ashari",
+            "Jl. Kawi",
+            "Jl. Ijen",
+            "Jl. Pahlawan Trip",
+            "Jl. Surabaya",
+            "Jl. Bend. Sutami",
+            "Jl. Klaseman",
+            "Karang Besuki"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Karang Besuki",
+            "Jl. Klaseman",
+            "Jl. Bend. Sutami",
+            "Jl. Surabaya",
+            "Jl. Pahlawan Trip",
+            "Jl. Guntur",
+            "Jl. BS. Riyadi",
+            "Jl. Buring",
+            "Jl. Merapi",
+            "Jl. Bromo",
+            "Jl. Semeru",
+            "Jl. Kahuripan",
+            "Jl. Tugu",
+            "Jl. Mojopahit",
+            "Jl. Basuki Rachmad",
+            "Jl. Merdeka Utara",
+            "Jl. Merdeka Timur",
+            "Jl. MGR. Sugiowiryopranoto",
+            "Jl. Sutan Syahrir",
+            "Jl. Kyai Tamin",
+            "Jl. Kopral Usman",
+            "Jl. Pasar Besar",
+            "Jl. Gatot Subroto",
+            "Jl. Ir. H. Juanda",
+            "Jl. Muharto",
+            "Jl. Ki. A. Gribig",
+            "Terminal Madyopuro"
+          ]
+        }
+      }
+    },
+    {
+      "id": "LH",
+      "nama": "Landungsari - Hamid Rusdi",
+      "terminal_asal": "Terminal Landungsari",
+      "terminal_tujuan": "Terminal Hamid Rusdi",
+      "karakteristik": {
+        "jumlah_armada": 35,
+        "panjang_trayek_km": 18.18,
+        "waktu_tunggu_menit": 10,
+        "waktu_perjalanan_menit": 52
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Landungsari",
+            "Jl. Raya Tlogomas",
+            "Jl. MT. Haryono",
+            "Jl. Gajayana",
+            "Jl. Sumbersari",
+            "Jl. B. Sutami",
+            "Jl. Surabaya",
+            "Jl. Jombang",
+            "Jl. Bondowoso",
+            "Jl. Gading",
+            "Jl. Pulosari",
+            "Jl. Kawi Atas",
+            "Jl. Kawi",
+            "Jl. AR. Hakim",
+            "Jl. Merdeka Utara",
+            "Jl. Merdeka Timur",
+            "Jl. Sugiowiryopranoto",
+            "Jl. Sutan Syahrir",
+            "Jl. Kyai Tamin",
+            "Jl. Prof. M. Yamin",
+            "Jl. Sartono SH.",
+            "Jl. Peltu Sujono",
+            "Jl. Susanto",
+            "Jl. Niaga",
+            "Jl. Sonokeling",
+            "Jl. Janti",
+            "Jl. S. Supriyadi",
+            "Jl. A. Satsui Tubun",
+            "Terminal Hamid Rusdi"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. A. Satsui Tubun",
+            "Jl. S. Supriyadi",
+            "Jl. Janti",
+            "Jl. Sonokeling",
+            "Jl. Niaga",
+            "Jl. Susanto",
+            "Jl. Halmahera",
+            "Jl. Tanimbar",
+            "Jl. Madura",
+            "Jl. Nusakambangan",
+            "Jl. KP Tendean",
+            "Jl. Yulius Usman",
+            "Jl. Arief Margono",
+            "Jl. KH. Hasyim Asyari",
+            "Jl. Kawi",
+            "Jl. Kawi Atas",
+            "Jl. Pulosari",
+            "Jl. Gading",
+            "Jl. Bondowoso",
+            "Jl. Jombang",
+            "Jl. Surabaya",
+            "Jl. B. Sutami",
+            "Jl. Sumbersari",
+            "Jl. Gajayana",
+            "Jl. MT Haryono",
+            "Jl. Raya Tlogomas",
+            "Terminal Landungsari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "LDH",
+      "nama": "Landungsari - Dinoyo - Hamid Rusdi",
+      "terminal_asal": "Terminal Landungsari",
+      "terminal_tujuan": "Terminal Hamid Rusdi",
+      "via": ["Dinoyo"],
+      "karakteristik": {
+        "jumlah_armada": 30,
+        "panjang_trayek_km": 15.14,
+        "waktu_tunggu_menit": 7,
+        "waktu_perjalanan_menit": 51
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Landungsari",
+            "Jl. Raya Tlogomas",
+            "Jl. MT. Haryono",
+            "Jl. Mayjen Panjaitan",
+            "Jl. BS. Riyadi",
+            "Jl. Basuki Rachmad",
+            "Jl. Merdeka Barat",
+            "Jl. Kauman",
+            "Jl. Wachid Hasyim",
+            "Jl. A I. Suryani",
+            "Jl. Pasar Besar",
+            "Jl. Sersan Harun",
+            "Jl. Kyai Tamin",
+            "Jl. Prof. M. Yamin",
+            "Jl. Sartono SH.",
+            "Jl. Kol. Sugiono",
+            "Terminal Hamid Rusdi"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. Kol. Sugiono",
+            "Jl. Sartono SH.",
+            "Jl. Prof. M. Yamin",
+            "Jl. Kyai Tamin",
+            "Jl. KP. Tendean",
+            "Jl. Syarif Al Qodri",
+            "Jl. Al. Suryani",
+            "Jl. KH. Hasyim Ashari",
+            "Jl. Kawi",
+            "Jl. Bromo",
+            "Jl. Buring",
+            "Jl. Cerme",
+            "Jl. Guntur",
+            "Jl. Anjasmoro",
+            "Jl. Raung",
+            "Jl. Ijen",
+            "Jl. Bandung",
+            "Jl. Veteran",
+            "Jl. Terusan Bogor",
+            "Jl. Mayjen. Panjaitan",
+            "Jl. MT. Haryono",
+            "Jl. Raya Tlogomas",
+            "Terminal Landungsari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HML",
+      "nama": "Hamid Rusdi - Mergan - Landungsari",
+      "terminal_asal": "Terminal Hamid Rusdi",
+      "terminal_tujuan": "Terminal Landungsari",
+      "via": ["Mergan"],
+      "karakteristik": {
+        "jumlah_armada": 4,
+        "panjang_trayek_km": 17.8,
+        "waktu_tunggu_menit": 16,
+        "waktu_perjalanan_menit": 51
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. A. Satsui Tubun",
+            "Jl. S. Supriyadi",
+            "Jl. Janti",
+            "Jl. Senokeling",
+            "Jl. Niaga",
+            "Jl. Susanto",
+            "Jl. Halmahera",
+            "Jl. Tanimbar",
+            "Jl. Sulawesi",
+            "Jl. Nusakambangan",
+            "Jl. Arief Margono",
+            "Jl. S. Supriyadi",
+            "Jl. Rajawali",
+            "Jl. Ters. Mergan Lori",
+            "Jl. Raya Langsep",
+            "Jl. Galunggung",
+            "Jl. Bukit Barisan",
+            "Jl. Tambora",
+            "Jl. Tidar",
+            "Jl. Simp. Candi",
+            "Jl. Candi",
+            "Jl. Ters. Sigura-gura",
+            "Jl. Belakang IAIN",
+            "Jl. Mertojoyo Selatan",
+            "Jl. Mertojoyo",
+            "Jl. MT. Haryono Gg XII",
+            "Jl. MT. Haryono",
+            "Jl. Raya Tlogomas",
+            "Terminal Landungsari"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Landungsari",
+            "Jl. Raya Tlogomas",
+            "Jl. MT. Haryono",
+            "Jl. MT. Haryono Gg XII",
+            "Jl. Mertojoyo",
+            "Jl. Mertojoyo Selatan",
+            "Jl. Belakang IAIN",
+            "Jl. Ters. Sigura-gura",
+            "Jl. Candi",
+            "Jl. Simp. Candi",
+            "Jl. Tidar",
+            "Jl. Lokon",
+            "Jl. Bukit Barisan",
+            "Jl. Raya Langsep",
+            "Jl. Mergan Lori",
+            "Jl. Arief Margono",
+            "Jl. Yulius Usman",
+            "Jl. Sulawesi",
+            "Jl. Halmahera",
+            "Jl. Susanto",
+            "Jl. Niaga",
+            "Jl. Sonokeling",
+            "Jl. Janti",
+            "Jl. S. Supriyadi",
+            "Jl. A. Satsui Tubun",
+            "Terminal Hamid Rusdi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HM",
+      "nama": "Hamid Rusdi - Mulyorejo",
+      "terminal_asal": "Terminal Hamid Rusdi",
+      "terminal_tujuan": "Terminal Mulyorejo",
+      "karakteristik": {
+        "jumlah_armada": 26,
+        "panjang_trayek_km": 10.1,
+        "waktu_tunggu_menit": 3,
+        "waktu_perjalanan_menit": 35
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. Kol. Sugiono",
+            "Jl. Susanto",
+            "Jl. Irian Jaya",
+            "Jl. Tanimbar",
+            "Jl. Sulawesi",
+            "Jl. Yulius Usman",
+            "Jl. Syarief Al Qodri",
+            "Jl. Al. Suryani",
+            "Jl. Brigjen. Katamso",
+            "Jl. IR. Rais",
+            "Jl. Jupri",
+            "Jl. Raya Bandulan",
+            "Jl. Raya Mulyorejo",
+            "Terminal Mulyorejo"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Mulyorejo",
+            "Jl. Raya Mulyorejo",
+            "Ds. Tebo Selatan",
+            "Jl. Raya Mulyorejo",
+            "Jl. Raya Bandulan",
+            "Jl. Jupri",
+            "Jl. IR. Rais",
+            "Jl. Brigjen. Katamso",
+            "Jl. Ai. Suryani",
+            "Jl. Sukarjowiryopranoto",
+            "Jl. Kyai Yamin",
+            "Jl. Prof. Moh. Yamin",
+            "Jl. Susanto",
+            "Jl. Kol. Sugiono",
+            "Terminal Hamid Rusdi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HL",
+      "nama": "Hamid Rusdi - Landungsari",
+      "terminal_asal": "Terminal Hamid Rusdi",
+      "terminal_tujuan": "Terminal Landungsari",
+      "karakteristik": {
+        "jumlah_armada": 30,
+        "panjang_trayek_km": 17.05,
+        "waktu_tunggu_menit": 4,
+        "waktu_perjalanan_menit": 49
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. A. Satsui Tubun",
+            "Jl. S. Supriyadi",
+            "Jl. Janti",
+            "Jl. Sonokeling",
+            "Jl. Niaga",
+            "Jl. Susanto",
+            "Jl. Halmahera",
+            "Jl. Sampo",
+            "Jl. Kalimantan",
+            "Jl. Sulawesi",
+            "Jl. Yulius Usman",
+            "Jl. Arief Margono",
+            "Jl. KH. Hasyim Ashari",
+            "Jl. Kawi",
+            "Jl. Ijen",
+            "Jl. Retawu",
+            "Jl. Gede",
+            "Jl. Jakarta",
+            "Jl. Garut",
+            "Jl. Bandung",
+            "Jl. Veteran",
+            "Jl. Sumbersari",
+            "Jl. Gajayana",
+            "Jl. MT. Haryono",
+            "Jl. Raya Tlogomas",
+            "Terminal Landungsari"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Landungsari",
+            "Jl. Raya Tlogomas",
+            "Jl. MT. Haryono",
+            "Jl. Gajayana",
+            "Jl. Sumbersari",
+            "Jl. Veteran",
+            "Jl. Bandung",
+            "Jl. Ijen",
+            "Jl. Semeru",
+            "Jl. Arjuno",
+            "Jl. Kawi",
+            "Jl. AR. Hakim",
+            "Jl. Merdeka Utara",
+            "Jl. Merdeka Timur",
+            "Jl. KH. Hasyim Asyari",
+            "Jl. Arief Margono",
+            "Jl. Yulius Usman",
+            "Jl. Sulawesi",
+            "Jl. Nusakambangan",
+            "Jl. Halmahera",
+            "Jl. Susanto",
+            "Jl. Niaga",
+            "Jl. Sonokeling",
+            "Jl. Janti",
+            "Jl. S. Supriyadi",
+            "Jl. Satsui Tubun",
+            "Terminal Hamid Rusdi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "HA",
+      "nama": "Hamid Rusdi - Arjosari",
+      "terminal_asal": "Terminal Hamid Rusdi",
+      "terminal_tujuan": "Terminal Arjosari",
+      "karakteristik": {
+        "jumlah_armada": 30,
+        "panjang_trayek_km": 14.6,
+        "waktu_tunggu_menit": 3,
+        "waktu_perjalanan_menit": 64
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. A. Satsui Tubun",
+            "Jl. S. Supriyadi",
+            "Jl. Arief Margono",
+            "Jl. AI. Suryani",
+            "Jl. KH. Wachid Hasyim",
+            "Jl. Kauman",
+            "Jl. KH. Hasyim Ashari",
+            "Jl. AR. Hakim",
+            "Jl. Merdeka Utara",
+            "Jl. MGR. Sugiowiryopranoto",
+            "Jl. Mojopahit",
+            "Jl. Tugu",
+            "Jl. Untung Suropati",
+            "Jl. Pajajaran",
+            "Jl. Trunojoyo",
+            "Jl. HOS. Cokroaminoto",
+            "Jl. Dr. Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. WR. Supratman",
+            "Jl. Letjend Sutoyo",
+            "Jl. Letjend S. Parman",
+            "Jl. Jend A Yani",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. RP. Suroso",
+            "Jl. R Intan",
+            "Jl. Jend. A Yani",
+            "Jl. Letjend S. Parman",
+            "Jl. Letjend Sutoyo",
+            "Jl. Indragiri",
+            "Jl. Mahakam",
+            "Jl. WR. Supratman",
+            "Jl. PB. Sudirman",
+            "Jl. Pattimura",
+            "Jl. Trunojoyo",
+            "Jl. Kertanegara",
+            "Jl. Tugu",
+            "Jl. Mojopahit",
+            "Jl. Sukarjo Wiryopranoto",
+            "Jl. S. Syahrir",
+            "Jl. Halmahera",
+            "Jl. Tanimbar",
+            "Jl. Sulawesi",
+            "Jl. Nusa Kambangan",
+            "Jl. Arif Margono",
+            "Jl. S. Supriyadi",
+            "Jl. Satsui Tubun",
+            "Terminal Hamid Rusdi"
+          ]
+        }
+      }
+    },
+    {
+      "id": "AT",
+      "nama": "Arjosari - Tidar",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Tidar",
+      "karakteristik": {
+        "jumlah_armada": 5,
+        "panjang_trayek_km": 13.56,
+        "waktu_tunggu_menit": 39,
+        "waktu_perjalanan_menit": 50
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. RP. Suroso",
+            "Jl. Raden Intan",
+            "Jl. Jend. A. Yani",
+            "Jl. Letjen. S. Parman",
+            "Jl. Ciliwung",
+            "Jl. S. Priyosudarmo",
+            "Jl. RT. Suryo",
+            "Jl. PB. Sudirman",
+            "Jl. Pattimura",
+            "Jl. Belakang RSU Syaiful Anwar",
+            "Jl. Kahuripan",
+            "Jl. Semeru",
+            "Jl. Arjuno",
+            "Jl. Kawi",
+            "Jl. Panderman",
+            "Jl. Wilis",
+            "Jl. Gading",
+            "Jl. Sanggabuana",
+            "Jl. Galunggung",
+            "Jl. Bukit Barisan",
+            "Jl. Lokon",
+            "Jl. Tidar",
+            "Jl. Puncak Mandala",
+            "Tidar"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Tidar",
+            "Jl. Puncak Mandala",
+            "Jl. Tidar",
+            "Jl. Lokon",
+            "Jl. Bukit Barisan",
+            "Jl. Galunggung",
+            "Jl. Sanggabuana",
+            "Jl. Gading",
+            "Jl. Wilis",
+            "Jl. Panderman",
+            "Jl. Kawi",
+            "Jl. Arjuno",
+            "Jl. Semeru",
+            "Jl. Kahuripan",
+            "Jl. Belakang RSU. Syaiful Anwar",
+            "Jl. Patimura",
+            "Jl. Thamrin",
+            "Jl. HOS. Cokroaminoto",
+            "Jl. Dr. Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. RT. Suryo",
+            "Jl. S. Priyosudarmo",
+            "Jl. Ciliwung",
+            "Jl. Letjen S. Parman",
+            "Jl. Jend. A. Yani",
+            "Jl. Raden Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "AMH",
+      "nama": "Arjosari - Mergosono - Hamid Rusdi",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Terminal Hamid Rusdi",
+      "via": ["Mergosono"],
+      "karakteristik": {
+        "jumlah_armada": 85,
+        "panjang_trayek_km": 13.87,
+        "waktu_tunggu_menit": 12,
+        "waktu_perjalanan_menit": 45
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. RP. Suroso",
+            "Jl. S. Priyosudarmo",
+            "Jl. RT. Suryo",
+            "Jl. Hamid Rusdi",
+            "Jl. Kesatrian Terusan",
+            "Jl. Urip Sumoharjo",
+            "Jl. PB. Sudirman",
+            "Jl. Ir. Juanda",
+            "Jl. Kebalon",
+            "Jl. Kol. Sugiyono",
+            "Terminal Hamid Rusdi"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. Kol. Sugiyono",
+            "Mergosono",
+            "Jl. Laks. Martadinata",
+            "Jl. Kyai Tamin",
+            "Jl. Kopral Usman",
+            "Jl Pasar Besar",
+            "Jl. Gatot Subroto",
+            "Jl. Jembatan Pahlawan",
+            "Jl. Trunojoyo",
+            "Jl. HOS. Cokroaminoto",
+            "Jl. Dr. Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. RT. Suryo",
+            "Jl. S. Priyosudarmo",
+            "Jl. LA. Sucipto",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "AL",
+      "nama": "Arjosari - Landungsari",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Terminal Landungsari",
+      "karakteristik": {
+        "jumlah_armada": 40,
+        "panjang_trayek_km": 18.3,
+        "waktu_tunggu_menit": 14,
+        "waktu_perjalanan_menit": 45
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. RP. Suroso",
+            "Jl. RP. Suroso",
+            "Jl. LA. Sucipto",
+            "Jl. Tenaga",
+            "Jl. Karya Timur",
+            "Jl. Mahakam",
+            "Jl. WR. Supratman",
+            "Jl. PB. Sudirman",
+            "Jl. Pattimura",
+            "Jl. Trunojoyo",
+            "Jl. Kertanegara",
+            "Jl. Tugu",
+            "Jl. Kahuripan",
+            "Jl. Semeru",
+            "Jl. Ijen",
+            "Jl. Retawu",
+            "Jl. Bondowoso",
+            "Jl. Jombang",
+            "Jl. Surabaya",
+            "Jl. Jakarta",
+            "Jl. Bogor",
+            "Jl. Veteran",
+            "Jl. Sumbersari",
+            "Jl. Gajayana",
+            "Jl. MT. Haryono",
+            "Jl. Raya Tlogomas",
+            "Terminal Landungsari"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Landungsari",
+            "Jl. Raya Tlogomas",
+            "Jl. MT. Haryono",
+            "Jl. Gajayana",
+            "Jl. Sumbersari",
+            "Jl. Veteran",
+            "Jl. Bandung",
+            "Jl. Ijen",
+            "Jl. Jakarta",
+            "Jl. Surabaya",
+            "Jl. Jombang",
+            "Jl. Retawu",
+            "Jl. Semeru",
+            "Jl. Kahuripan",
+            "Jl. Tugu",
+            "Jl. Kertanegara",
+            "Jl. Trunojoyo",
+            "Jl. HOS. Cokroaminoto",
+            "Jl. Dr. Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. WR. Supratman",
+            "Jl. Mahakam",
+            "Jl. Karya Timur",
+            "Jl. Tenaga",
+            "Jl. LA. Sucipto",
+            "Jl. Jend. A. Yani",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "AJH",
+      "nama": "Arjosari - Janti - Hamid Rusdi",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Terminal Hamid Rusdi",
+      "via": ["Janti"],
+      "karakteristik": {
+        "jumlah_armada": 10,
+        "panjang_trayek_km": 17.6,
+        "waktu_tunggu_menit": 3,
+        "waktu_perjalanan_menit": 28
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. R.P. Suroso",
+            "Jl. LA. Sucipto",
+            "Jl. Jend. A. Yani",
+            "Jl. Letjen S. Parman",
+            "Jl. Letjen Sutoyo",
+            "Jl. Indragiri",
+            "Jl. RT. Suryo",
+            "Jl. Hamid Rusdi",
+            "Jl. Kesatrian Terusan",
+            "Jl. Urip Sumoharjo",
+            "Jl. Pattimura",
+            "Jl. Trunojoyo",
+            "Jl. Jembatan Pahlawan",
+            "Jl. Ir. Juanda",
+            "Jl. Zaenal Zakse",
+            "Jl. Laks. Martadinata",
+            "Jl. Kyai Tamin",
+            "Jl. Prof Moh Yamin",
+            "Jl. Peltu Sujono",
+            "Jl. Susanto",
+            "Jl. Niaga",
+            "Jl. Sonokeling",
+            "Jl. Janti",
+            "Jl. S. Supriadi",
+            "Jl. Satsui Tubun",
+            "Terminal Hamid Rusdi"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. Satsui Tubun",
+            "Jl. S. Supriadi",
+            "Jl. Janti",
+            "Jl. Sonokeling",
+            "Jl. Niaga",
+            "Jl. Susanto",
+            "Jl. Peltu Sujono",
+            "Jl. Sartono SH.",
+            "Jl. Laks. Martadinata",
+            "Jl. Kyai Tamin",
+            "Jl. Kopral Usman",
+            "Jl. Pasar Besar",
+            "Jl. Zainul Arifin",
+            "Jl. Aris Munandar",
+            "Jl. Jembatan Pahlawan",
+            "Jl. Trunojoyo",
+            "Jl. HOS Cokro Aminoto",
+            "Jl. Dr Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. RT. Suryo",
+            "Jl. Barito",
+            "Jl. Mahakam",
+            "Jl. Karya Timur",
+            "Jl. Ciliwung",
+            "Jl. Letjen S. Parman",
+            "Jl. Jend. A Yani",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "AH",
+      "nama": "Arjosari - Hamid Rusdi",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Terminal Hamid Rusdi",
+      "karakteristik": {
+        "jumlah_armada": 55,
+        "panjang_trayek_km": 14.17,
+        "waktu_tunggu_menit": 3,
+        "waktu_perjalanan_menit": 37
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. Panji Suroso",
+            "Jl. S. Priyosudarmo",
+            "Jl. R. Intan",
+            "Jl. Letjend S. Parman",
+            "Jl. Letjend Sutoyo",
+            "Jl. J.A. Suprapto",
+            "Jl. Jend. Basuki Rachmad",
+            "Jl. Merdeka Utara",
+            "Jl. Merdeka Timur",
+            "Jl. S. Wiryo Pranoto",
+            "Jl. Pasar Besar",
+            "Jl. Sersan Harun",
+            "Jl. Kyai Tamin",
+            "Jl. Prof. Moh. Yamin",
+            "Jl. Sartono SH",
+            "Jl. Kol. Sugiono",
+            "Terminal Hamid Rusdi"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. Kol. Sugiono",
+            "Jl. Sartono SH",
+            "Jl. Irian Jaya",
+            "Jl. Tanimbar",
+            "Jl. Sulawesi",
+            "Jl. Yulius Usman",
+            "Jl. Syarif Al Qodri",
+            "Jl. KH. Wachid Hasyim",
+            "Jl. Jend. Basuki Rachmad",
+            "Jl. J.A. Suprapto",
+            "Jl. Letjend Sutoyo",
+            "Jl. Letjend S. Parman",
+            "Jl. A. Yani",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ADL",
+      "nama": "Arjosari - Dinoyo - Landungsari",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Terminal Landungsari",
+      "via": ["Dinoyo"],
+      "karakteristik": {
+        "jumlah_armada": 50,
+        "panjang_trayek_km": 16.84,
+        "waktu_tunggu_menit": 13,
+        "waktu_perjalanan_menit": 57
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simpang. Raden Panji Suroso",
+            "Jl. R. Intan",
+            "Jl. A. Yani",
+            "Jl. Letjend S. Parman",
+            "Jl. Letjend Sutoyo",
+            "Jl. WR. Supratman",
+            "Jl. PB. Sudirman",
+            "Jl. Pattimura",
+            "Jl. Trunojoyo",
+            "Jl. Tugu",
+            "Jl. Kahuripan",
+            "Jl. Semeru",
+            "Jl. Ijen",
+            "Jl. Bandung",
+            "Jl. Veteran",
+            "Jl. Bogor",
+            "Jl. Mayjen Panjaitan",
+            "Jl. MT. Haryono",
+            "Jl. Raya Tlogomas",
+            "Terminal Landungsari"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Landungsari",
+            "Jl. Raya Tlogomas",
+            "Jl. MT. Haryono",
+            "Jl. Mayjen Panjaitan",
+            "Jl. Ijun",
+            "Jl. Semeru",
+            "Jl. Kahuripan",
+            "Jl. Tugu",
+            "Jl. Kertanegara",
+            "Jl. Trunojoyo",
+            "Jl. HOS Cokroaminoto",
+            "Jl. Dr Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. WR. Supratman",
+            "Jl. Letjend Sutoyo",
+            "Jl. Letjen S Parman",
+            "Jl. A Yani",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ABH",
+      "nama": "Arjosari - Borobudur - Hamid Rusdi",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Terminal Hamid Rusdi",
+      "via": ["Borobudur"],
+      "karakteristik": {
+        "jumlah_armada": 30,
+        "panjang_trayek_km": 17.23,
+        "waktu_tunggu_menit": 3,
+        "waktu_perjalanan_menit": 44
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. RP. Seroso",
+            "Jl. R. Intan",
+            "Jl. Jend. A. Yani",
+            "Jl. Borobudur",
+            "Jl. Sukarno Hatta",
+            "Jl. Cengkeh",
+            "Jl. Kalpataru",
+            "Jl. Melati",
+            "Jl. Mawar",
+            "Jl. Sarangan",
+            "Jl. Tawamangu",
+            "Jl. Kaliurang",
+            "Jl. WR. Supratman",
+            "Jl. PB. Sudirman",
+            "Jl. Pattimura",
+            "Jl. Trunojoyo",
+            "Jl. Jembatan Pahlawan",
+            "Jl. Gatot Subroto",
+            "Jl. Laks. Martadinata",
+            "Jl. Kol. Sugiono",
+            "Terminal Hamid Rusdi"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Terminal Hamid Rusdi",
+            "Jl. Kol. Sugiono",
+            "Jl. Laks. Martadinata",
+            "Jl. Gatot Subroto",
+            "Jl. Jembatan Pahlawan",
+            "Jl. Trunojoyo",
+            "Jl. HOS. Cokroaminoto",
+            "Jl. Dr. Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. WR. Supratman",
+            "Jl. Kaliurang",
+            "Jl. Tawamangu",
+            "Jl. Sarangan",
+            "Jl. Mawar",
+            "Jl. Bungur",
+            "Jl. Kalpataru",
+            "Jl. Cengkeh",
+            "Jl. Sukarno Hatta",
+            "Jl. Borobudur",
+            "Jl. Jend. A. Yani",
+            "Jl. R. Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ABB",
+      "nama": "Arjosari - Borobudur - Bunulrejo",
+      "terminal_asal": "Terminal Arjosari",
+      "terminal_tujuan": "Bunulrejo",
+      "via": ["Borobudur"],
+      "karakteristik": {
+        "jumlah_armada": 10,
+        "panjang_trayek_km": 10.72,
+        "waktu_tunggu_menit": 4,
+        "waktu_perjalanan_menit": 27
+      },
+      "rute": {
+        "pergi": {
+          "label": "Jalur Biru",
+          "urutan": [
+            "Terminal Arjosari",
+            "Jl. Simp. RP. Suroso",
+            "Jl. Raden Intan",
+            "Jl. Jend. A. Yani",
+            "Jl. Letjen. S. Parman",
+            "Jl. Ciliwung",
+            "Jl. S. Priyosudarmo",
+            "Jl. RT. Suryo",
+            "Jl. PB. Sudirman",
+            "Jl. Pattimura",
+            "Jl. Belakang RSU Syaiful Anwar",
+            "Jl. Kahuripan",
+            "Jl. Semeru",
+            "Jl. Arjuno",
+            "Jl. Kawi",
+            "Jl. Panderman",
+            "Jl. Wilis",
+            "Jl. Gading",
+            "Jl. Sanggabuana",
+            "Jl. Galunggung",
+            "Jl. Bukit Barisan",
+            "Jl. Lokon",
+            "Jl. Tidar",
+            "Jl. Puncak Mandala",
+            "Tidar"
+          ]
+        },
+        "pulang": {
+          "label": "Jalur Merah",
+          "urutan": [
+            "Tidar",
+            "Jl. Puncak Mandala",
+            "Jl. Tidar",
+            "Jl. Lokon",
+            "Jl. Bukit Barisan",
+            "Jl. Galunggung",
+            "Jl. Sanggabuana",
+            "Jl. Gading",
+            "Jl. Wilis",
+            "Jl. Panderman",
+            "Jl. Kawi",
+            "Jl. Arjuno",
+            "Jl. Semeru",
+            "Jl. Kahuripan",
+            "Jl. Belakang RSU. Syaiful Anwar",
+            "Jl. Patimura",
+            "Jl. Thamrin",
+            "Jl. HOS. Cokroaminoto",
+            "Jl. Dr. Cipto",
+            "Jl. PB. Sudirman",
+            "Jl. RT. Suryo",
+            "Jl. S. Priyosudarmo",
+            "Jl. Ciliwung",
+            "Jl. Letjen S. Parman",
+            "Jl. Jend. A. Yani",
+            "Jl. Raden Intan",
+            "Terminal Arjosari"
+          ]
+        }
+      }
+    }
+  ]
+}
