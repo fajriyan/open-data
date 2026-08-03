@@ -1,0 +1,850 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. LOWOKWARU",
+  "updated_at": "2026-07-04T04:03:28.105Z",
+  "count": 105,
+  "negeri": 51,
+  "swasta": 54,
+  "data": [
+    {
+      "no": 1,
+      "npsn": 69977745,
+      "nama-satuan-pendidikan": "MI BAIPAS",
+      "alamat": "JL. MANUNGGAL SUDIMORO UTARA",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": 69993772,
+      "nama-satuan-pendidikan": "MI DARUL HIKMAH",
+      "alamat": "Kantor : Joyosuko Metro Gg Pesantren no.01",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": 70027323,
+      "nama-satuan-pendidikan": "MI QITA",
+      "alamat": "JL. JOYO AGUNG II no. 1",
+      "kelurahan": "Tlogomas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": 60720782,
+      "nama-satuan-pendidikan": "MIS AL-FATTAH",
+      "alamat": "JL. Candi Telagawangi no.39",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": 60720783,
+      "nama-satuan-pendidikan": "MIS HIDAYATUL MUBTADIIN TASIKMADU",
+      "alamat": "JL KH YUSUF 174 TASIKMADU LOWOKWARU MALANG",
+      "kelurahan": "Tasikmadu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": 70044194,
+      "nama-satuan-pendidikan": "MIS IBADURRAHMAN",
+      "alamat": "PERUM ADYNA RESIDENCE JALAN RENANG",
+      "kelurahan": "Kec. Lowokwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": 60720784,
+      "nama-satuan-pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL. TLOGO SARI 641 A",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": 60720786,
+      "nama-satuan-pendidikan": "MIS WIRAUSAHA AL ARAFAH",
+      "alamat": "JL. IKAN PIRANHA ATAS 194 D MALANG",
+      "kelurahan": "Tunjungsekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": 70027570,
+      "nama-satuan-pendidikan": "MTs QITA",
+      "alamat": "JL. JOYO AGUNG II no. 1",
+      "kelurahan": "Tlogomas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": 70010547,
+      "nama-satuan-pendidikan": "MTSS BAHRUL MAGHFIROH",
+      "alamat": "JL. JOYO AGUNG no. 02 RT. 004 RW. 003",
+      "kelurahan": "Tlogomas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": 20583818,
+      "nama-satuan-pendidikan": "MTSS DARUTTAUHID",
+      "alamat": "JL. SUNAN AMPEL III/10 MALANG",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": 20583819,
+      "nama-satuan-pendidikan": "MTSS HIDAYATUL MUBTADIIN",
+      "alamat": "JL KH YUSUF no 1",
+      "kelurahan": "Tasikmadu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": 69881693,
+      "nama-satuan-pendidikan": "MTSS Ma arif NU",
+      "alamat": "Jl. H. Abd Ghofur no.9",
+      "kelurahan": "Lowokwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": 20583820,
+      "nama-satuan-pendidikan": "MTSS MUHAMMADIYAH 1",
+      "alamat": "JL. BAIDURI SEPAH 27 MALANG",
+      "kelurahan": "Tlogomas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": 20583821,
+      "nama-satuan-pendidikan": "MTSS NURUL HUDA",
+      "alamat": "JL. BEND. SUTAMI 3",
+      "kelurahan": "Sumbersari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": 20583823,
+      "nama-satuan-pendidikan": "MTSS YASPURI MALANG",
+      "alamat": "JL. JOYO RAHARJO 240-A",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": 69927706,
+      "nama-satuan-pendidikan": "MTsSTarbiyatul Iman",
+      "alamat": "Perum. Srigading Dalam Kav. 09-12",
+      "kelurahan": "Jatimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": 20539409,
+      "nama-satuan-pendidikan": "SD AISYIYAH",
+      "alamat": "Jl. Gajayana Gg.III D no. 570 D",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": 20539410,
+      "nama-satuan-pendidikan": "SD ANAK SALEH",
+      "alamat": "Jl. Arumba no.31",
+      "kelurahan": "Tunggulwulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": 69905563,
+      "nama-satuan-pendidikan": "SD BAHRUL MAGHFIROH",
+      "alamat": "JL. Joyo Agung Atas no. 2",
+      "kelurahan": "Tlogomas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": 20533896,
+      "nama-satuan-pendidikan": "SD BRAWIJAYA SMART SCHOOL",
+      "alamat": "Jl. Cipayung no. 8",
+      "kelurahan": "Ketawanggede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": 69979948,
+      "nama-satuan-pendidikan": "SD GRACIA NUSANTARA",
+      "alamat": "JL.Bunga Lely no.57 Kecamatan Lowokwaru Malang",
+      "kelurahan": "Jatimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": 20533931,
+      "nama-satuan-pendidikan": "SD INSAN AMANAH",
+      "alamat": "GRIYASHANTA BLOK M (JL. SOEKARno HATTA) MALANG",
+      "kelurahan": "Jatimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": 20533897,
+      "nama-satuan-pendidikan": "SD ISLAM MOHAMMAD HATTA",
+      "alamat": "Jl. Simpang Flamboyan no. 30",
+      "kelurahan": "Lowokwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": 70048390,
+      "nama-satuan-pendidikan": "SD ISLAM SABILILLAH MALANG 2",
+      "alamat": "Jl. Ikan Kakap I-E",
+      "kelurahan": "Tunjungsekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": 20533895,
+      "nama-satuan-pendidikan": "SD ISLAM SURYA BUANA",
+      "alamat": "Jl Simpang Gajayana no. 610-F Malang",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": 20540186,
+      "nama-satuan-pendidikan": "SD ISLAM TERPADU INSAN PERMATA",
+      "alamat": "Jl. Akordion Utara",
+      "kelurahan": "Tunggulwulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": 20533898,
+      "nama-satuan-pendidikan": "SD K SANTO YUSUP III",
+      "alamat": "Jl. Simpang Borobudur no. 1 Malang, Jawa Timur",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": 20533899,
+      "nama-satuan-pendidikan": "SD LABORATORIUM UM",
+      "alamat": "Jl. Bogor no.19 /jl. Veteran no.1 Malang",
+      "kelurahan": "Sumbersari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": 20533900,
+      "nama-satuan-pendidikan": "SD MUHAMMADIYAH 04",
+      "alamat": "Jl. Terusan Sudimoro no. 19 Malang",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": 70009655,
+      "nama-satuan-pendidikan": "SDI RUMAH CERDAS MALANG",
+      "alamat": "JL. JL TERSAN SOEKARno HATTA (Samping SM Futsal Sudimoro) MALANG",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": 20533711,
+      "nama-satuan-pendidikan": "SDI WAHID HASYIM",
+      "alamat": "Jl. Mayjen Haryono no.165",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": 69994899,
+      "nama-satuan-pendidikan": "SDIT INSANTAMA MALANG",
+      "alamat": "JL. PRINGGANDANI no 17 JOYO AGUNG",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": 20534079,
+      "nama-satuan-pendidikan": "SDN DInoYO 1",
+      "alamat": "Jl. MT. HARYOno no. 213",
+      "kelurahan": "Dinoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": 20534080,
+      "nama-satuan-pendidikan": "SDN DInoYO 2",
+      "alamat": "Jl. MT. HARYOno IX / 326",
+      "kelurahan": "Dinoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": 20534081,
+      "nama-satuan-pendidikan": "SDN DInoYO 3",
+      "alamat": "JL. MT. HARYOno XIII/139 A",
+      "kelurahan": "Dinoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": 20534082,
+      "nama-satuan-pendidikan": "SDN DInoYO 4",
+      "alamat": "Jl. MT. Haryono XIII/50 Malang",
+      "kelurahan": "Dinoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": 20533980,
+      "nama-satuan-pendidikan": "SDN JATIMULYO 1",
+      "alamat": "Jl. Pisang Kipas no.36",
+      "kelurahan": "Jatimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": 20533996,
+      "nama-satuan-pendidikan": "SDN JATIMULYO 2",
+      "alamat": "Jl. Kenanga Indah no. 2",
+      "kelurahan": "Jatimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": 20534075,
+      "nama-satuan-pendidikan": "SDN JATIMULYO 3",
+      "alamat": "Jl.bunga Srigading no 29",
+      "kelurahan": "Jatimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": 20533997,
+      "nama-satuan-pendidikan": "SDN JATIMULYO 4",
+      "alamat": "Jl. Simbar Menjangan 28",
+      "kelurahan": "Jatimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": 20533998,
+      "nama-satuan-pendidikan": "SDN JATIMULYO 5",
+      "alamat": "Jl.kuping Gajah no. 45",
+      "kelurahan": "Jatimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": 20533987,
+      "nama-satuan-pendidikan": "SDN KETAWANGGEDE",
+      "alamat": "Jl. Kerto Leksono no. 93 D",
+      "kelurahan": "Ketawanggede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": 20534013,
+      "nama-satuan-pendidikan": "SDN LOWOKWARU 1",
+      "alamat": "Jl. Letjend Sutoyo V/33",
+      "kelurahan": "Lowokwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": 20534014,
+      "nama-satuan-pendidikan": "SDN LOWOKWARU 2",
+      "alamat": "Jl. Tretes 3 Malang",
+      "kelurahan": "Lowokwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": 20534030,
+      "nama-satuan-pendidikan": "SDN LOWOKWARU 3",
+      "alamat": "Jl. Sarangan no.1",
+      "kelurahan": "Lowokwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": 20534031,
+      "nama-satuan-pendidikan": "SDN LOWOKWARU 4",
+      "alamat": "Jl Setaman no 2 Malang",
+      "kelurahan": "Lowokwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": 20534032,
+      "nama-satuan-pendidikan": "SDN LOWOKWARU 5",
+      "alamat": "Jl. Gilimanuk no.66",
+      "kelurahan": "Lowokwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": 20534038,
+      "nama-satuan-pendidikan": "SDN MERJOSARI 1",
+      "alamat": "Jl. Joyo Utomo no. 2",
+      "kelurahan": "Merjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": 20534039,
+      "nama-satuan-pendidikan": "SDN MERJOSARI 2",
+      "alamat": "Jl. Joyo Utomo I",
+      "kelurahan": "Merjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": 20534040,
+      "nama-satuan-pendidikan": "SDN MERJOSARI 3",
+      "alamat": "Jl Joyo Taman Sari no. 1",
+      "kelurahan": "Merjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": 20534041,
+      "nama-satuan-pendidikan": "SDN MERJOSARI 4",
+      "alamat": "Jl. Tirto Mulyo 38",
+      "kelurahan": "Merjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": 20534042,
+      "nama-satuan-pendidikan": "SDN MERJOSARI 5",
+      "alamat": "Perum Joyo Asri Blok B2 / no.7b",
+      "kelurahan": "Merjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": 20534029,
+      "nama-satuan-pendidikan": "SDN MOJOLANGU 1",
+      "alamat": "Jl. Sudimoro no. 15",
+      "kelurahan": "Mojolangu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": 20534028,
+      "nama-satuan-pendidikan": "SDN MOJOLANGU 2",
+      "alamat": "Jl. Candi Panggung no 52",
+      "kelurahan": "Mojolangu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": 20534015,
+      "nama-satuan-pendidikan": "SDN MOJOLANGU 3",
+      "alamat": "Jl. Candi Mendut 25",
+      "kelurahan": "Mojolangu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": 20534016,
+      "nama-satuan-pendidikan": "SDN MOJOLANGU 4",
+      "alamat": "Jl.Taman Borobudur 7 Malang",
+      "kelurahan": "Mojolangu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": 20534017,
+      "nama-satuan-pendidikan": "SDN MOJOLANGU 5",
+      "alamat": "Jl. Terusan Sudimoro",
+      "kelurahan": "Mojolangu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": 20533855,
+      "nama-satuan-pendidikan": "SDN PERCOBAAN 1",
+      "alamat": "Jl. Magelang no. 4",
+      "kelurahan": "Sumbersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": 20533700,
+      "nama-satuan-pendidikan": "SDN SUMBERSARI 1",
+      "alamat": "Jl.bend. Sigura-gura I / 11",
+      "kelurahan": "Sumbersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": 20533701,
+      "nama-satuan-pendidikan": "SDN SUMBERSARI 2",
+      "alamat": "Jl Bendungan Sutami I / 24",
+      "kelurahan": "Sumbersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": 20533717,
+      "nama-satuan-pendidikan": "SDN SUMBERSARI 3",
+      "alamat": "Jl Terusan Ambarawa 61 Malang",
+      "kelurahan": "Sumbersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": 20533723,
+      "nama-satuan-pendidikan": "SDN TASIKMADU 1",
+      "alamat": "Jl. Golf Tasikmadu",
+      "kelurahan": "Tasikmadu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": 20533724,
+      "nama-satuan-pendidikan": "SDN TASIKMADU 2",
+      "alamat": "JLN. ATLETIK 123-124",
+      "kelurahan": "Tasikmadu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": 20533725,
+      "nama-satuan-pendidikan": "SDN TLOGOMAS 1",
+      "alamat": "Jl. Raya Tlogomas VIII/ 51",
+      "kelurahan": "Tlogomas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": 20533726,
+      "nama-satuan-pendidikan": "SDN TLOGOMAS 2",
+      "alamat": "Jl. Raya Tlogomas no.1",
+      "kelurahan": "Tlogomas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": 20533727,
+      "nama-satuan-pendidikan": "SDN TULUSREJO 1",
+      "alamat": "Jl. Kedawung no. 72",
+      "kelurahan": "Tulusrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": 20533728,
+      "nama-satuan-pendidikan": "SDN TULUSREJO 2",
+      "alamat": "Jl. Kendalsari no.36",
+      "kelurahan": "Tulusrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": 20533729,
+      "nama-satuan-pendidikan": "SDN TULUSREJO 3",
+      "alamat": "Jl. Bantaran V / 17",
+      "kelurahan": "Tulusrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": 20533715,
+      "nama-satuan-pendidikan": "SDN TULUSREJO 4",
+      "alamat": "Jl. Kedawung Xb 28",
+      "kelurahan": "Tulusrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": 20533703,
+      "nama-satuan-pendidikan": "SDN TUNGGULWULUNG 1",
+      "alamat": "Jl. Akordion Timur no.1",
+      "kelurahan": "Tunggulwulung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": 20533702,
+      "nama-satuan-pendidikan": "SDN TUNGGULWULUNG 2",
+      "alamat": "Jl. Bawang Raya 98",
+      "kelurahan": "Tunggulwulung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": 20533704,
+      "nama-satuan-pendidikan": "SDN TUNGGULWULUNG 3",
+      "alamat": "Jl. Arumba no.2",
+      "kelurahan": "Tunggulwulung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": 20533705,
+      "nama-satuan-pendidikan": "SDN TUNJUNGSEKAR 1",
+      "alamat": "Jl. Ikan Piranha Atas nomor 187",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": 20533706,
+      "nama-satuan-pendidikan": "SDN TUNJUNGSEKAR 2",
+      "alamat": "JL. IKAN TOMBRO no. 1",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": 20539473,
+      "nama-satuan-pendidikan": "SDN TUNJUNGSEKAR 3",
+      "alamat": "Jl. Terusan Piranha Atas no. 2",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": 20539474,
+      "nama-satuan-pendidikan": "SDN TUNJUNGSEKAR 4",
+      "alamat": "JL.IKAN GURAMI no.4 MALANG",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": 20533709,
+      "nama-satuan-pendidikan": "SDN TUNJUNGSEKAR 5",
+      "alamat": "Jl. Ikan Mas I no. 18",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": 69774747,
+      "nama-satuan-pendidikan": "SDS INDONESIA INTERACTIVE STANDARD SCHOOL (IISS)",
+      "alamat": "Jl. Sarangan no. 32",
+      "kelurahan": "Lowokwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": 69758448,
+      "nama-satuan-pendidikan": "SDS ISLAM AL-UMM",
+      "alamat": "JL. JOYO AGUNG no.1",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": 20555415,
+      "nama-satuan-pendidikan": "SDS PJ GLOBAL SCHOOL",
+      "alamat": "Permata Jingga Housing Boulevard Anggrek",
+      "kelurahan": "Tunggulwulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": 69977483,
+      "nama-satuan-pendidikan": "SMP ASIFA MALANG",
+      "alamat": "KOMPLEK GRIYASHANTA BLOK J MALANG",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": 69754478,
+      "nama-satuan-pendidikan": "SMP BAHRUL MAGHFIROH",
+      "alamat": "Jl. Joyo Agung no. 02",
+      "kelurahan": "Tlogomas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": 20533845,
+      "nama-satuan-pendidikan": "SMP BHAKTI",
+      "alamat": "Jl. Kedawung 72 Malang",
+      "kelurahan": "Tulusrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": 20533849,
+      "nama-satuan-pendidikan": "SMP BRAWIJAYA SMART SCHOOL",
+      "alamat": "Jalan Cipayung 8 Malang",
+      "kelurahan": "Ketawanggede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": 69970546,
+      "nama-satuan-pendidikan": "SMP GRACIA NUSANTARA",
+      "alamat": "Jl. Bunga Lely no. 57 Malang",
+      "kelurahan": "Jatimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": 70030673,
+      "nama-satuan-pendidikan": "SMP INSAN AMANAH",
+      "alamat": "GRIYASHANTA EKSEKUTIVE BLOK M JL. SOEKARno HATTA",
+      "kelurahan": "Jatimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 88,
+      "npsn": 69965394,
+      "nama-satuan-pendidikan": "SMP ISLAM AL-UMM",
+      "alamat": "Jl. Joyo Agung no. 1 Merjosari, Lowokwaru, Malang",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": 20533827,
+      "nama-satuan-pendidikan": "SMP ISLAM SABILILLAH MALANG",
+      "alamat": "Jl. Terusan Piranha Atas 135",
+      "kelurahan": "Tunjungsekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": 69958420,
+      "nama-satuan-pendidikan": "SMP ISLAM TERPADU INSAN PERMATA",
+      "alamat": "Jl. Atletik, Rt. 04, Rw. 01 kelurahan Tasikmadu",
+      "kelurahan": "Tasikmadu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": 20539733,
+      "nama-satuan-pendidikan": "SMP K KOLESE SANTO YUSUP 2",
+      "alamat": "Jl. Simpang Borobudur 1",
+      "kelurahan": "Mojolangu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": 20533835,
+      "nama-satuan-pendidikan": "SMP KERTANEGARA MALANG",
+      "alamat": "Jl. Cengger Ayam I/5 Malang",
+      "kelurahan": "Tulusrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": 20533854,
+      "nama-satuan-pendidikan": "SMP KRISTEN SETIA BUDI",
+      "alamat": "Jl. Pisang Kipas no. 58",
+      "kelurahan": "Jatimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": 20533731,
+      "nama-satuan-pendidikan": "SMP LABORATORIUM UM",
+      "alamat": "Jl. Simpang Bogor T - 7 Malang",
+      "kelurahan": "Sumbersari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 95,
+      "npsn": 20533752,
+      "nama-satuan-pendidikan": "SMP MUHAMMADIYAH 04",
+      "alamat": "Jl. Gajayana Gg 3 no 570-d",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 96,
+      "npsn": 20533783,
+      "nama-satuan-pendidikan": "SMP NEGERI 11 MALANG",
+      "alamat": "Jl. Ikan Piranha Atas no. 185",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 97,
+      "npsn": 20533785,
+      "nama-satuan-pendidikan": "SMP NEGERI 13 MALANG",
+      "alamat": "Jl. Sunan Ampel II. Kota Malang",
+      "kelurahan": "Dinoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 98,
+      "npsn": 20533791,
+      "nama-satuan-pendidikan": "SMP NEGERI 18 MALANG",
+      "alamat": "Jalan Soekarno Hatta A-394",
+      "kelurahan": "Mojolangu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 99,
+      "npsn": 20561785,
+      "nama-satuan-pendidikan": "SMP NEGERI 25 MALANG",
+      "alamat": "Perum Villa Bukit Tidar",
+      "kelurahan": "Merjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 100,
+      "npsn": 60726487,
+      "nama-satuan-pendidikan": "SMP NEGERI 26 MALANG",
+      "alamat": "Jl. Ikan Gurami no.36 Malang",
+      "kelurahan": "Tunjungsekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 101,
+      "npsn": 20533766,
+      "nama-satuan-pendidikan": "SMP NEGERI 4 MALANG",
+      "alamat": "Jalan Veteran 37",
+      "kelurahan": "Sumbersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 102,
+      "npsn": 69759873,
+      "nama-satuan-pendidikan": "SMP PJ GLOBAL SCHOOL",
+      "alamat": "Perumahan Permata Jingga Blok Anggrek",
+      "kelurahan": "Tunggulwulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 103,
+      "npsn": 20533733,
+      "nama-satuan-pendidikan": "SMP SUNAN GIRI MALANG",
+      "alamat": "Jl.Tlogosari 641-a",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 104,
+      "npsn": 20533736,
+      "nama-satuan-pendidikan": "SMP WAHID HASYIM",
+      "alamat": "Jl. Mayjen Haryono no. 165",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 105,
+      "npsn": 70051406,
+      "nama-satuan-pendidikan": "SMPIT INSANTAMA MALANG",
+      "alamat": "Jl. Joyo Pringgandani no. 23",
+      "kelurahan": "Merjosari",
+      "status": "SWASTA"
+    }
+  ]
+}

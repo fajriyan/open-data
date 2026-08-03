@@ -1,0 +1,18 @@
+{
+  "source": "gresikkab.go.id",
+  "label": "Daftar Museum di Kabupaten Gresik",
+  "updated_at": "2026-07-04T03:28:41.032Z",
+  "count": 1,
+  "data": [
+    {
+      "id_museum": 1,
+      "foto_url": "https://gresikkab.go.id/storage/museum/1769830126_museum-sunan-giri.png",
+      "nama": "Museum Sunan Giri",
+      "tlp": "089688365090",
+      "email": null,
+      "website": null,
+      "alamat": "Jl. Pahlawan No. 24 Gresik",
+      "informasi": "Email: - No. Tlp: 089688365090 Website: - Alamat: Jl. Pahlawan No. 24 Gresik"
+    }
+  ]
+}

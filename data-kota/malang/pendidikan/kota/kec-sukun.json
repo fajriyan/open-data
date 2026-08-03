@@ -1,0 +1,826 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SUKUN",
+  "updated_at": "2026-07-04T04:03:28.105Z",
+  "count": 102,
+  "negeri": 48,
+  "swasta": 54,
+  "data": [
+    {
+      "no": 1,
+      "npsn": 60720787,
+      "nama-satuan-pendidikan": "MIN 2 KOTA MALANG",
+      "alamat": "JL. KEMANTREN II/26",
+      "kelurahan": "Bandungrejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": 60720789,
+      "nama-satuan-pendidikan": "MIS ISLAMIYAH KEBONSARI",
+      "alamat": "JL. S. SUPRIYADI 172 L",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": 60720790,
+      "nama-satuan-pendidikan": "MIS MA`ARIF SUKUN 1",
+      "alamat": "JL. S. SUPRIADI VII no 1 MALANG",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": 60720791,
+      "nama-satuan-pendidikan": "MIS MAARIF SUKUN 2",
+      "alamat": "JL. KUTILANG TIMUR no.6 MALANG",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": 60720792,
+      "nama-satuan-pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL. RAYA BANDULAN 125 A",
+      "kelurahan": "Bandulan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": 60720793,
+      "nama-satuan-pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JALAN PELTU SUJOno GANG MELATI no 9 MALANG",
+      "kelurahan": "Ciptomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": 60720766,
+      "nama-satuan-pendidikan": "MIS MIFTAHUL ULUM BURING",
+      "alamat": "JL. KH. MALIK DALAM 03/07 BURING",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": 60720794,
+      "nama-satuan-pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. MOCH. JUKI no 1 A MULYOREJO",
+      "kelurahan": "Mulyorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": 60720795,
+      "nama-satuan-pendidikan": "MIS RADEN FATAH",
+      "alamat": "JL. NGAGLIK IV B/627 SUKUN MALANG",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": 60720788,
+      "nama-satuan-pendidikan": "MIS SUNAN GUNUNG JATI",
+      "alamat": "JL. S. SUPRIYADI IX / 42",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": 60720796,
+      "nama-satuan-pendidikan": "MIS SUNAN KALIJOGO KARANGBESUKI",
+      "alamat": "JL. CANDI IIID no. 442 KARANGBESUKI",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": 60720797,
+      "nama-satuan-pendidikan": "MIS SUNAN KALIJOGO MERGAN",
+      "alamat": "JL. MERGAN RAYA XIX / 56",
+      "kelurahan": "Tanjungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": 60720798,
+      "nama-satuan-pendidikan": "MIS SUNAN KALIJOGO PC",
+      "alamat": "JL PISANG CANDI BARAT no.39",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": 69726409,
+      "nama-satuan-pendidikan": "MTSS IBADURRAHMAN",
+      "alamat": "JL. S. SUPRIYADI GG. 10 no. 80",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": 20583824,
+      "nama-satuan-pendidikan": "MTSS NURUL ULUM",
+      "alamat": "JL. AIPDA. SATSUI TUBUN 17 RT. 02/03",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": 20583825,
+      "nama-satuan-pendidikan": "MTSS SUNAN KALIJOGO KARANGBESUKI",
+      "alamat": "JL. CANDI 3 D / 442 KARANG BESUKI SUKUN MALANG",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": 20583822,
+      "nama-satuan-pendidikan": "MTSS SURYA BUANA MALANG",
+      "alamat": "JL. SUNAN MURIA 101",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": 20533860,
+      "nama-satuan-pendidikan": "SD ADVENT",
+      "alamat": "Jl. Lembah Dieng no. 04, Kel. Pisangcandi, Kec. Sukun, Kota Malang.",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": 70060367,
+      "nama-satuan-pendidikan": "SD ALAM HAMALATUL QURAN AMANAH",
+      "alamat": "Jl. Keben II Blok B nomor 24",
+      "kelurahan": "Bandungrejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": 20533861,
+      "nama-satuan-pendidikan": "SD BERITA HIDUP",
+      "alamat": "Jl. Rawi Sari 33",
+      "kelurahan": "Mulyorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": 20533901,
+      "nama-satuan-pendidikan": "SD ISLAM AL HIKMAH",
+      "alamat": "Jl. Kol. Sugiono Gg. VIII no.50",
+      "kelurahan": "Gadang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": 60726485,
+      "nama-satuan-pendidikan": "SD ISLAM AS SALAM",
+      "alamat": "Jl. Bendungan Wonorejo 1A",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": 20533865,
+      "nama-satuan-pendidikan": "SD ISLAM RESTU IBU",
+      "alamat": "Jl. Rawisari no. 3 Rt 07 Rw 05",
+      "kelurahan": "Mulyorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": 69786387,
+      "nama-satuan-pendidikan": "SD ISLAMIC GLOBAL SCHOOL",
+      "alamat": "Jl. S.SUPRIADI no.35 Kec. Sukun Kota Malang",
+      "kelurahan": "Bandungrejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": 20533918,
+      "nama-satuan-pendidikan": "SD K BHAKTI LUHUR",
+      "alamat": "Jl. Raya Dieng no. 40",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": 20534061,
+      "nama-satuan-pendidikan": "SD K MARGA BHAKTI",
+      "alamat": "Jl. Gempol Marga Bhakti no 01 RT 07/RW 10",
+      "kelurahan": "Tanjungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": 20534060,
+      "nama-satuan-pendidikan": "SD KATOLIK INDRIYASANA",
+      "alamat": "Jl. S. Supriadi Gg. Iv no. 2306",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": 20534062,
+      "nama-satuan-pendidikan": "SD KATOLIK SANTA MARIA III",
+      "alamat": "JALAN MARKISAH no. 6",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": 20533863,
+      "nama-satuan-pendidikan": "SD KRISTEN CHARIS",
+      "alamat": "Jl. Telaga Bodas 1",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": 20534044,
+      "nama-satuan-pendidikan": "SD KRISTEN ELIM",
+      "alamat": "Jl. SUDANCO SUPRIADI 39B MALANG",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": 69992638,
+      "nama-satuan-pendidikan": "SD KRISTEN KALAM KUDUS MALENGGANG",
+      "alamat": "Jl. Malenggang no. 12-14 Malang",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": 20533893,
+      "nama-satuan-pendidikan": "SD KRISTEN YBPK NGAGLIK",
+      "alamat": "Ngaglik Iva / 203",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": 20533908,
+      "nama-satuan-pendidikan": "SD MUHAMMADIYAH 5",
+      "alamat": "JL.IKHWAN RIDWAN RAIS III no. 20",
+      "kelurahan": "Tanjungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": 20540190,
+      "nama-satuan-pendidikan": "SD MY LITTLE ISLAND",
+      "alamat": "Jl Raya lembah Dieng no 7",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": 20570324,
+      "nama-satuan-pendidikan": "SD PLUS QURROTA A YUN",
+      "alamat": "Jl. Kolonel Sugiono Gg. 21 C no. 21",
+      "kelurahan": "Gadang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": 69933914,
+      "nama-satuan-pendidikan": "SDIT INSAN MULIA",
+      "alamat": "JL. JANTI SELATAN no. 15A MALANG",
+      "kelurahan": "Bandungrejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": 20534059,
+      "nama-satuan-pendidikan": "SDN BAKALAN KRAJAN 1",
+      "alamat": "Jl. Pelabuhan Bakahuni 199",
+      "kelurahan": "Bakalan Krajan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": 20534058,
+      "nama-satuan-pendidikan": "SDN BAKALAN KRAJAN 2",
+      "alamat": "Jl. Pelabuhan Ketapang I no. 1",
+      "kelurahan": "Bakalan Krajan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": 20534046,
+      "nama-satuan-pendidikan": "SDN BANDULAN 1",
+      "alamat": "Jl. Bandulan IC/7",
+      "kelurahan": "Bandulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": 20534047,
+      "nama-satuan-pendidikan": "SDN BANDULAN 2",
+      "alamat": "Jl. Raya Bandulan 198",
+      "kelurahan": "Bandulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": 20534048,
+      "nama-satuan-pendidikan": "SDN BANDULAN 3",
+      "alamat": "Jl. Bandulan Ix / 593",
+      "kelurahan": "Bandulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": 20534049,
+      "nama-satuan-pendidikan": "SDN BANDULAN 4",
+      "alamat": "Jl. Bandulan VIII BII / 31",
+      "kelurahan": "Bandulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": 20534050,
+      "nama-satuan-pendidikan": "SDN BANDULAN 5",
+      "alamat": "Jl Bandulan Baru 251 A Malang",
+      "kelurahan": "Bandulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": 20534051,
+      "nama-satuan-pendidikan": "SDN BANDUNGREJOSARI 1",
+      "alamat": "JL. S. SUPRIADI no. 179",
+      "kelurahan": "Bandungrejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": 20534054,
+      "nama-satuan-pendidikan": "SDN BANDUNGREJOSARI 2",
+      "alamat": "JL. KLAYATAN II / 176",
+      "kelurahan": "Bandungrejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": 20534055,
+      "nama-satuan-pendidikan": "SDN BANDUNGREJOSARI 3",
+      "alamat": "Jl. Janti Selatan 69 Malang",
+      "kelurahan": "Bandungrejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": 20534053,
+      "nama-satuan-pendidikan": "SDN BANDUNGREJOSARI 4",
+      "alamat": "Jl. Danuri no.18",
+      "kelurahan": "Bandungrejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": 20534099,
+      "nama-satuan-pendidikan": "SDN CIPTOMULYO 1",
+      "alamat": "Jl. Sartono, Sh no. 4",
+      "kelurahan": "Ciptomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": 20548804,
+      "nama-satuan-pendidikan": "SDN CIPTOMULYO 2",
+      "alamat": "Jl. Kolonel Sugiono VIII / 54",
+      "kelurahan": "Ciptomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": 20534076,
+      "nama-satuan-pendidikan": "SDN CIPTOMULYO 3",
+      "alamat": "Jl.kolonel Sugiono Gg. VIII no.69",
+      "kelurahan": "Ciptomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": 20534083,
+      "nama-satuan-pendidikan": "SDN GADANG 1",
+      "alamat": "Jl.kolonel Sugiono 345",
+      "kelurahan": "Gadang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": 20534084,
+      "nama-satuan-pendidikan": "SDN GADANG 2",
+      "alamat": "Jl.gadang IX/18",
+      "kelurahan": "Gadang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": 20534085,
+      "nama-satuan-pendidikan": "SDN GADANG 3",
+      "alamat": "Jl. Raya Gadang 12a",
+      "kelurahan": "Gadang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": 20534087,
+      "nama-satuan-pendidikan": "SDN GADANG 4",
+      "alamat": "Jl. Kolonel Sugiono Xi / 24 Malang",
+      "kelurahan": "Gadang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": 20534001,
+      "nama-satuan-pendidikan": "SDN KARANGBESUKI 1",
+      "alamat": "Jalan Raya Candi 3 no 1",
+      "kelurahan": "Karang Besuki",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": 20534002,
+      "nama-satuan-pendidikan": "SDN KARANGBESUKI 2",
+      "alamat": "Jl. Candi V A no. 389",
+      "kelurahan": "Karang Besuki",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": 20534003,
+      "nama-satuan-pendidikan": "SDN KARANGBESUKI 3",
+      "alamat": "Jl. Candi Badut Blok VI B/110",
+      "kelurahan": "Karang Besuki",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": 20534004,
+      "nama-satuan-pendidikan": "SDN KARANGBESUKI 4",
+      "alamat": "Jl. Candi III F 256",
+      "kelurahan": "Karang Besuki",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": 20533981,
+      "nama-satuan-pendidikan": "SDN KEBONSARI 1",
+      "alamat": "Jl.satsui Tubun no 148",
+      "kelurahan": "Kebonsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": 20533982,
+      "nama-satuan-pendidikan": "SDN KEBONSARI 2",
+      "alamat": "Jl. S. Supriadi no.7",
+      "kelurahan": "Kebonsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": 20533983,
+      "nama-satuan-pendidikan": "SDN KEBONSARI 3",
+      "alamat": "Jl. Kolonel Sugiono no. 555",
+      "kelurahan": "Kebonsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": 20533984,
+      "nama-satuan-pendidikan": "SDN KEBONSARI 4",
+      "alamat": "JL. Satsui Tubun IV no 210",
+      "kelurahan": "Kebonsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": 20534018,
+      "nama-satuan-pendidikan": "SDN MULYOREJO 1",
+      "alamat": "Jalan Pahlawan 15",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": 20534019,
+      "nama-satuan-pendidikan": "SDN MULYOREJO 2",
+      "alamat": "Jl Tebo Selatan 55",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": 20534020,
+      "nama-satuan-pendidikan": "SDN MULYOREJO 3",
+      "alamat": "Jl. Raya Mulyorejo no. 25",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": 20533669,
+      "nama-satuan-pendidikan": "SDN PERCOBAAN 2",
+      "alamat": "Jl. Galunggung no. 1 RT. 07 RW. 06",
+      "kelurahan": "Pisang Candi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": 20533686,
+      "nama-satuan-pendidikan": "SDN PISANGCANDI 1",
+      "alamat": "Jl. Simpang Raya Langsep 14",
+      "kelurahan": "Pisang Candi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": 20533688,
+      "nama-satuan-pendidikan": "SDN PISANGCANDI 2",
+      "alamat": "Jl. Pisang Agung III no.8",
+      "kelurahan": "Pisang Candi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": 20533689,
+      "nama-satuan-pendidikan": "SDN PISANGCANDI 3",
+      "alamat": "Jl. Gunung Agung no. 2",
+      "kelurahan": "Pisang Candi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": 20533687,
+      "nama-satuan-pendidikan": "SDN PISANGCANDI 4",
+      "alamat": "Jl. Simpang Leuser 7",
+      "kelurahan": "Pisang Candi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": 20533682,
+      "nama-satuan-pendidikan": "SDN SUKUN 1",
+      "alamat": "Jl. S. Supriadi no. 16",
+      "kelurahan": "Sukun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": 20533683,
+      "nama-satuan-pendidikan": "SDN SUKUN 2",
+      "alamat": "Jl. Kepodang 17",
+      "kelurahan": "Sukun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": 20533699,
+      "nama-satuan-pendidikan": "SDN SUKUN 3",
+      "alamat": "Jl Rajawali no 1 Malang",
+      "kelurahan": "Sukun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": 20533718,
+      "nama-satuan-pendidikan": "SDN TANJUNGREJO 1",
+      "alamat": "Jl. Mergan Sekolahan no. 1",
+      "kelurahan": "Tanjungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": 20533719,
+      "nama-satuan-pendidikan": "SDN TANJUNGREJO 2",
+      "alamat": "Jl. Mergan Musholla no. 1",
+      "kelurahan": "Tanjungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": 20533720,
+      "nama-satuan-pendidikan": "SDN TANJUNGREJO 3",
+      "alamat": "Jl. Terusan Mergan Raya no 18",
+      "kelurahan": "Tanjungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": 20533721,
+      "nama-satuan-pendidikan": "SDN TANJUNGREJO 4",
+      "alamat": "Jl.gempol 18",
+      "kelurahan": "Tanjungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": 20533722,
+      "nama-satuan-pendidikan": "SDN TANJUNGREJO 5",
+      "alamat": "Jl. Mergan Lori III / 1 A",
+      "kelurahan": "Tanjungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": 69888881,
+      "nama-satuan-pendidikan": "Sekolah Dasar Wesley Malang",
+      "alamat": "JL. SIMPANG KWOKA 1 MALANG",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": 69888858,
+      "nama-satuan-pendidikan": "Sekolah Menengah Pertama Wesley Malang",
+      "alamat": "JL. SIMPANG KWOKA 1 MALANG",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": 20539727,
+      "nama-satuan-pendidikan": "SMP ADVENT",
+      "alamat": "Jl.Raya Lembah Dieng no. 04 Malang",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": 20533843,
+      "nama-satuan-pendidikan": "SMP AL HIDAYAH MALANG",
+      "alamat": "Jl. Sudanco Supriyadi 172-l Kebonsari",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": 70060511,
+      "nama-satuan-pendidikan": "SMP BOARDING SCHOOL QURROTA AYUN",
+      "alamat": "Jl. Kolonel Sugiono Gg. 12B 21",
+      "kelurahan": "Gadang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": 20540221,
+      "nama-satuan-pendidikan": "SMP CHARIS",
+      "alamat": "Jl. Telaga Bodas 1-3",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": 20533840,
+      "nama-satuan-pendidikan": "SMP ISLAM MAARIF 02 MALANG",
+      "alamat": "Jl. Janti Barat 36 Malang",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": 20533839,
+      "nama-satuan-pendidikan": "SMP ISLAM NURUL HUDA",
+      "alamat": "Jl. Moch. Juki no.1 Mulyorejo",
+      "kelurahan": "Mulyorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": 69849571,
+      "nama-satuan-pendidikan": "SMP ISLAM SABILURROSYAD",
+      "alamat": "JL. CANDI VI C no.303",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 88,
+      "npsn": 69988139,
+      "nama-satuan-pendidikan": "SMP IT AS SALAM",
+      "alamat": "JL. BENDUNGAN WOnoREJO no.1A",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": 20533830,
+      "nama-satuan-pendidikan": "SMP KARTINI YASRI",
+      "alamat": "Mergan Veteran no 1 Malang",
+      "kelurahan": "Tanjungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": 20539728,
+      "nama-satuan-pendidikan": "SMP KRISTEN ELIM",
+      "alamat": "Jl.S.Supriadi 39B Malang",
+      "kelurahan": "Sukun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": 20539736,
+      "nama-satuan-pendidikan": "SMP MUHAMMADIYAH 06",
+      "alamat": "Jl. Bendungan Sengguruh 39a",
+      "kelurahan": "Karang Besuki",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": 20533753,
+      "nama-satuan-pendidikan": "SMP NASIONAL",
+      "alamat": "Jl. S. Supriyadi 50 Malang",
+      "kelurahan": "Bandungrejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": 69979950,
+      "nama-satuan-pendidikan": "SMP NATIONAL LEADER SCHOOL MALANG",
+      "alamat": "JL.Lembah Dieng no. 7 Kota Malang",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": 20533784,
+      "nama-satuan-pendidikan": "SMP NEGERI 12 MALANG",
+      "alamat": "Jl. S. Supriyadi no. 49",
+      "kelurahan": "Bandungrejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 95,
+      "npsn": 20533787,
+      "nama-satuan-pendidikan": "SMP NEGERI 15 MALANG",
+      "alamat": "Jl. Bukit Dieng T/8",
+      "kelurahan": "Pisang Candi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 96,
+      "npsn": 20533790,
+      "nama-satuan-pendidikan": "SMP NEGERI 17 MALANG",
+      "alamat": "Jl. Pelabuhan Tanjung Priok 170",
+      "kelurahan": "Bakalan Krajan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 97,
+      "npsn": 70030592,
+      "nama-satuan-pendidikan": "SMP NEGERI 29 MALANG",
+      "alamat": "Jl. Kolonel Sugiono XI",
+      "kelurahan": "Gadang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 98,
+      "npsn": 70030599,
+      "nama-satuan-pendidikan": "SMP NEGERI 30 MALANG",
+      "alamat": "JL. RAYA MULYOREJO noMOR 95 RT. 05 RW. 03",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 99,
+      "npsn": 20533758,
+      "nama-satuan-pendidikan": "SMP PGRI 03",
+      "alamat": "Jl. S. Supriadi 179 A",
+      "kelurahan": "Bandungrejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 100,
+      "npsn": 20533746,
+      "nama-satuan-pendidikan": "SMP PGRI 06 MALANG",
+      "alamat": "Jl. Kol. Sugiono VIII/82",
+      "kelurahan": "Ciptomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 101,
+      "npsn": 69984376,
+      "nama-satuan-pendidikan": "SMPI ANNURIYAH MALANG",
+      "alamat": "Jl. Satsui Tubun I no. 9 Malang",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 102,
+      "npsn": 20533738,
+      "nama-satuan-pendidikan": "SMPK BHAKTI LUHUR",
+      "alamat": "Jl. Raya Dieng 40",
+      "kelurahan": "Pisang Candi",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -13,45 +13,28 @@ list data yang bisa digunakan :
    [(akses)](https://github.com/fajriyan/open-data/blob/main/public-api.json)
 5. AI Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/ai.json)
 6. RSS Publik [(akses)](https://github.com/fajriyan/open-data/blob/main/rss.json)
-7. Libur Nasional (.json)
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
-   (updated)
-8. Data Wilayah Indonesia (.sql dan .json)
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/data-wilayah)
-9. Plat Nomor Indonesia (.json)
-   [(akses)](https://github.com/fajriyan/open-data/blob/main/plat-nomor-indonesia)
-10. Terminal Bus Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/terminal-bus-indonesia.json)
-11. Stasiun Kereta Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/stasiun-kereta-indonesia.json)
-12. Pelabuhan Penyebrangan Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-penyebrangan.json)
-13. Pelabuhan Perikanan Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-perikanan.json)
-14. Bandar Udara Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/bandar-udara-indonesia.json)
-15. Taman Nasional Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/taman_nasional.json)
-16. Zona Waktu Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/zona_waktu_id.json)
-17. Map Topologi Indonesia 38 Provinsi (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/map-topologi/38-provinces)
-18. Perguruan Tinggi (PTN & PTS) Nasional (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/universitas-indonesia.json)
-19. Rumah Sakit Nasional (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/rumah-sakit-nasional.json)
-20. Bank Nasional (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/bank-nasional.json)
-21. Candi di Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/candi-indonesia.json)
-22. Flora dan Fauna Dilindungi di Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/biodiversity)
-23. Kode Pos Indonesia (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/kodepos-indonesia.json)
-24. Desa Wisata Indonesia (Pesona Indonesia) | 8 Kawasan (.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/desa-wisata)
-25. Peta Perguruan Tinggi Nasional(.json)
-    [(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/peta-perguruan-tinggi-nasional.json)
+
+<!--(hold update) 7. Libur Nasional (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/libur-nasional)
+(updated) 8. Data Wilayah Indonesia (.sql dan .json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/data-wilayah) 9. Plat Nomor Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/plat-nomor-indonesia) 10. Terminal Bus Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/terminal-bus-indonesia.json) 11. Stasiun Kereta Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/stasiun-kereta-indonesia.json) 12. Pelabuhan Penyebrangan Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-penyebrangan.json) 13. Pelabuhan Perikanan Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/pelabuhan-perikanan.json) 14. Bandar Udara Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/transportasi/bandar-udara-indonesia.json) 15. Taman Nasional Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/taman_nasional.json) 16. Zona Waktu Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/zona_waktu_id.json) 17. Map Topologi Indonesia 38 Provinsi (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/map-topologi/38-provinces) 18. Perguruan Tinggi (PTN & PTS) Nasional (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/universitas-indonesia.json) 19. Rumah Sakit Nasional (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/rumah-sakit-nasional.json) 20. Bank Nasional (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/bank-nasional.json) 21. Candi di Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/candi-indonesia.json) 22. Flora dan Fauna Dilindungi di Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/biodiversity) 23. Kode Pos Indonesia (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/kodepos-indonesia.json) 24. Desa Wisata Indonesia (Pesona Indonesia) | 8 Kawasan (.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/wilayah-indonesia/desa-wisata) 25. Peta Perguruan Tinggi Nasional(.json)
+[(akses)](https://github.com/fajriyan/open-data/blob/main/layanan-publik/peta-perguruan-tinggi-nasional.json)-->
 
 untuk melakukan request data apapun bisa melalui
 [issue](https://github.com/fajriyan/open-data/issues/new).
@@ -71,19 +54,27 @@ silahkan submit [disini](mailto:fajriyan20@gmail.com), terimakasih.
 
 next data:
 
-- Data perpustakaan indonesia
-- Zona Waktu Indonesia ✅
-- Pulau Besar & Sub-Pulau di Indonesia
-- Daftar Universitas di Indonesia (PTN + PTS) ✅
-- Flora & Fauna Dilindungi Indonesia ✅
-- Data Rumah Sakit Indonesia ✅
-- Data Puskesmas Indonesia
-- Data Kode POS Indonesia ✅
-- Daftar Bank dan Kode Bank Indonesia ✅
-- Daftar Candi Indonesia ✅
-- Waterfall / Air Terjun Indonesia
-- Daftar Desa Wisata Indonesia ✅
-- ISP di Indonesia + ASN
+```
+budaya/
+├── rumah-adat.json
+├── tarian-daerah.json
+├── pakaian-adat.json
+├── senjata-tradisional.json
+├── alat-musik-tradisional.json
+├── bahasa-daerah.json
+├── makanan-khas.json
+└── upacara-adat.json
+
+pariwisata/
+└── cagar-budaya/
+├── candi-indonesia.json
+├── benteng-indonesia.json
+├── keraton-indonesia.json
+├── museum-indonesia.json
+├── situs-sejarah-indonesia.json
+├── bangunan-bersejarah-indonesia.json
+└── warisan-dunia-unesco.json
+```
 
 tag : open data indonesia, data publik indonesia, dataset indonesia, repository
 data indonesia, kumpulan data indonesia, free dataset indonesia, jurnal

@@ -1,0 +1,674 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KLOJEN",
+  "updated_at": "2026-07-04T04:03:28.105Z",
+  "count": 83,
+  "negeri": 29,
+  "swasta": 54,
+  "data": [
+    {
+      "no": 1,
+      "npsn": 60720776,
+      "nama-satuan-pendidikan": "MIN 1 Kota Malang",
+      "alamat": "JL. BANDUNG 7C MALANG",
+      "kelurahan": "Penanggungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": 60720778,
+      "nama-satuan-pendidikan": "MIS ATTARAQQIE",
+      "alamat": "JL. SYARIF AL QODRI no. 35 JL. ADE IRMA SURYANI no. 50",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": 60720779,
+      "nama-satuan-pendidikan": "MIS KH BADRUSSALAM",
+      "alamat": "JL. KAPTEN PIERE TENDEAN II/03",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": 60720780,
+      "nama-satuan-pendidikan": "MIS KHADIJAH",
+      "alamat": "JL. ARJUno no 19A",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": 60720777,
+      "nama-satuan-pendidikan": "MIS MA`ARIF PENANGGUNGAN",
+      "alamat": "JL. MAYJEND. PANJAITAN 18 no. 04",
+      "kelurahan": "Penanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": 60720781,
+      "nama-satuan-pendidikan": "MIS MINU PUTRI",
+      "alamat": "JL. YULIUS USMAN 14 B",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": 70034327,
+      "nama-satuan-pendidikan": "MTs NURUL ULUM 2",
+      "alamat": "JL. KH. ZAINUL ARIFIN IV/974 RT.03 RW.01",
+      "kelurahan": "Kidul Dalem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": 20583813,
+      "nama-satuan-pendidikan": "MTSN 1 KOTA MALANG",
+      "alamat": "JL. BANDUNG no. 7 MALANG",
+      "kelurahan": "Penanggungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": 20583814,
+      "nama-satuan-pendidikan": "MTSS ATTARAQQIE",
+      "alamat": "JL. ADE IRMA SURYANI no.50",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": 20583815,
+      "nama-satuan-pendidikan": "MTSS KHADIJAH",
+      "alamat": "JL. ARJUno 19 A MALANG",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": 20583816,
+      "nama-satuan-pendidikan": "MTSS MUALLIMAT",
+      "alamat": "JL. ADE IRMA SURYANI III/374 RT.02 RW.06",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": 20583817,
+      "nama-satuan-pendidikan": "MTSS MUALLIMIN NU",
+      "alamat": "JL. KAPTEN PIERE TENDEAN II/03 MALANG 65117",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": 69966537,
+      "nama-satuan-pendidikan": "SD AL-IRSYAD AL-ISLAMIYYAH",
+      "alamat": "Jl. Arief Margono no. 11",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": 20554811,
+      "nama-satuan-pendidikan": "SD BINA BUDI MULIA",
+      "alamat": "Jl. Ade Irma Suryani no. 8 Malang",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": 20533866,
+      "nama-satuan-pendidikan": "SD IMKA",
+      "alamat": "Jl. Lematang 14 A Malang",
+      "kelurahan": "Rampal Celaket",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": 20583973,
+      "nama-satuan-pendidikan": "SD ISLAM ASWAJA",
+      "alamat": "Jl. Thamrin no.1",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": 20533867,
+      "nama-satuan-pendidikan": "SD ISLAM KLOJEN KIDUL",
+      "alamat": "Jl Aries Munandar Vi B/2 Malang",
+      "kelurahan": "Kidul Dalem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": 20533868,
+      "nama-satuan-pendidikan": "SD ISLAM MAARIF",
+      "alamat": "Jl. K.h. Hasyim Asyari Vi / 30",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": 20533862,
+      "nama-satuan-pendidikan": "SD K BRAWIJAYA 01",
+      "alamat": "Jl. Brawijaya N0. 1",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": 20533864,
+      "nama-satuan-pendidikan": "SD KATOLIK COR JESU",
+      "alamat": "Jl. Jaksa Agung Suprapto 55",
+      "kelurahan": "Samaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": 20533905,
+      "nama-satuan-pendidikan": "SD KATOLIK MARDI WIYATA 01",
+      "alamat": "Jl. Jaksa Agung Suprapto no.21",
+      "kelurahan": "Samaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": 20533906,
+      "nama-satuan-pendidikan": "SD KATOLIK MARDI WIYATA 02",
+      "alamat": "Jl. Semeru 36",
+      "kelurahan": "Oro Oro Dowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": 20533915,
+      "nama-satuan-pendidikan": "SD KATOLIK SANG TIMUR",
+      "alamat": "Jln. Bandung 2",
+      "kelurahan": "Penanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": 20533916,
+      "nama-satuan-pendidikan": "SD KATOLIK SANTA MARIA 01",
+      "alamat": "Jl. Halmahera no. 16",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": 20533917,
+      "nama-satuan-pendidikan": "SD KATOLIK SANTA MARIA II",
+      "alamat": "Jl. Panderman 7",
+      "kelurahan": "Gadingkasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": 69830193,
+      "nama-satuan-pendidikan": "SD Kr. SHINING STAR",
+      "alamat": "JL. Kelud no.14",
+      "kelurahan": "Bareng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": 20533869,
+      "nama-satuan-pendidikan": "SD KRISTEN KALAM KUDUS MALANG",
+      "alamat": "Jl. Arif Margono no. 18 Malang",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": 20533913,
+      "nama-satuan-pendidikan": "SD KRISTEN PETRA",
+      "alamat": "JL.PROF.MOH.YAMIN SH no.53",
+      "kelurahan": "Sukoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": 20533907,
+      "nama-satuan-pendidikan": "SD MARGO BASUKI 01",
+      "alamat": "Jl. Jaksa Agung Suprapto I / 22A",
+      "kelurahan": "Samaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": 20533909,
+      "nama-satuan-pendidikan": "SD MUHAMMADIYAH 01",
+      "alamat": "Jl. Kawi no. 7",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": 20534069,
+      "nama-satuan-pendidikan": "SD MUHAMMADIYAH 09 PANGLIMA SUDIRMAN",
+      "alamat": "Jl. R.tumenggung Suryo no.5 Malang",
+      "kelurahan": "Rampal Celaket",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": 20533910,
+      "nama-satuan-pendidikan": "SD MUSLIMAT NU",
+      "alamat": "Jl. Karimata no. 5",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": 20533889,
+      "nama-satuan-pendidikan": "SD SRIWEDARI MALANG",
+      "alamat": "Jalan Bogor Atas no. 1 Malang",
+      "kelurahan": "Penanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": 20533891,
+      "nama-satuan-pendidikan": "SD TAMAN HARAPAN",
+      "alamat": "Jl. Aries Munandar 2-4 Malang 65119",
+      "kelurahan": "Kidul Dalem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": 20555449,
+      "nama-satuan-pendidikan": "SDIT AHMAD YANI",
+      "alamat": "Jl. Kahuripan 12",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": 70062885,
+      "nama-satuan-pendidikan": "SDIT AL - MUSTAQBAL",
+      "alamat": "Jl. Mayjen Panjaitan 19",
+      "kelurahan": "Penanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": 20533903,
+      "nama-satuan-pendidikan": "SDK SANTO YUSUP II",
+      "alamat": "dr. Sutomo 35 Malang",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": 20534056,
+      "nama-satuan-pendidikan": "SDN BARENG 1",
+      "alamat": "Jl. Kelud 10a",
+      "kelurahan": "Bareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": 20534073,
+      "nama-satuan-pendidikan": "SDN BARENG 2",
+      "alamat": "Jl. Bareng Raya II/05",
+      "kelurahan": "Bareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": 20539439,
+      "nama-satuan-pendidikan": "SDN BARENG 3",
+      "alamat": "Jl. Kawi Selatan no.20",
+      "kelurahan": "Bareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": 20534074,
+      "nama-satuan-pendidikan": "SDN BARENG 4",
+      "alamat": "Jl. Simpang Kawi no 11 Malang",
+      "kelurahan": "Bareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": 20534057,
+      "nama-satuan-pendidikan": "SDN BARENG 5",
+      "alamat": "Jl. Bareng Tenes Iv B",
+      "kelurahan": "Bareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": 20534088,
+      "nama-satuan-pendidikan": "SDN GADINGKASRI",
+      "alamat": "Jl. Galunggung VII/ 1",
+      "kelurahan": "Gadingkasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": 20534009,
+      "nama-satuan-pendidikan": "SDN KASIN",
+      "alamat": "Jl. Yulius Usman 58 - 60",
+      "kelurahan": "Kasin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": 20534010,
+      "nama-satuan-pendidikan": "SDN KAUMAN 1",
+      "alamat": "Jl. Kauman no. 1 Malang",
+      "kelurahan": "Kauman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": 20548805,
+      "nama-satuan-pendidikan": "SDN KAUMAN 2",
+      "alamat": "Jl. Kawi 24d",
+      "kelurahan": "Kauman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": 20533994,
+      "nama-satuan-pendidikan": "SDN KAUMAN 3",
+      "alamat": "Jl. KH. Wahid Hasyim II/20",
+      "kelurahan": "Kauman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": 20533989,
+      "nama-satuan-pendidikan": "SDN KIDULDALEM 1",
+      "alamat": "Jl. Mojopahit Malang",
+      "kelurahan": "Kidul Dalem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": 20533990,
+      "nama-satuan-pendidikan": "SDN KIDULDALEM 2",
+      "alamat": "Jl. Embong Brantas no.26",
+      "kelurahan": "Kidul Dalem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": 20533991,
+      "nama-satuan-pendidikan": "SDN KLOJEN",
+      "alamat": "Jl. Patimura no. 1",
+      "kelurahan": "Klojen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": 20534021,
+      "nama-satuan-pendidikan": "SDN ORO-ORO DOWO",
+      "alamat": "Jl. Brigjend Slamet Riadi VIII",
+      "kelurahan": "Oro Oro Dowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": 20534043,
+      "nama-satuan-pendidikan": "SDN PENANGGUNGAN",
+      "alamat": "Jl. Cimanggis no 2",
+      "kelurahan": "Penanggungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": 20539413,
+      "nama-satuan-pendidikan": "SDN RAMPAL CELAKET 1",
+      "alamat": "Jalan Tretes Selatan no. 26",
+      "kelurahan": "Rampal Celaket",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": 20539779,
+      "nama-satuan-pendidikan": "SDN RAMPAL CELAKET 2",
+      "alamat": "Jl. WR Supratman no.11 A Malang",
+      "kelurahan": "Rampal Celaket",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": 20533681,
+      "nama-satuan-pendidikan": "SDN SUKOHARJO 1",
+      "alamat": "LAKSAMANA MARTADINATA IV / 2 MALANG",
+      "kelurahan": "Sukoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": 20540205,
+      "nama-satuan-pendidikan": "SDN SUKOHARJO 2",
+      "alamat": "Jl. Prof. Moh. Yamin V no. 25",
+      "kelurahan": "Sukoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": 20533825,
+      "nama-satuan-pendidikan": "SMP 02 YPK JATIM",
+      "alamat": "Jl. Brawijaya 1",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": 20539735,
+      "nama-satuan-pendidikan": "SMP AISYIYAH MUHAMMADIYAH 03",
+      "alamat": "Jl. M. Husni Thamrin no. 3 Malang",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": 69861173,
+      "nama-satuan-pendidikan": "SMP BINA BUDI MULIA",
+      "alamat": "JL. ADE IRMA SURYANI no.8",
+      "kelurahan": "Kauman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": 20533741,
+      "nama-satuan-pendidikan": "SMP K KOLESE SANTO YUSUP 01",
+      "alamat": "Jl. Dr. Sutomo 35",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": 20533742,
+      "nama-satuan-pendidikan": "SMP K SANG TIMUR",
+      "alamat": "Jl. Bandung no. 2 Malang",
+      "kelurahan": "Penanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": 20533831,
+      "nama-satuan-pendidikan": "SMP KATOLIK COR JESU",
+      "alamat": "Jl. Jaksa Agung Suprapto no. 55",
+      "kelurahan": "Samaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": 20533739,
+      "nama-satuan-pendidikan": "SMP KATOLIK FRATERAN CELAKET 21",
+      "alamat": "Jalan Jaksa Agung Suprapto 21",
+      "kelurahan": "Samaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": 20533832,
+      "nama-satuan-pendidikan": "SMP KATOLIK MARDI WIYATA MALANG",
+      "alamat": "Jl. Semeru 36 Malang",
+      "kelurahan": "Oro Oro Dowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 65,
+      "npsn": 20533833,
+      "nama-satuan-pendidikan": "SMP KATOLIK SANTA MARIA 01",
+      "alamat": "Jl. Puteran 1a Malang",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": 20533743,
+      "nama-satuan-pendidikan": "SMP KATOLIK SANTA MARIA 02",
+      "alamat": "Jl. Panderman 7A",
+      "kelurahan": "Gadingkasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": 20533836,
+      "nama-satuan-pendidikan": "SMP KRISTEN 1 YPK JATIM MALANG",
+      "alamat": "Jalan Kelud 14 Kota Malang",
+      "kelurahan": "Bareng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": 20533837,
+      "nama-satuan-pendidikan": "SMP KRISTEN KALAM KUDUS MALANG",
+      "alamat": "Jl. Prof. Moh. Yamin no.47",
+      "kelurahan": "Sukoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": 20533838,
+      "nama-satuan-pendidikan": "SMP KRISTEN PETRA MALANG",
+      "alamat": "Jl. Prof. Moh. Yamin, S.H. no. 53 Malang",
+      "kelurahan": "Sukoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": 20533750,
+      "nama-satuan-pendidikan": "SMP MUHAMMADIYAH 01",
+      "alamat": "Jl. Brigjen Slamet Riadi 134 Malang",
+      "kelurahan": "Oro Oro Dowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 71,
+      "npsn": 20533781,
+      "nama-satuan-pendidikan": "SMP NEGERI 1 MALANG",
+      "alamat": "Jl. Lawu 12",
+      "kelurahan": "Oro Oro Dowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": 20533792,
+      "nama-satuan-pendidikan": "SMP NEGERI 19 MALANG",
+      "alamat": "Jl. Belitung no. 1",
+      "kelurahan": "Kasin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": 20533778,
+      "nama-satuan-pendidikan": "SMP NEGERI 2 MALANG",
+      "alamat": "Jl. Prof. Moch. Yamin 60 Malang",
+      "kelurahan": "Sukoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": 20533765,
+      "nama-satuan-pendidikan": "SMP NEGERI 3 MALANG",
+      "alamat": "Jl. Dr. Cipto 20 Malang",
+      "kelurahan": "Klojen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": 20533767,
+      "nama-satuan-pendidikan": "SMP NEGERI 5 MALANG",
+      "alamat": "Jl. W.R Supratman no.12",
+      "kelurahan": "Rampal Celaket",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": 20533768,
+      "nama-satuan-pendidikan": "SMP NEGERI 6 MALANG",
+      "alamat": "JL KAWI no 15A",
+      "kelurahan": "Bareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": 20533770,
+      "nama-satuan-pendidikan": "SMP NEGERI 8 MALANG",
+      "alamat": "Jl. Arjuno no 19 Malang",
+      "kelurahan": "Klojen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": 20533771,
+      "nama-satuan-pendidikan": "SMP NEGERI 9 MALANG",
+      "alamat": "Jl. Prof. Moch. Yamin Vi/26",
+      "kelurahan": "Sukoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": 69894967,
+      "nama-satuan-pendidikan": "SMP PLUS AZ-ZAHROH MALANG",
+      "alamat": "JL. PROF. M. YAMIN 2/29 Malang",
+      "kelurahan": "Sukoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": 69970576,
+      "nama-satuan-pendidikan": "SMP PUTRI AL-IRSYAD AL ISLAMIYYAH",
+      "alamat": "Jl. Arief Margono no. 11 Malang",
+      "kelurahan": "Kasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": 20533745,
+      "nama-satuan-pendidikan": "SMP SHALAHUDDIN MALANG",
+      "alamat": "Jl. Jaksa Agung Suprapto 10 Malang",
+      "kelurahan": "Klojen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": 20533732,
+      "nama-satuan-pendidikan": "SMP SRIWEDARI MALANG",
+      "alamat": "Jl. Bogor Atas no. 1 Malang",
+      "kelurahan": "Penanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": 20533734,
+      "nama-satuan-pendidikan": "SMP TAMAN HARAPAN",
+      "alamat": "Jl. Aries Munandar 2-4",
+      "kelurahan": "Kidul Dalem",
+      "status": "SWASTA"
+    }
+  ]
+}

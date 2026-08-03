@@ -1,0 +1,746 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BLIMBING",
+  "updated_at": "2026-07-04T04:03:28.105Z",
+  "count": 92,
+  "negeri": 49,
+  "swasta": 43,
+  "data": [
+    {
+      "no": 1,
+      "npsn": 69983045,
+      "nama-satuan-pendidikan": "MIS AR RIDLO",
+      "alamat": "JL. TUMENGGUNG SURYO 31A MALANG",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": 60720750,
+      "nama-satuan-pendidikan": "MIS DARUSSALAM",
+      "alamat": "JALAN SANAN BAWAH 64",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": 60720751,
+      "nama-satuan-pendidikan": "MIS KH HASYIM ASYARI",
+      "alamat": "JALAN LAKSDA ADI SUCIPTO 300 A",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": 60720752,
+      "nama-satuan-pendidikan": "MIS MINU MAUDLUUL ULUM",
+      "alamat": "BAUKSIT no.45",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": 60720753,
+      "nama-satuan-pendidikan": "MIS MINU POLOWIJEN",
+      "alamat": "JL.POLOWIJEN II no 409 A",
+      "kelurahan": "Polowijen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": 60720754,
+      "nama-satuan-pendidikan": "MIS NURUL ULUM",
+      "alamat": "JL. TELUK PELABUHAN RATU 115 A",
+      "kelurahan": "Arjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": 69977805,
+      "nama-satuan-pendidikan": "MTS AR-ROYYAN",
+      "alamat": "Jl. Terusan Sulfat no. 47 Kota Malang",
+      "kelurahan": "Bunulrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": 20583799,
+      "nama-satuan-pendidikan": "MTSS AL AMIN",
+      "alamat": "JL A YANI UTARA SIDOMULYO II/19",
+      "kelurahan": "Purwodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": 20583800,
+      "nama-satuan-pendidikan": "MTSS HASYIM ASYARI",
+      "alamat": "JL. LAKSDA ADISUCIPTO 300A MALANG",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": 20540207,
+      "nama-satuan-pendidikan": "SD ISLAM PLUS AL AZHAR",
+      "alamat": "Jl. Pulosari 1/30",
+      "kelurahan": "Purwodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": 20533902,
+      "nama-satuan-pendidikan": "SD ISLAM SABILILLAH MALANG",
+      "alamat": "JL. JEND. A. YANI 15 MALANG",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": 20539412,
+      "nama-satuan-pendidikan": "SD KARTIKA IV-1",
+      "alamat": "Jl. Hamid Rusdi 100",
+      "kelurahan": "Kesatrian",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": 20533885,
+      "nama-satuan-pendidikan": "SD KARTIKA IV-6",
+      "alamat": "Jl. Kesatrian no.1A Kota Malang",
+      "kelurahan": "Kesatrian",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": 20534063,
+      "nama-satuan-pendidikan": "SD KARTIKA IV-7",
+      "alamat": "Jl. Kesatrian 1a",
+      "kelurahan": "Kesatrian",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": 20534064,
+      "nama-satuan-pendidikan": "SD KATOLIK MARSUDISIWI",
+      "alamat": "Jl Candi Kalasan 10",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": 20533886,
+      "nama-satuan-pendidikan": "SD KH MAS MANSUR",
+      "alamat": "Jl. SIDOMULYO III / 7 BLIMBING - MALANG",
+      "kelurahan": "Purwodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": 20533887,
+      "nama-satuan-pendidikan": "SD KRISTEN ALETHEIA",
+      "alamat": "IR. H. JUANDA no.06",
+      "kelurahan": "Jodipan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": 69993157,
+      "nama-satuan-pendidikan": "SD MAFAZA INTEGRATED SMART SCHOOL (MISS)",
+      "alamat": "JL. MAYJEN M. WIYOno no. 11",
+      "kelurahan": "Polehan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": 69983757,
+      "nama-satuan-pendidikan": "SD MUHAMMADIYAH 3 ASSALAAM",
+      "alamat": "JL. TELUK PELABUHAN RATU, KOMPLEKS MASJID ASSALAAM",
+      "kelurahan": "Arjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": 20533911,
+      "nama-satuan-pendidikan": "SD NU BLIMBING",
+      "alamat": "Jl. Laksda Adi Sucipto Pesantren no.23",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": 20533914,
+      "nama-satuan-pendidikan": "SD PLUS AL-KAUTSAR",
+      "alamat": "Jl. Simpang Laksamana Muda Adi Sucipto",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": 20533712,
+      "nama-satuan-pendidikan": "SD TAMAN MUDA 02",
+      "alamat": "Jl. Tamansiswa 04",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": 20539414,
+      "nama-satuan-pendidikan": "SD UNGGULAN AL-YA`LU",
+      "alamat": "Jl. Teluk Mandar 55",
+      "kelurahan": "Arjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": 20534070,
+      "nama-satuan-pendidikan": "SDN ARJOSARI 1",
+      "alamat": "Jl. Teluk Pelabuhan Ratu no 5",
+      "kelurahan": "Arjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": 20534071,
+      "nama-satuan-pendidikan": "SDN ARJOSARI 2",
+      "alamat": "Jl. Teluk Pelabuhan Ratu 40",
+      "kelurahan": "Arjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": 20534072,
+      "nama-satuan-pendidikan": "SDN ARJOSARI 3",
+      "alamat": "Jl.Teluk Parigi no.01",
+      "kelurahan": "Arjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": 20539438,
+      "nama-satuan-pendidikan": "SDN BALEARJOSARI 1",
+      "alamat": "Jl. Raya Balearjosari no.11",
+      "kelurahan": "Balearjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": 20534045,
+      "nama-satuan-pendidikan": "SDN BALEARJOSARI 2",
+      "alamat": "Jl. Pahlawan 375-b",
+      "kelurahan": "Balearjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": 20534091,
+      "nama-satuan-pendidikan": "SDN BLIMBING 1",
+      "alamat": "Jl. Laksda Adi Sucipto no. 77",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": 20534094,
+      "nama-satuan-pendidikan": "SDN BLIMBING 2",
+      "alamat": "Jln. L.A Sucipto Gg. SD no. 12",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": 20534092,
+      "nama-satuan-pendidikan": "SDN BLIMBING 3",
+      "alamat": "Jl. Candi Kidal no. 3",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": 20539442,
+      "nama-satuan-pendidikan": "SDN BLIMBING 4",
+      "alamat": "Jl. L.A Sucipto no 202",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": 20534093,
+      "nama-satuan-pendidikan": "SDN BLIMBING 5",
+      "alamat": "Jl. Borobudur X / 32",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": 20534096,
+      "nama-satuan-pendidikan": "SDN BUNULREJO 1",
+      "alamat": "Jl. Hamid Rusdi Timur 455 A",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": 20534104,
+      "nama-satuan-pendidikan": "SDN BUNULREJO 2",
+      "alamat": "Jl. Bedadung no 3",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": 20539443,
+      "nama-satuan-pendidikan": "SDN BUNULREJO 3",
+      "alamat": "Jalan Sebuku 14",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": 20539445,
+      "nama-satuan-pendidikan": "SDN BUNULREJO 4",
+      "alamat": "Jl. Warinoi no.20",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": 20534097,
+      "nama-satuan-pendidikan": "SDN BUNULREJO 5",
+      "alamat": "Jl.HAMID RUSDI III/9",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": 20534098,
+      "nama-satuan-pendidikan": "SDN BUNULREJO 6",
+      "alamat": "Jl.warinoi no 54",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": 20539449,
+      "nama-satuan-pendidikan": "SDN JODIPAN",
+      "alamat": "Jl. Ir. H. Juanda 32 Malang",
+      "kelurahan": "Jodipan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": 20534005,
+      "nama-satuan-pendidikan": "SDN KESATRIAN 1",
+      "alamat": "Jl. UNTUNG SUROPATI SELATAN no.16",
+      "kelurahan": "Kesatrian",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": 20534007,
+      "nama-satuan-pendidikan": "SDN KESATRIAN 2",
+      "alamat": "Jl. Kesatrian dalam",
+      "kelurahan": "Kesatrian",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": 20534022,
+      "nama-satuan-pendidikan": "SDN PANDANWANGI 1",
+      "alamat": "Jl. Laksda Adi Sucipto no. 330",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": 20534023,
+      "nama-satuan-pendidikan": "SDN PANDANWANGI 2",
+      "alamat": "Jl. Simpang Sulfat Utara no.30",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": 20534024,
+      "nama-satuan-pendidikan": "SDN PANDANWANGI 3",
+      "alamat": "Jl Simpang Teluk Grajakan no.32",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": 20534026,
+      "nama-satuan-pendidikan": "SDN PANDANWANGI 4",
+      "alamat": "Jl. Batu Amaril no.1 Pandanwangi Blimbing",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": 20534027,
+      "nama-satuan-pendidikan": "SDN PANDANWANGI 5",
+      "alamat": "Perum Pondok Indah Estate Blok D no 1b",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": 20533690,
+      "nama-satuan-pendidikan": "SDN POLEHAN 1",
+      "alamat": "Jl. Puntodewo no. 6",
+      "kelurahan": "Polehan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": 20533693,
+      "nama-satuan-pendidikan": "SDN POLEHAN 2",
+      "alamat": "Jl. Sadewo 39",
+      "kelurahan": "Polehan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": 20533691,
+      "nama-satuan-pendidikan": "SDN POLEHAN 3",
+      "alamat": "Jl. Raya Puntadewa",
+      "kelurahan": "Polehan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": 20533692,
+      "nama-satuan-pendidikan": "SDN POLEHAN 4",
+      "alamat": "Jl. Werkudoro 437",
+      "kelurahan": "Polehan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": 20533694,
+      "nama-satuan-pendidikan": "SDN POLEHAN 5",
+      "alamat": "Jl.nakula no 34",
+      "kelurahan": "Polehan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": 20539463,
+      "nama-satuan-pendidikan": "SDN POLOWIJEN 1",
+      "alamat": "Jl. A. Yani Utara no.22",
+      "kelurahan": "Polowijen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": 20533695,
+      "nama-satuan-pendidikan": "SDN POLOWIJEN 2",
+      "alamat": "Jl. Cakalang no.172 - A",
+      "kelurahan": "Polowijen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": 20533696,
+      "nama-satuan-pendidikan": "SDN POLOWIJEN 3",
+      "alamat": "Jln. Sembilang 7a",
+      "kelurahan": "Polowijen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": 20533697,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 1",
+      "alamat": "Jl. Letjen S. Parman 67 Malang",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": 20533670,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 2",
+      "alamat": "JLN. CIPUNEGARA 58 MALANG",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": 20533671,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 3",
+      "alamat": "Jl. Natrium 2",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": 20533672,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 4",
+      "alamat": "Jl. Batubara Malang",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": 20539466,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 5",
+      "alamat": "Jl. Sanan no. 75 Malang",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": 20533698,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 6",
+      "alamat": "Jl. Karya Timur 61 Malang",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": 20533685,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 7",
+      "alamat": "Jl. Cibuni II / 20",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": 20539467,
+      "nama-satuan-pendidikan": "SDN PURWANTORO 8",
+      "alamat": "Jl.nikel no.02",
+      "kelurahan": "Purwantoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": 20533673,
+      "nama-satuan-pendidikan": "SDN PURWODADI 1",
+      "alamat": "Jl A Yani 165 A",
+      "kelurahan": "Purwodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": 20539468,
+      "nama-satuan-pendidikan": "SDN PURWODADI 2",
+      "alamat": "Jl.plaosan Barat no.57",
+      "kelurahan": "Purwodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": 20540202,
+      "nama-satuan-pendidikan": "SDN PURWODADI 3",
+      "alamat": "Jl. Plaosan Barat 71 B",
+      "kelurahan": "Purwodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": 20533674,
+      "nama-satuan-pendidikan": "SDN PURWODADI 4",
+      "alamat": "Jl. Piranha Blok K 66",
+      "kelurahan": "Purwodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": 70037232,
+      "nama-satuan-pendidikan": "SDQ ALAA NURIYAH",
+      "alamat": "Jl. Teluk Etna 1 no. 152",
+      "kelurahan": "Arjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": 20570230,
+      "nama-satuan-pendidikan": "Sekolah Dasar Bina Bangsa School Malang",
+      "alamat": "Jl. A. Yani Utara, Perum Riverside Blok AA no 1",
+      "kelurahan": "Polowijen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": 20533846,
+      "nama-satuan-pendidikan": "Sekolah Menengah Pertama Bina Bangsa School Malang",
+      "alamat": "Jl. A. Yani Utara, Perum Riverside Blok AA no 1",
+      "kelurahan": "Polowijen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 71,
+      "npsn": 20533844,
+      "nama-satuan-pendidikan": "SMP ARDJUNA MALANG",
+      "alamat": "Jl. Teluk Pelabuhan Ratu 41",
+      "kelurahan": "Arjosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 72,
+      "npsn": 20533848,
+      "nama-satuan-pendidikan": "SMP IBNU SINA",
+      "alamat": "Jl. Laksda. Adi Sucipto 334B Malang",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 73,
+      "npsn": 20533852,
+      "nama-satuan-pendidikan": "SMP ISLAM BAITURROHMAH MALANG",
+      "alamat": "Jl. Ciliwung 61",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 74,
+      "npsn": 20533749,
+      "nama-satuan-pendidikan": "SMP ISLAM MAARIF 03 MALANG",
+      "alamat": "Jl. Aluminium 30 Malang",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": 20533851,
+      "nama-satuan-pendidikan": "SMP ISLAM MALANG",
+      "alamat": "Jl. Werkudoro no. 52a Malang",
+      "kelurahan": "Polehan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": 70009759,
+      "nama-satuan-pendidikan": "SMP ISLAM NAILUL FALAAH",
+      "alamat": "JL. LA SUCIPTO no. 400",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": 20533826,
+      "nama-satuan-pendidikan": "SMP ISLAM PARAMITHA",
+      "alamat": "LAKSDA ADI SUCIPTO N0.347B",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": 20539732,
+      "nama-satuan-pendidikan": "SMP KARTIKA IV-8 MALANG",
+      "alamat": "Jl. A. Yani 95",
+      "kelurahan": "Purwodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": 20533829,
+      "nama-satuan-pendidikan": "SMP KARTIKA IV-9 MALANG",
+      "alamat": "Jl. Narotama no. 100a",
+      "kelurahan": "Kesatrian",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": 20539734,
+      "nama-satuan-pendidikan": "SMP KATOLIK MARSUDISIWI",
+      "alamat": "Jl. Candi Kalasan 10",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": 20539730,
+      "nama-satuan-pendidikan": "SMP KRISTEN ALETHEIA",
+      "alamat": "IR. H. JUANDA no. 6 MALANG",
+      "kelurahan": "Jodipan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": 20533751,
+      "nama-satuan-pendidikan": "SMP MUHAMMADIYAH 02 MALANG",
+      "alamat": "Jl. Letjen. Sutoyo no. 68",
+      "kelurahan": "Purwantoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": 20533786,
+      "nama-satuan-pendidikan": "SMP NEGERI 14 MALANG",
+      "alamat": "Malang",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 84,
+      "npsn": 20533788,
+      "nama-satuan-pendidikan": "SMP NEGERI 16 MALANG",
+      "alamat": "Jl. Teluk Pacitan no.46",
+      "kelurahan": "Arjosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 85,
+      "npsn": 20533776,
+      "nama-satuan-pendidikan": "SMP NEGERI 20 MALANG",
+      "alamat": "Jl. R. Tumenggung Suryo no. 38 Malang",
+      "kelurahan": "Bunulrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 86,
+      "npsn": 20539738,
+      "nama-satuan-pendidikan": "SMP NEGERI 24 MALANG",
+      "alamat": "Jl. Simpang LA Sucipto Gang Makam",
+      "kelurahan": "Pandanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 87,
+      "npsn": 70030581,
+      "nama-satuan-pendidikan": "SMP NEGERI 28 MALANG",
+      "alamat": "JL. SADEWO noMOR 39 RT. 06 RW.03",
+      "kelurahan": "Polehan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 88,
+      "npsn": 20539739,
+      "nama-satuan-pendidikan": "SMP NU SYAMSUDDIN",
+      "alamat": "Jl. L.A. SUCIPTO GG. PESANTREN 23",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": 20570708,
+      "nama-satuan-pendidikan": "SMP PLUS AL KAUTSAR",
+      "alamat": "Jl. Lingkar Blimbing Indah no. 2-7 Araya - Malang",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": 20539745,
+      "nama-satuan-pendidikan": "SMP TAMANSISWA (TAMAN DEWASA)",
+      "alamat": "Jl. R. Tumenggung Suryo no.17",
+      "kelurahan": "Bunulrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": 70012010,
+      "nama-satuan-pendidikan": "SMP TERPADU DARUL FALAH",
+      "alamat": "JL. Teluk Grajakan 25 RT 05 RW 14",
+      "kelurahan": "Pandanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": 69962412,
+      "nama-satuan-pendidikan": "SMP UNGGULAN AL-YA`LU",
+      "alamat": "JL. Teluk Mandar 55 Malang",
+      "kelurahan": "Arjosari",
+      "status": "SWASTA"
+    }
+  ]
+}

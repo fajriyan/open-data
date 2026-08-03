@@ -1,0 +1,71 @@
+{
+  "source": "gresikkab.go.id",
+  "label": "Daftar Klinik Hewan di Kabupaten Gresik",
+  "updated_at": "2026-07-04T03:25:45.036Z",
+  "count": 7,
+  "data": [
+    {
+      "id_klinik_hewan": 1,
+      "nama": "Klinik Hewan Primasatwa",
+      "telepon": "0818332744",
+      "alamat": "Jl.Kalimantan 186 Gresik kota Baru GKB Gresik",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    },
+    {
+      "id_klinik_hewan": 2,
+      "nama": "Resti Sulistyoningsih, drh",
+      "telepon": "031-70822911",
+      "alamat": "Ruko Grand Kartini, Kav. 27 Jl. RA.Kartini - Ade Irma S. Nasution",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    },
+    {
+      "id_klinik_hewan": 3,
+      "nama": "Meoww, praktik dokter hewan &pet shop",
+      "telepon": "031-61114850 031-60434899",
+      "alamat": "-",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    },
+    {
+      "id_klinik_hewan": 4,
+      "nama": "Gresik Pet Store",
+      "telepon": "087856246577 082233607335",
+      "alamat": "Jl. Jaksa Agung Suprapto No. 11 B Gresik",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    },
+    {
+      "id_klinik_hewan": 5,
+      "nama": "Petshop-ku",
+      "telepon": "031-3951575 031-34374477 0857 46550711",
+      "alamat": "Jl. Kalimantan 87C GKB Gresik",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    },
+    {
+      "id_klinik_hewan": 6,
+      "nama": "Tam Tam Pet Lover Shop (drh. Finna)",
+      "telepon": "081615144300",
+      "alamat": "Jl. Taman Enggano 40, GKB, Gresik",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    },
+    {
+      "id_klinik_hewan": 7,
+      "nama": "drh. Malik Choirul R",
+      "telepon": "08179702322",
+      "alamat": "Jl. Belitung III no. 2, GKB, Gresik",
+      "latitude": null,
+      "longitude": null,
+      "lokasi": "-"
+    }
+  ]
+}

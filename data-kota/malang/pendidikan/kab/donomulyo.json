@@ -1,0 +1,498 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. DONOMULYO",
+  "updated_at": "2026-07-04T04:03:28.105Z",
+  "count": 61,
+  "negeri": 48,
+  "swasta": 13,
+  "data": [
+    {
+      "No": 1,
+      "NPSN": 69993351,
+      "Nama Satuan Pendidikan": "MI NU ANNUR MURAH BANYU",
+      "Alamat": "JLN. SENDANG RT 19 RW 05",
+      "Kelurahan": "Banjarjo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 2,
+      "NPSN": 60715032,
+      "Nama Satuan Pendidikan": "MIN 1 MALANG",
+      "Alamat": "JL. DIPONEGORO NO. 34 SUMBEROTO DONOMULYO",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 3,
+      "NPSN": 69755371,
+      "Nama Satuan Pendidikan": "MIS MERAH PUTIH",
+      "Alamat": "KEDUNGSALAM NO.123 RT.29 RW.06",
+      "Kelurahan": "Donomulyo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 4,
+      "NPSN": 70026213,
+      "Nama Satuan Pendidikan": "MTs NU AN-NUR ASY-SYADZILI",
+      "Alamat": "Dusun Pasarpon Rt 25 Rw 06 Desa Banjarejo Kecamatan Donomulyo",
+      "Kelurahan": "Banjarjo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 5,
+      "NPSN": 20581226,
+      "Nama Satuan Pendidikan": "MTSN 5 MALANG",
+      "Alamat": "JL. PEMUDA",
+      "Kelurahan": "Purworejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 6,
+      "NPSN": 20581227,
+      "Nama Satuan Pendidikan": "MTSS NU FUTUHIYYAH DONOMULYO",
+      "Alamat": "JL.RAYA DONOMULYO NO.416 DONOMULYO",
+      "Kelurahan": "Donomulyo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 7,
+      "NPSN": 20581228,
+      "Nama Satuan Pendidikan": "MTSS PGRI DONOMULYO",
+      "Alamat": "JL. RAYA TULUNGREJO KEC. DONOMULYO",
+      "Kelurahan": "Tulungrejo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 8,
+      "NPSN": 69963398,
+      "Nama Satuan Pendidikan": "Nu An Nur",
+      "Alamat": "Jl. Sendang Purwoningsih",
+      "Kelurahan": "Purworejo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 9,
+      "NPSN": 20518675,
+      "Nama Satuan Pendidikan": "SD KATOLIK XAVERIUS",
+      "Alamat": "JL. Trisula 51 Purworejo",
+      "Kelurahan": "Purworejo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 10,
+      "NPSN": 20518822,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 BANJAREJO",
+      "Alamat": "JL. RAYA BANJAREJO NO. 3 RT. 9 RW. 3 DUSUN KRAJAN",
+      "Kelurahan": "Banjarjo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 11,
+      "NPSN": 20518768,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 DONOMULYO",
+      "Alamat": "JL. RAYA DONOMULYO NO 184",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 12,
+      "NPSN": 20518599,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 KEDUNGSALAM",
+      "Alamat": "JL. RAYA SALAMREJO NO. 191 RT. 46 RW. 9",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 13,
+      "NPSN": 20517172,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 MENTARAMAN",
+      "Alamat": "JL. KOPRAL KARMEN RT. 1 RW. 1 DUSUN MENTARAMAN",
+      "Kelurahan": "Mentaraman",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 14,
+      "NPSN": 20517311,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 PURWODADI",
+      "Alamat": "JL. TAMBAKREJO RT. 6 RW. 6 DUSUN TAMBAKREJO",
+      "Kelurahan": "Purwodadi",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 15,
+      "NPSN": 20517224,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 PURWOREJO",
+      "Alamat": "JL. TRISULA NO. 14 RT. 4 RW. 1 DUSUN KRAJAN KULON",
+      "Kelurahan": "Purworejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 16,
+      "NPSN": 20517073,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 SUMBEROTO",
+      "Alamat": "JL. TRISULA NO. 66 RT. 24 RW. 5 DUSUN KALISANGKRAH",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 17,
+      "NPSN": 20568435,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 TLOGOSARI",
+      "Alamat": "JL. DARUNGAN RT. 13 RW. 1 DUSUN KRAJAN",
+      "Kelurahan": "Tlogosari",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 18,
+      "NPSN": 20566380,
+      "Nama Satuan Pendidikan": "SD NEGERI 1 TULUNGREJO",
+      "Alamat": "JL. RAYA TULUNGREJO RT. 15 RW. 4 DUSUN TULUNGREJO",
+      "Kelurahan": "Tulungrejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 19,
+      "NPSN": 20518824,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 BANJAREJO",
+      "Alamat": "JL. SENDANG RT. 19 RW. 5 DUSUN PASARPON",
+      "Kelurahan": "Banjarjo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 20,
+      "NPSN": 20518786,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 DONOMULYO",
+      "Alamat": "JL. RAYA DONOMULYO NO .57 RT. 7 RW. 2 DUSUN DONOMULYO",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 21,
+      "NPSN": 20518600,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 KEDUNGSALAM",
+      "Alamat": "JL. RAYA PANTAI NGLIYEP NO. 5 RT. 27 RW. 5 DUSUN SALAMREJO",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 22,
+      "NPSN": 20517173,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 MENTARAMAN",
+      "Alamat": "JL. KEBON ASRI RT. 7 RW. 3 DUSUN MENTARAMAN",
+      "Kelurahan": "Mentaraman",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 23,
+      "NPSN": 20517314,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 PURWODADI",
+      "Alamat": "JL. SIDOREJO RT. 5 RW. 1 DUSUN PURWOREJO KIDUL",
+      "Kelurahan": "Purwodadi",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 24,
+      "NPSN": 20517227,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 PURWOREJO",
+      "Alamat": "JL. KARANGREJO RT. 9 RW. 9 DUSUN KARANGREJO",
+      "Kelurahan": "Purworejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 25,
+      "NPSN": 20517074,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 SUMBEROTO",
+      "Alamat": "JL. TRISULA SUMBEROTO RT. 13 RW. 3 DUSUN NGRENDENG",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 26,
+      "NPSN": 20517665,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 TEMPURSARI",
+      "Alamat": "JL. WONOTARUNO RT. 9 RW. 2 DUSUN TEMPURSARI UTARA",
+      "Kelurahan": "Tempursari",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 27,
+      "NPSN": 20568436,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 TLOGOSARI",
+      "Alamat": "JL. BASUKI RAHMAD RT. 3 RW. 1 DUSUN KRAJAN",
+      "Kelurahan": "Tlogosari",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 28,
+      "NPSN": 20517680,
+      "Nama Satuan Pendidikan": "SD NEGERI 2 TULUNGREJO",
+      "Alamat": "JL. LAPANGAN RT. 7 RW. 3 DUSUN KRAJAN",
+      "Kelurahan": "Tulungrejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 29,
+      "NPSN": 20518825,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 BANJAREJO",
+      "Alamat": "JL. RAYA UMBULSARI NO. 5 RT. 34 RW. 9 DUSUN NAMPUREJO",
+      "Kelurahan": "Banjarjo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 30,
+      "NPSN": 20518787,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 DONOMULYO",
+      "Alamat": "JL. JAKARTA NO.71 ,RT. .02 RW. .01 DUSUN BANDUNG",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 31,
+      "NPSN": 20518601,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 KEDUNGSALAM",
+      "Alamat": "JL. RAYA PANTAI NGLIYEP RT. 67 RW. 14 DUSUN NGLIYEP",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 32,
+      "NPSN": 20517160,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 MENTARAMAN",
+      "Alamat": "JL. JONGGRING SALOKO RT. 5 RW. 2 DUSUN GONDANGTOWO",
+      "Kelurahan": "Mentaraman",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 33,
+      "NPSN": 20517315,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 PURWODADI",
+      "Alamat": "JL. SUMBERBLIMBING RT. 1 RW. 7 DUSUN SUMBERBLIMBING",
+      "Kelurahan": "Purwodadi",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 34,
+      "NPSN": 20517228,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 PURWOREJO",
+      "Alamat": "JL. KARANGREJO RT. 7 RW. 8 DUSUN KARANGREJO SELATAN",
+      "Kelurahan": "Purworejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 35,
+      "NPSN": 20517075,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 SUMBEROTO",
+      "Alamat": "JL. TEMBUS SUMBEROTO RT. 1 RW. 1 DUSUN SUMBEROTO",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 36,
+      "NPSN": 20517667,
+      "Nama Satuan Pendidikan": "SD NEGERI 3 TEMPURSARI",
+      "Alamat": "JL. DIPONEGORO NO 3 RT. 16 RW. 6 DUSUN TEMPURSARI SELATAN",
+      "Kelurahan": "Tempursari",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 37,
+      "NPSN": 20518788,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 DONOMULYO",
+      "Alamat": "JL. KAWI NO 280 MULYOSARI RT. 9 RW. 3 DONOMULYO",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 38,
+      "NPSN": 20518602,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 KEDUNGSALAM",
+      "Alamat": "JL. SUMBERSIH KIDUL RT. 8 RW. 2 DUSUN KRAJAN",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 39,
+      "NPSN": 20517159,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 MENTARAMAN",
+      "Alamat": "RT. 6 RW. 2 DUSUN GONDANGREJO",
+      "Kelurahan": "Mentaraman",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 40,
+      "NPSN": 20517270,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 PURWODADI",
+      "Alamat": "JL. SIDOREJO RT. 1 RW. 9 DUSUN SIDOREJO",
+      "Kelurahan": "Purwodadi",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 41,
+      "NPSN": 20517230,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 PURWOREJO",
+      "Alamat": "JL. PROLIMAN RT. 17 RW. 10 DUSUN KARANGREJO",
+      "Kelurahan": "Purworejo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 42,
+      "NPSN": 20517076,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 SUMBEROTO",
+      "Alamat": "JL. MODANGAN RT. 41 RW. 10 DUSUN SUMBEREJO",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 43,
+      "NPSN": 20517668,
+      "Nama Satuan Pendidikan": "SD NEGERI 4 TEMPURSARI",
+      "Alamat": "JL. AHMAD YANI NO.02 RT. 1 RW. 1 DUSUN TEMPURSARI UTARA",
+      "Kelurahan": "Tempursari",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 44,
+      "NPSN": 20518791,
+      "Nama Satuan Pendidikan": "SD NEGERI 5 DONOMULYO",
+      "Alamat": "JL. TRISULA RT. 10 RW. 3 DUSUN KALIPAKEM",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 45,
+      "NPSN": 20518603,
+      "Nama Satuan Pendidikan": "SD NEGERI 5 KEDUNGSALAM",
+      "Alamat": "JL. RAYA PANTAI NGLIYEP RT. 19 RW. 4 DUSUN KRAJAN",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 46,
+      "NPSN": 20517077,
+      "Nama Satuan Pendidikan": "SD NEGERI 5 SUMBEROTO",
+      "Alamat": "JL. MODANGAN RT. 30 RW. 7 DUSUN KALISANGKRAH",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 47,
+      "NPSN": 20518792,
+      "Nama Satuan Pendidikan": "SD NEGERI 6 DONOMULYO",
+      "Alamat": "JL. YOGYAKARTA RT. 4 RW. 4 DUSUN BANDUNG",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 48,
+      "NPSN": 20518604,
+      "Nama Satuan Pendidikan": "SD NEGERI 6 KEDUNGSALAM",
+      "Alamat": "JL. RAYA PANTAI NGLIYEP RT. 82 RW. 17 DUSUN NGLIYEP",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 49,
+      "NPSN": 20518793,
+      "Nama Satuan Pendidikan": "SD NEGERI 7 DONOMULYO",
+      "Alamat": "JL. MULYOSARI RT. 16 RW. 6",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 50,
+      "NPSN": 20518605,
+      "Nama Satuan Pendidikan": "SD NEGERI 7 KEDUNGSALAM",
+      "Alamat": "JL. SUMBERSIH NO. 60 RT. 52 RW. 11 DUSUN SUMBERSIH",
+      "Kelurahan": "Kedungsalam",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 51,
+      "NPSN": 20518794,
+      "Nama Satuan Pendidikan": "SD NEGERI 8 DONOMULYO",
+      "Alamat": "JL. HASANUDIN NO. 989, RT. 13 RW. 5 DUSUN MULYOSARI",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 52,
+      "NPSN": 20518790,
+      "Nama Satuan Pendidikan": "SD NEGERI 9 DONOMULYO",
+      "Alamat": "JL. SOWIKROMO RT. 6 RW. 2 DUSUN KALIPAKEM",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 53,
+      "NPSN": 20518689,
+      "Nama Satuan Pendidikan": "SDK ST YOHANES",
+      "Alamat": "Jl. SRIWIJAYA NO 2 PURWOREJO WETAN RT 07/ RW 04",
+      "Kelurahan": "Purwodadi",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 54,
+      "NPSN": 20517410,
+      "Nama Satuan Pendidikan": "SMP DHARMA WIRAWAN 07",
+      "Alamat": "Jl. Raya Mentaraman, No. 87",
+      "Kelurahan": "Mentaraman",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 55,
+      "NPSN": 20517405,
+      "Nama Satuan Pendidikan": "SMP DHARMA WIRAWAN 8",
+      "Alamat": "Tambakrejo Rt 7 Rw 7",
+      "Kelurahan": "Purwodadi",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 56,
+      "NPSN": 20517428,
+      "Nama Satuan Pendidikan": "SMP ISLAM DONOMULYO",
+      "Alamat": "Jln. Hasanudin No. 4 Donomulyo",
+      "Kelurahan": "Donomulyo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 57,
+      "NPSN": 20517357,
+      "Nama Satuan Pendidikan": "SMP KATOLIK ST ALBERTUS DONOMULYO",
+      "Alamat": "Jl. Bandung - Donomulyo",
+      "Kelurahan": "Donomulyo",
+      "Status": "SWASTA"
+    },
+    {
+      "No": 58,
+      "NPSN": 20517482,
+      "Nama Satuan Pendidikan": "SMP NEGERI 1 DONOMULYO",
+      "Alamat": "Jl. Raya 60 Donomulyo",
+      "Kelurahan": "Donomulyo",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 59,
+      "NPSN": 20517512,
+      "Nama Satuan Pendidikan": "SMP NEGERI 2 DONOMULYO",
+      "Alamat": "Jalan A. Yani 798 Tempursari Rt.19 Rw. 04",
+      "Kelurahan": "Tempursari",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 60,
+      "NPSN": 20561849,
+      "Nama Satuan Pendidikan": "SMP NEGERI 3 DONOMULYO SATU ATAP",
+      "Alamat": "JL. MODANGAN RT. 41 RW. 10",
+      "Kelurahan": "Sumberoto",
+      "Status": "NEGERI"
+    },
+    {
+      "No": 61,
+      "NPSN": 20517366,
+      "Nama Satuan Pendidikan": "SMP PGRI 1 DONOMULYO",
+      "Alamat": "Jl. Pantai Ngliyep Km. 1",
+      "Kelurahan": "Kedungsalam",
+      "Status": "SWASTA"
+    }
+  ]
+}

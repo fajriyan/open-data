@@ -1,0 +1,148 @@
+{
+  "source": "gresikkab.go.id",
+  "label": "Data CSR Perusahaan di Kabupaten Gresik",
+  "updated_at": "2026-07-04T03:25:45.036Z",
+  "count": 28,
+  "data": [
+    {
+      "id_csr_perusahaan": 12,
+      "nama_perusahaan": "PC Ketapang II Ltd",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 13,
+      "nama_perusahaan": "PT. Adiprima Suraprinta",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 28,
+      "nama_perusahaan": "PT. Adyabuana Persada",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 2,
+      "nama_perusahaan": "PT. Bank Jatim Cabang Gresik",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 18,
+      "nama_perusahaan": "PT. Bumi Lingga Pertiwi",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 23,
+      "nama_perusahaan": "PT. Cargill Manyar",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 21,
+      "nama_perusahaan": "PT. Etex Building Performance Indonesia",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 10,
+      "nama_perusahaan": "PT. Gloster Furniture",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 9,
+      "nama_perusahaan": "PT. Indonesia Marina Shipyard",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 1,
+      "nama_perusahaan": "PT. Keramik Diamond Industries",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 4,
+      "nama_perusahaan": "PT. Kia keramik Mas",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 7,
+      "nama_perusahaan": "PT. Leewon Industrial",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 19,
+      "nama_perusahaan": "PT. Liku Telaga",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 16,
+      "nama_perusahaan": "PT. Malingo Feedmill, Tbk",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 20,
+      "nama_perusahaan": "PT. Nipsea Paint and Chemicals",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 25,
+      "nama_perusahaan": "PT. Pelindo III Cabang Gresik",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 17,
+      "nama_perusahaan": "PT. Pertamina (Persero) Marketing Regional Jatimbalinusa",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 15,
+      "nama_perusahaan": "PT. Pertamina EP Asset 4 Poleng Field",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 3,
+      "nama_perusahaan": "PT. Pertamina Hulu Eenergi WMO",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 11,
+      "nama_perusahaan": "PT. Pertamina Lubricant Production Unit Gresik",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 5,
+      "nama_perusahaan": "PT. Petro Kimia Gresik",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 6,
+      "nama_perusahaan": "PT. Semen Indonesia (Persero) Tbk",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 24,
+      "nama_perusahaan": "PT. Smelting Manyar",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 27,
+      "nama_perusahaan": "PT. Solvay Manyar",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 14,
+      "nama_perusahaan": "PT. Suryatama Mega Cemerlang ",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 26,
+      "nama_perusahaan": "PT. Warnatama Cemerlang",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 22,
+      "nama_perusahaan": "PT. Weltes Eenergi Nusantara",
+      "file": "-"
+    },
+    {
+      "id_csr_perusahaan": 8,
+      "nama_perusahaan": "Saka Indonesia Pangkah Limited (PGN Saka)",
+      "file": "-"
+    }
+  ]
+}
