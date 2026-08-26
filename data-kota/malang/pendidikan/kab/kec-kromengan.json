@@ -1,0 +1,242 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KROMENGAN",
+  "updated_at": "2026-08-13T11:46:54.916Z",
+  "count": 29,
+  "negeri": 21,
+  "swasta": 8,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715099",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA KROMENGAN",
+      "alamat": "JL.RAYA RINGIN ANOM KROMENGAN",
+      "kelurahan": "Kromengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715100",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA JATIKERTO",
+      "alamat": "JALAN RAYA JATIKERTO 87 KEC.KROMENGAN",
+      "kelurahan": "Jatikerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "20581267",
+      "nama_satuan_pendidikan": "MTSS DIPONEGORO",
+      "alamat": "JL. MAWAR RT 28 RW 04 JATIKERTO",
+      "kelurahan": "Jatikerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "20581266",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA KROMENGAN",
+      "alamat": "JL. SUNAN BONANG 188 KROMENGAN",
+      "kelurahan": "Kromengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20518465",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JAMBUWER",
+      "alamat": "JL. RAYA NO. 29",
+      "kelurahan": "Jambuwer",
+      "status": "NEGERI"
+    },
+    {
+      "no": 6,
+      "npsn": "20518376",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JATIKERTO",
+      "alamat": "JL. RAYA JATIKERTO NO.03 RT. 17 RW. 2",
+      "kelurahan": "Jatikerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 7,
+      "npsn": "20518420",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGREJO",
+      "alamat": "JL. MEDAN NO.979 RT. 7 RW. 3",
+      "kelurahan": "Karangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 8,
+      "npsn": "20518498",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KROMENGAN",
+      "alamat": "JL. NAILUN SELATAN NO. 1 DUSUN KRAJAN RT11 RW. 4",
+      "kelurahan": "Kromengan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20517196",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGADIREJO",
+      "alamat": "JL. RAYA NGADIREJO NO. 133 RT. 7 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Ngadirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20517285",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PENIWEN",
+      "alamat": "JL. RAYA PENIWEN NO 28 RT. 4 RW. 1 DUSUN KERTOREJO",
+      "kelurahan": "Peniwen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20516852",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SLOROK",
+      "alamat": "JL. RAYA SLOROK NO.63 RT. 14 RW. 4",
+      "kelurahan": "Slorok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20518466",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JAMBUWER",
+      "alamat": "JL. ROBUSTA NO.1 RT. 18 RW. 4",
+      "kelurahan": "Jambuwer",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20518377",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JATIKERTO",
+      "alamat": "JL. PAHLAWAN TRIP NO. 164 RT. 8 RW. 2",
+      "kelurahan": "Jatikerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20517197",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGADIREJO",
+      "alamat": "JL. PATIMURA RT. 19 RW. 3",
+      "kelurahan": "Ngadirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20517272",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PENIWEN",
+      "alamat": "JL. PMR NO. 147 RT. 4 RW. 1 DUSUN KERTOREJO",
+      "kelurahan": "Peniwen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20549509",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SLOROK",
+      "alamat": "JL. SUNGAI MOLEK NO.13B RT. 18 RW. 5",
+      "kelurahan": "Slorok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20518467",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JAMBUWER",
+      "alamat": "RT. 33 RW. 9 DUSUN CAKRUAN KLOPO KUNING",
+      "kelurahan": "Jambuwer",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20518378",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JATIKERTO",
+      "alamat": "JL. PLASEMEN NO. 24 RT. 16 RW. 2",
+      "kelurahan": "Jatikerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518515",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KROMENGAN",
+      "alamat": "JL. TELUK PERIGI NO.02 RT. 30 RW. 9 DUSUN BALOKAN",
+      "kelurahan": "Kromengan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517198",
+      "nama_satuan_pendidikan": "SD NEGERI 3 NGADIREJO",
+      "alamat": "RT. 27 RW. 4 DUSUN CENDOL BARAT",
+      "kelurahan": "Ngadirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517273",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PENIWEN",
+      "alamat": "JL. SUDONO NO. 92 RT 15 RW 03 DUSUN RINGINPITU",
+      "kelurahan": "Peniwen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20554963",
+      "nama_satuan_pendidikan": "SD NEGERI 4 JAMBUWER",
+      "alamat": "RT. 38 RW. 11 DUSUN REKESAN",
+      "kelurahan": "Jambuwer",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518516",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KROMENGAN",
+      "alamat": "JL. INPRES NO.1976 RT. 23 RW. 7 KROMENGAN",
+      "kelurahan": "Kromengan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20554962",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KROMENGAN",
+      "alamat": "JL. Petung Utara RT. 27 RW. 7 Dusun Krajan",
+      "kelurahan": "Kromengan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517404",
+      "nama_satuan_pendidikan": "SMP DHARMA WANITA 09 KROMENGAN",
+      "alamat": "Jl. Nailun Selatan no 22",
+      "kelurahan": "Kromengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20517337",
+      "nama_satuan_pendidikan": "SMP KRISTEN YBPK PENIWEN",
+      "alamat": "Jl. Roby Andris No. 127",
+      "kelurahan": "Peniwen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20517474",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KROMENGAN",
+      "alamat": "JL. KERAMAT",
+      "kelurahan": "Ngadirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517535",
+      "nama_satuan_pendidikan": "SMP PGRI 04 KROMENGAN",
+      "alamat": "Jl. Kopisari No. 50 Jambuwer",
+      "kelurahan": "Jambuwer",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20517574",
+      "nama_satuan_pendidikan": "SMP PGRI 1 KROMENGAN",
+      "alamat": "Jl. Dr. Soetomo No. 1 Kromengan",
+      "kelurahan": "Kromengan",
+      "status": "SWASTA"
+    }
+  ]
+}

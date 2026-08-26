@@ -1,0 +1,498 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. JABUNG",
+  "updated_at": "2026-08-13T11:47:35.960Z",
+  "count": 61,
+  "negeri": 36,
+  "swasta": 25,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69894656",
+      "nama_satuan_pendidikan": "AL MARHAMAH",
+      "alamat": "Jl. Gunung Sari Gunung Kunci Jabung",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715065",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH JABUNG",
+      "alamat": "JL. RAYA SUMBERKRECO  RT.16/RW.06 SIDOMULYO KECAMATAN JABUNG KAB. MALANG",
+      "kelurahan": "Sidomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715063",
+      "nama_satuan_pendidikan": "MIS AR-RAHMAH",
+      "alamat": "JL.SIDODADI 28 BENDO SUKOLILO",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "69963396",
+      "nama_satuan_pendidikan": "MIS AR-ROUDHOH",
+      "alamat": "JL. RAYA JABUNG",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715064",
+      "nama_satuan_pendidikan": "MIS BANI ROUF",
+      "alamat": "JL. BEGAWAN PANDANSARI LOR",
+      "kelurahan": "Pandansari Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715068",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH SUKOPURO",
+      "alamat": "JL. BRAWIJAYA 37 SUKOPURO",
+      "kelurahan": "Sukopuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715067",
+      "nama_satuan_pendidikan": "MIS MAMBAUL HIDAYAH",
+      "alamat": "JL. RAYA DUMPUL NO. 06",
+      "kelurahan": "Sidorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715069",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA SUKOLILO",
+      "alamat": "JL. RAYA SUKOLILO 128 DESA SUKOLILO",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715062",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. H. ABD. HAMID 07 KERISIK",
+      "kelurahan": "Kemiri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "69819589",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL JANNAH",
+      "alamat": "Jl. Wonosari 9 Rt. 003 Rw. 07 Borojabung Desa Jabung.",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715066",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL. A.YANI NO 127 KEMANTREN KEC JABUNG KAB MALANG",
+      "kelurahan": "Kemantren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20581247",
+      "nama_satuan_pendidikan": "MTSS AHMAD YANI JABUNG",
+      "alamat": "JL. RAYA 145 SUKOLILO",
+      "kelurahan": "Kenongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20581249",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH JABUNG",
+      "alamat": "JL.RAYA SUMBERKRECO RT.16/RW.06 SIDOMULYO KECAMATAN JABUNG",
+      "kelurahan": "Sidomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20581246",
+      "nama_satuan_pendidikan": "MTSS AR-RAHMAH",
+      "alamat": "JL SIDODADI 28 BENDO SUKOLILO JABUNG",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "69983163",
+      "nama_satuan_pendidikan": "MTSS AR-ROUDHOH",
+      "alamat": "JL. RAYA DESA JABUNG, RT : 04 RW:03",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20581248",
+      "nama_satuan_pendidikan": "MTSS ISLAMIYAH SUKOPURO",
+      "alamat": "JL. BRAWIJAYA 37 SUKOPURO KEC. JABUNG",
+      "kelurahan": "Sukopuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20518637",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ARGOSARI",
+      "alamat": "JL. RAYA ARGOSARI NO. 5 RT. 1 RW. 1 DUSUN PATEGUHAN",
+      "kelurahan": "Argosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20518772",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GADINGKEMBAR",
+      "alamat": "JL. SRIWIJAYA NO.03 RT. 12 RW. 2 DUSUN GASEK WETAN",
+      "kelurahan": "Gading Kembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518476",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GUNUNGJATI",
+      "alamat": "JL. RAYA GUNUNGJATI RT. 5   RW. 2",
+      "kelurahan": "Gunung Jati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20518469",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JABUNG",
+      "alamat": "JL. BROMO NO. 6 RT. 3 RW. 2",
+      "kelurahan": "Jabung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20537326",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEMANTREN",
+      "alamat": "JL. LETJEN SUTOYO NO. 10 RT. 8 RW. 4 DUSUN KEMANTREN",
+      "kelurahan": "Kemantren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518608",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEMIRI",
+      "alamat": "JL. RAYA KEMIRI NO.17 RT. 2 RW. 5",
+      "kelurahan": "Kemiri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518588",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KENONGO",
+      "alamat": "JL. FLAMBOYAN RT. 16 RW. 3 DUSUN PRECET",
+      "kelurahan": "Kenongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20537329",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGADIREJO",
+      "alamat": "JL. RAYA NGADIREJO RT. 11 RW. 2",
+      "kelurahan": "Ngadirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517206",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANSARI LOR",
+      "alamat": "JL. DIPONEGORO NO. 1 RT. 1 RW. 1 DUSUN  BAYANG",
+      "kelurahan": "Pandansari Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20516947",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDOMULYO",
+      "alamat": "JL. ASTINA NO.20 RT. 2 RW. 1 DUSUN BARENG",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516938",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDOREJO",
+      "alamat": "JL. MELO AN NO.32 RT. 6 RW. 2",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20516850",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SLAMPAREJO",
+      "alamat": "JL. RAYA SLAMPAREJO NO 1 RT. 1 RW. 1 DUSUN SLAMPAREJO",
+      "kelurahan": "Slamparejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20516880",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOLILO",
+      "alamat": "JL. RAYA SUKOLILO NO. 139",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20516874",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOPURO",
+      "alamat": "JL. BRAWIJAYA NO.66 DUSUN KEPUH",
+      "kelurahan": "Sukopuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20516983",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAJI",
+      "alamat": "JL. RAYA TAJI NO 143 RT. 4 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Taji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518638",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ARGOSARI",
+      "alamat": "JL. RAYA BENDRONG RT. 32 RW. 4 DUSUN BENDRONG",
+      "kelurahan": "Argosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518773",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GADINGKEMBAR",
+      "alamat": "JL. HAYAM WURUK NO.17 RT. 20 RW. 3 DUSUN GADING",
+      "kelurahan": "Gading Kembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20571407",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEMIRI",
+      "alamat": "JL. RAYA LEMAHBANG NO.45 KEMIRI",
+      "kelurahan": "Kemiri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518722",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANSARI LOR",
+      "alamat": "RT. 28 RW. 3 DUSUN BEGAWAN",
+      "kelurahan": "Pandansari Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20516948",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDOMULYO",
+      "alamat": "JL. PANDAN NO.09 RT. 15 RW. 6 DUSUN SUMBERKRECO",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20516925",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDOREJO",
+      "alamat": "JL. MELO AN NO. 3 RT. 2 RW. 2 SIDOREJO",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20516861",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKOPURO",
+      "alamat": "JL. PAHLAWAN NO. 209 RT. 5 RW. 2 DUSUN LURING SUKOPURO",
+      "kelurahan": "Sukopuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20516970",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAJI",
+      "alamat": "JL. UMBUTLEGI NO. 11 RT. 6 RW. 2  TAJI",
+      "kelurahan": "Taji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518774",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GADINGKEMBAR",
+      "alamat": "JL. A. YANI NO. 1 RT. 3 RW. 1 DUSUN GASEK KULON",
+      "kelurahan": "Gading Kembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518477",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GUNUNGJATI",
+      "alamat": "JL. RAYA NO.01GUNUNGJATI RT. 19 RW. 6",
+      "kelurahan": "Gunung Jati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518702",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JABUNG",
+      "alamat": "JL. KALIWANTU NO.52 RT. 3 RW. 4 DUSUN  UMPAKREJO",
+      "kelurahan": "Jabung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20537327",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEMANTREN",
+      "alamat": "JL. KUTOBEDAH RT. 5 RW. 6",
+      "kelurahan": "Kemantren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518582",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEMIRI",
+      "alamat": "JL. RAYA GONDANG NO. 1 RT. 3 RW. 6",
+      "kelurahan": "Kemiri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20516851",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SLAMPAREJO",
+      "alamat": "JL. PEMUDA NO. 1 RT. 32 RW. 5 DUSUN BUSU",
+      "kelurahan": "Slamparejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20516862",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUKOPURO",
+      "alamat": "JL. DIPONEGORO NO. 135 RT. 51 RW. 13 DUSUN PANDANREJO",
+      "kelurahan": "Sukopuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20518478",
+      "nama_satuan_pendidikan": "SD NEGERI 4 GUNUNGJATI",
+      "alamat": "JL. JATIARJO RT. 20 RW. 7 NO.01",
+      "kelurahan": "Gunung Jati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20518583",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KEMIRI",
+      "alamat": "RT. 1 RW. 7 DUSUN TENGO",
+      "kelurahan": "Kemiri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20518607",
+      "nama_satuan_pendidikan": "SD NEGERI 6 KEMANTREN",
+      "alamat": "KESATRIAN YONIF PARA RAIDER 502",
+      "kelurahan": "Kemantren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20555378",
+      "nama_satuan_pendidikan": "SDS SUNAN KALIJOGO JABUNG",
+      "alamat": "Jl. Kramat Sukolilo",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "70063878",
+      "nama_satuan_pendidikan": "SMP AL-BAROKAH",
+      "alamat": "Jl. Yudistira RT. 03 RW. 01",
+      "kelurahan": "Kec. Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "69984909",
+      "nama_satuan_pendidikan": "SMP DARUL ITQON",
+      "alamat": "JL. RAYA SUKOLILO NO. 293 JABUNG",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "70047290",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU AL QURBAH",
+      "alamat": "Jl. Eyangsidi",
+      "kelurahan": "Kemantren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20517485",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 JABUNG",
+      "alamat": "JL. RADEN PATAH NO. 13",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20517515",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 JABUNG",
+      "alamat": "JL. RAYA SLAMPAREJO NO. 54",
+      "kelurahan": "Slamparejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20561863",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 JABUNG SATU ATAP",
+      "alamat": "JL. ASTINA NO. 20 RT. 2 RW. 1 DUSUN BARENG",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20537346",
+      "nama_satuan_pendidikan": "SMP PGRI JABUNG",
+      "alamat": "Jl. Raya Gondang No 4 Kemiri",
+      "kelurahan": "Kemiri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "70047289",
+      "nama_satuan_pendidikan": "SMP PLUS MAMBAUL ULUM",
+      "alamat": "Jl. Dusun Bali",
+      "kelurahan": "Sidomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "70007358",
+      "nama_satuan_pendidikan": "SMP SUNAN KALIJOGO 2 JABUNG",
+      "alamat": "Jl. Kramat Sukolilo",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20517434",
+      "nama_satuan_pendidikan": "SMP SUNAN KALIJOGO 3 JABUNG",
+      "alamat": "Dusun Gandon Timur RT.19 RW.03",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "20560084",
+      "nama_satuan_pendidikan": "SMP SUNAN KALIJOGO JABUNG",
+      "alamat": "Jl. KRAMAT SUKOLILO RT 19 RW 03",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    }
+  ]
+}

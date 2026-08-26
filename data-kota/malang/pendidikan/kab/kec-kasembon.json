@@ -1,0 +1,258 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KASEMBON",
+  "updated_at": "2026-08-13T11:48:11.540Z",
+  "count": 31,
+  "negeri": 20,
+  "swasta": 11,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69963395",
+      "nama_satuan_pendidikan": "Al-Mushoffa",
+      "alamat": "Dsn. Sukorejo Rt.09 Rw. 08",
+      "kelurahan": "Pondok Agung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715092",
+      "nama_satuan_pendidikan": "MIS AL IKHLASH",
+      "alamat": "JL. RAYA KASEMBON NO.87 DSN. BESUK DS. SUKOSARI",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715091",
+      "nama_satuan_pendidikan": "MIS DARUSSALAMAH",
+      "alamat": "JL. KH. WACHID HASYIM NO. 124 DSN. BEJIREJO DS. KASEMBON KEC. KASEMBON  KAB. MA",
+      "kelurahan": "Kasembon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715088",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL FATA",
+      "alamat": "SLATRI",
+      "kelurahan": "Pait",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715089",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL JANNAH",
+      "alamat": "DSN. BARAAN- PAIT",
+      "kelurahan": "Pait",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20581258",
+      "nama_satuan_pendidikan": "MTSS NURUL HUDA",
+      "alamat": "RT 07 RW 07 MANGIR KASEMBON",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "20581259",
+      "nama_satuan_pendidikan": "MTSS SUNAN AMPEL",
+      "alamat": "SLATRI RT 03 RW 01",
+      "kelurahan": "Pait",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "70056025",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 4 KASEMBON",
+      "alamat": "Jl. Raya Kasembon No. 169 RT.002 RW. 006",
+      "kelurahan": "Kasembon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "20518572",
+      "nama_satuan_pendidikan": "SD NEGERI  KASEMBON",
+      "alamat": "JL. RAYA KASEMBON RT. 15   RW. 8 DUSUN KASEMBON",
+      "kelurahan": "Kasembon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20554974",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BAYEM",
+      "alamat": "RT. 13 RW. 5 DUSUN RUKEM",
+      "kelurahan": "Bayem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20517091",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAIT",
+      "alamat": "RT. 16 RW. 4 DUSUN PAIT UTARA",
+      "kelurahan": "Pait",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20516869",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOSARI",
+      "alamat": "JL. RAYA SUKOSARI NO.223 RT. 3 RW. 2 DUSUN BESUK",
+      "kelurahan": "Sukosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20517598",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOAGUNG",
+      "alamat": "JL. DODOL DUSUN TOYOMERTO RT. 8 RW. 3",
+      "kelurahan": "Wonoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20554975",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BAYEM",
+      "alamat": "JL. CANDI SAPTO NO. 2 DUSUN BANTUREJO",
+      "kelurahan": "Bayem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20517092",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAIT",
+      "alamat": "JL. BONJAGUNG RT. 11 RW. 3 DUSUN BONJAGUNG",
+      "kelurahan": "Pait",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20554978",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PONDOKAGUNG",
+      "alamat": "JL. MENDALAN NO. 241 RT. 1 RW. 3 DUSUN REKESAN",
+      "kelurahan": "Pondok Agung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20554972",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKOSARI",
+      "alamat": "JL. RAYA MANGIR NO. 309 DUSUN MANGIR RT. 4 RW. 5",
+      "kelurahan": "Sukosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20517615",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOAGUNG",
+      "alamat": "JL. MALANG RT. 7 RW. 3 DUSUN TOYOMERTO",
+      "kelurahan": "Wonoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20554976",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BAYEM",
+      "alamat": "JL. CANDI SAPTO NO 64 RT. 1 RW. 1",
+      "kelurahan": "Bayem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517093",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAIT",
+      "alamat": "RT. 25 RW. 6 DUSUN TANGKIL",
+      "kelurahan": "Pait",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20554979",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PONDOKAGUNG",
+      "alamat": "JL. PLTA SIMAN NO. 207 RT. 07 RW. 06 DUSUN PONDOK",
+      "kelurahan": "Pondok Agung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20554973",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUKOSARI",
+      "alamat": "RT. 4 RW. 9 DUSUN PULOSARI",
+      "kelurahan": "Sukosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20517616",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WONOAGUNG",
+      "alamat": "RT. 17 RW. 7 DUSUN DODOL",
+      "kelurahan": "Wonoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20554977",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BAYEM",
+      "alamat": "Dsn. Rukem RT. 22 RW. 08",
+      "kelurahan": "Bayem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20554980",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PONDOKAGUNG",
+      "alamat": "RT. 003 RW. 003 DUSUN REKESAN",
+      "kelurahan": "Pondok Agung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517322",
+      "nama_satuan_pendidikan": "SD NEGERI 5 PONDOKAGUNG",
+      "alamat": "JL. MENDALAN 229 RT. 2 RW. 6 DUSUN PONDOK",
+      "kelurahan": "Pondok Agung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20517455",
+      "nama_satuan_pendidikan": "SMP ISLAM AL IKHLASH",
+      "alamat": "Jl. Raya 87 Kasembon",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20517488",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KASEMBON",
+      "alamat": "JL. RAYA KASEMBON NO. 39",
+      "kelurahan": "Kasembon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20549206",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 KASEMBON",
+      "alamat": "JL. PLTA MENDALAN NO. 98",
+      "kelurahan": "Pondok Agung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20517369",
+      "nama_satuan_pendidikan": "SMP PGRI 1 KASEMBON",
+      "alamat": "JL. RAYA NO. 58",
+      "kelurahan": "Kasembon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "70061343",
+      "nama_satuan_pendidikan": "SPM WUSTHA BIRRU AL QOYYIM",
+      "alamat": "Jl. Kasembon",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    }
+  ]
+}

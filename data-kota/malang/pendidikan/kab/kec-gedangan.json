@@ -1,0 +1,490 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. GEDANGAN",
+  "updated_at": "2026-08-13T11:42:51.219Z",
+  "count": 60,
+  "negeri": 35,
+  "swasta": 25,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69894655",
+      "nama_satuan_pendidikan": "Al Hikmah",
+      "alamat": "Jl. Pundensari Rt 10 Rw 02 Desa Sindurejo",
+      "kelurahan": "Sindurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70044833",
+      "nama_satuan_pendidikan": "MI IBADURROHMAN",
+      "alamat": "DUSUN CIPTOMULYO RT 21 RW 07",
+      "kelurahan": "Girimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "70035270",
+      "nama_satuan_pendidikan": "MI PENDIDIKAN ILMU AL-QUR`AN MUNIRU MARYAM (PIQMM)",
+      "alamat": "Dsn. Sumber Jabon RT/RW 29/07",
+      "kelurahan": "Segaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715033",
+      "nama_satuan_pendidikan": "MIS AL - HIDAYAH",
+      "alamat": "SUMBERSARI RT. 57 RW. 17 SUMBERREJO",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715037",
+      "nama_satuan_pendidikan": "MIS AL HIKMAH",
+      "alamat": "JL.RAYA SUMBERREJO GEDANGAN MALANG",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715039",
+      "nama_satuan_pendidikan": "MIS AL IKHLASUL HIDAYAH",
+      "alamat": "JL.RAYA GAJAHREJO GEDANGAN MALANG",
+      "kelurahan": "Gajahrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "70012441",
+      "nama_satuan_pendidikan": "MIS AL-KHOZINI",
+      "alamat": "DSN SUMBERGESING WETAN RT. 10 RW. 07",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715035",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MANGGA NO. 109 SIDODADI RT. 19/06",
+      "kelurahan": "Sidodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "69983002",
+      "nama_satuan_pendidikan": "MIS NUSANTARA",
+      "alamat": "JL. PANGERAN DIPONEGORO NO. 06",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715034",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM",
+      "alamat": "JLN.SISWA NO 15 DUSUN MULYOSARI 67/20 DESA SUMBEREJO",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715038",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL ULUM",
+      "alamat": "JL.KH.ABDURRAHMAN GAJAHREJO MALANG",
+      "kelurahan": "Gajahrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715036",
+      "nama_satuan_pendidikan": "MIS SYARIATUL ISLAMIYAH",
+      "alamat": "JL.RAYA SUMBER DUREN 104",
+      "kelurahan": "Sidodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "69994772",
+      "nama_satuan_pendidikan": "MTs NUSANTARA",
+      "alamat": "JL. SISWA NO.15 MULYOSARI 67/20",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "69983091",
+      "nama_satuan_pendidikan": "MTSS AL HIKMAH",
+      "alamat": "JL. PUNDENSARI RT : 10 / RW : 02 DESA SINDUREJO KECAMATAN GEDANGAN KABUPATEN MAL",
+      "kelurahan": "Sindurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20581229",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "JALAN KARTINI NO.103 GEDANGAN",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69757136",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JL. RAYA SIDODADI GEDANGAN",
+      "kelurahan": "Sidodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "69927888",
+      "nama_satuan_pendidikan": "MTsSROUDLOTUL ULUM",
+      "alamat": "Jl. KH. Abdurrahman Gajahrejo",
+      "kelurahan": "Gajahrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20518781",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GAJAHREJO",
+      "alamat": "RT. 7 RW. 1 DUSUN GAJAHREJO",
+      "kelurahan": "Gajahrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518442",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GEDANGAN",
+      "alamat": "JL. KARTINI  NO. 377  RT. 12 RW. 3",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517252",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SEGARAN",
+      "alamat": "JL. RAYA SEGARAN RT. 9 RW. 3",
+      "kelurahan": "Segaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20516902",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDODADI",
+      "alamat": "JL. KH. DEWANTARA RT. 10 RW. 3 SIDODADI",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20516934",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SINDUREJO",
+      "alamat": "JL. RAYA SINDUREJO RT. 7 RW. 1RW.01",
+      "kelurahan": "Sindurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20571583",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TUMPAKREJO",
+      "alamat": "JL. SUKOREJO RT. 44 RW. 9",
+      "kelurahan": "Tumpakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518782",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GAJAHREJO",
+      "alamat": "RT. 30 RW. 3 DUSUN SUMBERLELE",
+      "kelurahan": "Gajahrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517253",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SEGARAN",
+      "alamat": "JL. RAYA SUMBERKOTES KULON RT. 22 RW. 8",
+      "kelurahan": "Segaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20571219",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDODADI",
+      "alamat": "JL. RAYA UMBULREJO NO. 5 RT. 13 RW. 4",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516935",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SINDUREJO",
+      "alamat": "JL. RAYA SINDUREJO RT. 5, RW. 1",
+      "kelurahan": "Sindurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517057",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBEREJO",
+      "alamat": "JL. RAYA SUMBEREJO NO. 24 RT. 9 RW. 3 DUSUN KRAJAN",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20571584",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TUMPAKREJO",
+      "alamat": "JL. POHKECIK NO. 16 RT. 12 RW. 2 TUMPAKREJO",
+      "kelurahan": "Tumpakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518799",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GAJAHREJO",
+      "alamat": "JL. RAYA PANTAI BAJULMATI RT. 38 RW. 5",
+      "kelurahan": "Gajahrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518445",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GEDANGAN",
+      "alamat": "JL. RAYA GEDANGAN  RT. 6 RW. 6 DUSUN SUMBERGESING WETAN",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20554971",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GIRIMULYO",
+      "alamat": "JL. RAYA GIRIMULYO RT. 3 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Girimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517269",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SEGARAN",
+      "alamat": "JL. RAYA SEGARAN RT. 15 RW. 5",
+      "kelurahan": "Segaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20571220",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SIDODADI",
+      "alamat": "RT. 1 RW. 1 DUSUN KEDUNGRAMPAL",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20516936",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SINDUREJO",
+      "alamat": "JL. RAYA BANJARSARI NO. 105 RT. 28 RW. 5 SINDUREJO",
+      "kelurahan": "Sindurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517058",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBEREJO",
+      "alamat": "JL. RAYA SUMBERSARI RT. 51 RW. 15 DUSUN SUMBERSARI",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517706",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TUMPAKREJO",
+      "alamat": "JL. RAYA GOMBANGAN RT. 35 RW. 7",
+      "kelurahan": "Tumpakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518422",
+      "nama_satuan_pendidikan": "SD NEGERI 4 GAJAHREJO",
+      "alamat": "JL. ARDIMULYO RT. 35 RW. 04",
+      "kelurahan": "Gajahrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518446",
+      "nama_satuan_pendidikan": "SD NEGERI 4 GEDANGAN",
+      "alamat": "JL. RAYA GUNUNGSARI RT. 1  RW. 15 DUSUN GUNUNGSARI",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516893",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SEGARAN",
+      "alamat": "JL. RAYA SEGARAN RT. 4 RW. 2",
+      "kelurahan": "Segaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20516942",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SIDODADI",
+      "alamat": "JL. RAYA SUMBERDUREN RT. 27 RW. 6",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517059",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUMBEREJO",
+      "alamat": "JL. SUKOLIMO 2  RT. 35 RW. 10 DUSUN SUMBERWANGI",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20571585",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TUMPAKREJO",
+      "alamat": "JL. PANTAI WONOGORO RT. 56 RW. 10 DUSUN SUKOREJO",
+      "kelurahan": "Tumpakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518447",
+      "nama_satuan_pendidikan": "SD NEGERI 5 GEDANGAN",
+      "alamat": "JL. WERKUDORO NO. 363 RT. 19 RW. 3 DUSUN CIPTOMULYO",
+      "kelurahan": "Girimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20516909",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SEGARAN",
+      "alamat": "JL. RAYA SUMBERKOTES WETAN RT. 27 RW. 9",
+      "kelurahan": "Segaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517060",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SUMBEREJO",
+      "alamat": "JL. RAYA DOKOSARI  - GEDANGAN DUSUN DOKOSARI RT. 27 RW. 8",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20518448",
+      "nama_satuan_pendidikan": "SD NEGERI 6 GEDANGAN",
+      "alamat": "JL. RAYA SUMBER PUCUNG RT. 14 RW. 5",
+      "kelurahan": "Girimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20517061",
+      "nama_satuan_pendidikan": "SD NEGERI 6 SUMBEREJO",
+      "alamat": "JL. RAYA BAREK RT. . 64 RW. . 19 DESA SUMBEREJO",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20518449",
+      "nama_satuan_pendidikan": "SD NEGERI 7 GEDANGAN",
+      "alamat": "JL. RAYA LAPANGAN RT. 5 RW. 18 DUSUN SUMBERNANAS",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20518450",
+      "nama_satuan_pendidikan": "SD NEGERI 8 GEDANGAN",
+      "alamat": "JL. RAYA SUMBER PERKUL RT. 4 RW. 13",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20517425",
+      "nama_satuan_pendidikan": "SMP GAYA BARU",
+      "alamat": "Jl. Sumbersari RT 56 RW 17 Dusun Sumbersari",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "70000398",
+      "nama_satuan_pendidikan": "SMP ISLAM AL-MUBAROK",
+      "alamat": "Dusun Sumberbanteng Kelurahan Segaran",
+      "kelurahan": "Segaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20517431",
+      "nama_satuan_pendidikan": "SMP ISLAM GEDANGAN",
+      "alamat": "Jl. Raya sumberperkul No. 113 Gedangan Malang",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20517483",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 GEDANGAN",
+      "alamat": "JL. DIPONEGORO 244",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20517513",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 GEDANGAN",
+      "alamat": "JL. POHKECIK",
+      "kelurahan": "Tumpakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517459",
+      "nama_satuan_pendidikan": "SMP PGRI 02 GEDANGAN",
+      "alamat": "Sumber Kotes RT.27 RW.09 Desa Segaran Kec.Gedangan",
+      "kelurahan": "Segaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20517536",
+      "nama_satuan_pendidikan": "SMP PGRI 03 GEDANGAN",
+      "alamat": "Jl. Raya Segaran",
+      "kelurahan": "Segaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20517531",
+      "nama_satuan_pendidikan": "SMP PGRI 04 GEDANGAN",
+      "alamat": "Dusun Umbulrejo",
+      "kelurahan": "Sidodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20517571",
+      "nama_satuan_pendidikan": "SMP PGRI 5 GEDANGAN",
+      "alamat": "Jln.Kol.Sugiono Gajahrejo Gedangan Malang",
+      "kelurahan": "Gajahrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20517367",
+      "nama_satuan_pendidikan": "SMP PGRI I GEDANGAN",
+      "alamat": "Sindurejo",
+      "kelurahan": "Sindurejo",
+      "status": "SWASTA"
+    }
+  ]
+}

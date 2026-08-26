@@ -1,0 +1,554 @@
+{
+   "source": "kemendikdasmen.go.id",
+   "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KALIPARE",
+   "updated_at": "2026-08-13T11:42:36.003Z",
+   "count": 68,
+   "negeri": 44,
+   "swasta": 24,
+   "data": [
+      {
+         "no": 1,
+         "npsn": "60715070",
+         "nama_satuan_pendidikan": "MIN 3 MALANG",
+         "alamat": "JL. KELUD NO. 130 ARJOWILANGUN KEC. KALIPARE KAB. MALANG",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 2,
+         "npsn": "60715072",
+         "nama_satuan_pendidikan": "MIS AL-ISHLAH",
+         "alamat": "JL. RAYA SUMBERKOMBANG RT/RW  08/01 DESA KALIPARE",
+         "kelurahan": "Kalipare",
+         "status": "SWASTA"
+      },
+      {
+         "no": 3,
+         "npsn": "60715074",
+         "nama_satuan_pendidikan": "MIS DARUL YAQIN",
+         "alamat": "JL.MASJID NO.476 PUTUKREJO RT.16 RW. 03",
+         "kelurahan": "Putukrejo",
+         "status": "SWASTA"
+      },
+      {
+         "no": 4,
+         "npsn": "69883392",
+         "nama_satuan_pendidikan": "MIS Darun Najah",
+         "alamat": "Jl. Kepodang Lotekol",
+         "kelurahan": "Arjowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 5,
+         "npsn": "60715071",
+         "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+         "alamat": "JLN.SUKAMAJU 167 RT 27 RW O5 SUKOWILANGUN KALIPARE  MALANG",
+         "kelurahan": "Sukowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 6,
+         "npsn": "60715076",
+         "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA",
+         "alamat": "JL. JENDERAL SUDIRMAN KALIPARE",
+         "kelurahan": "Kalipare",
+         "status": "SWASTA"
+      },
+      {
+         "no": 7,
+         "npsn": "60715075",
+         "nama_satuan_pendidikan": "MIS SUNAN GIRI 01",
+         "alamat": "JL. MAKAM NO 203 KALIREJO",
+         "kelurahan": "Kalirejo",
+         "status": "SWASTA"
+      },
+      {
+         "no": 8,
+         "npsn": "60715078",
+         "nama_satuan_pendidikan": "MIS SUNAN GIRI 02",
+         "alamat": "JL. MASJID AL-FALAH PANGGANGLELE ARJOWILANGUN KALIPARE",
+         "kelurahan": "Arjowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 9,
+         "npsn": "60715077",
+         "nama_satuan_pendidikan": "MIS SUNAN GUNUNG JATI",
+         "alamat": "Komplek Masjid Ta`awun Rt.16 Rw 4",
+         "kelurahan": "Sumberpetung",
+         "status": "SWASTA"
+      },
+      {
+         "no": 10,
+         "npsn": "69927885",
+         "nama_satuan_pendidikan": "MIS SUNAN KALIJOGO",
+         "alamat": "Jl. Kalitelo Rt 05/07 Kaliasri Kec. Kalipare Kab. Malang",
+         "kelurahan": "Kaliasri",
+         "status": "SWASTA"
+      },
+      {
+         "no": 11,
+         "npsn": "60715073",
+         "nama_satuan_pendidikan": "MIS WALISONGO",
+         "alamat": "JL.KAUMAN 154 ARJOWILANGUN KALIPARE",
+         "kelurahan": "Arjowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 12,
+         "npsn": "20581250",
+         "nama_satuan_pendidikan": "MTSS BAHRUL HUDA KALIPARE",
+         "alamat": "JL. SUKOMAJU NO.167",
+         "kelurahan": "Sukowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 13,
+         "npsn": "20581253",
+         "nama_satuan_pendidikan": "MTSS SA ROUDHOTUS SYIFA`",
+         "alamat": "JL. DIPONEGORO RT.03 RW.01 BARISAN ARJOWILANGUN",
+         "kelurahan": "Arjowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 14,
+         "npsn": "69983330",
+         "nama_satuan_pendidikan": "MTSS SHIFA` KALIPARE",
+         "alamat": "JL. PROYEK 347 KALIPARE",
+         "kelurahan": "Kalipare",
+         "status": "SWASTA"
+      },
+      {
+         "no": 15,
+         "npsn": "20581251",
+         "nama_satuan_pendidikan": "MTSS SULTAN AGUNG",
+         "alamat": "JALAN RAYA SUMBERPETUNG",
+         "kelurahan": "Sumberpetung",
+         "status": "SWASTA"
+      },
+      {
+         "no": 16,
+         "npsn": "20518697",
+         "nama_satuan_pendidikan": "SD ISLAM ASAID",
+         "alamat": "JL. CITRO SUMADI DUSUN SIDODADI RT. 28 RW. 5",
+         "kelurahan": "Arjosari",
+         "status": "SWASTA"
+      },
+      {
+         "no": 17,
+         "npsn": "20518690",
+         "nama_satuan_pendidikan": "SD KATOLIK SANTO YOHANES",
+         "alamat": "Sidodadi",
+         "kelurahan": "Arjosari",
+         "status": "SWASTA"
+      },
+      {
+         "no": 18,
+         "npsn": "20518616",
+         "nama_satuan_pendidikan": "SD NEGERI 1 ARJOSARI",
+         "alamat": "JL. TRISULA NO. 10 SUMBERTIMO",
+         "kelurahan": "Arjosari",
+         "status": "NEGERI"
+      },
+      {
+         "no": 19,
+         "npsn": "20518620",
+         "nama_satuan_pendidikan": "SD NEGERI 1 ARJOWILANGUN",
+         "alamat": "JL. TRISULA RT. 28   RW. 3 DUSUN PANGGANGLELE",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 20,
+         "npsn": "20518372",
+         "nama_satuan_pendidikan": "SD NEGERI 1 KALIPARE",
+         "alamat": "JL. JENDERAL SUDIRMAN NO.20 RT. 16   RW. 4 DUSUN KRAJAN",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 21,
+         "npsn": "20517221",
+         "nama_satuan_pendidikan": "SD NEGERI 1 PUTUKREJO",
+         "alamat": "JL. KAWI RT. 27 04 DESA PUTUKREJO",
+         "kelurahan": "Putukrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 22,
+         "npsn": "20516870",
+         "nama_satuan_pendidikan": "SD NEGERI 1 SUKOWILANGUN",
+         "alamat": "RT. 46 RW. 7 DUSUN KOPRAL",
+         "kelurahan": "Sukowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 23,
+         "npsn": "20554952",
+         "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERPETUNG",
+         "alamat": "JL. RAYA CUNGKAL NO.1139",
+         "kelurahan": "Sumberpetung",
+         "status": "NEGERI"
+      },
+      {
+         "no": 24,
+         "npsn": "20517704",
+         "nama_satuan_pendidikan": "SD NEGERI 1 TUMPAKREJO",
+         "alamat": "JL. RAYA TUMPAKREJO NO 224",
+         "kelurahan": "Tumpakrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 25,
+         "npsn": "20517681",
+         "nama_satuan_pendidikan": "SD NEGERI 10 TUMPAKREJO",
+         "alamat": "JL. JURANGDANDAN RT. 11 RW. 4",
+         "kelurahan": "Tumpakrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 26,
+         "npsn": "20518617",
+         "nama_satuan_pendidikan": "SD NEGERI 2 ARJOSARI",
+         "alamat": "JL. ANGGREK NO. 1 KEDUNGWARU I",
+         "kelurahan": "Arjosari",
+         "status": "NEGERI"
+      },
+      {
+         "no": 27,
+         "npsn": "20518621",
+         "nama_satuan_pendidikan": "SD NEGERI 2 ARJOWILANGUN",
+         "alamat": "JL. RAYA BARISAN RT. 7 RW. 1 DESA ARJOWILANGUN",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 28,
+         "npsn": "20518373",
+         "nama_satuan_pendidikan": "SD NEGERI 2 KALIPARE",
+         "alamat": "JL. A. YANI 113 KALIPARE",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 29,
+         "npsn": "20518409",
+         "nama_satuan_pendidikan": "SD NEGERI 2 KALIREJO",
+         "alamat": "JL. RAYA 319 KALIREJO RT. 8 RW. 2",
+         "kelurahan": "Kalirejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 30,
+         "npsn": "20517208",
+         "nama_satuan_pendidikan": "SD NEGERI 2 PUTUKREJO",
+         "alamat": "JL. SOEKARNO HATTA NO.307 RT. 10 RW. 2",
+         "kelurahan": "Putukrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 31,
+         "npsn": "20516871",
+         "nama_satuan_pendidikan": "SD NEGERI 2 SUKOWILANGUN",
+         "alamat": "JL. SUKOMORO RT. 19 RW. 4 KAMPUNGBARU",
+         "kelurahan": "Sukowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 32,
+         "npsn": "20517020",
+         "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERPETUNG",
+         "alamat": "JL. BANDUARJO RT. 57 RW. 13",
+         "kelurahan": "Sumberpetung",
+         "status": "NEGERI"
+      },
+      {
+         "no": 33,
+         "npsn": "20517705",
+         "nama_satuan_pendidikan": "SD NEGERI 2 TUMPAKREJO",
+         "alamat": "RT. 01 RW. 06 DUSUN SUMBERSARI",
+         "kelurahan": "Tumpakrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 34,
+         "npsn": "20518618",
+         "nama_satuan_pendidikan": "SD NEGERI 3 ARJOSARI",
+         "alamat": "JL. MENTARAMAN RT. 32 RW. 6",
+         "kelurahan": "Arjosari",
+         "status": "NEGERI"
+      },
+      {
+         "no": 35,
+         "npsn": "20518622",
+         "nama_satuan_pendidikan": "SD NEGERI 3 ARJOWILANGUN",
+         "alamat": "JL. LOTEKOL RT.  68  RW. 7",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 36,
+         "npsn": "20518389",
+         "nama_satuan_pendidikan": "SD NEGERI 3 KALIPARE",
+         "alamat": "JL. RAYA SUMBERMARON NO. 22 RT. 2 RW. 7 DUSUN SUMBERMARON",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 37,
+         "npsn": "20518411",
+         "nama_satuan_pendidikan": "SD NEGERI 3 KALIREJO",
+         "alamat": "JL. RAYA NO. 78 KALIREJO RT. 16 RW. 4",
+         "kelurahan": "Kalirejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 38,
+         "npsn": "20516872",
+         "nama_satuan_pendidikan": "SD NEGERI 3 SUKOWILANGUN",
+         "alamat": "RT. 27 RW. 5 DUSUN TAWANG",
+         "kelurahan": "Sukowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 39,
+         "npsn": "20554953",
+         "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERPETUNG",
+         "alamat": "JL. BRANTAS NO. 313",
+         "kelurahan": "Sumberpetung",
+         "status": "NEGERI"
+      },
+      {
+         "no": 40,
+         "npsn": "20518619",
+         "nama_satuan_pendidikan": "SD NEGERI 4 ARJOSARI",
+         "alamat": "RT. 10 RW. 02 DUSUN TUMPAKMIRI",
+         "kelurahan": "Arjosari",
+         "status": "NEGERI"
+      },
+      {
+         "no": 41,
+         "npsn": "20518623",
+         "nama_satuan_pendidikan": "SD NEGERI 4 ARJOWILANGUN",
+         "alamat": "JL. RT. 59  RW. 6 DUSUN LODALEM",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 42,
+         "npsn": "20517707",
+         "nama_satuan_pendidikan": "SD NEGERI 4 KALIASRI",
+         "alamat": "JL. RAYA KALIASRI NO.31",
+         "kelurahan": "Kaliasri",
+         "status": "NEGERI"
+      },
+      {
+         "no": 43,
+         "npsn": "20518390",
+         "nama_satuan_pendidikan": "SD NEGERI 4 KALIPARE",
+         "alamat": "JL. RAYA NGEMBUL KALIPARE",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 44,
+         "npsn": "20516873",
+         "nama_satuan_pendidikan": "SD NEGERI 4 SUKOWILANGUN",
+         "alamat": "JL. RAYA SUKOREJO RT. 5 RW. 1",
+         "kelurahan": "Sukowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 45,
+         "npsn": "20517036",
+         "nama_satuan_pendidikan": "SD NEGERI 4 SUMBERPETUNG",
+         "alamat": "JL. BANDUARJO RT. 44 RW. 10",
+         "kelurahan": "Sumberpetung",
+         "status": "NEGERI"
+      },
+      {
+         "no": 46,
+         "npsn": "20554954",
+         "nama_satuan_pendidikan": "SD NEGERI 5 ARJOSARI",
+         "alamat": "JL. TRISULA NO.01 RT. 18  RW. 4 DUSUN KEDUNGWARU II",
+         "kelurahan": "Arjosari",
+         "status": "NEGERI"
+      },
+      {
+         "no": 47,
+         "npsn": "20518624",
+         "nama_satuan_pendidikan": "SD NEGERI 5 ARJOWILANGUN",
+         "alamat": "RT. 55   RW. 5 DUSUN DUREN",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 48,
+         "npsn": "20517708",
+         "nama_satuan_pendidikan": "SD NEGERI 5 KALIASRI",
+         "alamat": "JL. KALITELO RT. 2 RW. 7",
+         "kelurahan": "Kaliasri",
+         "status": "NEGERI"
+      },
+      {
+         "no": 49,
+         "npsn": "20554951",
+         "nama_satuan_pendidikan": "SD NEGERI 5 KALIPARE",
+         "alamat": "DUSUN PITRANG",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 50,
+         "npsn": "20554955",
+         "nama_satuan_pendidikan": "SD NEGERI 6 ARJOWILANGUN",
+         "alamat": "JL. SUMBERSUKO RT. 44  RW. 4 DUSUN.PANGGANGLELE",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 51,
+         "npsn": "20517702",
+         "nama_satuan_pendidikan": "SD NEGERI 6 KALIASRI",
+         "alamat": "JL. KALIOMBO RT. 8  RW. 10",
+         "kelurahan": "Kaliasri",
+         "status": "NEGERI"
+      },
+      {
+         "no": 52,
+         "npsn": "20518391",
+         "nama_satuan_pendidikan": "SD NEGERI 6 KALIPARE",
+         "alamat": "JL. KRAMAT NO. 2 RT. 9 RW. 2 DUSUN KALIASEM",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 53,
+         "npsn": "20517037",
+         "nama_satuan_pendidikan": "SD NEGERI 6 SUMBERPETUNG",
+         "alamat": "RT. 30 RW. 7 DUSUN PONDOKOBONG",
+         "kelurahan": "Sumberpetung",
+         "status": "NEGERI"
+      },
+      {
+         "no": 54,
+         "npsn": "20518640",
+         "nama_satuan_pendidikan": "SD NEGERI 7 ARJOWILANGUN",
+         "alamat": "JL. RAYA BARISAN RT. 18   RW. 2 DUSUN BARISAN",
+         "kelurahan": "Arjowilangun",
+         "status": "NEGERI"
+      },
+      {
+         "no": 55,
+         "npsn": "20517703",
+         "nama_satuan_pendidikan": "SD NEGERI 7 KALIASRI",
+         "alamat": "JL. UMBULSARI RT. 4  RW. 9",
+         "kelurahan": "Kaliasri",
+         "status": "NEGERI"
+      },
+      {
+         "no": 56,
+         "npsn": "20517695",
+         "nama_satuan_pendidikan": "SD NEGERI 8 TUMPAKREJO",
+         "alamat": "JL. RAYA BULUREJO NO 71 RT. 4  RW. 5 DUSUN BULUREJO",
+         "kelurahan": "Tumpakrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 57,
+         "npsn": "20517694",
+         "nama_satuan_pendidikan": "SD NEGERI 9 TUMPAKREJO",
+         "alamat": "JL. RAYA DUSUN SUMBERSARI",
+         "kelurahan": "Tumpakrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 58,
+         "npsn": "20517448",
+         "nama_satuan_pendidikan": "SMP ISLAM KALIPARE",
+         "alamat": "Jl. Trisula No 21",
+         "kelurahan": "Arjowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 59,
+         "npsn": "20517354",
+         "nama_satuan_pendidikan": "SMP JENDERAL SUDIRMAN KALIPARE",
+         "alamat": "Jl Jenderal Sudirman No 31",
+         "kelurahan": "Kalipare",
+         "status": "SWASTA"
+      },
+      {
+         "no": 60,
+         "npsn": "20517360",
+         "nama_satuan_pendidikan": "SMP KATOLIK ST ANTONIUS KALIPARE",
+         "alamat": "Jln. Trisula",
+         "kelurahan": "Arjowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 61,
+         "npsn": "20517486",
+         "nama_satuan_pendidikan": "SMP NEGERI 1 KALIPARE",
+         "alamat": "JL. RAYA NGEMBUL NO. 183",
+         "kelurahan": "Kalipare",
+         "status": "NEGERI"
+      },
+      {
+         "no": 62,
+         "npsn": "20517516",
+         "nama_satuan_pendidikan": "SMP NEGERI 2 KALIPARE",
+         "alamat": "JL. RAYA BANDUARJO NO.1099",
+         "kelurahan": "Sumberpetung",
+         "status": "NEGERI"
+      },
+      {
+         "no": 63,
+         "npsn": "20561864",
+         "nama_satuan_pendidikan": "SMP NEGERI 3 KALIPARE SATU ATAP",
+         "alamat": "JL. SOEKARNO-HATTA NO.307",
+         "kelurahan": "Putukrejo",
+         "status": "NEGERI"
+      },
+      {
+         "no": 64,
+         "npsn": "20517543",
+         "nama_satuan_pendidikan": "SMP PGRI 02 KALIPARE",
+         "alamat": "JL. SUKOMORO NO.97 SUKOWILANGUN",
+         "kelurahan": "Sukowilangun",
+         "status": "SWASTA"
+      },
+      {
+         "no": 65,
+         "npsn": "20517527",
+         "nama_satuan_pendidikan": "SMP PGRI 03 KALIPARE",
+         "alamat": "Kalipare",
+         "kelurahan": "Kaliasri",
+         "status": "SWASTA"
+      },
+      {
+         "no": 66,
+         "npsn": "20517583",
+         "nama_satuan_pendidikan": "SMP PGRI 05 KALIPARE",
+         "alamat": "Jl. Raya No. 319 B Kalirejo",
+         "kelurahan": "Kalirejo",
+         "status": "SWASTA"
+      },
+      {
+         "no": 67,
+         "npsn": "20517368",
+         "nama_satuan_pendidikan": "SMP PGRI 1 KALIPARE",
+         "alamat": "Jalan Raya Tumpakrejo No. 227",
+         "kelurahan": "Tumpakrejo",
+         "status": "SWASTA"
+      },
+      {
+         "no": 68,
+         "npsn": "20517534",
+         "nama_satuan_pendidikan": "SMP PGRI 4 KALIPARE",
+         "alamat": "JL. RAYA ARJOSARI KALIPARE",
+         "kelurahan": "Arjosari",
+         "status": "SWASTA"
+      }
+   ]
+}

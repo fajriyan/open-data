@@ -1,0 +1,642 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BANTUR",
+  "updated_at": "2026-08-13T11:42:46.170Z",
+  "count": 79,
+  "negeri": 38,
+  "swasta": 41,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69963468",
+      "nama_satuan_pendidikan": "Darul Hikam",
+      "alamat": "Jl. Sukorame 01",
+      "kelurahan": "Srigonco",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69993355",
+      "nama_satuan_pendidikan": "MI DAARUL MUTTAQIIN",
+      "alamat": "Jalan Pondokan",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69928989",
+      "nama_satuan_pendidikan": "MI JABAL NUR LIL MUTTAQIN",
+      "alamat": "JALAN GUMUK MOJO RT. 48 RW. 09",
+      "kelurahan": "Wonokerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "70035835",
+      "nama_satuan_pendidikan": "MI MAMBAUR RIDWAN",
+      "alamat": "SUMBERAGUNG RT35 RW 08",
+      "kelurahan": "Bandungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "69994649",
+      "nama_satuan_pendidikan": "MI RAUDLATUL ULUM CENDEKIA `REJOSARI`",
+      "alamat": "JL. IMAM BONJOL DUSUN KRAJAN",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "69756228",
+      "nama_satuan_pendidikan": "MIS AHSANUL ULUM",
+      "alamat": "JL. SUMBER KENONGO SRIGONCO BANTUR",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60714988",
+      "nama_satuan_pendidikan": "MIS ASSALAFIYAH",
+      "alamat": "JL. KELAKAH RT 03 RW 01",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60714996",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "JL. MUSHOLA RIDHO ULLAH KRAJAN PRINGGONDANI",
+      "kelurahan": "Pringgodani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60714990",
+      "nama_satuan_pendidikan": "MIS MAKARIMAL AKHLAQ",
+      "alamat": "JL. KRAJAN RT 07 RW 02 KARANGSARI",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60714995",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "GUMUKMAS KARANGSARI",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60714985",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL. BALEWARTI Rt 05 Rw 02",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60714993",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DUSUN JEDING",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60714991",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID RT.14/02 WOTGALIH",
+      "kelurahan": "Rejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60714992",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "KRAJAN RT 16 RW 03 KARANGSARI",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60714994",
+      "nama_satuan_pendidikan": "MIS MIFTAHUSH SHIBYAN",
+      "alamat": "JL. MASJID NO. 08 SENGON PRINGGODANI KEC. BANTUR KAB. MALANG",
+      "kelurahan": "Pringgodani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60714989",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "JL. SUMBER ILMU RT02 RW.01 KRAJAN KARANGSARI BANTUR",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60714987",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "DURMO BANTUR",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60714986",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM",
+      "alamat": "JL.MASJID BAITURRAHMAN RT/RW.46/06 REJOYOSO",
+      "kelurahan": "Rejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "70027912",
+      "nama_satuan_pendidikan": "MTs ASH-SHIDDIQI",
+      "alamat": "JL. MASJID BAITURRAHMAN RT 46 RW 06 SUKOSARI REJOYOSO",
+      "kelurahan": "Rejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "69977755",
+      "nama_satuan_pendidikan": "MTS DAARUS SALAM",
+      "alamat": "DSN. SUMBERWATES RT 10 RW 02 SUMBERBENING",
+      "kelurahan": "Sumberbening",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581202",
+      "nama_satuan_pendidikan": "MTSS AL ISLAM",
+      "alamat": "JL. DIPONEGORO NO. 45 WONOKERTO BANTUR",
+      "kelurahan": "Wonokerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581201",
+      "nama_satuan_pendidikan": "MTSS ASSAIDI",
+      "alamat": "JL. RAYA REJOSARI NO. 77",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581204",
+      "nama_satuan_pendidikan": "MTSS ASSALAM BANTUR",
+      "alamat": "JL. RAYA SUKOSARI",
+      "kelurahan": "Rejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "69895128",
+      "nama_satuan_pendidikan": "MTsS Bustanul Qurani Al Ihsani",
+      "alamat": "Jl. Masjid No. 2 Sumberbendo",
+      "kelurahan": "Pringgodani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581200",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "JL.PESANTREN 230 BANTUR",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "69888915",
+      "nama_satuan_pendidikan": "MTsS Mambaul Ulum",
+      "alamat": "Gumukmas RT 38 RW 07 Karangsari Bantur",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20581199",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUSH SHIBYAN",
+      "alamat": "JL.MASJID NO.08 SENGON PRIGGODANI KECAMATAN BANTUR",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20581205",
+      "nama_satuan_pendidikan": "MTSS NURUL HIDAYAH",
+      "alamat": "JL. SUMBER ILMU RT.002 RW. 001",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20581195",
+      "nama_satuan_pendidikan": "MTSS NURUL HUDA",
+      "alamat": "Dusun DURMO RT 58 RW 12",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20581198",
+      "nama_satuan_pendidikan": "MTSS RAUDLATUL ULUM",
+      "alamat": "JL.GATUT KACA 01 PRRINGGODANI BANTUR",
+      "kelurahan": "Pringgodani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20581203",
+      "nama_satuan_pendidikan": "MTSS WALISONGO",
+      "alamat": "Dsn. Krajan RT 09 RW 02",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "70028489",
+      "nama_satuan_pendidikan": "PDF. WUSTHA DAARUL MUTTAQIIN",
+      "alamat": "JL.PONDOAN. KRAJAN BANTUR 0010/002",
+      "kelurahan": "Bantur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "69955218",
+      "nama_satuan_pendidikan": "SD ISLAM DARUL HIKMAH",
+      "alamat": "JL. RAYA GUNUNG GEBANG KARANGSARI",
+      "kelurahan": "Karangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20518643",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANDUNGREJO",
+      "alamat": "JL. AHMAD YANI RT. 8 RW. 2 BANDUNGREJO",
+      "kelurahan": "Bandungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518828",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANTUR",
+      "alamat": "JL. RAYA BANTUR DUSUN KRAJAN RT. 12 RW. 3",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518548",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGSARI",
+      "alamat": "JL. Raya Gunung Gebang Dusun Gunung Gebang RT 25 RW 05",
+      "kelurahan": "Karangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517323",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PRINGGODANI",
+      "alamat": "JL. GATUT KOCO RT. 18, RW. 3 DUSUN SUMBERBENDO",
+      "kelurahan": "Pringgodani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517217",
+      "nama_satuan_pendidikan": "SD NEGERI 1 REJOSARI",
+      "alamat": "JL. RAYA REJOSARI-BANTUR DUSUN JEDING RT. 4 RW. 1",
+      "kelurahan": "Rejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517220",
+      "nama_satuan_pendidikan": "SD NEGERI 1 REJOYOSO",
+      "alamat": "JL. SUKOSARI RT. 42 RW. 6",
+      "kelurahan": "Rejoyoso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516843",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SRIGONCO",
+      "alamat": "JL. RAYA BALEKAMBANG RT. 18 RW. 3 SRIGONCO",
+      "kelurahan": "Srigonco",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517035",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERBENING",
+      "alamat": "JL. RAYA LAPANGAN RT. 19  RW. 03",
+      "kelurahan": "Sumberbening",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517636",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOKERTO",
+      "alamat": "JL. RAYA WONOKERTO NO. 31",
+      "kelurahan": "Wonokerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518644",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANDUNGREJO",
+      "alamat": "JL. RAYA BANDUNGREJO RT. 16 RW. 4",
+      "kelurahan": "Bandungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518829",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANTUR",
+      "alamat": "JL. KYAI RADIMAN RT. 8 RW. 2",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20518565",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KARANGSARI",
+      "alamat": "RT. 16 RW. 3 DUSUN KRAJAN",
+      "kelurahan": "Karangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517324",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PRINGGODANI",
+      "alamat": "JL. GATOT KOCO RT. 2 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Pringgodani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517238",
+      "nama_satuan_pendidikan": "SD NEGERI 2 REJOYOSO",
+      "alamat": "JL. RAYA REJOYOSO NO.17 RT. 9 RW. 2",
+      "kelurahan": "Rejoyoso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20516834",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SRIGONCO",
+      "alamat": "JL. RAYA BALEKAMBANG RT. 15 RW. 2 DUSUN KRAJAN",
+      "kelurahan": "Srigonco",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517034",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERBENING",
+      "alamat": "JL. RAYA PURBOYO RT. 5 RW. 1 DUSUN SUMBERWATES",
+      "kelurahan": "Sumberbening",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20518645",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANDUNGREJO",
+      "alamat": "JL. GUNUNG SARI RT. 31 RW. 8",
+      "kelurahan": "Bandungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518816",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANTUR",
+      "alamat": "JL. AMARTA DUSUN DURMO RT. 69 RW. 14",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20518566",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KARANGSARI",
+      "alamat": "JL. RAYA GUMUKMAS DUSUN GUMUKMAS RT. 43 RW. 8",
+      "kelurahan": "Karangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20517325",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PRINGGODANI",
+      "alamat": "JL. Raya Ngastino",
+      "kelurahan": "Pringgodani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20517219",
+      "nama_satuan_pendidikan": "SD NEGERI 3 REJOSARI",
+      "alamat": "JL. BALEWARTI NO. 83 DUSUN KRAJAN RT. 22 RW. 1",
+      "kelurahan": "Rejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20517239",
+      "nama_satuan_pendidikan": "SD NEGERI 3 REJOYOSO",
+      "alamat": "JL. PATIMURA DUSUN KARANGSUKO RT. 23 RW. 3, REJOYOSO",
+      "kelurahan": "Rejoyoso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20516833",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SRIGONCO",
+      "alamat": "RT. 32 RW. 5 DUSUN SUMBERJAMBE",
+      "kelurahan": "Srigonco",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517021",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERBENING",
+      "alamat": "JL. RAYA SUMBERBENING RT. 14 RW. 3",
+      "kelurahan": "Sumberbening",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517638",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WONOKERTO",
+      "alamat": "JL. RAYA GAMPINGAN RT. 38 RW. 7",
+      "kelurahan": "Wonokerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20518646",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BANDUNGREJO",
+      "alamat": "JL. TAWANG ALUN RT. 53 RW. 12",
+      "kelurahan": "Bandungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20517240",
+      "nama_satuan_pendidikan": "SD NEGERI 4 REJOYOSO",
+      "alamat": "JL. RAYA REJOYOSO DUSUN BALONG RT. 61 RW. 8",
+      "kelurahan": "Rejoyoso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20517639",
+      "nama_satuan_pendidikan": "SD NEGERI 4 WONOKERTO",
+      "alamat": "JL. RAYA WONOGIRI RT. 9 RW. 3",
+      "kelurahan": "Wonokerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20517326",
+      "nama_satuan_pendidikan": "SD NEGERI 5 PRINGGODANI",
+      "alamat": "JL. SUMBER WALUH RT. 33 RW. 4",
+      "kelurahan": "Pringgodani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20517023",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SUMBERBENING",
+      "alamat": "JL. KONDANG MERAK RT. 34 RW. 6 DUSUN BANJARJO",
+      "kelurahan": "Sumberbening",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20518648",
+      "nama_satuan_pendidikan": "SD NEGERI 6 BANDUNGREJO",
+      "alamat": "JL. GUNUNG SETOPENG RT. 38 RW. 9",
+      "kelurahan": "Bandungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20518803",
+      "nama_satuan_pendidikan": "SD NEGERI 6 BANTUR",
+      "alamat": "RT. 30 RW. 6 DUSUN TUNJUNGSARI",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20518804",
+      "nama_satuan_pendidikan": "SD NEGERI 7 BANTUR",
+      "alamat": "JL. Raya Jubel",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20518731",
+      "nama_satuan_pendidikan": "SD YBPK WONOREJO",
+      "alamat": "Jl. Rambutan RT.02 / RW.01",
+      "kelurahan": "Wonorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": "70007577",
+      "nama_satuan_pendidikan": "SDI PESANTREN ASSALAM REJOYOSO BANTUR",
+      "alamat": "Jalan Raya Rejoyoso",
+      "kelurahan": "Rejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": "70050200",
+      "nama_satuan_pendidikan": "SMP AL-FALAH NUSANTARA",
+      "alamat": "Jl. Raya Sumberbening Desa Sumberbening",
+      "kelurahan": "Sumberbening",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": "20517478",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 BANTUR",
+      "alamat": "Jl. Raya Bantur No. 1014",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20517509",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 BANTUR",
+      "alamat": "JL. WONOKERTO NO. 297",
+      "kelurahan": "Wonokerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20549209",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 BANTUR",
+      "alamat": "JL. RAYA SUMBERBENING RT. 16 RW. 5",
+      "kelurahan": "Sumberbening",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20561860",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 BANTUR SATU ATAP",
+      "alamat": "DUSUN SUMBERWALUH",
+      "kelurahan": "Pringgodani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20561861",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 BANTUR SATU ATAP",
+      "alamat": "DUSUN JUBEL RT. 50 RW. 11",
+      "kelurahan": "Bantur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20563935",
+      "nama_satuan_pendidikan": "SMP NU ROUDLOTUT THOHIRIN BANTUR",
+      "alamat": "JL. PESANTREN NO.1 SENGON PRINGGODANI",
+      "kelurahan": "Pringgodani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": "20517393",
+      "nama_satuan_pendidikan": "SMP PGRI 01 BANTUR",
+      "alamat": "Jl. Raya Balekambang Dsn. Krajan RT. 15 RW. 02",
+      "kelurahan": "Srigonco",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "20517525",
+      "nama_satuan_pendidikan": "SMP PGRI 03 BANTUR",
+      "alamat": "Jl.raya Rejosari Rt 04 Rw 01 Dusun Jeding",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "20517533",
+      "nama_satuan_pendidikan": "SMP PGRI 4 BANTUR",
+      "alamat": "Dusun Krajan, RT. 3 RW. 1, Jl. Raya Bandungrejo Kec. Bantur-Kab. Malang",
+      "kelurahan": "Bandungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "69859393",
+      "nama_satuan_pendidikan": "SMP PROGRESIF ZAINUL ULUM",
+      "alamat": "JL PESANTREN RT 16 RW 04 DSN KARANGSUKO",
+      "kelurahan": "Rejoyoso",
+      "status": "SWASTA"
+    }
+  ]
+}

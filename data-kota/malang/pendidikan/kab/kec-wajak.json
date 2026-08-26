@@ -1,0 +1,618 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. WAJAK",
+  "updated_at": "2026-08-13T11:46:13.632Z",
+  "count": 76,
+  "negeri": 37,
+  "swasta": 39,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69928992",
+      "nama_satuan_pendidikan": "MI Al Fattah",
+      "alamat": "Jl. Masjid",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69928994",
+      "nama_satuan_pendidikan": "MI An Nashr",
+      "alamat": "Jl. Ahmad Yani no 100 wajak",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69963399",
+      "nama_satuan_pendidikan": "MI MINNATURROHMAN",
+      "alamat": "Jl. Syamsul Islam No. 01 Gg. Masjid Ds. Garotan",
+      "kelurahan": "Bringin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "69928993",
+      "nama_satuan_pendidikan": "MI Sabilillah",
+      "alamat": "Cempaka Dusun Baran Wajak",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "70034903",
+      "nama_satuan_pendidikan": "MI TARBIYATUL QUR`AN DARUL MUTTAQIN",
+      "alamat": "JALAN .RA.KARTINI. NO1703. RT17 RW 03.",
+      "kelurahan": "Ngembal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715279",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "JL. LAWU 12 WAJAK",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69756672",
+      "nama_satuan_pendidikan": "MIS AL MUBAROK",
+      "alamat": "JL. KIDANGBERIK NO.37",
+      "kelurahan": "Kidangbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715286",
+      "nama_satuan_pendidikan": "MIS AL-HUDA",
+      "alamat": "JL.RAYA KLAKAH",
+      "kelurahan": "Patokpicis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715285",
+      "nama_satuan_pendidikan": "MIS DARUL HUDA",
+      "alamat": "JL.KH AHMAD DAHLAN  CODO",
+      "kelurahan": "Codo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715290",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL MUBTADIIN",
+      "alamat": "JL. RAYA PATOKPICIS DS. PATOKPICIS KEC. WAJAK KAB. MALANG",
+      "kelurahan": "Patokpicis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715289",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL MUTTAQIN",
+      "alamat": "JL. LESTI NO 39 BLAYU",
+      "kelurahan": "Blayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "69983003",
+      "nama_satuan_pendidikan": "MIS KH MOHAMMAD SAID",
+      "alamat": "JL. PONDOK NO. 91",
+      "kelurahan": "Codo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715287",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL. SUKOLILO RT 10 RW 04",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715284",
+      "nama_satuan_pendidikan": "MIS MANARUL HUDA",
+      "alamat": "JL. NUSA INDAH SUKOANYAR",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715281",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL. SUMBER ILMU SUMBERNONGKO SUMBERPUTIH",
+      "kelurahan": "Sumberputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715283",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. RAYA SUKOLILO",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715282",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA BLAYU 02",
+      "alamat": "JL.MASJID AT-TAQWA NO.05,BLAYU",
+      "kelurahan": "Blayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60715288",
+      "nama_satuan_pendidikan": "MIS NUZULUL ULUM",
+      "alamat": "JL. RANGGAWUNI NO. 16  KIDANGBANG RT 004 RW 001",
+      "kelurahan": "Kidangbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60715291",
+      "nama_satuan_pendidikan": "MIS RADEN RAHMAT",
+      "alamat": "JL RADEN RAHMAT NO 37 SARIREJO",
+      "kelurahan": "Sumberputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60715280",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL ULUM",
+      "alamat": "JL. H. THOHIR JANGKUNG DADAPAN WAJAK",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "69853215",
+      "nama_satuan_pendidikan": "MTs Al Hidayah",
+      "alamat": "Jl Lawu No 10",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "70028002",
+      "nama_satuan_pendidikan": "MTs Tahfidh Hidayatul Muttaqin",
+      "alamat": "JL. LESTI  NO. 39",
+      "kelurahan": "Blayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581353",
+      "nama_satuan_pendidikan": "MTSS AL ULUM",
+      "alamat": "JL. RAYA DADAPAN WAJAK",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581352",
+      "nama_satuan_pendidikan": "MTSS AL-HUDA",
+      "alamat": "JL.RAYA KLAKAH DESA PATOKPICIS",
+      "kelurahan": "Patokpicis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581354",
+      "nama_satuan_pendidikan": "MTSS DARUL HUDA",
+      "alamat": "JL. K.H. AHMAD DAHLAN",
+      "kelurahan": "Codo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581355",
+      "nama_satuan_pendidikan": "MTSS RADEN RAHMAT",
+      "alamat": "JL. RADEN RAHMAT NO. 36 SARIREJO",
+      "kelurahan": "Sumberputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20555017",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 07 WAJAK",
+      "alamat": "Jl. Kelud No 30 Wajak",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20555014",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BAMBANG",
+      "alamat": "JL. SEMERU 101 RT. 7 RW. 3",
+      "kelurahan": "Bambang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518858",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BLAYU",
+      "alamat": "JL. SIDODADI II NO. 5 RT. 2 RW. 1 BLAYU",
+      "kelurahan": "Blayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518834",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BRINGIN",
+      "alamat": "JL. SEMERU NO.02 RT. 4 RW 2",
+      "kelurahan": "Bringin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518758",
+      "nama_satuan_pendidikan": "SD NEGERI 1 CODO",
+      "alamat": "JL. KARTINI NO. 21 RT. 12 RW. 4",
+      "kelurahan": "Codo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518763",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DADAPAN",
+      "alamat": "JL. PAGERGUNUNG RT. 17 RW. 6",
+      "kelurahan": "Dadapan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518513",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KIDANGBANG",
+      "alamat": "JL. RAYA KIDANGBANG NO. 16 RT. 17 RW. 5",
+      "kelurahan": "Kidangbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517297",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PATOKPICIS",
+      "alamat": "JL. SIMPANG TIGA KLAKAH RT. 4 RW. 1",
+      "kelurahan": "Patokpicis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20516839",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOANYAR",
+      "alamat": "JL. SUKOLILO NO.08 RT. 1 RW. 1",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20571223",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOLILO",
+      "alamat": "JL. DIPONEGORO NO. 5 RT. 3 RW. 1",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517038",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERPUTIH",
+      "alamat": "JL. ARJOSARI 05 RT. 18 RW. 5",
+      "kelurahan": "Sumberputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517609",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WAJAK",
+      "alamat": "JL. COKROAMINOTO 65 RT. 1 RW. 2 Wajak",
+      "kelurahan": "Wajak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518657",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BAMBANG",
+      "alamat": "JL. SEMERU",
+      "kelurahan": "Bambang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518857",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BLAYU",
+      "alamat": "JL. LESTI BLAYU",
+      "kelurahan": "Blayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518835",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BRINGIN",
+      "alamat": "JL. PERJUANGAN NO. 1 RT. 23 RW. 10",
+      "kelurahan": "Bringin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518759",
+      "nama_satuan_pendidikan": "SD NEGERI 2 CODO",
+      "alamat": "JL. IMAM BONJOL NO. 28 RT. 4 RW. 2",
+      "kelurahan": "Codo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518764",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DADAPAN",
+      "alamat": "Jl. Ir. Soekarno Dadapan RT. 10 / RW. 01",
+      "kelurahan": "Dadapan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518514",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KIDANGBANG",
+      "alamat": "JL. KIDANGBERIK RT. 38 RW. 10",
+      "kelurahan": "Kidangbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517298",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PATOKPICIS",
+      "alamat": "RT. 13 RW. 4 DUSUN SUMBERSUKO",
+      "kelurahan": "Patokpicis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20516842",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKOANYAR",
+      "alamat": "JL. FLAMBOYAN NO.71 RT. 29 RW. 9",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20516882",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKOLILO",
+      "alamat": "JL. MASJID PATUK SUKOLILO RT. 19. RW. 7",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20517039",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERPUTIH",
+      "alamat": "JL. ARJUNO 186 RT. 6 RW. 2",
+      "kelurahan": "Sumberputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517610",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WAJAK",
+      "alamat": "JL. SUROPATI NO. 7 RT. 6 RW. 13",
+      "kelurahan": "Wajak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20518656",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BAMBANG",
+      "alamat": "JL. SEMERU NO.97 RT. 33 RW. 11",
+      "kelurahan": "Bambang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518836",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BRINGIN",
+      "alamat": "JL. TAMPARSEWU NO. 640 DESA BRINGIN",
+      "kelurahan": "Bringin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20518760",
+      "nama_satuan_pendidikan": "SD NEGERI 3 CODO",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 147 RT. 47 RW. 13",
+      "kelurahan": "Codo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20518765",
+      "nama_satuan_pendidikan": "SD NEGERI 3 DADAPAN",
+      "alamat": "JL. JANGKUNG RT. 29 RW. 10",
+      "kelurahan": "Dadapan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20518501",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KIDANGBANG",
+      "alamat": "JL. RONGGOWUNI NO.23 RT. 14 RW. 4",
+      "kelurahan": "Kidangbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20517299",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PATOKPICIS",
+      "alamat": "JL. RAYA PATOKPICIS RT. 20 RW. 6",
+      "kelurahan": "Patokpicis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20516883",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUKOLILO",
+      "alamat": "RT. 14 RW. 5 DUSUN POHKECIK",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517611",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WAJAK",
+      "alamat": "JL. TUGU SEMAR NO. 69 RT. 3 RW. 19",
+      "kelurahan": "Wajak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517040",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUMBERPUTIH",
+      "alamat": "JL. BOPONG NO 11  RT. 33  RW. 8",
+      "kelurahan": "Sumberputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20517612",
+      "nama_satuan_pendidikan": "SD NEGERI 4 WAJAK",
+      "alamat": "JL. SIDOMAKMUR RT. 6 RW. 14 PAKEM",
+      "kelurahan": "Wajak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20517613",
+      "nama_satuan_pendidikan": "SD NEGERI 5 WAJAK",
+      "alamat": "JL. PANGLIMA SUDIRMAN RT. 2 RW. 7",
+      "kelurahan": "Wajak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20517187",
+      "nama_satuan_pendidikan": "SD NEGERI NGEMBAL",
+      "alamat": "JL. R.A. KARTINI NO. 617 NGEMBAL RT. 16 RW. 3",
+      "kelurahan": "Ngembal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20517633",
+      "nama_satuan_pendidikan": "SD NEGERI WONOAYU",
+      "alamat": "JL. ARJUNA  NO. 121  RT. 2 RW. 1",
+      "kelurahan": "Wonoayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "69967040",
+      "nama_satuan_pendidikan": "SMP AL HUDA WAJAK",
+      "alamat": "Jl. Raya Klakah No.46, Blayu, Wajak, Malang, Jawa Timur 65173",
+      "kelurahan": "Blayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "69996235",
+      "nama_satuan_pendidikan": "SMP AN NASHR",
+      "alamat": "JL. PATUKREKESAN NO.100 SUKOLILO WAJAK",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 65,
+      "npsn": "20517399",
+      "nama_satuan_pendidikan": "SMP BINA TARUNA SEMERU",
+      "alamat": "Jl.Perjuangan No. 129, Desa Bringin, Kecamatan Wajak, Kabupaten Malang.",
+      "kelurahan": "Bringin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": "70010505",
+      "nama_satuan_pendidikan": "SMP BINTANG RAUDLOH",
+      "alamat": "JL. Raya Codo No. 85",
+      "kelurahan": "Codo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": "20517443",
+      "nama_satuan_pendidikan": "SMP HASANUDDIN",
+      "alamat": "Jl. Cokroaminoto 42 Wajak - Kec. Wajak",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": "20562757",
+      "nama_satuan_pendidikan": "SMP ISLAM HIDAYATUL MUBTADIIN",
+      "alamat": "JL RAYA PATOKPICIS",
+      "kelurahan": "Patokpicis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": "69987207",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU AL - ULUM",
+      "alamat": "Jl. Sumber cungis 02 Komplek Ponpes Al-Ulum",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": "20549202",
+      "nama_satuan_pendidikan": "SMP ISLAM WAJAK",
+      "alamat": "Jl. Sumber Ilmu Sumbernongko Sumberputih Wajak",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 71,
+      "npsn": "69726600",
+      "nama_satuan_pendidikan": "SMP KH AMIR WAJAK",
+      "alamat": "Jl. KH. Amir Rt. 13 Rw. 04 Dsn. Krajan Ds. Ngembal",
+      "kelurahan": "Ngembal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 72,
+      "npsn": "20517507",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 WAJAK",
+      "alamat": "JL. RAYA SUKOANYAR NO. 504 WAJAK",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20566334",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 WAJAK SATU ATAP",
+      "alamat": "JL. SEMERU NO. 101 RT. 7 RW. 3",
+      "kelurahan": "Bambang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20517378",
+      "nama_satuan_pendidikan": "SMP PGRI 1 WAJAK",
+      "alamat": "Jl. Panglima Sudirman No. 18",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": "20517538",
+      "nama_satuan_pendidikan": "SMP PGRI 2 WAJAK",
+      "alamat": "JL. Arjuno 186",
+      "kelurahan": "Sumberputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": "70060991",
+      "nama_satuan_pendidikan": "SMP SABILILLAH BOARDING SCHOOL",
+      "alamat": "Jl. Diponegoro RT. 001 RW. 018",
+      "kelurahan": "Wajak",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. NGANTANG",
+  "updated_at": "2026-08-13T11:48:06.481Z",
+  "count": 49,
+  "negeri": 39,
+  "swasta": 10,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715114",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH KAUMREJO",
+      "alamat": "JL. INDUSTRI 136 KAUMREJO NGANTANG",
+      "kelurahan": "Kaumrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715113",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL. MASJID KASIN",
+      "kelurahan": "Jombok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "70011181",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA HIDAYATUL MUBTADIIN",
+      "alamat": "JL. MELATI NO. 19 BAYANAN RT. 23 RW. 03",
+      "kelurahan": "Ngantru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "20581278",
+      "nama_satuan_pendidikan": "MTSS NAHDLATUL ULAMA",
+      "alamat": "JL.MELATI NO.19 DUSUN BAYANAN RT.23/RW 04 DESA NGANTRU",
+      "kelurahan": "Ngantru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20581277",
+      "nama_satuan_pendidikan": "MTSS NURUL IMAN",
+      "alamat": "Jl. Masjid Kasin Desa Jombok",
+      "kelurahan": "Jombok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20518672",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANJAREJO",
+      "alamat": "JL. RAYA BANJAREJO, RT. 4 .RW. 1 DUSUN LAJU",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 7,
+      "npsn": "20518805",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANTUREJO",
+      "alamat": "JL. RAYA BANTUREJO NO. 45 , RT. 9 RW. 2 DUSUN BANU",
+      "kelurahan": "Banturejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 8,
+      "npsn": "20518365",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JOMBOK",
+      "alamat": "JL. RAYA JOMBOK NO.33 RT. 3 RW. 1 DUSUN JOMBOK",
+      "kelurahan": "Jombok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20518575",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KAUMREJO",
+      "alamat": "JL. RAYA KAUMREJO NO.52 RT. 21 RW. 4 DUSUN KAUMAN",
+      "kelurahan": "Kaumrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20554983",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MULYOREJO",
+      "alamat": "Jl. Raya Mulyorejo No. 14 RT. 1 RW. 1 Dusun Maron",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20517190",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGANTRU",
+      "alamat": "JL. RAYA NGANTRU RT. 1 RW. 1 DUSUN KENTENG",
+      "kelurahan": "Ngantru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20517088",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAGERSARI",
+      "alamat": "JL. RAYA PAGERSARI NO. 38 RT. 6 RW. 1  DUSUN PAGERSARI",
+      "kelurahan": "Pagersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20517225",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PURWOREJO",
+      "alamat": "JL. RAYA PAKAN  RT. 1 RW. 1 DUSUN PAKAN",
+      "kelurahan": "Purworejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20516903",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDODADI",
+      "alamat": "JL. KAWI NO.36 RT. 1 RW. 1 DUSUN SEKAR",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20517041",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERAGUNG",
+      "alamat": "RT. .08 RW. 2 DUSUN KEBONSARI",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20517679",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TULUNGREJO",
+      "alamat": "RT. 5 RW. 2 DUSUN JABON",
+      "kelurahan": "Tulungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20518818",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANJAREJO",
+      "alamat": "RT. 9 RW. 2 DUSUN LAJU",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20518576",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KAUMREJO",
+      "alamat": "JL. RAMBUTAN NO. 14 RT. 7 RW. 1 DUSUN PRABON",
+      "kelurahan": "Kaumrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20517156",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MULYOREJO",
+      "alamat": "RT. 20 RW. 3 DUSUN SUKOANYAR",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517177",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGANTRU",
+      "alamat": "RT. 14 RW. 2 DUSUN KENTENG",
+      "kelurahan": "Ngantru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517089",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAGERSARI",
+      "alamat": "JL. RAYA  SIDODADI NO. 37 DUSUN CLAKET",
+      "kelurahan": "Pagersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20517126",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANSARI",
+      "alamat": "JL. PROYEK BENDUNGAN SELOREJO, RT. 6 RW. 1 DUSUN PLUMBANG",
+      "kelurahan": "Pandansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20517226",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PURWOREJO",
+      "alamat": "RT. 8 RW. 2 DUSUN BINANGSRI",
+      "kelurahan": "Purworejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20516905",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDODADI",
+      "alamat": "JL. RAYA SIDODADI RT. 4 RW. 1 DUSUN SEKAR",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517043",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERAGUNG",
+      "alamat": "RT. 26 RW. 3 DUSUN SUMBERMULYO",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517696",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TULUNGREJO",
+      "alamat": "JL. MAKAM RT. 5 RW. 2 DUSUN JABON",
+      "kelurahan": "Tulungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20517591",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WATUREJO",
+      "alamat": "JL. RAYA WATUREJO NO.45 RT. 18 RW. 5  DUSUN WATULOR",
+      "kelurahan": "Waturejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20518820",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANJAREJO",
+      "alamat": "Jalan Selobrojo RT 01 RW 05, Dusun Turus",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20554982",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANTUREJO",
+      "alamat": "RT. 15 RW. 3 Dusun Ngramban",
+      "kelurahan": "Banturejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518367",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JOMBOK",
+      "alamat": "RT. 19  RW. 5 DUSUN NGEMBUL",
+      "kelurahan": "Jombok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517157",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MULYOREJO",
+      "alamat": "JL. RAYA KAMBAL RT. 23  RW. 4 DUSUN KAMBAL",
+      "kelurahan": "Mulyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20554981",
+      "nama_satuan_pendidikan": "SD NEGERI 3 NGANTRU",
+      "alamat": "JL. SAWAHAN NO.01 RT. 26 RW. 4 DUSUN BAYANAN",
+      "kelurahan": "Ngantru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517127",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PANDANSARI",
+      "alamat": "JL. MUNJUNG RT. 11 RW. 3  DUSUN MUNJUNG",
+      "kelurahan": "Pandansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517229",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PURWOREJO",
+      "alamat": "RT. 16 RW. 3 DUSUN JERUK",
+      "kelurahan": "Purworejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517045",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERAGUNG",
+      "alamat": "JL. RAYA BENDOREJO RT. 22 RW. 5 DUSUN BENDOREJO",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517592",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WATUREJO",
+      "alamat": "JL. TIRTOMOYO 1 RT. 30 RW. 9 DUSUN SUMBERGONDO",
+      "kelurahan": "Waturejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518368",
+      "nama_satuan_pendidikan": "SD NEGERI 4 JOMBOK",
+      "alamat": "RT. 24 RW. 6 DUSUN BULUREJO",
+      "kelurahan": "Jombok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518577",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KAUMREJO",
+      "alamat": "JL. RAYA SELOKURUNG NO.29 RT. 23 RW. 5 DUSUN SELOKURUNG",
+      "kelurahan": "Kaumrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517143",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PANDANSARI",
+      "alamat": "RT. 21 RW. 7 DUSUN SEDAWUN",
+      "kelurahan": "Pandansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516940",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SIDODADI",
+      "alamat": "JL. KAWI NO.02 RT. 11 RW. 2 DUSUN SALAM",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "70035210",
+      "nama_satuan_pendidikan": "SDIT TANWIRUL AFKAR",
+      "alamat": "Jalan Kali Suci Dusun Dermosari",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20517451",
+      "nama_satuan_pendidikan": "SMP ISLAM AHMAD YANI NGANTANG",
+      "alamat": "Jalan Raya No. 03",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20517463",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 NGANTANG",
+      "alamat": "JL. RAYA NO. 1 NGANTANG",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20517519",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 NGANTANG",
+      "alamat": "JL. RAYA BANJAREJO RT. 19 RW. 3",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20561842",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 NGANTANG SATU ATAP",
+      "alamat": "DUSUN NGEMBUL RT. 22 RW. 9",
+      "kelurahan": "Jombok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20561846",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 NGANTANG SATU ATAP",
+      "alamat": "JL. RAYA PAGERSARI NO. 38 PAGERSARI RT. 6 RW. 1",
+      "kelurahan": "Pagersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517372",
+      "nama_satuan_pendidikan": "SMP PGRI 01 NGANTANG",
+      "alamat": "Jalan Bendungan Selorejo RT. 009 / RW. 002",
+      "kelurahan": "Banturejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20517522",
+      "nama_satuan_pendidikan": "SMP PGRI 02 NGANTANG",
+      "alamat": "Jl. Raya Waturejo Rt. 018 Rw. 05",
+      "kelurahan": "Waturejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20517568",
+      "nama_satuan_pendidikan": "SMP VETERAN",
+      "alamat": "Jl. Raya Kambal Mulyorejo Ngantang",
+      "kelurahan": "Mulyorejo",
+      "status": "SWASTA"
+    }
+  ]
+}

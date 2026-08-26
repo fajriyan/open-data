@@ -1,0 +1,810 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SINGOSARI",
+  "updated_at": "2026-08-13T11:47:46.070Z",
+  "count": 100,
+  "negeri": 50,
+  "swasta": 50,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "20581317",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ALMAARIF 02 SINGOSARI",
+      "alamat": "JL. Sidomulyo 98",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "20581194",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ALMAARIF 03 SINGOSARI",
+      "alamat": "JL.MASJID BARAT GUNUNGREJO",
+      "kelurahan": "Gunungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715199",
+      "nama_satuan_pendidikan": "MI AL MA`ARIF 07",
+      "alamat": "JL. RAYA BUNUT 01",
+      "kelurahan": "Tunjungtirto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "69977696",
+      "nama_satuan_pendidikan": "MI AL-QUR`AN",
+      "alamat": "JL. RONGGOWUNI 1A",
+      "kelurahan": "Candirenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "69993487",
+      "nama_satuan_pendidikan": "MI AR ROUDLOH SINGOSARI",
+      "alamat": "Jl.Plosokerep RT 4 RW 7 Dengkol",
+      "kelurahan": "Dengkol",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715195",
+      "nama_satuan_pendidikan": "MIS AL MAARIF 03 LANGLANG SINGOSARI",
+      "alamat": "JL.MASJID 39 LANGLANG SINGOSARI MALANG",
+      "kelurahan": "Langlang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715198",
+      "nama_satuan_pendidikan": "MIS AL MAARIF 04 SINGOSARI",
+      "alamat": "JL. KRAMAT NO 55 KEBONAGUNG SINGOSARI MALANG",
+      "kelurahan": "Tamanharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715206",
+      "nama_satuan_pendidikan": "MIS AL MAARIF 05 BANJARARUM SINGOSARI",
+      "alamat": "JL. MUJAMIL 23 BANJARARUM KEC. SINGOSARI",
+      "kelurahan": "Banjararum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715203",
+      "nama_satuan_pendidikan": "MIS AL MAARIF 10",
+      "alamat": "JL.MASJID LOWOKJATI",
+      "kelurahan": "Baturetno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "69756671",
+      "nama_satuan_pendidikan": "MIS AL MAARIF 11",
+      "alamat": "JL. MASJID BARAT GUNUNGREJO SINGOSARI",
+      "kelurahan": "Gunungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715201",
+      "nama_satuan_pendidikan": "MIS AL MAARIF 12",
+      "alamat": "JL. DIPONEGORO ARDIMULYO",
+      "kelurahan": "Ardimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715204",
+      "nama_satuan_pendidikan": "MIS ALMAARIF 02 PAGENTAN SINGOSARI",
+      "alamat": "JL.MASJID 33 PAGENTAN SINGOSARI",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715202",
+      "nama_satuan_pendidikan": "MIS ALMAARIF 06 TOYOMARTO",
+      "alamat": "JL. CANDIRAWAN 3 TOYOMARTO SINGOSARI MALANG",
+      "kelurahan": "Toyomarto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715196",
+      "nama_satuan_pendidikan": "MIS ALMAARIF 08 WATUGEDE",
+      "alamat": "JL. MASJID 97 WATUGEDE",
+      "kelurahan": "Watugede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715200",
+      "nama_satuan_pendidikan": "MIS ALMAARIF 09 RANDUAGUNG SINGOSARI",
+      "alamat": "Jl. Raya Randuagung V/11",
+      "kelurahan": "Randuagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715197",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID NO.03",
+      "kelurahan": "Baturetno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715205",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUN NASYIIN",
+      "alamat": "DUSUN GENTONG PURWOASRI",
+      "kelurahan": "Purwoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "70027032",
+      "nama_satuan_pendidikan": "MTs Pendidikan Ilmu Al Quran",
+      "alamat": "Jl. Masjid BA Murtadho Gondorejo RT 5 RW 4",
+      "kelurahan": "Tamanharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20581318",
+      "nama_satuan_pendidikan": "MTSS ALMAARIF 01 SINGOSARI",
+      "alamat": "JL. MASJID NO. 33 SINGOSARI MALANG",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581320",
+      "nama_satuan_pendidikan": "MTSS DARUL FALAH",
+      "alamat": "JL. RAYA BUNUT NO. 01",
+      "kelurahan": "Tunjungtirto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581319",
+      "nama_satuan_pendidikan": "MTSS DARUL KAROMAH",
+      "alamat": "JL. RAYA RANDUAGUNG V/11",
+      "kelurahan": "Randuagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581321",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID NO. 03 BATURETNO, SINGOSARI, MALANG",
+      "kelurahan": "Baturetno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "69881661",
+      "nama_satuan_pendidikan": "MTSS Tribakti",
+      "alamat": "Jl Kebonagung 320",
+      "kelurahan": "Randuagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "69927898",
+      "nama_satuan_pendidikan": "MTsSEl-Jasmeen",
+      "alamat": "Jl. Tanjung Utara No. 31",
+      "kelurahan": "Banjararum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20554136",
+      "nama_satuan_pendidikan": "SD ISLAM ALMAARIF 01",
+      "alamat": "Jl. Sidorejo 55 SINGOSARI",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20554142",
+      "nama_satuan_pendidikan": "SD ISLAM ALMAARIF 02",
+      "alamat": "Jl. Masjid 115a Kelurahan Pagentan Singosari",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20554382",
+      "nama_satuan_pendidikan": "SD ISLAM BANI HASYIM",
+      "alamat": "Perum Persada Bhayangkara Singhasari Blok L-k",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20554137",
+      "nama_satuan_pendidikan": "SD ISLAM SALAFIYAH 03",
+      "alamat": "Jl. Raya Klampok Rw 06",
+      "kelurahan": "Klampok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20572178",
+      "nama_satuan_pendidikan": "SD ISLAM TERPADU AL USWAH",
+      "alamat": "Jl. Jayanegara 123",
+      "kelurahan": "Candirenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "69934006",
+      "nama_satuan_pendidikan": "SD ISLAM TERPADU ROBBANI",
+      "alamat": "Perum Bumi Mondoroko Raya Blok BB-BA RT.001 RW.012",
+      "kelurahan": "Watugede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20518631",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ARDIMULYO",
+      "alamat": "JL. RAYA ARDIMULYO NO 1  NO. 173 RT/RW:1/1",
+      "kelurahan": "Ardimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518653",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANJARARUM",
+      "alamat": "Jl. Raya Karanglo No. 62 RT 2 RW 4",
+      "kelurahan": "Banjararum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518807",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BATURETNO",
+      "alamat": "JL. RAYA BATURETNO DUSUN NAMPES RT. 6 RW. 2",
+      "kelurahan": "Baturetno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20518832",
+      "nama_satuan_pendidikan": "SD NEGERI 1 CANDIRENGGO",
+      "alamat": "JL. KERTANEGARA BARAT NO. 54 RT. 1 RW. 6",
+      "kelurahan": "Candirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518747",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DENGKOL",
+      "alamat": "JL. RAYA TOMPOREJO NO. 1 DENGKOL",
+      "kelurahan": "Dengkol",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518479",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GUNUNGREJO",
+      "alamat": "JL. ARJUNA NO. 218 DUKUH BIRU RT. 2 RW. 1",
+      "kelurahan": "Gunungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518500",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KLAMPOK",
+      "alamat": "JL. RAYA KLAMPOK NO.1",
+      "kelurahan": "Klampok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517086",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAGENTAN",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 17 SINGOSARI",
+      "kelurahan": "Pagentan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517309",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PURWOASRI",
+      "alamat": "RT. 1 RW. 5 DUSUN GEBYAK NO. 189",
+      "kelurahan": "Purwoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517210",
+      "nama_satuan_pendidikan": "SD NEGERI 1 RANDUAGUNG",
+      "alamat": "JL. RAYA RANDUAGUNG NO. 1 RT. 2 RW. 10",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20516967",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAMANHARJO",
+      "alamat": "JL. ARAGANI NO. 2 KOMPLEK TNI AU",
+      "kelurahan": "Tamanharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517656",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TOYOMARTO",
+      "alamat": "JL. NGUJUNG NO. 192 RT. 7 RW. 2",
+      "kelurahan": "Toyomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20517689",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TUNJUNGTIRTO",
+      "alamat": "JL. PERUSAHAAN NO.35 RT. 4 RW. 8",
+      "kelurahan": "Tunjungtirto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20517589",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WATUGEDE",
+      "alamat": "JL. CANDRA KIRANA RT. 2 RW. 4",
+      "kelurahan": "Watugede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517642",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOREJO",
+      "alamat": "JL. RAYA WONOREJO NO 1",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20518632",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ARDIMULYO",
+      "alamat": "JL. A YANI NO 163  RT. 2  RW. 1",
+      "kelurahan": "Ardimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20518654",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANJARARUM",
+      "alamat": "JL. RAYA TANJUNG NO 20 RT. 3 RW. 7",
+      "kelurahan": "Banjararum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20518808",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BATURETNO",
+      "alamat": "JL. LOWOKJATI BATURETNO",
+      "kelurahan": "Baturetno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20518800",
+      "nama_satuan_pendidikan": "SD NEGERI 2 CANDIRENGGO",
+      "alamat": "JL. KERTAREJASA NO. 67 RT. 3 RW. 3",
+      "kelurahan": "Candirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20518748",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DENGKOL",
+      "alamat": "JL. PNB HENDRICUS SUSANTO NO.005 DENGKOL RT. 4 RW. 4",
+      "kelurahan": "Dengkol",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518480",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GUNUNGREJO",
+      "alamat": "RT. 19 RW. 5 DUSUN KREWEH",
+      "kelurahan": "Gunungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20518487",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KLAMPOK",
+      "alamat": "RT. RW.  02 08 DUSUN SUMBUL",
+      "kelurahan": "Klampok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20517087",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAGENTAN",
+      "alamat": "JL. KARTANEGARA NO. 99 RT. 04 RW. 03",
+      "kelurahan": "Pagentan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20517310",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PURWOASRI",
+      "alamat": "JL. MOROTANJEK DUSUN MOROTANJEK RT 1 / RW 7",
+      "kelurahan": "Purwoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20517211",
+      "nama_satuan_pendidikan": "SD NEGERI 2 RANDUAGUNG",
+      "alamat": "JL. RAYA GANG I RANDUAGUNG RT. 2 RW. 10",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20554102",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAMANHARJO",
+      "alamat": "KOMPLEK TNI AU PRINGGODANI TAMANHARJO",
+      "kelurahan": "Tamanharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517657",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TOYOMARTO",
+      "alamat": "JL. RAYA WONOSARI NO 182",
+      "kelurahan": "Toyomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517690",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TUNJUNGTIRTO",
+      "alamat": "JL. BUNUT TUNJUNGTIRTO",
+      "kelurahan": "Tunjungtirto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20517590",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WATUGEDE",
+      "alamat": "JL. CANDRA KIRANA NO 54",
+      "kelurahan": "Watugede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20517630",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOREJO",
+      "alamat": "JL. RAYA WONOREJO RT. 1 RW. 1",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20518655",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANJARARUM",
+      "alamat": "JL. RAYA MONDOROKO NO.17 A RT. 2 RW. 6",
+      "kelurahan": "Banjararum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20554104",
+      "nama_satuan_pendidikan": "SD NEGERI 3 CANDIRENGGO",
+      "alamat": "JL. TUNGGUL AMETUNG NO. 12 RT. 1 RW. 8",
+      "kelurahan": "Candirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20517090",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAGENTAN",
+      "alamat": "Jl. Ronggolawe Gang II No. 27 RT. 5 RW. 3",
+      "kelurahan": "Pagentan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20517212",
+      "nama_satuan_pendidikan": "SD NEGERI 3 RANDUAGUNG",
+      "alamat": "Jl. Raya Randuagung No. 1 RT 04 RW 01 Kecamatan Singosari",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20554103",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TAMANHARJO",
+      "alamat": "JL. ARAGANI NO.4 RT. 6 RW. 3 PAGAS TAMANHARJO",
+      "kelurahan": "Tamanharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20517658",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TOYOMARTO",
+      "alamat": "PTPN 12 KEBUN TEH WONOSARI RT. 3 RW. 7",
+      "kelurahan": "Toyomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20518810",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BATURETNO",
+      "alamat": "JL. DUSUN BENEL RT. 2 RW. 1",
+      "kelurahan": "Baturetno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20517659",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TOYOMARTO",
+      "alamat": "DUSUN GLATIK",
+      "kelurahan": "Toyomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20517619",
+      "nama_satuan_pendidikan": "SD NEGERI 4 WONOREJO",
+      "alamat": "JL. MASJID DUSUN BANYOL-PUSUNG",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20518753",
+      "nama_satuan_pendidikan": "SD NEGERI 5 CANDIRENGGO",
+      "alamat": "JL. EMPU GANDRING RT. 7 RW. 9 TEJOSARI",
+      "kelurahan": "Candirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20517213",
+      "nama_satuan_pendidikan": "SD NEGERI 5 RANDUAGUNG",
+      "alamat": "JL. AHMAD YANI NO.09 YONKAV 3/AC",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20518539",
+      "nama_satuan_pendidikan": "SD NEGERI LANGLANG",
+      "alamat": "JL. RAYA LANGLANG REJO RT. RW. : 004 001 DESA LANGLANG",
+      "kelurahan": "Langlang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20518522",
+      "nama_satuan_pendidikan": "SD NEGERI LOSARI",
+      "alamat": "JL. SUROPATI RT. 1 RW. 3 NO 299",
+      "kelurahan": "Losari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "70024198",
+      "nama_satuan_pendidikan": "SDI NURUL JADID",
+      "alamat": "Jl. Rogonoto Timur No. 4 RT. 1 RW. 4 Tamanharjo",
+      "kelurahan": "Tamanharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": "70058817",
+      "nama_satuan_pendidikan": "Sekolah Rakyat Dasar Terintegrasi 47 Malang",
+      "alamat": "Jl. Raya Singosari No.1, Song Song, Ardimulyo, Kec.Singosari,Kabupaten Malang",
+      "kelurahan": "Ardimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "70062426",
+      "nama_satuan_pendidikan": "SMP AL-QURAN NURUL HUDA",
+      "alamat": "Dusun Glatik RT. 002 RW. 005",
+      "kelurahan": "Toyomarto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "20517416",
+      "nama_satuan_pendidikan": "SMP ANGKASA SINGOSARI",
+      "alamat": "Jalan Rogonoto Timur",
+      "kelurahan": "Tamanharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "70034037",
+      "nama_satuan_pendidikan": "SMP DAARUL UKHUWWAH PUTRI 2",
+      "alamat": "Jl. Morotanjek RT. 01 RW. 07",
+      "kelurahan": "Purwoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "20517411",
+      "nama_satuan_pendidikan": "SMP DARUL QURAN",
+      "alamat": "Jl. Pesantren 190 Sanan",
+      "kelurahan": "Watugede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "20564245",
+      "nama_satuan_pendidikan": "SMP ISLAM AL AKBAR SINGOSARI",
+      "alamat": "JL. DIPONEGORO ARDIMULYO",
+      "kelurahan": "Ardimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "20517453",
+      "nama_satuan_pendidikan": "SMP ISLAM ALMAARIF 01 SINGOSARI",
+      "alamat": "Jl. Ronggolawe No. 19 RT 07 RW 03",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "20517454",
+      "nama_satuan_pendidikan": "SMP ISLAM ALMAARIF 02 SINGOSARI",
+      "alamat": "Jl. Candirawan No. 03 RT. 01 RW. 03",
+      "kelurahan": "Toyomarto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20517430",
+      "nama_satuan_pendidikan": "SMP ISLAM FATAHILLAH",
+      "alamat": "Langlang",
+      "kelurahan": "Langlang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "20566373",
+      "nama_satuan_pendidikan": "SMP ISLAM MUQORROBIN SINGOSARI",
+      "alamat": "Jl. Lowokjati RT 01 RW 04",
+      "kelurahan": "Baturetno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": "20517365",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 4",
+      "alamat": "Jl. Kenarok No 9 Rt 2 Rw 9 Singosari",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "20517469",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SINGOSARI",
+      "alamat": "JL. RAYA NO. 1 SINGOSARI",
+      "kelurahan": "Candirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 87,
+      "npsn": "20517494",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 SINGOSARI",
+      "alamat": "JL. RAYA KLAMPOK NO. 243",
+      "kelurahan": "Klampok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 88,
+      "npsn": "20517502",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 SINGOSARI",
+      "alamat": "JL. ARAGANI No. 1 KOMPLEK TNI-AU PAGAS",
+      "kelurahan": "Tamanharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 89,
+      "npsn": "20561859",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 SINGOSARI SATU ATAP",
+      "alamat": "JL. RAYA WONOREJO  RT. 2 RW. 1 DUSUN BLANDIT BARAT",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 90,
+      "npsn": "20570271",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 SINGOSARI SATU ATAP",
+      "alamat": "DUSUN SUMBUL",
+      "kelurahan": "Klampok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 91,
+      "npsn": "69728235",
+      "nama_satuan_pendidikan": "SMP NEGERI 6 SINGOSARI",
+      "alamat": "JL. PERUSAHAAN NO. 20 RT. 2  RW. 10",
+      "kelurahan": "Tunjungtirto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 92,
+      "npsn": "20517374",
+      "nama_satuan_pendidikan": "SMP PGRI 01 SINGOSARI",
+      "alamat": "Jalan Jaya Wardhana no 30",
+      "kelurahan": "Candirenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": "20517548",
+      "nama_satuan_pendidikan": "SMP PGRI 02 SINGOSARI",
+      "alamat": "Jl.Ken Arok 49 Singosari",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": "20558301",
+      "nama_satuan_pendidikan": "SMP PLUS HIDAYATUL MUBTADIIN",
+      "alamat": "Jl. Kembang No. 2",
+      "kelurahan": "Purwoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 95,
+      "npsn": "70043002",
+      "nama_satuan_pendidikan": "SMP QUR AN AR-ROUDLOH",
+      "alamat": "Plosokerep RT. 04 RW. 07",
+      "kelurahan": "Dengkol",
+      "status": "SWASTA"
+    },
+    {
+      "no": 96,
+      "npsn": "70057521",
+      "nama_satuan_pendidikan": "SMP TAKHASSUS AL ISHLAHIYAH",
+      "alamat": "Jl. Kramat No. 81 RT. 003 RW. 004",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 97,
+      "npsn": "69830464",
+      "nama_satuan_pendidikan": "SMP THORIQOTUN NAJAH SINGOSARI",
+      "alamat": "Jl. Sidomukti No.21 Rt.03 Rw.01",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 98,
+      "npsn": "20577833",
+      "nama_satuan_pendidikan": "SMPS AL FATTAH",
+      "alamat": "JL. SIDOAGUNG NO. 19",
+      "kelurahan": "Candirenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 99,
+      "npsn": "20573175",
+      "nama_satuan_pendidikan": "SMPS ISLAM BANI HASYIM",
+      "alamat": "PERUM PERSADA BHAYANGKARA",
+      "kelurahan": "Pagentan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 100,
+      "npsn": "20549201",
+      "nama_satuan_pendidikan": "SMPS ISLAM SALAFIYAH SINGOSARI",
+      "alamat": "JL. RAYA KLAMPOK RW.06 RT.01",
+      "kelurahan": "Klampok",
+      "status": "SWASTA"
+    }
+  ]
+}

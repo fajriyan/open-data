@@ -1,0 +1,330 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. WONOSARI",
+  "updated_at": "2026-08-13T11:46:59.739Z",
+  "count": 40,
+  "negeri": 31,
+  "swasta": 9,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69928991",
+      "nama_satuan_pendidikan": "MI Mambaul Ulum",
+      "alamat": "Kauman",
+      "kelurahan": "Kebobang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715292",
+      "nama_satuan_pendidikan": "MIS MINU PLANDI 01",
+      "alamat": "JL. DR. WAHIDIN 043",
+      "kelurahan": "Plandi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715293",
+      "nama_satuan_pendidikan": "MIS MINU PLANDI 02",
+      "alamat": "JL.PESANTREN  NO.1 SELOBEKITI",
+      "kelurahan": "Plandi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "20581356",
+      "nama_satuan_pendidikan": "MTSS NU WAHID HASYIM",
+      "alamat": "JL. RAYA KUSUMA BANGSA NO.28 PATUKSARI PLAOSAN WONOSARI",
+      "kelurahan": "Kluwut",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20581357",
+      "nama_satuan_pendidikan": "MTSS SUBULAS SALAM",
+      "alamat": "JL K. YUSUF NO.01 SELOBEKITI 24/04 DESA PLANDI KECAMATAN WONOSARI",
+      "kelurahan": "Plandi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20518649",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANGELAN",
+      "alamat": "RT. 8 RW. 1 Dusun Bangelan",
+      "kelurahan": "Bangelan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 7,
+      "npsn": "20518578",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEBOBANG",
+      "alamat": "JL. RAYA TUMPANGREJO NO. 358 RT. 3 RW. 8  DUSUN TUMPANGREJO",
+      "kelurahan": "Kebobang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 8,
+      "npsn": "20518679",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KLUWUT",
+      "alamat": "JL. RAYA KAWI RT. 2 RW. 1 DUSUN KLUWUT",
+      "kelurahan": "Kluwut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20517282",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PLANDI",
+      "alamat": "JL. PANDAN PLOSO RT. 26 RW. 5",
+      "kelurahan": "Plandi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20517284",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PLAOSAN",
+      "alamat": "JL. SIMPANG TIGA NO.5 RT. 1   RW. 3 DESA PLAOSAN",
+      "kelurahan": "Kluwut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20517024",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERDEM",
+      "alamat": "Jl. Raya Sumberingin NO.49-B/ 175 Desa Sumberdem Kecamatan Wonosari",
+      "kelurahan": "Sumberdem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20516978",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERTEMPUR",
+      "alamat": "RT. 2 RW. 7 DUSUN TEMPURSARI WETAN",
+      "kelurahan": "Sumbertempur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20517621",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOSARI",
+      "alamat": "RT. 4 RW. 14 DUSUN KAMPUNGBARU",
+      "kelurahan": "Wonosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20555015",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANGELAN",
+      "alamat": "JL. RAYA ARJOMULYO RT. 2 RW. 4",
+      "kelurahan": "Bangelan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20518564",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEBOBANG",
+      "alamat": "JL. RAYA BUMIREJO RT. 5 RW. 12 DUSUN BUMIREJO",
+      "kelurahan": "Kebobang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20518493",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KLUWUT",
+      "alamat": "JL. RAYA KAWI 267 RT. 4 RW. 4 DUSUN NGREJO",
+      "kelurahan": "Kluwut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20517283",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PLANDI",
+      "alamat": "JL. JUANDA NO. 16 RT. 31 RW. 2",
+      "kelurahan": "Plandi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20555016",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PLAOSAN",
+      "alamat": "RT. 3 RW. 7 DUSUN SUMBERKERTO",
+      "kelurahan": "Plaosan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20517025",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERDEM",
+      "alamat": "RT. 1 RW. 4 DUSUN REKESAN",
+      "kelurahan": "Sumberdem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20516979",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERTEMPUR",
+      "alamat": "JL. TUGU, NO. 1 DUSUN TEMPUR LOR",
+      "kelurahan": "Sumbertempur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517622",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOSARI",
+      "alamat": "JL. RAYA KAWI NO. 643 RT. 4 RW. 2",
+      "kelurahan": "Wonosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518650",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANGELAN",
+      "alamat": "PTPN XII BANGELAN RT:04 RW:05 DUSUN SIDOMULYO",
+      "kelurahan": "Bangelan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518563",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEBOBANG",
+      "alamat": "JL. RAYA KEBOBANG NO 354 RT. 2 RW. 3",
+      "kelurahan": "Kebobang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518557",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KLUWUT",
+      "alamat": "RT. 1 RW. 6 DUSUN MULYOSARI",
+      "kelurahan": "Kluwut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517300",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PLAOSAN",
+      "alamat": "RT. 5 RW. 1 DUSUN PATUKSARI",
+      "kelurahan": "Plaosan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20518726",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERDEM",
+      "alamat": "JL.Raya Duren Gede RT 03 / RW 03",
+      "kelurahan": "Sumberdem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516980",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERTEMPUR",
+      "alamat": "RT. 2 RW. 6 DUSUN TEMPURSARI WETAN",
+      "kelurahan": "Sumbertempur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517623",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WONOSARI",
+      "alamat": "JL. RAYA PIJIOMBO NO. 69 RT. 06 RW. 12",
+      "kelurahan": "Wonosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518651",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BANGELAN",
+      "alamat": "JL. RAYA TUMPANGSARI",
+      "kelurahan": "Bangelan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518549",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KEBOBANG",
+      "alamat": "JL. RAYA LOPAWON NO. 398 RT. 3 RW. 11 DUSUN LOPAWON",
+      "kelurahan": "Kebobang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517301",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PLAOSAN",
+      "alamat": "JL. RAYA SUNDAN RT. 2,RW. 10 DESA PLAOSAN",
+      "kelurahan": "Plaosan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20517624",
+      "nama_satuan_pendidikan": "SD NEGERI 4 WONOSARI",
+      "alamat": "JL. RAYA SUMBERSARI NO. 11 RT. 4  RW. 9",
+      "kelurahan": "Wonosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518652",
+      "nama_satuan_pendidikan": "SD NEGERI 5 BANGELAN",
+      "alamat": "JL. KAMPUNG BARU RT. 3 RW. 6 DUSUN KAMPUNG BARU",
+      "kelurahan": "Bangelan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20518550",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KEBOBANG",
+      "alamat": "JL. Raya Bumirejo RT 02 RW 15 Desa Kebobang",
+      "kelurahan": "Kebobang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517302",
+      "nama_satuan_pendidikan": "SD NEGERI 5 PLAOSAN",
+      "alamat": "JL. RAYA PLAOSAN RT. 7 RW. 5 DUSUN PLAOSAN",
+      "kelurahan": "Plaosan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518707",
+      "nama_satuan_pendidikan": "SDI UNGGULAN KYAI ZAKARIA",
+      "alamat": "Jl. Pesarean Rt 9 Rw 5 No 522",
+      "kelurahan": "Wonosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20517508",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 WONOSARI",
+      "alamat": "JL. RAYA BUMIREJO NO. 45 RT. 1 RW. 14",
+      "kelurahan": "Kebobang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517394",
+      "nama_satuan_pendidikan": "SMP PGRI 01 WONOSARI",
+      "alamat": "JL. RAYA KAWI NO.476 NGREJO - KLUWUT",
+      "kelurahan": "Kluwut",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20517537",
+      "nama_satuan_pendidikan": "SMP PGRI 02 WONOSARI",
+      "alamat": "Sumbertempur",
+      "kelurahan": "Sumbertempur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20517530",
+      "nama_satuan_pendidikan": "SMP PGRI 03 WONOSARI",
+      "alamat": "JL. RAYA SUMBERINGIN NO. 59",
+      "kelurahan": "Sumberdem",
+      "status": "SWASTA"
+    }
+  ]
+}

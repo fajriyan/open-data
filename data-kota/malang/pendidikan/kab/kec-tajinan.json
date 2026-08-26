@@ -1,0 +1,434 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. TAJINAN",
+  "updated_at": "2026-08-13T11:47:20.643Z",
+  "count": 53,
+  "negeri": 22,
+  "swasta": 31,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69894659",
+      "nama_satuan_pendidikan": "Ar-Roudhoh",
+      "alamat": "Jl. Raya Dusun Kalimeri",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70030414",
+      "nama_satuan_pendidikan": "MI NUR ILAHI",
+      "alamat": "Jl. Raya Tangkilsari RT 028 RT 006",
+      "kelurahan": "Tangkilsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715238",
+      "nama_satuan_pendidikan": "MIS AL FATAH",
+      "alamat": "JL.KH. SALIM 167  RT. 023  RW. 004",
+      "kelurahan": "Jatisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715227",
+      "nama_satuan_pendidikan": "MIS AL HIKMAH",
+      "alamat": "JL RAYA 127 TAJINAN",
+      "kelurahan": "Tajinan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715235",
+      "nama_satuan_pendidikan": "MIS AL ISTIQOMAH",
+      "alamat": "JL RAYA SUMBERSUKO NO. 21",
+      "kelurahan": "Jatisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715233",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL RAYA RANDUGADING 150",
+      "kelurahan": "Randugading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715234",
+      "nama_satuan_pendidikan": "MIS DARUSSALAMAH",
+      "alamat": "DUSUN ARGOMULYO 03 RT.21 RW.04",
+      "kelurahan": "Gunungronggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715230",
+      "nama_satuan_pendidikan": "MIS HASYIM ASY ARI",
+      "alamat": "JL SUROYUDO NO.9",
+      "kelurahan": "Ngawonggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715232",
+      "nama_satuan_pendidikan": "MIS HAYATUL ISLAM",
+      "alamat": "JL BUGENVIL NO.20 RT 06 RW 01",
+      "kelurahan": "Purwosekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715237",
+      "nama_satuan_pendidikan": "MIS JABAL TSUR",
+      "alamat": "KARANGNONGKO - TAJINAN  KEC.TAJINAN MALANG",
+      "kelurahan": "Tajinan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715231",
+      "nama_satuan_pendidikan": "MIS MANSYAUL ULUM",
+      "alamat": "JL MASJID 90",
+      "kelurahan": "Jambearjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715228",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL H.ABDUL KARIM DS PURWOSEKAR",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715229",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL RAYA JAMBEARJO",
+      "kelurahan": "Jambearjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715236",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL RAYA GUNUNGSARI",
+      "kelurahan": "Gunungsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715226",
+      "nama_satuan_pendidikan": "MIS NURUL ISLAM",
+      "alamat": "JL RAYA SUMBERSUKO 41",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715240",
+      "nama_satuan_pendidikan": "MIS ROMLI AFIFAH",
+      "alamat": "JL. KLENGKENG 12 RT.07/01 TAMBAKASRI",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715239",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL RAYA TANGKILSARI 180",
+      "kelurahan": "Tangkilsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "69977756",
+      "nama_satuan_pendidikan": "MTS ANNUR AL HUDA",
+      "alamat": "JL. SUROYUDO NO 04 DSN MERTOYOSO DS NGAWONGGO",
+      "kelurahan": "Ngawonggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "69977754",
+      "nama_satuan_pendidikan": "MTS NUR ILAHI",
+      "alamat": "JL. RAYA TANGKILSARI UTARA",
+      "kelurahan": "Tangkilsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581334",
+      "nama_satuan_pendidikan": "MTSS AL- ISTIQOMAH",
+      "alamat": "JL.BASUKI RAHMAT NO 25.SUMBERSUKO TAJINAN MALANG",
+      "kelurahan": "Jatisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581336",
+      "nama_satuan_pendidikan": "MTSS AL-MUNAWWAROH",
+      "alamat": "JL. MASJID NO.24 PANDANMULYO",
+      "kelurahan": "Pandanmulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "70011658",
+      "nama_satuan_pendidikan": "MTSS AR ROUDHOH",
+      "alamat": "JL. KALIMERI",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581333",
+      "nama_satuan_pendidikan": "MTSS BAHRUL ULUM",
+      "alamat": "JL. KH. SALIM 167",
+      "kelurahan": "Jatisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581335",
+      "nama_satuan_pendidikan": "MTSS BAHRUL ULUM",
+      "alamat": "JL. RAYA TAJINAN 50 TAJINAN MALANG- JAWA TIMUR",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20518461",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JAMBEARJO",
+      "alamat": "JL. KEPALA DESA NO. 117  RT: 14 RW: 04  DUSUN KARANGJAMBE",
+      "kelurahan": "Jambearjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517182",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGAWONGGO",
+      "alamat": "JL. SUROYUDO RT. 3 RW. 2 DUSUN MERTOYOSO",
+      "kelurahan": "Ngawonggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20517116",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANMULYO",
+      "alamat": "JL. MASJID NO 80 RT. 8 RW. 2 DUSUN KALIGORO",
+      "kelurahan": "Pandanmulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517231",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PURWOSEKAR",
+      "alamat": "JL. DUSUN PURBOYO RT. 22 RW. 3",
+      "kelurahan": "Purwosekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20517214",
+      "nama_satuan_pendidikan": "SD NEGERI 1 RANDUGADING",
+      "alamat": "JL. ANJANGSANA RT. 9 RW. 3",
+      "kelurahan": "Randugading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20516969",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAJINAN",
+      "alamat": "JL. RAYA TAJINAN NO 05 RT. 17 RW. 7",
+      "kelurahan": "Tajinan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20571228",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAMBAKASRI",
+      "alamat": "JL. KLENGKENG GG. 4  RT. 8  RW. 1",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20517002",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TANGKILSARI",
+      "alamat": "JL. RAYA TANGKILSARI RT:12   RW: 03",
+      "kelurahan": "Tangkilsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518462",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JAMBEARJO",
+      "alamat": "JL BARU RT. 8 RW. 2",
+      "kelurahan": "Jambearjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517183",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGAWONGGO",
+      "alamat": "JL. SIDOMAKMUR RT. 8 RW. 4",
+      "kelurahan": "Ngawonggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517117",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANMULYO",
+      "alamat": "JL. JAMBU JINGGO NO. 1  RT. 22  RW. 5",
+      "kelurahan": "Pandanmulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517232",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PURWOSEKAR",
+      "alamat": "JL. IMANSARI RT. 12 RW. 2",
+      "kelurahan": "Purwosekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20516956",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAJINAN",
+      "alamat": "JL. LAPANGAN RT. 12 RW. 6",
+      "kelurahan": "Tajinan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517015",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAMBAKASRI",
+      "alamat": "Jl. Kelengkeng Gg. 5 No. 9  RT. 05 RW. 01",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20555010",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TANGKILSARI",
+      "alamat": "Jalan Diponegoro No. 2 Krajan",
+      "kelurahan": "Tangkilsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517215",
+      "nama_satuan_pendidikan": "SD NEGERI 3 RANDUGADING",
+      "alamat": "JL. BARAN RT. 3 RW. 1",
+      "kelurahan": "Randugading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517216",
+      "nama_satuan_pendidikan": "SD NEGERI 4 RANDUGADING",
+      "alamat": "JL. SRIGADING RT. 21  RW. 6",
+      "kelurahan": "Randugading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518475",
+      "nama_satuan_pendidikan": "SD NEGERI GUNUNGRONGGO",
+      "alamat": "JL. SIDODADI NO.172  RT. 6 RW. 1",
+      "kelurahan": "Gunungronggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518481",
+      "nama_satuan_pendidikan": "SD NEGERI GUNUNGSARI",
+      "alamat": "JL. RAYA GUNUNGSARI RT. 6 RW. 2",
+      "kelurahan": "Gunungsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518383",
+      "nama_satuan_pendidikan": "SD NEGERI JATISARI",
+      "alamat": "JL. KH. SALIM NO.127 RT. 22 RW. 4",
+      "kelurahan": "Jatisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20555009",
+      "nama_satuan_pendidikan": "SD NEGERI SUMBERSUKO",
+      "alamat": "JL. A. YANI NO. 30 RT. 12 RW. 3",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "70054231",
+      "nama_satuan_pendidikan": "SMP AHBABUL FALAH",
+      "alamat": "Dusun Sukomulyo RT. 004 RW. 002",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20517445",
+      "nama_satuan_pendidikan": "SMP HASYIM ASYARI",
+      "alamat": "Jl Suroyudo No 9",
+      "kelurahan": "Ngawonggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20517452",
+      "nama_satuan_pendidikan": "SMP ISLAM AL HIKMAH TAJINAN",
+      "alamat": "Jl. Raya 127 Tajinan",
+      "kelurahan": "Tajinan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20517382",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 07",
+      "alamat": "Jl. Raya Sumbersuko NO 41",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20517472",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 TAJINAN",
+      "alamat": "JL. RAYA GUNUNGSARI NO. 21",
+      "kelurahan": "Gunungsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20517375",
+      "nama_satuan_pendidikan": "SMP PGRI 01TAJINAN",
+      "alamat": "Jl. Raya Sumbersuko Tajinan",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "70038488",
+      "nama_satuan_pendidikan": "SMP QURANI A-SYARICHIN",
+      "alamat": "Jl. Keramat Raya No. 105",
+      "kelurahan": "Tajinan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "69787569",
+      "nama_satuan_pendidikan": "SMPS TARBIYYATUS SHIBYAN TAJINAN",
+      "alamat": "Jl. Pesantren Rt.08 Rw.04 Jambearjo Tajinan",
+      "kelurahan": "Jambearjo",
+      "status": "SWASTA"
+    }
+  ]
+}

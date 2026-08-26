@@ -1,0 +1,458 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PAGELARAN",
+  "updated_at": "2026-08-13T11:46:23.858Z",
+  "count": 56,
+  "negeri": 20,
+  "swasta": 36,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715121",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NAHDLATUL ULAMA",
+      "alamat": "JL. RAYA GUNUNG PANDAK",
+      "kelurahan": "Kademangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60716871",
+      "nama_satuan_pendidikan": "MAMBAUL ULUM",
+      "alamat": "JL. KH. HASBULLAH Banjarejo",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715130",
+      "nama_satuan_pendidikan": "MIS AL-FALAH",
+      "alamat": "JL. SUNAN KALIJAGA NGIPIK KANIGORO PAGELARAN",
+      "kelurahan": "Kanigoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715131",
+      "nama_satuan_pendidikan": "MIS AZHARUL ULUM 01",
+      "alamat": "Jl. KH. Bahrowi 715 RT.01 RW.01",
+      "kelurahan": "Brongkal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715123",
+      "nama_satuan_pendidikan": "MIS AZHARUL ULUM 02",
+      "alamat": "JL KH HASYIM ASYARI",
+      "kelurahan": "Brongkal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715133",
+      "nama_satuan_pendidikan": "MIS AZHARUL ULUM 03",
+      "alamat": "JL. KH MOH IHSAN 35",
+      "kelurahan": "Brongkal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715129",
+      "nama_satuan_pendidikan": "MIS BABUSSALAM",
+      "alamat": "JL. KH. HASYIM ASYARI",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715128",
+      "nama_satuan_pendidikan": "MIS BUSTANUL ULUM",
+      "alamat": "JL. SUMBER TAMAN",
+      "kelurahan": "Karangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715135",
+      "nama_satuan_pendidikan": "MIS HASANUDDIN",
+      "alamat": "JL. JENDRAL SUDIRMAN 88",
+      "kelurahan": "Clumprit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715122",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL MUBTADIIN",
+      "alamat": "JL. SAWUNGGALING NO.02",
+      "kelurahan": "Pagelaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715125",
+      "nama_satuan_pendidikan": "MIS IMAMUSSALAM",
+      "alamat": "JL. KH. SYUHUD ZAYYADI",
+      "kelurahan": "Karangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715124",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL. DIPONEGORO 25 SUMBER GEMPOL",
+      "kelurahan": "Pagelaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715126",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. SULTAN AGUNG NO. 07 KANIGORO KECAMATAN PAGELARAN",
+      "kelurahan": "Kanigoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715134",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. KI HAJAR DEWANTARA NO.37",
+      "kelurahan": "Balearjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715132",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM SIDOREJO",
+      "alamat": "JL. IR. SOEKARNO NO. 04 SIDOREJO",
+      "kelurahan": "Sidorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715127",
+      "nama_satuan_pendidikan": "MIS NURUL HASAN",
+      "alamat": "JL.SUNAN KUDUS GUNUNG PANDAK",
+      "kelurahan": "Kademangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "70029191",
+      "nama_satuan_pendidikan": "MTs BADRUSSALAM INDONESIA",
+      "alamat": "Jalan Raya Kademangan RT. 22, RW. 03",
+      "kelurahan": "Kademangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20581284",
+      "nama_satuan_pendidikan": "MTSS AL AZHAR",
+      "alamat": "JL. RAYA KANIGORO RT.16 RW.01 DESA KANIGORO PAGELARAN MALANG",
+      "kelurahan": "Kanigoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20581292",
+      "nama_satuan_pendidikan": "MTSS AL-KHOIROT",
+      "alamat": "JL. KH. SYUHUD ZAYYADI NO. 02 RT.09 RW.01",
+      "kelurahan": "Karangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581285",
+      "nama_satuan_pendidikan": "MTSS AZHARUL ULUM 02",
+      "alamat": "JL. KH. HASYIM ASYARI",
+      "kelurahan": "Brongkal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581281",
+      "nama_satuan_pendidikan": "MTSS BABUSSALAM",
+      "alamat": "JL.KH.HASYIM ASYARI BANJAREJO",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581286",
+      "nama_satuan_pendidikan": "MTSS BUSTANUL ULUM",
+      "alamat": "JL.SUMBERTAMAN",
+      "kelurahan": "Karangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581290",
+      "nama_satuan_pendidikan": "MTSS HASANUDDIN",
+      "alamat": "JL. JENDRAL SUDIRMAN 88",
+      "kelurahan": "Pagelaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581282",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "JL. KH. HASBULLAH 25/08 BANJAREJO",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581287",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "JL. DIPONEGORO 25 SUMBERGEMPOL",
+      "kelurahan": "Pagelaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581283",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JL. SULTAN AGUNG NO.07 KANIGORO",
+      "kelurahan": "Kanigoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20581288",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM SIDOREJO",
+      "alamat": "JL. IR. SOEKARNO NO. 04",
+      "kelurahan": "Sidorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20581291",
+      "nama_satuan_pendidikan": "MTSS NU GP KADEMANGAN",
+      "alamat": "JLN RAYA GUNUNG PANDAK RT.32 RW.04",
+      "kelurahan": "Kademangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20581280",
+      "nama_satuan_pendidikan": "MTSS NU HIIDAYATUL MUBTADIIN",
+      "alamat": "JL. SAWUNGGALING NO.2 SIPRING PAGELARAN",
+      "kelurahan": "Pagelaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20518801",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANJAREJO",
+      "alamat": "JL. RAYA BANJAREJO NO:41 RT:13 RW:05 DUSUN SUKO ARUM",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20554984",
+      "nama_satuan_pendidikan": "SD NEGERI 1 CLUMPRIT",
+      "alamat": "JL. JEND. SUDIRMAN NO.183 RT. 15 RW. 3",
+      "kelurahan": "Clumprit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518369",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KADEMANGAN",
+      "alamat": "JL. RAYA KADEMANGAN N0.118 RT. 18   RW. 2",
+      "kelurahan": "Kademangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518418",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KANIGORO",
+      "alamat": "JL. SULTAN AGUNG NO. 7",
+      "kelurahan": "Kanigoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20518569",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGSUKO",
+      "alamat": "JL. RAYA KARANGSUKO NO. 2 RT. 4 RW. 1 DUSUN ADILUWIH",
+      "kelurahan": "Karangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517084",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAGELARAN",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 43 RT. 21 RW. 2 DUSUN KRAJAN",
+      "kelurahan": "Pagelaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20516939",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDOREJO",
+      "alamat": "JL. IR. SOEKARNO NO.23 RT. 12 RW. 5",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518370",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KADEMANGAN",
+      "alamat": "JL. RAYA KADEMANGAN RT. 11   RW. 2",
+      "kelurahan": "Kademangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518419",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KANIGORO",
+      "alamat": "JL. PANDAWA NO 1 RT. 46 RW. 5 DUSUN JAMBEGEDE",
+      "kelurahan": "Kanigoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518568",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KARANGSUKO",
+      "alamat": "JL. SUMBER MARON NO. 1 RT. 13 RW. 3 DUSUN ADILUWIH",
+      "kelurahan": "Karangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516926",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDOREJO",
+      "alamat": "JL. RA KARTINI NO. 38 DUSUN ARDIREJO",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518757",
+      "nama_satuan_pendidikan": "SD NEGERI 3 CLUMPRIT",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO.114 RT. 15 RW. 3",
+      "kelurahan": "Clumprit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518371",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KADEMANGAN",
+      "alamat": "JL. RAYA KADEMANGAN NO 119 RT. 17 RW. 2 KRAJAN",
+      "kelurahan": "Kademangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518406",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KANIGORO",
+      "alamat": "JL. KYAI MOJO RT. 32 RW. 3",
+      "kelurahan": "Kanigoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518405",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KANIGORO",
+      "alamat": "JL. SULTAN AGUNG NO. 7 RT. 30 RW. 3",
+      "kelurahan": "Kanigoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20516928",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SIDOREJO",
+      "alamat": "JL. DIPONEGORO NO. 26 RT. 26 RW. 10 DUSUN ARDIREJO",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20518664",
+      "nama_satuan_pendidikan": "SD NEGERI BALEARJO",
+      "alamat": "JL. KI HAJAR DEWANTARA NO. 35 RT. 5 RW. 1",
+      "kelurahan": "Balearjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20518838",
+      "nama_satuan_pendidikan": "SD NEGERI BRONGKAL",
+      "alamat": "JL. RAYA PASAR BRONGKAL NO. 5 RT. 11 RW. 3",
+      "kelurahan": "Brongkal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20516982",
+      "nama_satuan_pendidikan": "SD NEGERI SUWARU",
+      "alamat": "JL. RAYA SUWARU NO.5",
+      "kelurahan": "Suwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517781",
+      "nama_satuan_pendidikan": "SMP AHMAD YANI",
+      "alamat": "Jl. KH. Syuhud Zayyadi Rt.10 Rw.1",
+      "kelurahan": "Karangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20517413",
+      "nama_satuan_pendidikan": "SMP AL-AZHAR PAGELARAN",
+      "alamat": "Jln. KH. Abd. Ghoni",
+      "kelurahan": "Brongkal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20517418",
+      "nama_satuan_pendidikan": "SMP BABUSSALAM",
+      "alamat": "Pagelaran",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20517397",
+      "nama_satuan_pendidikan": "SMP DHARMA WANITA 03",
+      "alamat": "Jl. Jenderal Sudirman No. 100",
+      "kelurahan": "Clumprit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20517423",
+      "nama_satuan_pendidikan": "SMP DHARMA WANITA 10 PAGELARAN",
+      "alamat": "Jl. Raya Kademangan No.03",
+      "kelurahan": "Kademangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "70010113",
+      "nama_satuan_pendidikan": "SMP IT MA WATTAIBIN",
+      "alamat": "JL. K.H. Hasbulloh No. 19",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20549204",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PAGELARAN",
+      "alamat": "JL. KERAMAT NO. 234 RT. 32 RW. 12",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517561",
+      "nama_satuan_pendidikan": "SMP SUNAN AMPEL PAGELARAN",
+      "alamat": "JL. P. SUDIRMAN 48 PAGELARAN",
+      "kelurahan": "Pagelaran",
+      "status": "SWASTA"
+    }
+  ]
+}

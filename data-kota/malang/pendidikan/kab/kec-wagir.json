@@ -1,0 +1,386 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. WAGIR",
+  "updated_at": "2026-08-13T11:47:09.622Z",
+  "count": 47,
+  "negeri": 35,
+  "swasta": 12,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69993768",
+      "nama_satuan_pendidikan": "MI AL-AHSAN",
+      "alamat": "DUSUN SEKARPUTIH",
+      "kelurahan": "Mendalanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715276",
+      "nama_satuan_pendidikan": "MIS AL ISHLAH",
+      "alamat": "JL. RAYA BLIMBING 048",
+      "kelurahan": "Kec. Wagir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715277",
+      "nama_satuan_pendidikan": "MIS AL-AMIN",
+      "alamat": "SUMBERPANG KIDUL SUMBERSUKO WAGIR",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715278",
+      "nama_satuan_pendidikan": "MIS THORIQUL HUDA",
+      "alamat": "JL. MASJID NO 35 PANDANREJO",
+      "kelurahan": "Pandanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20581351",
+      "nama_satuan_pendidikan": "MTSS AL KAUTSAR",
+      "alamat": "PANDANREJO WAGIR MALANG",
+      "kelurahan": "Pandanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20518710",
+      "nama_satuan_pendidikan": "SD ISLAM SUNAN AMPEL",
+      "alamat": "Mendalanwangi",
+      "kelurahan": "Mendalanwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "20518848",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BEDALISODO",
+      "alamat": "JL. RAYA SENGON NO 29 RT. 8 RW. 3",
+      "kelurahan": "Dalisodo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 8,
+      "npsn": "20518454",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GONDOWANGI",
+      "alamat": "JL. RAYA GONDOWANGI NO. 125",
+      "kelurahan": "Gondowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20518384",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JEDONG",
+      "alamat": "JL. RAYA JEDONG NO. 146",
+      "kelurahan": "Jedong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20517168",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MENDALANWANGI",
+      "alamat": "JL. RAYA MENDALANWANGI  85  RT. 15  RW. 5",
+      "kelurahan": "Mendalanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20517114",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANLANDUNG",
+      "alamat": "JL. KALIJOGO NO 55 RT. 6 RW. 2",
+      "kelurahan": "Pandanlandung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20517118",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANREJO",
+      "alamat": "JL. RAYA PANDANSARI NO 75 RT. 1  RW. 1",
+      "kelurahan": "Pandanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20517295",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PARANGARGO",
+      "alamat": "JL. RAYA PARANGARGO NO 59 RT. 9 RW. 2",
+      "kelurahan": "Parangargo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20517277",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PETUNGSEWU",
+      "alamat": "JL. RAYA PETUNGSEWU NO. 58 RT. 14 RW. 4",
+      "kelurahan": "Petungsewu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20516949",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDORAHAYU",
+      "alamat": "JL. RAYA SIDORAHAYU RT. 3  RW. 1",
+      "kelurahan": "Sidorahayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20516858",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SITIREJO",
+      "alamat": "JL. RAYA SITIREJO RT. 3  RW. 1",
+      "kelurahan": "Sitirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20516859",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKODADI",
+      "alamat": "JL. RAYA GENDERAN RT. 16 RW. 5",
+      "kelurahan": "Sukodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "69772577",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERSUKO",
+      "alamat": "JL. RAYA KENONGO NO 01 RT. 8 RW. 2",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518471",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GONDOWANGI",
+      "alamat": "WILOSO RT. 22  RW. 4",
+      "kelurahan": "Gondowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20518385",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JEDONG",
+      "alamat": "JL. RAYA JEDONG NO 270 RT. 3 RW. 9",
+      "kelurahan": "Jedong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517169",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MENDALANWANGI",
+      "alamat": "RT. 18   RW. 6 DUSUN MENDALAN WETAN",
+      "kelurahan": "Mendalanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20517115",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANLANDUNG",
+      "alamat": "JL. GAPURA NO 121 RT. 18  RW. 4",
+      "kelurahan": "Pandanlandung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20517121",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANREJO",
+      "alamat": "JL. RAYA NGRAGI RT. 17 RW. 6",
+      "kelurahan": "Pandanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518723",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PARANGARGO",
+      "alamat": "JL. JUWETMANTING NO 2 RT. 14  RW. 4",
+      "kelurahan": "Parangargo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517278",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PETUNGSEWU",
+      "alamat": "JL. RAYA CODO RT. 4 RW. 2",
+      "kelurahan": "Petungsewu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20516950",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDORAHAYU",
+      "alamat": "JL. GATOTKACA NO 32 RT. 15  RW. 3 NIWEN",
+      "kelurahan": "Sidorahayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516845",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SITIREJO",
+      "alamat": "RT. 2   RW. 4 DUSUN BUWEK",
+      "kelurahan": "Sitirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20516860",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKODADI",
+      "alamat": "JL. RAYA JAMURAN NO 46 RT. 2  RW. 1",
+      "kelurahan": "Sukodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20516971",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERSUKO",
+      "alamat": "RT. 16 RW. 4 Dusun Sumberpang Lor",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518850",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BEDALISODO",
+      "alamat": "JL. COBAN GLOTAK RT. 31 RW. 10",
+      "kelurahan": "Dalisodo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518472",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GONDOWANGI",
+      "alamat": "JL. DAWUHAN NO 9 RT. 14  RW. 3",
+      "kelurahan": "Gondowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518386",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JEDONG",
+      "alamat": "RT. 2 RW. 4 DUKUH JATEN",
+      "kelurahan": "Jedong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517170",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MENDALANWANGI",
+      "alamat": "RT. 25  RW. 9 DUSUN DARUNGAN",
+      "kelurahan": "Mendalanwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517142",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PANDANLANDUNG",
+      "alamat": "JL. GUNUNGJATI NO 210 RT. 20 RW. 5",
+      "kelurahan": "Pandanlandung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20516951",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SIDORAHAYU",
+      "alamat": "JL. RAYA SIDORAHAYU RT. 3  RW. 1",
+      "kelurahan": "Sidorahayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20516846",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SITIREJO",
+      "alamat": "RT. 1  RW. 3 DUSUN TEMU",
+      "kelurahan": "Sitirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518851",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BEDALISODO",
+      "alamat": "RT. 35   RW. 11 DUSUN WANGKAL",
+      "kelurahan": "Dalisodo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20516847",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SITIREJO",
+      "alamat": "JL. RAYA SITIREJO 110 RT. 8 RW. 1",
+      "kelurahan": "Sitirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20516973",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUMBERSUKO",
+      "alamat": "JL. RAYA PRECET NO. 6 RT. 25 RW. 8",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "69995492",
+      "nama_satuan_pendidikan": "SMP DARUL FAQIH INDONESIA",
+      "alamat": "Jl. Gapura 197 Desa Pandanlandung",
+      "kelurahan": "Pandanlandung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20517441",
+      "nama_satuan_pendidikan": "SMP ISLAM DIPONEGORO WAGIR",
+      "alamat": "Jl. Raya Parangargo 35 Wagir Malang",
+      "kelurahan": "Parangargo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20517334",
+      "nama_satuan_pendidikan": "SMP KRISTEN ELEOS",
+      "alamat": "Jl Salak No 8 Jamuran Rt 02 Rw 01",
+      "kelurahan": "Sukodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20517491",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 WAGIR",
+      "alamat": "JL. RAYA WAGIR NO. 71  RT. 8 RW. 1",
+      "kelurahan": "Sitirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20549208",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 WAGIR",
+      "alamat": "JL. RAYA SUKODADI NO. 1",
+      "kelurahan": "Sukodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517575",
+      "nama_satuan_pendidikan": "SMP PGRI 01 WAGIR",
+      "alamat": "Jl. Raya Sidorahayu RT. 01 RW. 01",
+      "kelurahan": "Sidorahayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20549512",
+      "nama_satuan_pendidikan": "SMP SUNAN GIRI WAGIR",
+      "alamat": "Jl. Raya Blimbing No. 05",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20517566",
+      "nama_satuan_pendidikan": "SMP TRI MURTI 02 WAGIR",
+      "alamat": "Jl. Raya Gondowangi Gg. Tri Murti Wagir",
+      "kelurahan": "Gondowangi",
+      "status": "SWASTA"
+    }
+  ]
+}

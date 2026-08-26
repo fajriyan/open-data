@@ -1,0 +1,562 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BULULAWANG",
+  "updated_at": "2026-08-13T11:46:34.376Z",
+  "count": 69,
+  "negeri": 23,
+  "swasta": 46,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715010",
+      "nama_satuan_pendidikan": "MIS AL - IKHLAS",
+      "alamat": "JL RAYA GADING  NO 15 RT 14 RW 04 DESA GADING KECAMATAN BULULAWANG KABUP",
+      "kelurahan": "Gading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715008",
+      "nama_satuan_pendidikan": "MIS AL ADROIYAH",
+      "alamat": "JL. TUGU IRENG NO.11 KREBET",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715002",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "JALAN ERLANGGA NO.10 SUKONOLO",
+      "kelurahan": "Sukonolo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60714998",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "JL. DIPONEGORO 49 KASEMBON",
+      "kelurahan": "Kasembon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715000",
+      "nama_satuan_pendidikan": "MIS AL HIKMAH",
+      "alamat": "Jl. Raya  Tanjungsari 150",
+      "kelurahan": "Kuwolu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715011",
+      "nama_satuan_pendidikan": "MIS AL MURTADLO",
+      "alamat": "JL. MASJID AL MUTTAQIN SUDIMORO",
+      "kelurahan": "Sudimoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715006",
+      "nama_satuan_pendidikan": "MIS AN NUR",
+      "alamat": "JL. RAYA BULULAWANG",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715012",
+      "nama_satuan_pendidikan": "MIS ASH-SHODIQ",
+      "alamat": "JL. MASJID NO. 22",
+      "kelurahan": "Kuwolu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715004",
+      "nama_satuan_pendidikan": "MIS HIDAYATULLOH",
+      "alamat": "GANG MAWAR NO.15 PRINGU",
+      "kelurahan": "Pringu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715013",
+      "nama_satuan_pendidikan": "MIS MAMBAUL HUDA",
+      "alamat": "JL. KH. WAHID HASYIM NO.18 RT. 11 RW. 03",
+      "kelurahan": "Gading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715014",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL. MASJID BAITUR ROHMAN  RT/RW 01/01 KASRI",
+      "kelurahan": "Kasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715005",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID AT TAQWA SUDIMORO",
+      "kelurahan": "Sudimoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715001",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID AL FALAH",
+      "kelurahan": "Bakalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715015",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA",
+      "alamat": "JL. SUROPATI RAYA NO. 63",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715007",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. PESANTREN 123",
+      "kelurahan": "Bakalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60714997",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL.MASJID NURUL HUDA KASRI",
+      "kelurahan": "Kasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715003",
+      "nama_satuan_pendidikan": "MIS NURUL ISLAM SUKOREJO",
+      "alamat": "JL.WAHID HASYIM NO.48",
+      "kelurahan": "Kasembon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60715009",
+      "nama_satuan_pendidikan": "MIS NURUL YAQIN",
+      "alamat": "JALAN PESANTREN G. II BLAMBANGAN",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60714999",
+      "nama_satuan_pendidikan": "MIS TAUFIQIYAH",
+      "alamat": "JL. TAUFIQIYAH NO.31 BULUPAYUNG KREBET BULULAWANG MALANG",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581212",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH",
+      "alamat": "JL. ERLANGGA NO. 10 SUKONOLO",
+      "kelurahan": "Sukonolo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581208",
+      "nama_satuan_pendidikan": "MTSS AL HIKMAH",
+      "alamat": "JL. RAYA TANJUNGSARI 150 PO.BOX 02",
+      "kelurahan": "Kuwolu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581207",
+      "nama_satuan_pendidikan": "MTSS AL IHSAN",
+      "alamat": "JL. PESANTREN II BLAMBANGAN",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581206",
+      "nama_satuan_pendidikan": "MTSS AN-NUR BULULAWANG",
+      "alamat": "JL. DIPONEGORO IV BULULAWANG",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581210",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM KASRI",
+      "alamat": "JL. MASJID KASRI",
+      "kelurahan": "Kasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581209",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID AL-FALAH NO.19 BANJARSARI BAKALAN BULULAWANG",
+      "kelurahan": "Bakalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581213",
+      "nama_satuan_pendidikan": "MTSS NURUN NABAWI KASEMBON",
+      "alamat": "JL. WAHID HASYIM 48 SUKOREJO KASEMBON KEC. BULULAWANG KAB. MALANAG",
+      "kelurahan": "Sukonolo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20581211",
+      "nama_satuan_pendidikan": "MTSS WALI SONGO",
+      "alamat": "JL. TUGU IRENG NO. 11 KREBET",
+      "kelurahan": "Gading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "69927892",
+      "nama_satuan_pendidikan": "MTsSDarun Najah",
+      "alamat": "JALAN RAYA BULUPAYUNG",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "70039994",
+      "nama_satuan_pendidikan": "SD AN-NUR AL ANWAR",
+      "alamat": "Jalan Diponegoro IV Nomor 262",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "70026557",
+      "nama_satuan_pendidikan": "SD ISLAM RAHMAANIYAH",
+      "alamat": "Jl. Sidomukti RT. 2 RW. 1",
+      "kelurahan": "Wandanpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20518839",
+      "nama_satuan_pendidikan": "SD NEGERI  BULULAWANG",
+      "alamat": "JL. SUROPATI RAYA NO. 73",
+      "kelurahan": "Bululawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518680",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KREBET",
+      "alamat": "JL. RAYA KREBET NO. 126 RT. 9 RW. 3",
+      "kelurahan": "Krebet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20516895",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KREBET SENGGRONG",
+      "alamat": "JL. KRAPYAK JAYA NO. 59 RT. 17 RW. 4",
+      "kelurahan": "Krebet Senggrong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20516836",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUDIMORO",
+      "alamat": "JL. RAYA SUDIMORO NO. 7",
+      "kelurahan": "Sudimoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517599",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WANDANPURO",
+      "alamat": "JL. SIDOMULYO IV WANDANPURO",
+      "kelurahan": "Wandanpuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518663",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BAKALAN",
+      "alamat": "JL. RAYA BAKALAN NO.49",
+      "kelurahan": "Bakalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518703",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KASEMBON",
+      "alamat": "JL. GAJAH MADA NO.06",
+      "kelurahan": "Kasembon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518574",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KASRI",
+      "alamat": "Dsn Krajan RT. 08 RW. 03 Desa Kasri",
+      "kelurahan": "Kasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20516894",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KREBET SENGGRONG",
+      "alamat": "JL. RAYA KREBET SENGGRONG NO. 22",
+      "kelurahan": "Krebet Senggrong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518523",
+      "nama_satuan_pendidikan": "SD NEGERI 2 LUMBANGSARI",
+      "alamat": "JL. AHMAD YANI NO.133 RT. 4 RW. 1",
+      "kelurahan": "Lumbangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20516837",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUDIMORO",
+      "alamat": "JL. SUDIMORO NO.278",
+      "kelurahan": "Sudimoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517586",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WANDANPURO",
+      "alamat": "JL. RAYA WANDANPURO NO 238 A RT. 24 RW. 6",
+      "kelurahan": "Wandanpuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518497",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KREBET",
+      "alamat": "JL. RAYA BLAMBANGAN NO.95",
+      "kelurahan": "Krebet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518524",
+      "nama_satuan_pendidikan": "SD NEGERI 3 LUMBANGSARI",
+      "alamat": "JL. SIDOMAKMUR II NO.525 RT. 12 RW. 3",
+      "kelurahan": "Lumbangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20516838",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUDIMORO",
+      "alamat": "JL. RAYA SUDIMORO NO 9 RT. 12 RW. 4",
+      "kelurahan": "Sudimoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517588",
+      "nama_satuan_pendidikan": "SD NEGERI 4 WANDANPURO",
+      "alamat": "JL. SIDOMUKTI II NO. 6 RT. 7 RW. 2",
+      "kelurahan": "Wandanpuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20518771",
+      "nama_satuan_pendidikan": "SD NEGERI GADING",
+      "alamat": "JL. SAWUNGGALING NO.67 RT. 2 RW. 1",
+      "kelurahan": "Gading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20518536",
+      "nama_satuan_pendidikan": "SD NEGERI KUWOLU",
+      "alamat": "JL. RAYA KUWOLU NO.377 RT. 7 RW. 3",
+      "kelurahan": "Kuwolu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20518724",
+      "nama_satuan_pendidikan": "SD NEGERI PRINGO",
+      "alamat": "JL. RAYA PRINGO NO. 80 RT. 13 RW. 6",
+      "kelurahan": "Pringu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20516915",
+      "nama_satuan_pendidikan": "SD NEGERI SEMPALWADAK",
+      "alamat": "JL. RAYA SEMPALWADAK NO.8",
+      "kelurahan": "Sempalwadak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20516875",
+      "nama_satuan_pendidikan": "SD NEGERI SUKONOLO",
+      "alamat": "JL. BRAWIJAYA NO. 27 RT. 9 RW. 2",
+      "kelurahan": "Sukonolo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "70004625",
+      "nama_satuan_pendidikan": "SD WAHIDIYAH BULULAWANG",
+      "alamat": "Jalan Raya Krebet Timur RT. 19 RW. 05",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "70008265",
+      "nama_satuan_pendidikan": "SDIT INSAN MULIA BULULAWANG",
+      "alamat": "Jalan Wachid Hasyim RT. 03 RW. 01 No. 68",
+      "kelurahan": "Lumbangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20517396",
+      "nama_satuan_pendidikan": "SMP AL MUNAWWARIYYAH",
+      "alamat": "Jalan Raya Sudimoro 9",
+      "kelurahan": "Sudimoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20517415",
+      "nama_satuan_pendidikan": "SMP AN-NUR",
+      "alamat": "Jl. Raya Bululawang",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "69992893",
+      "nama_satuan_pendidikan": "SMP AN-NUR AL ANWAR",
+      "alamat": "Jl. Diponegoro IV No. 262",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20517435",
+      "nama_satuan_pendidikan": "SMP BHUMI NGASOR AR RIDHO",
+      "alamat": "Jl. Pendopo Kamulyan Bakalan Kec. Bululawang",
+      "kelurahan": "Bakalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20517457",
+      "nama_satuan_pendidikan": "SMP ISLAM AS-SHODIQ",
+      "alamat": "Jl. Masjid No. 22 Almaqbul",
+      "kelurahan": "Kuwolu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20517350",
+      "nama_satuan_pendidikan": "SMP ISLAM SULTAN AGUNG SUDIMORO",
+      "alamat": "Jl. Masjid AL-MUTTAQIN SUDIMORO",
+      "kelurahan": "Sudimoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20558815",
+      "nama_satuan_pendidikan": "SMP MAMBAUNNUR",
+      "alamat": "Jl. Kh. Wahid Hasyim",
+      "kelurahan": "Gading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "70053204",
+      "nama_satuan_pendidikan": "SMP MIFTAHUL ULUM BULUPAYUNG",
+      "alamat": "Jl. Surau No. 01 Bulupayung RT. 040 RW. 007",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "20517479",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 BULULAWANG",
+      "alamat": "JL. SEMPALWADAK NO. 19",
+      "kelurahan": "Bululawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20517510",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 BULULAWANG",
+      "alamat": "JL. RAYA KREBET",
+      "kelurahan": "Lumbangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20517385",
+      "nama_satuan_pendidikan": "SMP NU BULULAWANG",
+      "alamat": "Jl. Raya Bululawang",
+      "kelurahan": "Bululawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 65,
+      "npsn": "20562748",
+      "nama_satuan_pendidikan": "SMP NU TAUFIQIYAH",
+      "alamat": "Jl. Taufiqiyah No. 31 Bulupayung Krebet",
+      "kelurahan": "Krebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": "20517573",
+      "nama_satuan_pendidikan": "SMP PGRI 01 BULULAWANG",
+      "alamat": "Jl. Sidomulyo I",
+      "kelurahan": "Wandanpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": "20517576",
+      "nama_satuan_pendidikan": "SMP PGRI 2 BULULAWANG",
+      "alamat": "JL. Raya Bakalan No. 45,  Bululawang",
+      "kelurahan": "Bakalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": "70003418",
+      "nama_satuan_pendidikan": "SMP WAHIDIYAH BULULAWANG",
+      "alamat": "Jl. Anggrek RT. 17 RW. 03",
+      "kelurahan": "Pringu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": "70040408",
+      "nama_satuan_pendidikan": "SPM WUSTHA ROUDLOTUL BAYAN PONDOK PESANTREN ROUDLOTUL MUHSININ",
+      "alamat": "JL KH AHMAD DAHLANNO 450 ALMAQBUL",
+      "kelurahan": "Kuwolu",
+      "status": "SWASTA"
+    }
+  ]
+}

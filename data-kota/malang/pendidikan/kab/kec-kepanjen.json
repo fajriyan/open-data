@@ -1,0 +1,658 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KEPANJEN",
+  "updated_at": "2026-08-13T11:46:39.452Z",
+  "count": 81,
+  "negeri": 47,
+  "swasta": 34,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715095",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU JATIREJOYOSO",
+      "alamat": "JL.MASJID NO.1 MERGOSINGO",
+      "kelurahan": "Jatirejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715098",
+      "nama_satuan_pendidikan": "MIS BILINGUAL AL IKHLAS",
+      "alamat": "JL. GONDOMONO 643 RT. 17 RW. 02",
+      "kelurahan": "Sengguruh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715097",
+      "nama_satuan_pendidikan": "MIS IMAMI",
+      "alamat": "JL.SULTAN AGUNG NO.23 KEPANJEN",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715096",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA KEPANJEN",
+      "alamat": "JL. PESANTREN III NO 6 RT 05 RW 01 MOJOSARI KEPANJEN MALANG",
+      "kelurahan": "Mojosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715093",
+      "nama_satuan_pendidikan": "MIS NU CURUNGREJO",
+      "alamat": "JL. RAYA CURUNGREJO NO.1 KEPANJEN",
+      "kelurahan": "Curung Rejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715094",
+      "nama_satuan_pendidikan": "MIS NU SUNAN GIRI",
+      "alamat": "JL. MELATI No. 222  RT/RW 08/ 05 TAMANAYU JATIREJOYOSO",
+      "kelurahan": "Jatirejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69993719",
+      "nama_satuan_pendidikan": "MTs NURUL IZZAH",
+      "alamat": "JL. KH WAKHID HASYIM 76",
+      "kelurahan": "Tegalsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "69993649",
+      "nama_satuan_pendidikan": "MTs SYARIF HIDAYATULLAH",
+      "alamat": "JL. ANJASMORO 53 KEPANJEN MALANG",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "20581260",
+      "nama_satuan_pendidikan": "MTSN 6 MALANG",
+      "alamat": "JL. RAYA SUKORAHARJO 36 KEPANJEN",
+      "kelurahan": "Kepanjen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20581263",
+      "nama_satuan_pendidikan": "MTSS AL - KHALIFAH",
+      "alamat": "JL. DELIMA NO.214 CEPOKOMULYO - KEPANJEN",
+      "kelurahan": "Cepokomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20581264",
+      "nama_satuan_pendidikan": "MTSS AL FITHRIYAH",
+      "alamat": "JL SIDOLUHUR 99 NGADILANGKUNG",
+      "kelurahan": "Ngadilangkung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20581262",
+      "nama_satuan_pendidikan": "MTSS KH. MOH SAID",
+      "alamat": "JL. SUMBER REJEKI RT 22 RW 06 PESANTREN MANGUNREJO KEPANJEN MALANG",
+      "kelurahan": "Mangunrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20581261",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA",
+      "alamat": "JL. PESANTREN III KEPANJEN MALANG 65163",
+      "kelurahan": "Mojosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "69978188",
+      "nama_satuan_pendidikan": "SD AL FITHRAH MALANG",
+      "alamat": "JL. PROBOLINGGO 99 RT 04 RW 02",
+      "kelurahan": "Penarukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20518721",
+      "nama_satuan_pendidikan": "SD ISLAM HASANUDDIN 01",
+      "alamat": "Jl. Bromo 333",
+      "kelurahan": "Dilem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69985269",
+      "nama_satuan_pendidikan": "SD ISLAM TERPADU SALSABILA",
+      "alamat": "JL. ADI WIJAYA RT 02 RW 03",
+      "kelurahan": "Ardirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20518684",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 01 KEPANJEN",
+      "alamat": "Jl. Effendi 94b",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20518633",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ARDIREJO",
+      "alamat": "JL. AHMAD YANI NO. 44B RT. 3 RW. 1",
+      "kelurahan": "Ardirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518754",
+      "nama_satuan_pendidikan": "SD NEGERI 1 CEPOKOMULYO",
+      "alamat": "JL. WIJAYA KUSUMA RT. 21 RW. 2",
+      "kelurahan": "Cepokomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20518761",
+      "nama_satuan_pendidikan": "SD NEGERI 1 CURUNGREJO",
+      "alamat": "JL. RAYA CURUNGREJO NO 5 RT. 7 RW. 2",
+      "kelurahan": "Curung Rejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20518766",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DILEM",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 79 RT. 4 RW. 1",
+      "kelurahan": "Dilem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518387",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JENGGOLO",
+      "alamat": "JL. RAYA JENGGOLO NO. 1 RT. 7 RW. 2",
+      "kelurahan": "Jenggolo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518580",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEDUNGPEDARINGAN",
+      "alamat": "JL. R.  PRAYITNO RT. 5 RW. 1",
+      "kelurahan": "Kedungpedaringan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518609",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEMIRI",
+      "alamat": "JL. PERTANIAN NO29 RT. 2 RW. 1",
+      "kelurahan": "Kemiri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20518589",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEPANJEN",
+      "alamat": "JL. KAWI NO. 30 RT. 10 RW. 2",
+      "kelurahan": "Kepanjen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517166",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MANGUNREJO",
+      "alamat": "JL. DIPONEGORO RT. 7 RW. 3",
+      "kelurahan": "Mangunrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20517194",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGADILANGKUNG",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 31 RT. 5 RW. 2",
+      "kelurahan": "Ngadilangkung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517291",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANGGUNGREJO",
+      "alamat": "JL. SIDOMULYO NO. 2 RT. 8 RW. 1",
+      "kelurahan": "Panggungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20516863",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKORAHARJO",
+      "alamat": "JL. RAYA SUKORAHARJO NO. 37 RT. 2 RW. 1",
+      "kelurahan": "Sukoraharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20516957",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TALANGAGUNG",
+      "alamat": "JL. RAYA TALANGAGUNG NO. 332",
+      "kelurahan": "Talangagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517018",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TEGALSARI",
+      "alamat": "JL. ARIS JOYO MUSTOKO RT. 2 RW. 2",
+      "kelurahan": "Tegalsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518634",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ARDIREJO",
+      "alamat": "JL. ADISETIA NO. 22 RT. 4 RW. 1",
+      "kelurahan": "Ardirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518755",
+      "nama_satuan_pendidikan": "SD NEGERI 2 CEPOKOMULYO",
+      "alamat": "JL. NUSA INDAH NO 120 RT. 14 RW02",
+      "kelurahan": "Cepokomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20518762",
+      "nama_satuan_pendidikan": "SD NEGERI 2 CURUNGREJO",
+      "alamat": "JL. RAYA CURUNGREJO NO.04 RT. 1 RW. 4",
+      "kelurahan": "Curung Rejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518767",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DILEM",
+      "alamat": "JL. BROMO NO. 4 RT. 1 RW. 3",
+      "kelurahan": "Dilem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518388",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JENGGOLO",
+      "alamat": "JL. BINTORO NO 49 RT. 5 RW. 2",
+      "kelurahan": "Jenggolo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518581",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEDUNGPEDARINGAN",
+      "alamat": "JL. TRUNOJOYO NO. 17 RT. 9. RW. 2",
+      "kelurahan": "Kedungpedaringan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518595",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEMIRI",
+      "alamat": "RT. 13 RW. 4 DUSUN TEMPUR",
+      "kelurahan": "Kemiri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518590",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEPANJEN",
+      "alamat": "JL. PENARUKAN NO. 12 RT. 3 RW. 4",
+      "kelurahan": "Penarukan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517167",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MANGUNREJO",
+      "alamat": "JL. KELUD NO. 329 RT17 RW. 5",
+      "kelurahan": "Mangunrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517195",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGADILANGKUNG",
+      "alamat": "JL. SIDODADI NO.95 RT. 4 RW. 1",
+      "kelurahan": "Ngadilangkung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517292",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANGGUNGREJO",
+      "alamat": "JL. SEKOLAHAN RT. : 03 RW. : 05 DUKUH TEGARON",
+      "kelurahan": "Panggungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20516864",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKORAHARJO",
+      "alamat": "JL. RAYA SUKORAHARJO NO. 45",
+      "kelurahan": "Sukoraharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20516958",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TALANGAGUNG",
+      "alamat": "JL. RAYA GUNUNG KAWI NO.462 RT. 5 RW. 1 DUSUN  REKESAN",
+      "kelurahan": "Talangagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517647",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TEGALSARI",
+      "alamat": "JALAN SADRU NO 283 TEGALSARI KEPANJEN",
+      "kelurahan": "Tegalsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20518635",
+      "nama_satuan_pendidikan": "SD NEGERI 3 ARDIREJO",
+      "alamat": "JL. DIPONEGORO NO. 60. RT. 4 RW. 3",
+      "kelurahan": "Ardirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20518591",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEPANJEN",
+      "alamat": "JL. PENARUKAN NO. 117 RT. 2 RW. 4",
+      "kelurahan": "Kepanjen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20517293",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PANGGUNGREJO",
+      "alamat": "JL. PANDAN NO. 21 RT. 1 RW. 4",
+      "kelurahan": "Panggungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20516865",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUKORAHARJO",
+      "alamat": "JL. RAYA SUKORAHARJO NO. 453 RT. 3 RW. 2",
+      "kelurahan": "Sukoraharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20518636",
+      "nama_satuan_pendidikan": "SD NEGERI 4 ARDIREJO",
+      "alamat": "JL. ADIWALUYO NO.43 RT. 5 RW. 2",
+      "kelurahan": "Ardirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518592",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KEPANJEN",
+      "alamat": "JL. LAWU NO 82",
+      "kelurahan": "Kepanjen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20517294",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PANGGUNGREJO",
+      "alamat": "JL. PANJI NO. 3 RT. 1 RW. 1",
+      "kelurahan": "Panggungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20518593",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KEPANJEN",
+      "alamat": "JL. BROMO NO 19 RT. 6 RW. 5",
+      "kelurahan": "Kepanjen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20518610",
+      "nama_satuan_pendidikan": "SD NEGERI 7 KEPANJEN",
+      "alamat": "JL. SUMEDANG NO. 161 RT. 3 RW. 3",
+      "kelurahan": "Kepanjen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518379",
+      "nama_satuan_pendidikan": "SD NEGERI JATIREJOYOSO",
+      "alamat": "JL. NUSA NO.4 RT. 2 RW. 2",
+      "kelurahan": "Jatirejoyoso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517146",
+      "nama_satuan_pendidikan": "SD NEGERI MOJOSARI",
+      "alamat": "JL. AHMAD YANI NO. 62 RT. 3 RW. 2 GAMBIRAN",
+      "kelurahan": "Mojosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517286",
+      "nama_satuan_pendidikan": "SD NEGERI PENARUKAN",
+      "alamat": "JL. RAYA KETANEN RT. 03 RW. 05",
+      "kelurahan": "Penarukan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20516896",
+      "nama_satuan_pendidikan": "SD NEGERI SENGGURUH",
+      "alamat": "JL. SEKOLAHAN  NO. 17 RT. 21 RW. 3",
+      "kelurahan": "Sengguruh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20537313",
+      "nama_satuan_pendidikan": "SD NU HASANUDDIN DILEM 02",
+      "alamat": "Jl. Hasanuddin No. 27 Dilem",
+      "kelurahan": "Dilem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20537316",
+      "nama_satuan_pendidikan": "SD NU KEPANJEN",
+      "alamat": "Jl. Sultan Agung No 71 Kepanjen",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "69966013",
+      "nama_satuan_pendidikan": "SD ULIL ALBAB",
+      "alamat": "JL. HM. SUN AN RT.3 RW.2",
+      "kelurahan": "Penarukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "20565330",
+      "nama_satuan_pendidikan": "SD WAHIDIYAH",
+      "alamat": "Jl. Raya Penarukan",
+      "kelurahan": "Penarukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": "20518716",
+      "nama_satuan_pendidikan": "SDK YOS SUDARSO",
+      "alamat": "Jl. Punten No 05",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "69726599",
+      "nama_satuan_pendidikan": "SMP AL FITHRAH MALANG",
+      "alamat": "Jl. Probolinggo No. 99",
+      "kelurahan": "Penarukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 65,
+      "npsn": "70005355",
+      "nama_satuan_pendidikan": "SMP ASSAIDIYYAH",
+      "alamat": "Jalan Lingkar Barat Ngadilangkung",
+      "kelurahan": "Ngadilangkung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": "70037186",
+      "nama_satuan_pendidikan": "SMP DARUL HIJRAH KEPANJEN",
+      "alamat": "Jl. Karsidin Gg V RT. 002 RW. 003 T",
+      "kelurahan": "Tegalsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": "20560659",
+      "nama_satuan_pendidikan": "SMP DARUSSALAM KEPANJEN",
+      "alamat": "Jl. Diponegoro No. 93 Dawuhan",
+      "kelurahan": "Jatirejoyoso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": "20517436",
+      "nama_satuan_pendidikan": "SMP ISLAM KEPANJEN",
+      "alamat": "JL. SULTAN AGUNG 76 KEPANJEN",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": "20517361",
+      "nama_satuan_pendidikan": "SMP KATOLIK ST YOSEPH",
+      "alamat": "Jl. Kawi No.21",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": "70010600",
+      "nama_satuan_pendidikan": "SMP MIFTAHUL HUDA EMPAT",
+      "alamat": "Jl. Kampung Baru Mojosari",
+      "kelurahan": "Mojosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 71,
+      "npsn": "20517346",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 3 KEPANJEN",
+      "alamat": "Jl. Lawu RT 02 RW 05 Sukun Selatan Kepanjen",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 72,
+      "npsn": "20517475",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KEPANJEN",
+      "alamat": "JL. ADIWACANA NO.19 ARDIREJO",
+      "kelurahan": "Ardirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20517517",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 KEPANJEN",
+      "alamat": "JL. LOCARI NO. 207",
+      "kelurahan": "Cepokomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20517500",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 KEPANJEN",
+      "alamat": "JL. RAYA SUKORAHARJO NO. 60",
+      "kelurahan": "Sukoraharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20517504",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 KEPANJEN",
+      "alamat": "JL. KAWI NO. 3",
+      "kelurahan": "Cepokomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20517520",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 KEPANJEN",
+      "alamat": "Jalan Krajan Raya 144",
+      "kelurahan": "Sengguruh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20517386",
+      "nama_satuan_pendidikan": "SMP NU SUNAN GIRI KEPANJEN",
+      "alamat": "JL. PB. SUDIRMAN 244  NGADILANGKUNG KEPANJEN",
+      "kelurahan": "Ngadilangkung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "20517387",
+      "nama_satuan_pendidikan": "SMP NU SUNAN KALIJOGO KEPANJEN",
+      "alamat": "Jl Raya Curungrejo",
+      "kelurahan": "Curung Rejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "20517370",
+      "nama_satuan_pendidikan": "SMP PGRI 1 KEPANJEN",
+      "alamat": "Jalan Bromo 17B Rt.08/Rw.5 Sukun",
+      "kelurahan": "Kepanjen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "20517528",
+      "nama_satuan_pendidikan": "SMP PGRI 3 KEPANJEN",
+      "alamat": "Jl. Adi Waluyo 30",
+      "kelurahan": "Ardirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "20577696",
+      "nama_satuan_pendidikan": "SMP WAHIDIYAH",
+      "alamat": "Jl. H.M SUN AN NO.05 PENARUKAN KEPANJEN",
+      "kelurahan": "Penarukan",
+      "status": "SWASTA"
+    }
+  ]
+}

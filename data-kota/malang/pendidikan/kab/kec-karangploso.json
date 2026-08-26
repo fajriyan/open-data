@@ -1,0 +1,442 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KARANGPLOSO",
+  "updated_at": "2026-08-13T11:47:51.095Z",
+  "count": 54,
+  "negeri": 26,
+  "swasta": 28,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69894657",
+      "nama_satuan_pendidikan": "MI MAMBA`UL HIKMAH",
+      "alamat": "Abu Ali Atas RT 20 RW 05",
+      "kelurahan": "Girimoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715085",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "JL. MASJID AGUNG AL HIDAYAH RT.3 RW.1 DONOWARIH KARANGPLOSO",
+      "kelurahan": "Donowarih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715084",
+      "nama_satuan_pendidikan": "MIS AR-ROHMAH",
+      "alamat": "DAWUHAN NO 1 TEGALGONDO KARANGPLOSO MALANG",
+      "kelurahan": "Tegalgondo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715083",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "JL.PERTAMANAN 07",
+      "kelurahan": "Kepuharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715082",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL.NOTOJOYO 179 GONDANG TEGALGONDO",
+      "kelurahan": "Tegalgondo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715086",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ABROR",
+      "alamat": "JL. MASJID NO. 225 KALIMALANG",
+      "kelurahan": "Tawangargo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715079",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL. MASJID NO. 23 NGENEP KEC. KARANGPLOSO KAB. MALANG",
+      "kelurahan": "Ngenep",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715081",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JALAN TAMANUDIHARJO",
+      "kelurahan": "Ampeldento",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715080",
+      "nama_satuan_pendidikan": "MIS NASYRUL ULUM",
+      "alamat": "JL. BOCEK NO. 35 Rt 004 Rw 001 Karangploso",
+      "kelurahan": "Bocek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715087",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM",
+      "alamat": "JL. RAYA NGIJO KARANGPLOSO MALANG",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20581256",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH",
+      "alamat": "JLN. RAYA KARANGAN DONOWARIH",
+      "kelurahan": "Donowarih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20581255",
+      "nama_satuan_pendidikan": "MTSS AL MAARIF",
+      "alamat": "JL.RAYA BOCEK. NO.3 KARANGPLOSO",
+      "kelurahan": "Bocek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "69853216",
+      "nama_satuan_pendidikan": "MTSS DARUN NAJAH",
+      "alamat": "JL.PESANTREN NO.51",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20581257",
+      "nama_satuan_pendidikan": "MTSS NAHDLATUL ULAMA",
+      "alamat": "JL. RAYA KEPUHARJO 18 A",
+      "kelurahan": "Kepuharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20581254",
+      "nama_satuan_pendidikan": "MTSS RAUDLATUL ULUM",
+      "alamat": "JL. RAYA NGIJO  KARANGPLOSO 65152",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "70055960",
+      "nama_satuan_pendidikan": "SD ISLAM ANAK NEGERI",
+      "alamat": "Perum Karangploso View RT. 003 RW. 018",
+      "kelurahan": "Ngenep",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "70034042",
+      "nama_satuan_pendidikan": "SD ISLAM KHARISMA",
+      "alamat": "Tirtasani Royal Resort Blok G2 No. 7 - 10",
+      "kelurahan": "Ngenep",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "70008147",
+      "nama_satuan_pendidikan": "SD ISLAM PLUS AL MADINAH",
+      "alamat": "Jalan Kramat Dusun Ngepeh RT. 008 RW. 006",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "69980084",
+      "nama_satuan_pendidikan": "SD ISLAM TERPADU IQRO",
+      "alamat": "JL. KUTILANG NO. 99 RT. 07 RW. 05",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20518719",
+      "nama_satuan_pendidikan": "SD NEGERI 1 AMPELDENTO",
+      "alamat": "JL. SENTANA NO. 173 RT. 10 RW. 3 DUSUN BUNDER",
+      "kelurahan": "Ampeldento",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20518856",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BOCEK",
+      "alamat": "JL. ARUMDALU RT. 1 RW. 3",
+      "kelurahan": "Bocek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518795",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DONOWARIH",
+      "alamat": "JL. RAYA DONOWARIH  RT. 8 RW. 12 DUSUN KARANGAN",
+      "kelurahan": "Donowarih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518427",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GIRIMOYO",
+      "alamat": "JL. DIPONEGORO NO. 68 RT. 18 RW. 4 DUSUN NGAMBON",
+      "kelurahan": "Girimoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518503",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEPUHARJO",
+      "alamat": "JL. TENAGA NO.1 DUSUN TURI",
+      "kelurahan": "Kepuharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517189",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGENEP",
+      "alamat": "JL. SINGOJOYO RT. 4 RW. 2",
+      "kelurahan": "Ngenep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517098",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGIJO",
+      "alamat": "JL. RAYA NGIJO NO. 15 DUSUN NGIJO",
+      "kelurahan": "Ngijo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516990",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAWANGARGO",
+      "alamat": "JL. RAYA TAWANGARGO DESA TAWANGARGO",
+      "kelurahan": "Tawangargo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20518673",
+      "nama_satuan_pendidikan": "SD NEGERI 2 AMPELDENTO",
+      "alamat": "JL. ZENTANA NO. 100 RT. 19 RW. 7",
+      "kelurahan": "Ampeldento",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518847",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BOCEK",
+      "alamat": "DUSUN MANGGISARI",
+      "kelurahan": "Bocek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518796",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DONOWARIH",
+      "alamat": "DUSUN BOROGRAGAL",
+      "kelurahan": "Donowarih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518428",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GIRIMOYO",
+      "alamat": "JL. DIPONEGORO NO. 37 RT. 16 RW. 4 DUSUN NGAMBON",
+      "kelurahan": "Girimoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518504",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEPUHARJO",
+      "alamat": "JL. PULAU MAS NO. 16 RT. 4 RW. 2 DUSUN WRINGIN ANOM",
+      "kelurahan": "Kepuharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517205",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGENEP",
+      "alamat": "RT. 4 RW.12 DUSUN MOJOSARI",
+      "kelurahan": "Ngenep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517099",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGIJO",
+      "alamat": "JL. MERPATI NO. 62 RT. 1   RW. 8 DUSUN KENDALSARI",
+      "kelurahan": "Ngijo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20516991",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAWANGARGO",
+      "alamat": "DUSUN LASAH",
+      "kelurahan": "Tawangargo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518846",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BOCEK",
+      "alamat": "JL. SABRANG AMPEL RT. 1 RW. 12 DUSUN SUPITURANG",
+      "kelurahan": "Bocek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517081",
+      "nama_satuan_pendidikan": "SD NEGERI 4 NGENEP",
+      "alamat": "RT. 2 RW. 15 DUSUN TUMPANGREJO",
+      "kelurahan": "Ngenep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20516993",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TAWANGARGO",
+      "alamat": "JL. WONOKOYO NO. 86 RT. 52 RW. 13 DUSUN BORO",
+      "kelurahan": "Tawangargo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517097",
+      "nama_satuan_pendidikan": "SD NEGERI 5 NGENEP",
+      "alamat": "DUSUN BABAAN",
+      "kelurahan": "Ngenep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516998",
+      "nama_satuan_pendidikan": "SD NEGERI TEGALGONDO",
+      "alamat": "JL. RAYA TEGALGONDO NO. 1",
+      "kelurahan": "Tegalgondo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "70058532",
+      "nama_satuan_pendidikan": "SD UNGGULAN PERMATA  MUHAMMADIYAH 5",
+      "alamat": "Jl. Griya Permata Alam No. 20B RT. 001 RW. 014",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "70053035",
+      "nama_satuan_pendidikan": "SMP ABDUL MALIK FADJAR",
+      "alamat": "Jl. Pangestu Dusun Telasih RT. 32 RW. 12",
+      "kelurahan": "Kepuharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "70002481",
+      "nama_satuan_pendidikan": "SMP AL MAAHIRA IIBS MALANG",
+      "alamat": "Perumahan Tirtasani Royal Resort Kepuharjo",
+      "kelurahan": "Kepuharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "70005129",
+      "nama_satuan_pendidikan": "SMP DAARUL QURAN INDONESIA",
+      "alamat": "Jl. Pangestu dusun Telasih Desa Kepuharjo RT.32 RW.12",
+      "kelurahan": "Kepuharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "70046290",
+      "nama_satuan_pendidikan": "SMP DARUN NAJAH 2 KARANGPLOSO",
+      "alamat": "Jl. Dusun Leses Desa Ngijo",
+      "kelurahan": "Ngijo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20517447",
+      "nama_satuan_pendidikan": "SMP ISLAM KARANGPLOSO",
+      "alamat": "Jl. PB. Sudirman 77",
+      "kelurahan": "Girimoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20517487",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KARANGPLOSO",
+      "alamat": "Jalan P.B. Sudirman No. 49",
+      "kelurahan": "Girimoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20561867",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 KARANGPLOSO SATU ATAP",
+      "alamat": "DUSUN BOROGRAGAL",
+      "kelurahan": "Donowarih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20561868",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 KARANGPLOSO SATU ATAP",
+      "alamat": "DUSUN TUMPANGREJO RT. 2 RW. 15",
+      "kelurahan": "Ngenep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20566335",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 KARANGPLOSO SATU ATAP",
+      "alamat": "DUSUN SUPITURANG",
+      "kelurahan": "Bocek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "69936635",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 KARANGPLOSO",
+      "alamat": "JL. SINGOJOYO",
+      "kelurahan": "Ngenep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20517392",
+      "nama_satuan_pendidikan": "SMP PGRI 01 KARANGPLOSO",
+      "alamat": "Jl. PB. Sudirman No.73",
+      "kelurahan": "Girimoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20517569",
+      "nama_satuan_pendidikan": "SMP PGRI 03 KARANGPLOSO",
+      "alamat": "JL. RAYA TAWANGARGO",
+      "kelurahan": "Tawangargo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "69967238",
+      "nama_satuan_pendidikan": "SMP PLUS AL FIRDAUS",
+      "alamat": "JL. NUSA INDAH 351",
+      "kelurahan": "Bocek",
+      "status": "SWASTA"
+    }
+  ]
+}

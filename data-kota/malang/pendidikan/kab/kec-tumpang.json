@@ -1,0 +1,522 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. TUMPANG",
+  "updated_at": "2026-08-13T11:47:25.944Z",
+  "count": 64,
+  "negeri": 34,
+  "swasta": 30,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69895130",
+      "nama_satuan_pendidikan": "IBNU SINA",
+      "alamat": "Panggung 330",
+      "kelurahan": "Kidal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69977697",
+      "nama_satuan_pendidikan": "MI INSAN KAMIL",
+      "alamat": "JL. RAYA TULUSBESAR",
+      "kelurahan": "Tulusbesar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69993727",
+      "nama_satuan_pendidikan": "MI TAHFIDZ BAITUR ROHMAN",
+      "alamat": "JL. FLAMBOYAN N0 99",
+      "kelurahan": "Malangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715253",
+      "nama_satuan_pendidikan": "MIS AINUL ULUM",
+      "alamat": "NGINGIT KRAJAN NGINGIT",
+      "kelurahan": "Ngingit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715254",
+      "nama_satuan_pendidikan": "MIS AL AMIN",
+      "alamat": "JL TUNGGUL AMETUNG II TUMPANG",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715245",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "JL. MASJID NO 24 PNGGUNGSARI KAMBINGAN",
+      "kelurahan": "Kambingan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715255",
+      "nama_satuan_pendidikan": "MIS AL HIKMAH PPPI",
+      "alamat": "JL.MASJID JERU 29",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715249",
+      "nama_satuan_pendidikan": "MIS AL IHSAN",
+      "alamat": "JL. PANGGUNG KIDAL",
+      "kelurahan": "Kidal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715250",
+      "nama_satuan_pendidikan": "MIS AL IRSYAD",
+      "alamat": "JL. PANGGUNG NO.331",
+      "kelurahan": "Ngingit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715247",
+      "nama_satuan_pendidikan": "MIS BABUSSALAM",
+      "alamat": "JL. CANDI KIDAL DOMPYONG RT.36 RW.03 DESA KIDAL KEC. TUMPANG KABUPATEN MALANG",
+      "kelurahan": "Kidal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715256",
+      "nama_satuan_pendidikan": "MIS KH. A.THOHIR",
+      "alamat": "JL. RAYA PULUNGDOWO 182 TUMPANG KAB. MALANG",
+      "kelurahan": "Pulungdowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715251",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "PANDANAJENG",
+      "kelurahan": "Pandanajeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715246",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "DUWET KRAJAN TUMPANG",
+      "kelurahan": "Duwet Krajan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715244",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL.ALASGEDE NGINGIT TUMPANG",
+      "kelurahan": "Ngingit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715248",
+      "nama_satuan_pendidikan": "MIS PPAI",
+      "alamat": "JL. RAYA 38 PANDANAJENG KEC. TUMPANG KAB. MALANG 65156",
+      "kelurahan": "Pandanajeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715257",
+      "nama_satuan_pendidikan": "MIS SABILUL KHOIROT",
+      "alamat": "JL RAYA KAMBINGAN TUMPANG",
+      "kelurahan": "Kambingan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715252",
+      "nama_satuan_pendidikan": "MIS SHOLEH YUSUF",
+      "alamat": "JL. MADRASAH RT 11 RT 01 KIDAL TUMPANG",
+      "kelurahan": "Kidal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "70024998",
+      "nama_satuan_pendidikan": "MTs AL-ITTIHAD QURANI",
+      "alamat": "Jl. Raya Tulusbesar Tumpang",
+      "kelurahan": "Tulusbesar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20581340",
+      "nama_satuan_pendidikan": "MTSN 7 MALANG",
+      "alamat": "JL RAYA PANDANAJENG NO 25",
+      "kelurahan": "Pandanajeng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20581342",
+      "nama_satuan_pendidikan": "MTSS DIPONEGORO",
+      "alamat": "JL KAUMAN 64 TUMPANG",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581343",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA TUMPANG",
+      "alamat": "JL.RAYA DUWET KRAJAN KEC. TUMPANG",
+      "kelurahan": "Duwet Krajan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581341",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "DUKUH ALAS GEDE",
+      "kelurahan": "Ngingit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20518692",
+      "nama_satuan_pendidikan": "SD AN NUR",
+      "alamat": "Jl. Kauman 20",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20518685",
+      "nama_satuan_pendidikan": "SD ISLAM MUHAMMADIYAH 03 TUMPANG",
+      "alamat": "JL. WISNUWARDHANA 66, TUMPANG",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "69945577",
+      "nama_satuan_pendidikan": "SD IT PERMATA HATI",
+      "alamat": "Jl Mawar RT 05 RW 02 Malangsuko Tumpang",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20518715",
+      "nama_satuan_pendidikan": "SD KATOLIK WIGNYA MANDALA",
+      "alamat": "Jl. Raya Tumpang No. 290",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20518860",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BENJOR",
+      "alamat": "JL. RAYA BENJOR",
+      "kelurahan": "Benjor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20518784",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DUWET KRAJAN",
+      "alamat": "Jl. Bromo RT.29 / RW. 07 Dusun Tosari",
+      "kelurahan": "Duwet Krajan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518362",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JERU",
+      "alamat": "JL. KH DEWANTORO NO.53 RT. 4 RW. 6",
+      "kelurahan": "Jeru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20517161",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MALANGSUKO",
+      "alamat": "JL. KAMBOJA NO.6 MALANGSUKO",
+      "kelurahan": "Malangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517101",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGINGIT",
+      "alamat": "JL. RAYA GLENDANGAN RT. 11  RW. 3",
+      "kelurahan": "Ngingit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20517129",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANAJENG",
+      "alamat": "JL. RAYA PANDANAJENG RT. 8 RW. 3",
+      "kelurahan": "Pandanajeng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517306",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PULUNGDOWO",
+      "alamat": "JL. RAYA PULUNGDOWO",
+      "kelurahan": "Pulungdowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20516848",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SLAMET",
+      "alamat": "JL. GAJAHMADA 28",
+      "kelurahan": "Slamet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517697",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TULUSBESAR",
+      "alamat": "Jl. Raya Tulusbesar, No. 41",
+      "kelurahan": "Tulusbesar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517686",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TUMPANG",
+      "alamat": "JL. RAYA TUMPANG NO.72 RT. 5 RW. 11",
+      "kelurahan": "Tumpang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517628",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WRINGINSONGO",
+      "alamat": "JL. SUMBERINGIN NO.156 RT. 12 RW. 3",
+      "kelurahan": "Wringinsongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518859",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BENJOR",
+      "alamat": "JL. RAYA BENJOR No. 358 Rt. 02 Rw. 01",
+      "kelurahan": "Benjor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518783",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DUWET KRAJAN",
+      "alamat": "JL. Bromo Dusun Swaru",
+      "kelurahan": "Duwet Krajan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518374",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JERU",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO.164",
+      "kelurahan": "Jeru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517162",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MALANGSUKO",
+      "alamat": "JL. NUSA INDAH 25 MALANGSUKO RT. 16 RW. 7",
+      "kelurahan": "Malangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517128",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANAJENG",
+      "alamat": "Jl. Raya Bangilan No. 216",
+      "kelurahan": "Pandanajeng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20517307",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PULUNGDOWO",
+      "alamat": "JL. RAYA PULUNGDOWO NO.265 RT. 7 RW. 4",
+      "kelurahan": "Pulungdowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20516849",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SLAMET",
+      "alamat": "JL. WRINGINANOM 30 RT. 30 RW. 10",
+      "kelurahan": "Slamet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517698",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TULUSBESAR",
+      "alamat": "JL. MANGUNDARMO 85 RT. 35 RW. 03 Tulusbesar",
+      "kelurahan": "Tulusbesar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517682",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TUMPANG",
+      "alamat": "JL. Wisnuwardhana No. 49 RT.15  RW. 08",
+      "kelurahan": "Tumpang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517629",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WRINGINSONGO",
+      "alamat": "JL. RAYA NONGKOSONGO NO.107",
+      "kelurahan": "Wringinsongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20518769",
+      "nama_satuan_pendidikan": "SD NEGERI 3 DUWET",
+      "alamat": "DS. DUWET DUSUN KEDAMPUL",
+      "kelurahan": "Duwet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517308",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PULUNGDOWO",
+      "alamat": "JL. Lapangan Pulungdowo",
+      "kelurahan": "Pulungdowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20517683",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TUMPANG",
+      "alamat": "JL. PAHLAWAN TIMUR, 273. RT. 16, RW. 2A",
+      "kelurahan": "Tumpang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518770",
+      "nama_satuan_pendidikan": "SD NEGERI 4 DUWET",
+      "alamat": "JL. RAYA PETUNGSEWU DUWET",
+      "kelurahan": "Duwet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20517684",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TUMPANG",
+      "alamat": "JL. TUNGGAL IKA 182",
+      "kelurahan": "Tumpang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20517685",
+      "nama_satuan_pendidikan": "SD NEGERI 6 TUMPANG",
+      "alamat": "JL. MAWAR KEBONSARI",
+      "kelurahan": "Tumpang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20518833",
+      "nama_satuan_pendidikan": "SD NEGERI BOKOR",
+      "alamat": "JL. RAYA BOKOR NO.726 RT. 8 RW. 3",
+      "kelurahan": "Bokor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518417",
+      "nama_satuan_pendidikan": "SD NEGERI KAMBINGAN",
+      "alamat": "JL. RAYA KAMBINGAN RT. 4 RW. 1",
+      "kelurahan": "Kambingan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20518512",
+      "nama_satuan_pendidikan": "SD NEGERI KIDAL",
+      "alamat": "JL. RAYA KIDAL NO.01 RT:29 RW: 02",
+      "kelurahan": "Kidal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "70056812",
+      "nama_satuan_pendidikan": "SMP AL DJAELANI",
+      "alamat": "Jl. Raya Bokor RT. 014 RW. 005",
+      "kelurahan": "Bokor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20517409",
+      "nama_satuan_pendidikan": "SMP DIPONEGORO TUMPANG",
+      "alamat": "Jl. Tunggul Ametung 20",
+      "kelurahan": "Tumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20517349",
+      "nama_satuan_pendidikan": "SMP KH.A. THOHIR TUMPANG",
+      "alamat": "JL. RAYA PULUNGDOWO 146",
+      "kelurahan": "Pulungdowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20517489",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 TUMPANG",
+      "alamat": "JL. RAYA MALANGSUKO NO. 22",
+      "kelurahan": "Malangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20517498",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 TUMPANG",
+      "alamat": "JL. Tanjung Dsn.Pulungan Desa Pulungdowo  RT. 17 RW. 1",
+      "kelurahan": "Pulungdowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20561854",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 TUMPANG SATU ATAP",
+      "alamat": "RT. 26 RW. 4 DUSUN PETUNGSEWU",
+      "kelurahan": "Duwet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20559230",
+      "nama_satuan_pendidikan": "SMP NU AL HIKMAH JERU TUMPANG",
+      "alamat": "Jl. Masjid No.49",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "20517558",
+      "nama_satuan_pendidikan": "SMP PGRI TUMPANG",
+      "alamat": "Jl. Panglima Sudirman",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    }
+  ]
+}

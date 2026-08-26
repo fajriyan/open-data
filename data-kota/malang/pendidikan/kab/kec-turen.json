@@ -1,0 +1,770 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. TUREN",
+  "updated_at": "2026-08-13T11:46:18.690Z",
+  "count": 95,
+  "negeri": 45,
+  "swasta": 50,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69993518",
+      "nama_satuan_pendidikan": "MI AL LATHIFIYAH",
+      "alamat": "JL. WIRO SENTANAN",
+      "kelurahan": "Gedog Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715262",
+      "nama_satuan_pendidikan": "MIS AL IHSAN JERU",
+      "alamat": "JL. AL IHSAN 15 RT 09 RW 03",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715260",
+      "nama_satuan_pendidikan": "MIS AL-AZHAR",
+      "alamat": "JL.PESANTREN",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715269",
+      "nama_satuan_pendidikan": "MIS ALMUDDATSIR",
+      "alamat": "JL. MANGGA 92",
+      "kelurahan": "Kemulan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715275",
+      "nama_satuan_pendidikan": "MIS AMANAH",
+      "alamat": "JL. SULTAN AGUNG 48 DESA TANGGUNG KECAMATAN TUREN KABUPATEN MALANG",
+      "kelurahan": "Tanggung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715261",
+      "nama_satuan_pendidikan": "MIS AN NUR",
+      "alamat": "JL. KAUMAN BOKOR RT.02 RW.09",
+      "kelurahan": "Pagedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715259",
+      "nama_satuan_pendidikan": "MIS ANNUR",
+      "alamat": "JL. RAYA 272",
+      "kelurahan": "Sawahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715268",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL.KAUMAN SANANKERTO",
+      "kelurahan": "Sanankerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "70011258",
+      "nama_satuan_pendidikan": "MIS BIBA`AFADLRAH",
+      "alamat": "JL. KH. WACHID HASYIM GG. ANGGUR NO. 17",
+      "kelurahan": "Sananrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715258",
+      "nama_satuan_pendidikan": "MIS HASYIM ASYARI",
+      "alamat": "JL. KH. HASYIM ASYARI 35",
+      "kelurahan": "Talangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715265",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL FALAH",
+      "alamat": "JL. SUKO NO.03 PAGEDANGAN TUREN",
+      "kelurahan": "Pagedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715271",
+      "nama_satuan_pendidikan": "MIS MAMBAUL HUDA",
+      "alamat": "JL.PESANTREN TUMPUKRENTENG",
+      "kelurahan": "Tumpukrenteng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715274",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL. KAUMAN 18",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715266",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. PENDOWO JERU TUREN",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715263",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. PROTOKOL NO.17 TUMPUKRENTENG",
+      "kelurahan": "Tumpukrenteng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "70011213",
+      "nama_satuan_pendidikan": "MIS NAHDATUL ULAMA ALBAHJAH RIDLO ALLAM",
+      "alamat": "JL. KH. HASYIM ASYARI RT. 31 RW. 07",
+      "kelurahan": "Sananrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "69983004",
+      "nama_satuan_pendidikan": "MIS RADEN BAGUS",
+      "alamat": "JL. MENTARAMAN GANG 7",
+      "kelurahan": "Talok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60715272",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL FALAH",
+      "alamat": "JL. KH. WAHID HASYIM NO. 42 TALOK",
+      "kelurahan": "Talok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60715270",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ISLAM",
+      "alamat": "JL.RONGGOLAWE 16",
+      "kelurahan": "Undaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60715273",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL MUBTADI`IN",
+      "alamat": "JL. TUGU 25 WONOKASIAN",
+      "kelurahan": "Pagedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60715264",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL MUTAALIMIN",
+      "alamat": "JL RAYA NO 18 SAWAHAN",
+      "kelurahan": "Sawahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60715267",
+      "nama_satuan_pendidikan": "MIS SITI FATIMAH",
+      "alamat": "JL. MATARAM NO.28 TAWANGREJENI",
+      "kelurahan": "Tawangrejeni",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "70035015",
+      "nama_satuan_pendidikan": "MTs NU NURULLAH AL MAHFUDZH",
+      "alamat": "Jl. Kauman 62",
+      "kelurahan": "Sanankerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581344",
+      "nama_satuan_pendidikan": "MTSN 2 MALANG",
+      "alamat": "JL.KENONGOSARI NO 16 TUREN KAB.MALANG",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20581348",
+      "nama_satuan_pendidikan": "MTSS AL FATAH",
+      "alamat": "JL.MASJID NO.56 TUMPUKRENTENG",
+      "kelurahan": "Tumpukrenteng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581346",
+      "nama_satuan_pendidikan": "MTSS AL IHSAN",
+      "alamat": "JL. AL IHSAN NO. 15",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "70011275",
+      "nama_satuan_pendidikan": "MTSS AN-NUR NURUL FAJRI",
+      "alamat": "JL. PENDOWO",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20581345",
+      "nama_satuan_pendidikan": "MTSS ANNUR",
+      "alamat": "JL. RAYA 272",
+      "kelurahan": "Sawahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20581347",
+      "nama_satuan_pendidikan": "MTSS HASYIM ASY`ARI",
+      "alamat": "JL. RAYA NO.74 TALANGSUKO",
+      "kelurahan": "Talangsuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "69963467",
+      "nama_satuan_pendidikan": "MTSS MAMBA`UL ULUM",
+      "alamat": "Jl. Raya Kedok No. 01 RT/RW: 25/03",
+      "kelurahan": "Kedok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20581349",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA",
+      "alamat": "JL. MAYOR DAMAR NO.32 BOKOR",
+      "kelurahan": "Pagedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20581350",
+      "nama_satuan_pendidikan": "MTSS RAUDLATUL FALAH",
+      "alamat": "JL. KH. WAHID HASYIM NO. 24",
+      "kelurahan": "Talok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20557279",
+      "nama_satuan_pendidikan": "SD ISLAM AL FARABY",
+      "alamat": "JL. MAYOR DAMAR 44",
+      "kelurahan": "Pagedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20517954",
+      "nama_satuan_pendidikan": "SD ISLAM RIYADLUL MUBTADIIN KEDOK",
+      "alamat": "JL. RAYA KEDOK NO.216A RT. 25 RW. 3",
+      "kelurahan": "Kedok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "70004558",
+      "nama_satuan_pendidikan": "SD ISLAM TERPADU AL BASHIROH",
+      "alamat": "Jl. S. Parman RT. 03 RW. 08",
+      "kelurahan": "Tanggung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "69966504",
+      "nama_satuan_pendidikan": "SD KRISTEN DUNIA TERANG",
+      "alamat": "JL. AHMAD YANI NO. 99 RT 03 RW 02",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20518436",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GEDOG KULON",
+      "alamat": "JL. KANTOR NO.55 GEDOGKULON RT. 9 RW. 5",
+      "kelurahan": "Gedog Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518423",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GEDOG WETAN",
+      "alamat": "JL. RINGIN RAYA NO.151  RT. 1 RW. 11 DUSUN MULYOARJO",
+      "kelurahan": "Gedog Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518375",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JERU",
+      "alamat": "JL. ABAS NO. 2 RT. 10 RW. 3 JERU TUREN",
+      "kelurahan": "Jeru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518558",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEDOK",
+      "alamat": "JL. RAYA KEDOK NO.87 RT 22 RW 03",
+      "kelurahan": "Kedok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518584",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEMULAN",
+      "alamat": "JL. MURIS NO. 2 RT. 5 RW. 3",
+      "kelurahan": "Kemulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517095",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAGEDANGAN",
+      "alamat": "JL. MAYOR DAMAR 104  RT. 20 RW. 7 PAGEDANGAN",
+      "kelurahan": "Pagedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20517263",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SANANKERTO",
+      "alamat": "JL. PURWANTORO BARAT NO 4 RT. 7 RW. 2",
+      "kelurahan": "Sanankerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20517265",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SANANREJO",
+      "alamat": "JL. SOEKARNO HATTA NO 6 RT. 24 RW. 5",
+      "kelurahan": "Sananrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517244",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SAWAHAN",
+      "alamat": "JL. KENANGA RT. 49 RW. 14 DUSUN TRIMO",
+      "kelurahan": "Sawahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517249",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SEDAYU",
+      "alamat": "JL. GATOT SUBROTO NO 190   RT. 13 RW. 4 SEDAYU",
+      "kelurahan": "Sedayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20516959",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TALANGSUKO",
+      "alamat": "Jl. Raya Talangsuko No.350 RT. 04 RW. 02",
+      "kelurahan": "Talangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20516962",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TALOK",
+      "alamat": "JL. KH. WACHID HASYIM NO. 2 RT. 2 RW. 3 DUSUN MADYORENGGO",
+      "kelurahan": "Talok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517017",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TANGGUNG",
+      "alamat": "JL. KH DEWANTARA 10 RT4 RW. 1 TANGGUNG",
+      "kelurahan": "Tanggung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20516994",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAWANGREJENI",
+      "alamat": "JL. ABDUL MUKTI NO.107 RT. 1 RW. 1",
+      "kelurahan": "Tawangrejeni",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20517688",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TUMPUKRENTENG",
+      "alamat": "JL. PROTOKOL NO.2 RT. 10 RW. 03 DUSUN TUMPUKRENTENG",
+      "kelurahan": "Tumpukrenteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20517693",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TUREN",
+      "alamat": "JL. AHMAD YANI 87 B RT. 3 RW. 2 TUREN",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20517605",
+      "nama_satuan_pendidikan": "SD NEGERI 1 UNDAAN",
+      "alamat": "JL. CAMARA NO. 5 RT. 2 RW. 1 DUSUN UNDAAN",
+      "kelurahan": "Undaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20518559",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEDOK",
+      "alamat": "JL. SIMPANG REKESAN RT. 33 RW. 4 DUSUN REKESAN",
+      "kelurahan": "Kedok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518585",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEMULAN",
+      "alamat": "JL. CERME NO 33 RT. 3 RW. 4",
+      "kelurahan": "Kemulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517082",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAGEDANGAN",
+      "alamat": "Jl. Senandung No. 01 RT. 10 RW. 6 Pagedangan Keacamatan Turen",
+      "kelurahan": "Pagedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517264",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SANANKERTO",
+      "alamat": "JL. LAPANGAN NO 25 RT. 18 RW. 4",
+      "kelurahan": "Sanankerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517245",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SAWAHAN",
+      "alamat": "JL. JAMHURI NO. 6 RT. 38 RW. 11 DUSUN KRAJAN",
+      "kelurahan": "Sawahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20516960",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TALANGSUKO",
+      "alamat": "JL. RAYA TALANGSUKO NO.212 RT. 1 RW. 6 TALANGSUKO",
+      "kelurahan": "Talangsuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20516963",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TALOK",
+      "alamat": "JL. GATOT SUBROTO NO.147 RT. 4 RW. 6 DUSUN MADYORENGGO",
+      "kelurahan": "Talok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20517003",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TANGGUNG",
+      "alamat": "JL. A. YANI 22 RT. 3 RW. 5",
+      "kelurahan": "Tanggung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20516987",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAWANGREJENI",
+      "alamat": "JL. BANGIL NO. 128 RT. 2 RW. 10 LOWOKWARU",
+      "kelurahan": "Tawangrejeni",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20517687",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TUMPUKRENTENG",
+      "alamat": "JL. PROTOKOL NO. 23 RT. 02 RW. 01 DUSUN KRAJAN",
+      "kelurahan": "Tumpukrenteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20517709",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TUREN",
+      "alamat": "JL. AHMAD YANI 63 A RT. 4 RW. 1 TUREN",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20517604",
+      "nama_satuan_pendidikan": "SD NEGERI 2 UNDAAN",
+      "alamat": "JL. RAYA UNDAAN 38 E RT. 7 RW. 2 DUSUN UNDAAN",
+      "kelurahan": "Undaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20518437",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GEDOG WETAN",
+      "alamat": "JL. KEJEN NO.01  RT. 5  RW. 6 GEDOGWETAN   TUREN",
+      "kelurahan": "Gedog Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20518586",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEMULAN",
+      "alamat": "JL. JERUK NO. 2 RT. 5 RW. 1",
+      "kelurahan": "Kemulan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20517083",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAGEDANGAN",
+      "alamat": "JL. MINYAK NO. 1 RT.  10 RW. 3 DUSUN WONOKASIAN PAGEDANGAN",
+      "kelurahan": "Pagedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20517267",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SANANREJO",
+      "alamat": "JL. SOEKARNO HATTA NO.3 RT. 25 RW. 6",
+      "kelurahan": "Sananrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20517246",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SAWAHAN",
+      "alamat": "JL. RAYA NO. 255 RT. 40 RW. 12 DUSUN KRAJAN",
+      "kelurahan": "Sawahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20517251",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SEDAYU",
+      "alamat": "JL. PANJAITAN NO.63 RT. 20 RW. 6 SEDAYU",
+      "kelurahan": "Sedayu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20516964",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TALOK",
+      "alamat": "JL. SERUT NO.44 RT. 5 RW. 9 DUSUN JATIRENGGO",
+      "kelurahan": "Talok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20516995",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TAWANGREJENI",
+      "alamat": "JL. SURYO RT. 3   RW. 7  DUSUN BARAN TAWANGREJENI",
+      "kelurahan": "Tawangrejeni",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20517646",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TUREN",
+      "alamat": "JL. JAGALAN GG I NO 1 RT. 3 RW. 14 TUREN",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20517247",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SAWAHAN",
+      "alamat": "JL. KEMULAN NO. 3 RT. 5 RW. 2 DUSUN PREMBANGAN",
+      "kelurahan": "Sawahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20517691",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TUREN",
+      "alamat": "JL. TAMAN MAKAM PAHLAWAN NO. 46 RT. 1 RW. 7",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20517248",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SAWAHAN",
+      "alamat": "JL. RAYA SAWAHAN NO.39 RT. 9 RW. 3 DUSUN PREMBANGAN",
+      "kelurahan": "Sawahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20517692",
+      "nama_satuan_pendidikan": "SD NEGERI 5 TUREN",
+      "alamat": "JL. BHAYANGKARA NO.70 RT. 2 RW. 9",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20518729",
+      "nama_satuan_pendidikan": "SD TAMANSISWA TUREN",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 37 RT. 1 RW. 19",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "70004626",
+      "nama_satuan_pendidikan": "SDI KARTIKA NAWA",
+      "alamat": "JALAN RAYA KEDOK",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "20518732",
+      "nama_satuan_pendidikan": "SDS ISLAM SANANREJO",
+      "alamat": "Jl. Kh Wachid Hasyim  No. 10",
+      "kelurahan": "Sananrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "20560613",
+      "nama_satuan_pendidikan": "SMP AHMAD YANI TUREN",
+      "alamat": "Jln. Jenderal Ahmad Yani No 17",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20517412",
+      "nama_satuan_pendidikan": "SMP AL AZHAR",
+      "alamat": "Jl. Pesantren",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "20517419",
+      "nama_satuan_pendidikan": "SMP BHAKTI TUREN",
+      "alamat": "Jl. Panglima Sudirman No.2",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": "70012176",
+      "nama_satuan_pendidikan": "SMP DARUL MUTTAQIN",
+      "alamat": "Jl. Pendowo RT. 05 RW. 02",
+      "kelurahan": "Jeru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "20517332",
+      "nama_satuan_pendidikan": "SMP ISLAM SAWAHAN TUREN",
+      "alamat": "Jl. Raya No.41 Sawahan",
+      "kelurahan": "Sawahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": "69759224",
+      "nama_satuan_pendidikan": "SMP IT ALBASHIROH TUREN",
+      "alamat": "Jl. Tendean Desa Tanggung RT 01 RW 08",
+      "kelurahan": "Tanggung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 88,
+      "npsn": "20517356",
+      "nama_satuan_pendidikan": "SMP KATOLIK IGN. SLAMET RIJADI",
+      "alamat": "Jl. Gatot Subroto No. 5",
+      "kelurahan": "Sedayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": "20517364",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 10 TUREN",
+      "alamat": "Jalan Gatot subroto 116 Talok",
+      "kelurahan": "Talok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": "20517490",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 TUREN",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 1A",
+      "kelurahan": "Turen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 91,
+      "npsn": "20517499",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 TUREN",
+      "alamat": "Jl. Raya Kedok No. 8A Kec. Turen Kab. Malang",
+      "kelurahan": "Kedok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 92,
+      "npsn": "20517550",
+      "nama_satuan_pendidikan": "SMP PGRI 02 TUREN",
+      "alamat": "Jalan Salak Gg. II",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": "20517563",
+      "nama_satuan_pendidikan": "SMP TAMANSISWA TUREN",
+      "alamat": "Jl. P. Sudirman No. 37 Turen",
+      "kelurahan": "Turen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": "20517388",
+      "nama_satuan_pendidikan": "SMP TERPADU TUREN",
+      "alamat": "Jl Tugu Wonokasian- Pagedangan",
+      "kelurahan": "Pagedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 95,
+      "npsn": "70013116",
+      "nama_satuan_pendidikan": "SMP UNGGULAN AN-NUR HIDAYATULLAH",
+      "alamat": "Jl. KH. Wahid Hasyim RT. 01 RW. 01",
+      "kelurahan": "Talok",
+      "status": "SWASTA"
+    }
+  ]
+}

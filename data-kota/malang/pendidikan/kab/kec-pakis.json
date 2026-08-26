@@ -1,0 +1,626 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PAKIS",
+  "updated_at": "2026-08-13T11:47:30.841Z",
+  "count": 77,
+  "negeri": 32,
+  "swasta": 45,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715140",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU ASRIKATON",
+      "alamat": "JL. MAWAR I NO.122 ASRIKATON PAKIS KABUPATEN MALANG",
+      "kelurahan": "Asrikaton",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69894658",
+      "nama_satuan_pendidikan": "MI TARBIYYATUL ARIFIN",
+      "alamat": "Jl. Anggodo-Lowoksuruh RT. 03  RW. 10",
+      "kelurahan": "Mangliawan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715143",
+      "nama_satuan_pendidikan": "MIS AL FATAH",
+      "alamat": "NGAMPRONG,RT.02 RW.05 BANJAREJO",
+      "kelurahan": "Banjarrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715152",
+      "nama_satuan_pendidikan": "MIS AL HASIB",
+      "alamat": "JL. KH. HASIB 03/06 TRAJENG PAKISJAJAR",
+      "kelurahan": "Pakisjajar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715150",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAT",
+      "alamat": "Jl Raya Bunut Wetan No 986 Pakis Malang Jatim",
+      "kelurahan": "Bunutwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715151",
+      "nama_satuan_pendidikan": "MIS AL KHOIRIYAH",
+      "alamat": "JL. RAYA TIRTOMOYO 196",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715142",
+      "nama_satuan_pendidikan": "MIS AL MAARIF",
+      "alamat": "JL. MASJID 18 BORO JAMBANGAN",
+      "kelurahan": "Saptorenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715149",
+      "nama_satuan_pendidikan": "MIS ANBAUL ULUM",
+      "alamat": "JL KYAI GHOZALI RT.06 RW.06 TEGALPASANGAN- PAKISKEMBAR",
+      "kelurahan": "Pakiskembar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715138",
+      "nama_satuan_pendidikan": "MIS DARUL FALAH",
+      "alamat": "BORO BUNUTRT03/08-BUNUT WETAN",
+      "kelurahan": "Bunutwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715141",
+      "nama_satuan_pendidikan": "MIS HASYIM ASYARI",
+      "alamat": "JL. MASJID NO.33 PAKISKEMBAR-PAKIS-MALANG",
+      "kelurahan": "Pakiskembar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715136",
+      "nama_satuan_pendidikan": "MIS HAYATUL ISLAMIYAH",
+      "alamat": "JL. RAYA SAPTORENGGO NO 69 RT 01 RW 06",
+      "kelurahan": "Saptorenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715137",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL.KH.GHOZALI NO 01",
+      "kelurahan": "Sumberkradenan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715144",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM PAKIS",
+      "alamat": "JL. H. ALWI NO. 284 TIRTOMOYO PAKIS",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715139",
+      "nama_satuan_pendidikan": "MIS NU BUNUTWETAN",
+      "alamat": "JL. SEMERU VII NO. 37  BUNUTWETAN-PAKIS",
+      "kelurahan": "Bunutwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715147",
+      "nama_satuan_pendidikan": "MIS NU SUMBERPASIR",
+      "alamat": "JL. PA. HJ. KHODIJAH 07 PAKIS",
+      "kelurahan": "Sumberpasir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715153",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA 01",
+      "alamat": "JL. KARANG TENGAH 373 PAKISJAJAR",
+      "kelurahan": "Pakisjajar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715145",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA 02",
+      "alamat": "JL.RAYA TERONGDOWO 260, TIRTOMOYO PAKIS MALANG",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60715146",
+      "nama_satuan_pendidikan": "MIS SUNAN AMPEL",
+      "alamat": "JL. SUNAN AMPEL RT.008 RW.001 Ampeldento Pakis Malang",
+      "kelurahan": "Ampeldento",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60715148",
+      "nama_satuan_pendidikan": "MIS WAHID HASYIM",
+      "alamat": "JL. RAYA NO. 01 SUKOANYAR",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581296",
+      "nama_satuan_pendidikan": "MTSS AL- FAQIH",
+      "alamat": "JLN. UTARA MAKAM No. 45, PLALAR",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581299",
+      "nama_satuan_pendidikan": "MTSS AL-ADNAN",
+      "alamat": "JL.BALAI DESA",
+      "kelurahan": "Pucang Songo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581300",
+      "nama_satuan_pendidikan": "MTSS AL-AMIN",
+      "alamat": "JL.RAYA SUMBERPASIR TIMUR NO. 173-175 KEC. PAKIS KAB. MALANG KODE POS 65154",
+      "kelurahan": "Sekarpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581295",
+      "nama_satuan_pendidikan": "MTSS DZUNNUROIN",
+      "alamat": "JL. TERONGDOWO NO.264 TIRTOMOYO PAKIS MALANG",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581297",
+      "nama_satuan_pendidikan": "MTSS HASYIM ASYARI PAKIS",
+      "alamat": "JL. ABDUL MANAN NO 74 PAKISKEMBAR KECAMATAN PAKIS KABUPATEN MALANG",
+      "kelurahan": "Pakiskembar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581298",
+      "nama_satuan_pendidikan": "MTSS ISLAMIYAH PAKIS",
+      "alamat": "JL. KH. GHOZALI NO 23",
+      "kelurahan": "Sumberkradenan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581293",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM PAKIS",
+      "alamat": "JL. H. ALWI NO. 284 TIRTOMOYO KECAMATAN PAKIS KABUPATEN MALANG",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20581294",
+      "nama_satuan_pendidikan": "MTSS NAHDLATUL ULAMA PAKIS",
+      "alamat": "BUNUT WETAN NO. 986 PAKIS",
+      "kelurahan": "Bunutwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "70033767",
+      "nama_satuan_pendidikan": "SD ASY-SYADZILI",
+      "alamat": "Jalan Sumberpasir Dusun Krajan RT. 05 RW. 02 No. 99A",
+      "kelurahan": "Sumberpasir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20518733",
+      "nama_satuan_pendidikan": "SD ISLAM AL FAQIH",
+      "alamat": "JL. SUKOANYAR NO. 27 SUKOANYAR PAKIS MALANG",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "70062641",
+      "nama_satuan_pendidikan": "SD KATOLIK SAINT JOSEPH MONTESSORI",
+      "alamat": "Jl. Mansion Boulevard No. 6 Kompleks Perumahan The Araya Dusun Genitri",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20516840",
+      "nama_satuan_pendidikan": "SD NEGERI  SUKOANYAR",
+      "alamat": "JL. PLALAR NO.14",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518735",
+      "nama_satuan_pendidikan": "SD NEGERI 1 AMPELDENTO",
+      "alamat": "JL. RAYA AMPELDENTO NO.29",
+      "kelurahan": "Ampeldento",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20537318",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ASRIKATON",
+      "alamat": "JL. RAYA ASRIKATON NO.46 RT. 6 RW. 3 DUSUN UREK-UREK",
+      "kelurahan": "Asrikaton",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20565335",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANJAREJO",
+      "alamat": "JL. BRAWIJAYA NO. 1",
+      "kelurahan": "Banjarrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518597",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEDUNGREJO",
+      "alamat": "JL. RAYA KEDUNGREJO NO.68",
+      "kelurahan": "Kedungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517163",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MANGLIAWAN",
+      "alamat": "JL. RAYA WENDIT BARAT 30",
+      "kelurahan": "Mangliawan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20537332",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAKISJAJAR",
+      "alamat": "JL. RAYA PAKIS NO. 68 RT. 1 RW. 2",
+      "kelurahan": "Pakisjajar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517131",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAKISKEMBAR",
+      "alamat": "JL. RAYA PAKISKEMBAR NO. 2 RT. 1 RW. 3",
+      "kelurahan": "Pakiskembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517254",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SAPTORENGGO",
+      "alamat": "JL. RAYA SAPTORENGGO NO. 2",
+      "kelurahan": "Saptorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517078",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERPASIR",
+      "alamat": "JL. AL-MUNAWAR 03",
+      "kelurahan": "Sumberpasir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517676",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TIRTOMOYO",
+      "alamat": "JL. RAYA DIPOMANGGOLO NO.11",
+      "kelurahan": "Tirtomoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518611",
+      "nama_satuan_pendidikan": "SD NEGERI 2 AMPELDENTO",
+      "alamat": "JL. SUNAN MURIA NO 238 RT. 6 RW. 3",
+      "kelurahan": "Ampeldento",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518642",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ASRIKATON",
+      "alamat": "JL. RAYA BAMBAN NO. 260",
+      "kelurahan": "Asrikaton",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20565336",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANJAREJO",
+      "alamat": "JL. GAJAHMADA NO. 1 RT. 8 RW. 2",
+      "kelurahan": "Banjarrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20518598",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEDUNGREJO",
+      "alamat": "JL. SAYUR NO.25 RT. 1 RW. 4",
+      "kelurahan": "Kedungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20537336",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAKISJAJAR",
+      "alamat": "JL. LEDOKDOWO NO. 156 RT. 4 RW. 4",
+      "kelurahan": "Pakisjajar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517132",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAKISKEMBAR",
+      "alamat": "JL. RAYA JAMBON DUSUN JAMBON RT. 1 RW. 2",
+      "kelurahan": "Pakiskembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20517268",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SAPTORENGGO",
+      "alamat": "JL. SAPTORAYA GANG H. TOYIB NO. 175",
+      "kelurahan": "Saptorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517079",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERPASIR",
+      "alamat": "JL. NGRANGIN RT. 18 RW. 5 DUSUN NGRANGIN",
+      "kelurahan": "Sumberpasir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20517662",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TIRTOMOYO",
+      "alamat": "Jl Abdillah No. 291 RT 5 RW 2",
+      "kelurahan": "Tirtomoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518641",
+      "nama_satuan_pendidikan": "SD NEGERI 3 ASRIKATON",
+      "alamat": "BORO SEKARAN RT 05 RW 07",
+      "kelurahan": "Asrikaton",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20576079",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BANJAREJO",
+      "alamat": "Dusun Ngamprong RT 6 RW 4, Banjarejo, Pakis, Malang",
+      "kelurahan": "Banjarrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20517165",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MANGLIAWAN",
+      "alamat": "JL. RAYA KAPI WORO NO. 25",
+      "kelurahan": "Mangliawan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20517241",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SAPTORENGGO",
+      "alamat": "JL. RAYA LANUD ABD. SALEH",
+      "kelurahan": "Saptorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20517242",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SAPTORENGGO",
+      "alamat": "KOMP. AMARTA ABD SALEH MALANG",
+      "kelurahan": "Saptorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517243",
+      "nama_satuan_pendidikan": "SD NEGERI 6 SAPTORENGGO",
+      "alamat": "JL. BUGIS I 89  RT. 5 RW. 5",
+      "kelurahan": "Saptorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20518845",
+      "nama_satuan_pendidikan": "SD NEGERI BUNUTWETAN",
+      "alamat": "JL. GARUDA 6 NO.705",
+      "kelurahan": "Bunutwetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517327",
+      "nama_satuan_pendidikan": "SD NEGERI PUCANGSONGO",
+      "alamat": "JL. SIMPANG TIGA NO. 1 RT. 8 RW. 3",
+      "kelurahan": "Pucang Songo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20537339",
+      "nama_satuan_pendidikan": "SD NEGERI SEKARPURO",
+      "alamat": "JL. RAYA SEKARPURO NO. 8 RT. 21 RW. 6",
+      "kelurahan": "Sekarpuro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20517051",
+      "nama_satuan_pendidikan": "SD NEGERI SUMBERKRADENAN",
+      "alamat": "JL. RAYA KRAJAN NO.1",
+      "kelurahan": "Sumberkradenan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "70036690",
+      "nama_satuan_pendidikan": "SD TAHFIDZ AL QURAN DAARUL UKHUWWAH",
+      "alamat": "Jl. Jagung RT. 03 RW. 05 Dusun Bamban",
+      "kelurahan": "Asrikaton",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "69952065",
+      "nama_satuan_pendidikan": "SD UNGGULAN PERMATAJINGGA",
+      "alamat": "BOULEVARD AVENUE III JL. RAYA KAPI SUBALI 18 SEKARPURO, PAKIS MALANG",
+      "kelurahan": "Sekarpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": "70037097",
+      "nama_satuan_pendidikan": "SDI HASYIM ASYARI SEKARPURO",
+      "alamat": "Jalan Melati No. 124",
+      "kelurahan": "Sekarpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "70012289",
+      "nama_satuan_pendidikan": "SMP AL HASANI",
+      "alamat": "Patoklengki Pakisjajar",
+      "kelurahan": "Pakisjajar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 65,
+      "npsn": "20571078",
+      "nama_satuan_pendidikan": "SMP AL HASIB PAKIS",
+      "alamat": "JL.KH. HASIB TRAJENG PAKIS",
+      "kelurahan": "Pakisjajar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": "20573043",
+      "nama_satuan_pendidikan": "SMP DAARUL UKHUWWAH",
+      "alamat": "Dusun Bamban Desa Asrikaton Pakis",
+      "kelurahan": "Asrikaton",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": "20517458",
+      "nama_satuan_pendidikan": "SMP ISLAM PAKIS",
+      "alamat": "Jl. Raya Tirtomoyo 196",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": "69970977",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU DAAR EL QURAN",
+      "alamat": "DUSUN KRAJAN RT. 01 RW. 02",
+      "kelurahan": "Bunutwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": "20577695",
+      "nama_satuan_pendidikan": "SMP IT ASY-SYADZILI",
+      "alamat": "Jl. PA HJ. KHODIJAH 99 B",
+      "kelurahan": "Sumberpasir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": "20517465",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PAKIS",
+      "alamat": "JL. RAYA SUMBER PASIR NO. 18",
+      "kelurahan": "Sumberpasir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20517505",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PAKIS",
+      "alamat": "JL. GAJAHMADA BANJAREJO",
+      "kelurahan": "Banjarrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20517383",
+      "nama_satuan_pendidikan": "SMP NU PAKIS",
+      "alamat": "JL. H. MUSTOFA 108 PAKIS",
+      "kelurahan": "Pakiskembar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 73,
+      "npsn": "70003420",
+      "nama_satuan_pendidikan": "SMP PERMATA JINGGA MALANG",
+      "alamat": "Perum Grand Permata Jingga",
+      "kelurahan": "Sekarpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 74,
+      "npsn": "20517554",
+      "nama_satuan_pendidikan": "SMP PGRI PAKIS",
+      "alamat": "JL. MAWAR II RT 13 RW 02",
+      "kelurahan": "Asrikaton",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": "70056383",
+      "nama_satuan_pendidikan": "SMP PRODUKTIF AL ISLAM",
+      "alamat": "Jl. Jaya Srani Raya No. 17/F12 Sawojajar 2",
+      "kelurahan": "Sekarpuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": "69992895",
+      "nama_satuan_pendidikan": "SMP TAHFIDZ AL-MANSHURIN",
+      "alamat": "Jl. Kapi Menda VII 11/F/45 RT. 05 RW. 17",
+      "kelurahan": "Mangliawan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "20562763",
+      "nama_satuan_pendidikan": "SMPI AL FAQIH",
+      "alamat": "JL. UTARA MAKAM NO 45",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. DAMPIT",
+  "updated_at": "2026-08-13T11:43:01.457Z",
+  "count": 93,
+  "negeri": 50,
+  "swasta": 43,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69894654",
+      "nama_satuan_pendidikan": "AL-BARDY",
+      "alamat": "BABUSSALAM",
+      "kelurahan": "Baturetno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70034617",
+      "nama_satuan_pendidikan": "MI AL-HIDAYAH",
+      "alamat": "JL. JEGLONGAN SEWU RT 1 RW 11 DAWUHAN",
+      "kelurahan": "Pamotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715017",
+      "nama_satuan_pendidikan": "MIS AL - AZIZ",
+      "alamat": "JL.KH AHMAD DAHLAN NO 15 BANJARPATOMAN",
+      "kelurahan": "Amadanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715018",
+      "nama_satuan_pendidikan": "MIS AL IKHLAS",
+      "alamat": "JL. RAYA PETUNGSIGAR RT 38 RW 05 DESA SUKODONO KECAMATAN DAMPIT",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "70042179",
+      "nama_satuan_pendidikan": "MIS ASH-SHOLIHUDDIN",
+      "alamat": "JALAN PESANTREN NOMOR 72 RT 021 RW 003 SUMBERTANGKEP",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715019",
+      "nama_satuan_pendidikan": "MIS AZHARUL ULUM",
+      "alamat": "JL.SUROPATI 80 SAWUR SUKODONO",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715021",
+      "nama_satuan_pendidikan": "MIS DIPONEGORO SRIMULYO",
+      "alamat": "JL RAYA SUKOREJO RT 12 RW 06  DAMPIT",
+      "kelurahan": "Srimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715023",
+      "nama_satuan_pendidikan": "MIS HASYIM ASYARI DAMPIT",
+      "alamat": "JL. MASJID NO.01 JEGONG JAMBANGAN DAMPIT",
+      "kelurahan": "Jambangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715025",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL MUBTADIIN",
+      "alamat": "Jl. SUMBERAYU RT 02 RW 25",
+      "kelurahan": "Pamotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715020",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM DAMPIT",
+      "alamat": "JL.SUNAN MURIA LAMBANGSARI",
+      "kelurahan": "Jambangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "69756673",
+      "nama_satuan_pendidikan": "MIS NASRUDDIN",
+      "alamat": "JL. SEGALUH NO.63",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715029",
+      "nama_satuan_pendidikan": "MIS RADEN PATAH",
+      "alamat": "JL. PERBATASAN BUMIREJO",
+      "kelurahan": "Bumirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715026",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL BAYAN",
+      "alamat": "JL PUNTA DEWA 13 MAJANG TENGAH",
+      "kelurahan": "Majangtengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715027",
+      "nama_satuan_pendidikan": "MIS SULTAN AGUNG",
+      "alamat": "JL.K.H.AGUS SALIM NO.14  MAJANGTENGAH",
+      "kelurahan": "Majangtengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715028",
+      "nama_satuan_pendidikan": "MIS SUNAN AMPEL",
+      "alamat": "JL.Raya Crabaan Rt 12 Rw 02",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715022",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL. SUNAN GIRI LAMBANGKUNING",
+      "kelurahan": "Majangtengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715024",
+      "nama_satuan_pendidikan": "MIS WAHID HASYIM",
+      "alamat": "JL. ASEM BAGUS 05 JAMBANGAN DAMPIT",
+      "kelurahan": "Jambangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20581222",
+      "nama_satuan_pendidikan": "MTS AZHARUL ULUM",
+      "alamat": "JL. SUROPATI 80 SAWUR DESA SUKODONO",
+      "kelurahan": "Pamotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20581215",
+      "nama_satuan_pendidikan": "MTSS AL AZIZ",
+      "alamat": "JL.KH.AHMAD DAHLAN NO 15 BANJARPATOMAN AMADANOM DAMPIT",
+      "kelurahan": "Amadanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581219",
+      "nama_satuan_pendidikan": "MTSS AL-IKHLAS",
+      "alamat": "JL. RAYA PETUNGSIGAR",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581221",
+      "nama_satuan_pendidikan": "MTSS ASH-SHOLIHUDDIN",
+      "alamat": "JL. PESANTREN 72 RT 21 RW 03 SUMBERTANGKEP",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581220",
+      "nama_satuan_pendidikan": "MTSS DARUSSALAM",
+      "alamat": "JL.RAYA SUKOREJO SRIMULYO DAMPIT",
+      "kelurahan": "Srimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581217",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM DAMPIT",
+      "alamat": "JL. KH. AGUS SALIM 14 MAJANGTENGAH",
+      "kelurahan": "Majangtengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581214",
+      "nama_satuan_pendidikan": "MTSS NASRUDDIN",
+      "alamat": "JL. SEGALUH BARAT RT.01 RW.04",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581218",
+      "nama_satuan_pendidikan": "MTSS NU RADEN PATAH",
+      "alamat": "JL. PERBATASAN BUMIREJO",
+      "kelurahan": "Bumirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581223",
+      "nama_satuan_pendidikan": "MTSS NURUL ULUM",
+      "alamat": "JL.SUNAN MURIA LAMBANGSARI DESA MAJANG TENGAH KECAMATAN DAMPIT",
+      "kelurahan": "Majangtengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20581216",
+      "nama_satuan_pendidikan": "MTSS SUNAN AMPEL",
+      "alamat": "JL. RAYA CRABAAN RT12RW02 SBR SUKO",
+      "kelurahan": "Sumbersuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20518698",
+      "nama_satuan_pendidikan": "SD ISLAM DIPONEGORO",
+      "alamat": "Jl. Semeru Selatan No.07",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20518717",
+      "nama_satuan_pendidikan": "SD NEGERI 1 AMADANOM",
+      "alamat": "JL. RAYA AMADANOM RT. 6 RW. 1",
+      "kelurahan": "Amadanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518806",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BATURETNO",
+      "alamat": "NO.01 RT. 1 RW. 1 DUSUN PANGGUNGSARI",
+      "kelurahan": "Baturetno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518842",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BUMIREJO",
+      "alamat": "JL. RAYA BUMIREJO NO.79 RT. 2 RW. 7",
+      "kelurahan": "Bumirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518752",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DAMPIT",
+      "alamat": "JL. SEMERU SELATAN NO. 15 RT. 7 RW. 6 DAMPIT",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518455",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JAMBANGAN",
+      "alamat": "JL. RAYA JAMBANGAN DESA JAMBANGAN",
+      "kelurahan": "Jambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20518530",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MAJANGTENGAH",
+      "alamat": "JL. RAYA MAJANGTENGAH RT. 2 RW. 1",
+      "kelurahan": "Majangtengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517136",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAMOTAN",
+      "alamat": "JL. A. YANI NO 108",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517318",
+      "nama_satuan_pendidikan": "SD NEGERI 1 POJOK",
+      "alamat": "JL. JAMBANGAN NO.32",
+      "kelurahan": "Pojok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518725",
+      "nama_satuan_pendidikan": "SD NEGERI 1 REMBUN",
+      "alamat": "JL. PERWIRA NO. 5 RT. 6 RW. 2",
+      "kelurahan": "Rembun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20516832",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SRIMULYO",
+      "alamat": "JL. RAYA SRIMULYO NO. 5 RT. 17 RW. 2",
+      "kelurahan": "Srimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20516876",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKODONO",
+      "alamat": "RT. 5 RW. 1 DUSUN SAWUR",
+      "kelurahan": "Sukodono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516955",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERSUKO",
+      "alamat": "JL. AHMAD YANI NO.14 RT. 1 RW. 1",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518809",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BATURETNO",
+      "alamat": "JL. Panggungrejo No. 20",
+      "kelurahan": "Baturetno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518843",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BUMIREJO",
+      "alamat": "RT. 2 RW. 2 DUSUN TUGUSARI",
+      "kelurahan": "Bumirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518751",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DAMPIT",
+      "alamat": "Jl. Semeru Sel. No.9, Dampit, Kec. Dampit, Kabupaten Malang, Jawa Timur 65181",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518457",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JAMBANGAN",
+      "alamat": "DUSUN SUMBERSARI",
+      "kelurahan": "Jambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20518546",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MAJANGTENGAH",
+      "alamat": "JL. FATAHILLAH NO.08 RT. 20 RW. 3, DUSUN KEDAWUNG",
+      "kelurahan": "Majangtengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20518706",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAMOTAN",
+      "alamat": "JL. MT HARYONO NO. 25",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517319",
+      "nama_satuan_pendidikan": "SD NEGERI 2 POJOK",
+      "alamat": "JL. LEDOKSARI RT. 9 RW. 2 DUSUN KEDAWUNG",
+      "kelurahan": "Pojok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20517256",
+      "nama_satuan_pendidikan": "SD NEGERI 2 REMBUN",
+      "alamat": "JL. PERWIRA NO.25",
+      "kelurahan": "Rembun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20516831",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SRIMULYO",
+      "alamat": "RT. 10 RW. 3 DUSUN BALEREJO",
+      "kelurahan": "Srimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20516877",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKODONO",
+      "alamat": "RT. 30 RW. 4 DUSUN WONOREJO",
+      "kelurahan": "Sukodono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20517080",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERSUKO",
+      "alamat": "JL. SAKURA NO.16 SUMBERTANGKEP",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20518718",
+      "nama_satuan_pendidikan": "SD NEGERI 3 AMADANOM",
+      "alamat": "RT02 RW03 DUSUN BANJAR PATOMAN",
+      "kelurahan": "Amadanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20518693",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BUMIREJO",
+      "alamat": "RT. 1 RW. 4 DUSUN MADUREJO",
+      "kelurahan": "Bumirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20518738",
+      "nama_satuan_pendidikan": "SD NEGERI 3 DAMPIT",
+      "alamat": "JL. SEMERU SELATAN NO 15  RT. 8 RW. 1 DAMPIT",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518458",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JAMBANGAN",
+      "alamat": "JL. MATAHARI 01 SUMBERSARI",
+      "kelurahan": "Jambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517845",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MAJANGTENGAH",
+      "alamat": "JL. KH. AGUS SALIM MAJANGTENGAH",
+      "kelurahan": "Majangtengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517137",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAMOTAN",
+      "alamat": "JL. JAKARTA 76, DUSUN UBALAN",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517257",
+      "nama_satuan_pendidikan": "SD NEGERI 3 REMBUN",
+      "alamat": "JL. PERWIRA RT. 23 RW. 5 DUSUN SENTONG REKESAN",
+      "kelurahan": "Rembun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20516830",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SRIMULYO",
+      "alamat": "RT. 6 RW. 7 DUSUN PURWOSARI",
+      "kelurahan": "Srimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20516878",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUKODONO",
+      "alamat": "DUSUN PETUNGSIGAR",
+      "kelurahan": "Sukodono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20517019",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERSUKO",
+      "alamat": "JL. DELIMA NO 42 CRABAAN SUMBERSUKO",
+      "kelurahan": "Sumbersuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20518844",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BUMIREJO",
+      "alamat": "RT. 04 RW. 11 DUSUN PURWODADI",
+      "kelurahan": "Bumirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20518739",
+      "nama_satuan_pendidikan": "SD NEGERI 4 DAMPIT",
+      "alamat": "JL. GUNUNG JATI NO.23 RT. 05 RW. 07",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20518459",
+      "nama_satuan_pendidikan": "SD NEGERI 4 JAMBANGAN",
+      "alamat": "JL. KAMPUNG ASEM NO.68 GRANGSIL",
+      "kelurahan": "Jambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20517145",
+      "nama_satuan_pendidikan": "SD NEGERI 4 MAJANGTENGAH",
+      "alamat": "RT. 43 RW. 6 DUSUN LAMBANGSARI",
+      "kelurahan": "Majangtengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20517138",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PAMOTAN",
+      "alamat": "JL. BARITO NO.1 DUSUN UMBULREJO",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "50516829",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SRIMULYO",
+      "alamat": "JL. RAYA 21 SUKOREJO RT. 10 RW. 6 DUSUN SEKOREJO6",
+      "kelurahan": "Srimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20516879",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUKODONO",
+      "alamat": "JL. TEMBUS RAYA KAMPUNG TEH  NO.61 RT. 18 RW. 2",
+      "kelurahan": "Sukodono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20518740",
+      "nama_satuan_pendidikan": "SD NEGERI 5 DAMPIT",
+      "alamat": "JL. TUGU MULYO NO.02 RT. 1 RW. 9 DAMPIT",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20518460",
+      "nama_satuan_pendidikan": "SD NEGERI 5 JAMBANGAN",
+      "alamat": "JL. KOPIAN NO 1 DESA JAMBANGAN",
+      "kelurahan": "Jambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20517139",
+      "nama_satuan_pendidikan": "SD NEGERI 5 PAMOTAN",
+      "alamat": "JL. FLORES NO.14 RT. 1 RW. 10 DUSUN DAWUHAN",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20516835",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SRIMULYO",
+      "alamat": "JL. RAYA SRIMULYO NO.34",
+      "kelurahan": "Srimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20518741",
+      "nama_satuan_pendidikan": "SD NEGERI 6 DAMPIT",
+      "alamat": "JL. WERKUDORO RT. 4 RW. 13 DUSUN POLAMAN",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20517140",
+      "nama_satuan_pendidikan": "SD NEGERI 6 PAMOTAN",
+      "alamat": "JL. HASYIM ASYARI RT. 3 RW. 24 SUMBERAYU",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20518742",
+      "nama_satuan_pendidikan": "SD NEGERI 7 DAMPIT",
+      "alamat": "LINGKUNGAN IV KELURAHAN DAMPIT",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20517141",
+      "nama_satuan_pendidikan": "SD NEGERI 7 PAMOTAN",
+      "alamat": "JL. SULTAN TRENGGONO NO.4 DUKUH KEPATIHAN",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20518728",
+      "nama_satuan_pendidikan": "SD TAMAN SISWA (TAMAN MUDA) DAMPIT",
+      "alamat": "Jl.pajajaran No.15 Dampit",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "70060353",
+      "nama_satuan_pendidikan": "SDI AL-HIKMAH",
+      "alamat": "Dusun Banjar Patiman RT. 005 RW. 003",
+      "kelurahan": "Amadanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "70048377",
+      "nama_satuan_pendidikan": "SDK BINA CENDIKA",
+      "alamat": "Jalan Semeru Selatan No. 6 RT. 6 RW. 3",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "70061620",
+      "nama_satuan_pendidikan": "SMP AL MUNIBIEN DAMPIT",
+      "alamat": "Dusun Tugusari RT. 001 RW. 003",
+      "kelurahan": "Bumirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "20517407",
+      "nama_satuan_pendidikan": "SMP DIPONEGORO DAMPIT",
+      "alamat": "Jl. Semeru Selatan 07",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "20577834",
+      "nama_satuan_pendidikan": "SMP IBNU RUSYD DAMPIT",
+      "alamat": "JL. TAMAN ILMU 01 DUSUN BANJARPATOMAN RT. 06/RW. 03 DESA AMADANOM",
+      "kelurahan": "Amadanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20517446",
+      "nama_satuan_pendidikan": "SMP ISLAM DAMPIT",
+      "alamat": "Jl Pesantren No 78 Jambangan",
+      "kelurahan": "Jambangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "20517480",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 DAMPIT",
+      "alamat": "Jalan Gunungjati No.33",
+      "kelurahan": "Dampit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 85,
+      "npsn": "20517511",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 DAMPIT",
+      "alamat": "JL. RAYA SRIMULYO 1",
+      "kelurahan": "Srimulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 86,
+      "npsn": "20517389",
+      "nama_satuan_pendidikan": "SMP PELITA DAMPIT",
+      "alamat": "Jalan Pelita Dusun Tugusari Desa Bumirejo",
+      "kelurahan": "Bumirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": "70011834",
+      "nama_satuan_pendidikan": "SMP PESANTREN NURUL FALAH",
+      "alamat": "Jl. Malowopati Amadanom",
+      "kelurahan": "Amadanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 88,
+      "npsn": "20517380",
+      "nama_satuan_pendidikan": "SMP PGRI 01 DAMPIT",
+      "alamat": "Jl. Mamenang 4-5 Dampit",
+      "kelurahan": "Dampit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": "20517570",
+      "nama_satuan_pendidikan": "SMP PGRI 05 Dampit",
+      "alamat": "Jl.Raya Sawur No. 4 Sukodono Dampit",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": "20517541",
+      "nama_satuan_pendidikan": "SMP PGRI 2 DAMPIT",
+      "alamat": "Jl Raya Panggung Rejo",
+      "kelurahan": "Baturetno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": "20517526",
+      "nama_satuan_pendidikan": "SMP PGRI 3 DAMPIT",
+      "alamat": "Jl. Raya Sukorejo RT 10 RW 6",
+      "kelurahan": "Srimulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": "20517582",
+      "nama_satuan_pendidikan": "SMP PGRI 4 DAMPIT",
+      "alamat": "Jl. Raya Rembun 45",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": "69931793",
+      "nama_satuan_pendidikan": "SMP PLUS AN-NUR AL MUNIR DAMPIT",
+      "alamat": "Jl. Raya Banjar Patoman No.57 RT.010 RW.003",
+      "kelurahan": "Amadanom",
+      "status": "SWASTA"
+    }
+  ]
+}

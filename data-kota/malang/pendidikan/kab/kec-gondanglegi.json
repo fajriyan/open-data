@@ -1,0 +1,842 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. GONDANGLEGI",
+  "updated_at": "2026-08-13T11:46:29.178Z",
+  "count": 104,
+  "negeri": 24,
+  "swasta": 80,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69963469",
+      "nama_satuan_pendidikan": "Jawharot Al Muzakky",
+      "alamat": "JL. TRUNOJOYO",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70036342",
+      "nama_satuan_pendidikan": "MI DAARUL HUDA",
+      "alamat": "JL. MURCOYO III",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "70028336",
+      "nama_satuan_pendidikan": "MI TAHFIDZ ASY SYADZILI",
+      "alamat": "JL. KH. HASYIM ASYARI RT.08/RW.03 PUTUKREJO GONDANGLEGI MALANG",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715050",
+      "nama_satuan_pendidikan": "MIS AL KHOIRIYAH",
+      "alamat": "JL. KH SYAMSUL ARIFIN NO. 13 PUTUKREJO KEC. GONDANGLEGI KAB. MALANG",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715054",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JL. Raya Sukosari No. 27",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715040",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "JL. KAUMAN NO.03 PANGGUNGREJO GONDANGLEGI MALANG",
+      "kelurahan": "Panggungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69756668",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "JL. TRONOJOYO GONDANGLEGI KULON",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715043",
+      "nama_satuan_pendidikan": "MIS IHYAUSSALAFIYAH",
+      "alamat": "JL. BANYU LEGI 01, KETAWANG",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "69756669",
+      "nama_satuan_pendidikan": "MIS MAMBAUL JADID",
+      "alamat": "JL. PESANTREN UREK-UREK GONDANGLEGI",
+      "kelurahan": "Urek Urek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715060",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL. KH HASYIM ASYARI SEPANJANG GONDANGLEGI",
+      "kelurahan": "Sepanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715058",
+      "nama_satuan_pendidikan": "MIS MANSYAUL ULUM",
+      "alamat": "JALAN SUMBER AGUNG 128 DESA GANJARAN KECAMATAN GONDANGLEGI KABUPATEN MALANG",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715057",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL.RAYA KETAWANG NO 50 GONDANGLEGI-MALANG",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20548135",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "Jl.Kauman No.515",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715053",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. SUNAN AMPEL NO.202",
+      "kelurahan": "Bulupitu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715052",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JLN.TRUNOJOYO GONDANGLEGI KULON",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715051",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JLN. MASJID ALMUSTOFA NO.1 UREK-UREK KRAJAN",
+      "kelurahan": "Urek Urek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715047",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM 01",
+      "alamat": "JL.DAHLIA PUTAT LOR",
+      "kelurahan": "Putat Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60715042",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM 02",
+      "alamat": "JL. TERUSAN MELATI RT.04 PUTAT LOR",
+      "kelurahan": "Putat Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60715045",
+      "nama_satuan_pendidikan": "MIS MIFTAHUS SHIBYAN",
+      "alamat": "JL.Panglima Sudirman 2A Sukosari",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60715061",
+      "nama_satuan_pendidikan": "MIS MUNIR ISMAIL",
+      "alamat": "JL. SUNAN KALIJOGO 137 JOGOSALAM",
+      "kelurahan": "Sepanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60715049",
+      "nama_satuan_pendidikan": "MIS NAHDLATUSY SYUBBAN",
+      "alamat": "DUSUN  BARAN   RT. 06 RW.02  DESA  UREK-UREK",
+      "kelurahan": "Urek Urek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60715056",
+      "nama_satuan_pendidikan": "MIS NURUL IRSYAD",
+      "alamat": "JL. SUNAN AMPEL NO.15",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60715048",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM PUTRA",
+      "alamat": "JL. RAYA NO. 02 GANJARAN GONDANGLEGI MALANG",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60715055",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM PUTRI",
+      "alamat": "JALAN SUMBER WARAS 02 GANJARAN TELP. (0341) 875354",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60715044",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL. SUNAN GIRI 105 RT.08 RW.02",
+      "kelurahan": "Sumberjaya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60715041",
+      "nama_satuan_pendidikan": "MIS WAHID HASYIM",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO. 25 GONDANGLEGI WETAN",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60715046",
+      "nama_satuan_pendidikan": "MIS ZAINUL ULUM",
+      "alamat": "JL.SUMBER ILMU NO 37 GANJARAN GONDANGLEGI",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "70028104",
+      "nama_satuan_pendidikan": "MTs AL-IHSANI",
+      "alamat": "Jl. Terusan Melati RT.04",
+      "kelurahan": "Putat Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "69994111",
+      "nama_satuan_pendidikan": "MTs MODERN AL-RIFA`IE",
+      "alamat": "JL. RAYA KETAWANG NO. 2 GONDANGLEGI MALANG",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "70036299",
+      "nama_satuan_pendidikan": "MTs TAHFIDZ RIYADLUL JANNAH",
+      "alamat": "Jl. KH Syamsul Arifin Rt 01 Rw 01 Desa Putukrejo Kecamatan Gondanglegi Malang",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20581230",
+      "nama_satuan_pendidikan": "MTSN 1 MALANG",
+      "alamat": "Jalan Basuki Rahmat 194 Sepanjang Gondanglegi Malang",
+      "kelurahan": "Sepanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "69927893",
+      "nama_satuan_pendidikan": "MTsS Al Amin Sukorejo",
+      "alamat": "Jalan Purwo RT 2 RW 1 Kodepos 65174",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20581234",
+      "nama_satuan_pendidikan": "MTSS AL HAMIDIYAH",
+      "alamat": "JL. RAYA PUTAT LOR GONDANGLEGI",
+      "kelurahan": "Putat Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20581244",
+      "nama_satuan_pendidikan": "MTSS AL KHOIRIYAH",
+      "alamat": "JL. KH. SYAMSUL ARIFIN NO. 13",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20581239",
+      "nama_satuan_pendidikan": "MTSS DARUL ULUM",
+      "alamat": "JL. RAYA SUKOSARI NO. 27",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20581240",
+      "nama_satuan_pendidikan": "MTSS IBNU HAJAR",
+      "alamat": "JL. SUNAN AMPEL NO. 202 RT.05 RW.01 BULUPITU",
+      "kelurahan": "Bulupitu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20581238",
+      "nama_satuan_pendidikan": "MTSS KHAIRUDDIN",
+      "alamat": "JL. MURCOYO I GONDANGLEGI MALANG",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20581245",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL JADID",
+      "alamat": "JL PESANTREN UREK-UREK",
+      "kelurahan": "Urek Urek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20581242",
+      "nama_satuan_pendidikan": "MTSS MANSYAUL ULUM",
+      "alamat": "JL. SUMBER AGUNG NO. 128",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20581232",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM GD",
+      "alamat": "JL TRUNOJOYO 251 GONDANGLEGI KULON KEC. GONDANGLEGI KAB. MALANG",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20581243",
+      "nama_satuan_pendidikan": "MTSS MUNIR ISMAIL",
+      "alamat": "JL. SUNAN KALIJAGA NO. 137 JOGOSALAM",
+      "kelurahan": "Sepanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20581237",
+      "nama_satuan_pendidikan": "MTSS NAHDLATUL ULAMA",
+      "alamat": "JL.KYAI MOJO 15",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20581236",
+      "nama_satuan_pendidikan": "MTSS NURUL IRSYAD",
+      "alamat": "JL.SUNAN AMPEL NO.15",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20581231",
+      "nama_satuan_pendidikan": "MTSS RAUDLATUL ULUM PUTRA",
+      "alamat": "JL. RAYA NO. 02",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20581241",
+      "nama_satuan_pendidikan": "MTSS RAUDLATUL ULUM PUTRI",
+      "alamat": "JL. SUMBER WARAS NO.02",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "70011067",
+      "nama_satuan_pendidikan": "MTSS SHIROTHUL FUQOHA`",
+      "alamat": "JL. BASUKI RAHMAT NO. 104 RT. 01 RW. 02",
+      "kelurahan": "Sepanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20581233",
+      "nama_satuan_pendidikan": "MTSS SUNAN GIRI",
+      "alamat": "JL. SUNAN GIRI 105",
+      "kelurahan": "Sumberjaya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20581235",
+      "nama_satuan_pendidikan": "MTSS ZAINUL ULUM",
+      "alamat": "JL. SUMBER ILMU NO. 37 GANJARAN GONDANGLEGI MALANG",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20577831",
+      "nama_satuan_pendidikan": "SD ALAM GENERASI RABBANI",
+      "alamat": "JL. SIDOTRISNO",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20518734",
+      "nama_satuan_pendidikan": "SD ISLAM DEWI MASYITOH",
+      "alamat": "Jl. Sidotrisno 77",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20518709",
+      "nama_satuan_pendidikan": "SD ISLAM SALAFIYAH",
+      "alamat": "Jl. Murcoyo I Gondanglegi",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "70040735",
+      "nama_satuan_pendidikan": "SD ISLAM ULUMUL QUR AN SUFI",
+      "alamat": "Jalan Sumbermanis rt. 11 RW. 2",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20570811",
+      "nama_satuan_pendidikan": "SD IT AL RAHBINI",
+      "alamat": "Jl. Ahmad Yani No. 1a Gondanglegi Kulon",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20518432",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GONDANGLEGI KULON",
+      "alamat": "JL. HAYAM WURUK NO. 58",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518435",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GONDANGLEGI WETAN",
+      "alamat": "JL. MURCOYO I RT. 12 RW. 4",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517233",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PUTAT KIDUL",
+      "alamat": "JL. SINGAJAYA NO.87 RT. 3 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Putat Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20517236",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PUTAT LOR",
+      "alamat": "JL. LAPANGAN NO. 2 RT. 13 RT. 3 DESA PUTAT LOR",
+      "kelurahan": "Putat Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20516897",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SEPANJANG",
+      "alamat": "JL. RAYA RT. 1 RW. 2 DESA SEPANJANG",
+      "kelurahan": "Sepanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20516867",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOREJO",
+      "alamat": "JL. PAHLAWAN NO. 2 RT. 22  RW. 3   DUSUN  DIENG",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20517607",
+      "nama_satuan_pendidikan": "SD NEGERI 1 UREK-UREK",
+      "alamat": "JL. WARINGIN N0 1 RT. 21 RW. 3 DUSUN KRAJAN",
+      "kelurahan": "Urek Urek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20518433",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GONDANGLEGI KULON",
+      "alamat": "JL. HAYAMWURUK NO 63 RT. 2 RW. 1",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20518452",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GONDANGLEGI WETAN",
+      "alamat": "JL. HAYAMWURUK NO 56 RT. 2 RW. 1",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20517235",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PUTAT KIDUL",
+      "alamat": "JL. MASJID NO. 1 RT. 12 RW. 4 DUSUN KRAJAN PUTAT KIDUL",
+      "kelurahan": "Putat Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20517237",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PUTAT LOR",
+      "alamat": "JL. RAYA PUTAT LOR  NO.251",
+      "kelurahan": "Putat Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20516898",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SEPANJANG",
+      "alamat": "JL. IMAM BONJOL NO. 19 RT. 3 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Sepanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20517606",
+      "nama_satuan_pendidikan": "SD NEGERI 2 UREK-UREK",
+      "alamat": "JL. LAPANGAN RT. 1 RW. 2 DUSUN BARAN",
+      "kelurahan": "Urek Urek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20518434",
+      "nama_satuan_pendidikan": "SD NEGERI 3 GONDANGLEGI KULON",
+      "alamat": "JL. TRUNOJOYO NO.68 RT. 24 RW. 3 DUSUN KRAJAN",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20516899",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SEPANJANG",
+      "alamat": "JL. FATMAWATI RT. 4 RW. 4 DUSUN SONOKEMBANG",
+      "kelurahan": "Sepanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20516900",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SEPANJANG",
+      "alamat": "JL. SUNAN AMPEL RT. 01 RW. 03 DUKUH KASIN",
+      "kelurahan": "Sepanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20518841",
+      "nama_satuan_pendidikan": "SD NEGERI BULUPITU",
+      "alamat": "JL. AHMAD YANI NO.58 RT. 5 RW. 2",
+      "kelurahan": "Bulupitu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20518441",
+      "nama_satuan_pendidikan": "SD NEGERI GANJARAN",
+      "alamat": "JL. SUMBER ILMU RT. 28 RW. 4 GANJARAN",
+      "kelurahan": "Ganjaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20518507",
+      "nama_satuan_pendidikan": "SD NEGERI KETAWANG",
+      "alamat": "JL. RAYA KETAWANG NO.12 RT. 29 RW. 4",
+      "kelurahan": "Ketawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20571707",
+      "nama_satuan_pendidikan": "SD NEGERI PUTUKREJO",
+      "alamat": "JL. KH WAHID HASYIM  NO 03 RT. 7 RW. 3",
+      "kelurahan": "Putukrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20517032",
+      "nama_satuan_pendidikan": "SD NEGERI SUMBERJAYA",
+      "alamat": "JL. RAYA BURENG NO. 89 RT. 5 RW. 2",
+      "kelurahan": "Sumberjaya",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "70030291",
+      "nama_satuan_pendidikan": "SD TAHFIDZ QURAN SEMAI BENIH BANGSA",
+      "alamat": "Jalan Trunojoyo RT. 44 RW. 4",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": "70013817",
+      "nama_satuan_pendidikan": "SDIP AL-FALAH",
+      "alamat": "Jl. Sumbermanis No. 8 RT. 008 RW. 001",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "70044483",
+      "nama_satuan_pendidikan": "SDIT AL-HAIDAR HARUM",
+      "alamat": "Jalan Pesantren No. 2 RT. 028 RW. 003",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "69946169",
+      "nama_satuan_pendidikan": "SDS MODERN AL-RIFA IE",
+      "alamat": "JL. RAYA KETAWANG NO.02 RT.05 RW.01",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "69982218",
+      "nama_satuan_pendidikan": "SDS WAHIDIYAH GONDANGLEGI",
+      "alamat": "JL. MAYJEND SUTOYO RT 2 RW 1",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "70058275",
+      "nama_satuan_pendidikan": "SMP AL BAROKAH GONDANGLEGI",
+      "alamat": "Jl. Kali Buntung RT. 030 RW. 003",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "70013763",
+      "nama_satuan_pendidikan": "SMP AL FALAH GONDANGLEGI",
+      "alamat": "Jl. Sumbermanis No. 04 Ganjaran",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "70025388",
+      "nama_satuan_pendidikan": "SMP AL FIRDAUSY",
+      "alamat": "JL. Pemuda RT. 14 RW. 04 Dusun Boro",
+      "kelurahan": "Panggungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20517414",
+      "nama_satuan_pendidikan": "SMP AL RIFA IE GONDANGLEGI",
+      "alamat": "Jalan Raya Ketawang No. 01",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "69968434",
+      "nama_satuan_pendidikan": "SMP AL-LATHIFI GONDANGLEGI",
+      "alamat": "JL. RAYA SUKOSARI NO. 27",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": "69990137",
+      "nama_satuan_pendidikan": "SMP AL-RAHBINI",
+      "alamat": "Jl. Ahmad Yani  No. 1A RT. 07 RW. 01",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "69956970",
+      "nama_satuan_pendidikan": "SMP ALI UTSMAN GONDANGLEGI",
+      "alamat": "JL. MUSHOLLA ROUDLOTUS SALAFIYAH RT.20 RW.03",
+      "kelurahan": "Urek Urek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": "69824966",
+      "nama_satuan_pendidikan": "SMP GLOBAL ISLAMIC SCHOOL AL AMIN",
+      "alamat": "Jl. Trunojoyo Rt.01 Rw.01 Sukosari Gondanglegi",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 88,
+      "npsn": "20517427",
+      "nama_satuan_pendidikan": "SMP HASANUDIN",
+      "alamat": "Sepanjang Gondanglegi",
+      "kelurahan": "Sepanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": "20517437",
+      "nama_satuan_pendidikan": "SMP ISLAM GONDANGLEGI",
+      "alamat": "Jalan Raya Ketawang No. 50",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": "69969077",
+      "nama_satuan_pendidikan": "SMP ISLAM PLUS DAARUL HUDA",
+      "alamat": "JL. MURCOYO III RT. 20 RW. 06",
+      "kelurahan": "Gondanglegi Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": "70010728",
+      "nama_satuan_pendidikan": "SMP MANDIRI GONDANGLEGI",
+      "alamat": "Desa Putat Kidul RT. 18. RW. 02",
+      "kelurahan": "Putat Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": "69820144",
+      "nama_satuan_pendidikan": "SMP MODERN AL RIFA IE GONDANGLEGI",
+      "alamat": "Jl. Raya Ketawang No.02 Gondanglegi Malang",
+      "kelurahan": "Ketawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": "20517363",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 09",
+      "alamat": "Jl. Singajaya 140",
+      "kelurahan": "Putat Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": "20517484",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 GONDANGLEGI",
+      "alamat": "JL. RAYA KETAWANG NO. 4",
+      "kelurahan": "Ketawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 95,
+      "npsn": "20517514",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 GONDANGLEGI",
+      "alamat": "JL. PAHLAWAN NO. 4 RT. 22 RW. 3",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 96,
+      "npsn": "20517384",
+      "nama_satuan_pendidikan": "SMP NU GONDANGLEGI",
+      "alamat": "Jl. Trunojoyo 203",
+      "kelurahan": "Gondanglegi Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 97,
+      "npsn": "69726598",
+      "nama_satuan_pendidikan": "SMP PESANTREN RAUDLOTUL ULUM",
+      "alamat": "Jl. Sumber Waras No. 02",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 98,
+      "npsn": "69855694",
+      "nama_satuan_pendidikan": "SMP PGRI AS SARQOWI",
+      "alamat": "JL PIDEK SONOKEMBANG RT 01 RW 04 SEPANJANG GONDANGLEGI",
+      "kelurahan": "Sepanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 99,
+      "npsn": "70026547",
+      "nama_satuan_pendidikan": "SMP PLUS AL FALAH AL MAKKY",
+      "alamat": "Jl. Raya Putat Lor",
+      "kelurahan": "Putat Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 100,
+      "npsn": "20517560",
+      "nama_satuan_pendidikan": "SMP RAUDLATUL ULUM",
+      "alamat": "Jl. Sunan Ampel 02 B",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 101,
+      "npsn": "70006443",
+      "nama_satuan_pendidikan": "SMP REJO DARUL MUSTHOFA",
+      "alamat": "JL. Sunan Giri",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 102,
+      "npsn": "70047295",
+      "nama_satuan_pendidikan": "SMP SIROJUL ULUM",
+      "alamat": "Jl. Arjuna No. 51 RT. 05 RW. 02",
+      "kelurahan": "Sumberjaya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 103,
+      "npsn": "70010602",
+      "nama_satuan_pendidikan": "SMP TAHFIDZ ASY SYADZILI",
+      "alamat": "Jl. K.H Hasyim Asyari Putukrejo",
+      "kelurahan": "Putukrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 104,
+      "npsn": "69787568",
+      "nama_satuan_pendidikan": "SMPS NU AL-FUDLOLI GONDANGLEGI",
+      "alamat": "Jl. Raya Ganjaran No.06 Gondanglegi",
+      "kelurahan": "Ganjaran",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PAKISAJI",
+  "updated_at": "2026-08-13T11:47:14.729Z",
+  "count": 58,
+  "negeri": 28,
+  "swasta": 30,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69853442",
+      "nama_satuan_pendidikan": "Darul Falah",
+      "alamat": "Kendalisodo No.234",
+      "kelurahan": "Kendalpayak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69993621",
+      "nama_satuan_pendidikan": "MI AL-IHSAN",
+      "alamat": "JL. SIDODADI 25 RT 36 RW 06 SEMEMEK",
+      "kelurahan": "Kebonagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "70034985",
+      "nama_satuan_pendidikan": "MI UNGGULAN DARUL MUJTABA",
+      "alamat": "DSN. SEGARAN GG. JOWAR 10",
+      "kelurahan": "Pakisaji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715156",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "DESA JATISARI KECAMATAN PAKISAJI",
+      "kelurahan": "Jatisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715157",
+      "nama_satuan_pendidikan": "MIS BUSTANUL ULUM",
+      "alamat": "JL.KASIKON DESA WADUNG PAKISAJI",
+      "kelurahan": "Wadung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715158",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL. RAYA GOLEK NO. 37 KARANGDUREN PAKISAJI MALANG",
+      "kelurahan": "Karangduren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715159",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA",
+      "alamat": "JL. SIDODADI DESA WADUNG KEC. PAKISAJI KAB. MALANG",
+      "kelurahan": "Wadung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715160",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL UQUL",
+      "alamat": "JL. PONDOK INDAH 29",
+      "kelurahan": "Genengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715155",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL. RAYA SEGENGGENG WONOKERSO",
+      "kelurahan": "Wonokerso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "70035756",
+      "nama_satuan_pendidikan": "MTs UNGGULAN DARUL MUJTABA",
+      "alamat": "DSN. SEGARAN GG. JOWAR 10",
+      "kelurahan": "Kendalpayak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "69752891",
+      "nama_satuan_pendidikan": "MTSS BUSTANUL ULUM",
+      "alamat": "JL. RAYA WADUNG NO 1",
+      "kelurahan": "Pakisaji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20581301",
+      "nama_satuan_pendidikan": "MTSS KH. HASYIM ASY`ARI",
+      "alamat": "SUTOJAYAN PAKISAJI",
+      "kelurahan": "Permanu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "69927896",
+      "nama_satuan_pendidikan": "MTsS Roudlotul Uqul",
+      "alamat": "JL. PONDOK INDAH 29",
+      "kelurahan": "Genengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20518700",
+      "nama_satuan_pendidikan": "SD ISLAM KM. TAMHID",
+      "alamat": "Jl. Raya Genengan No. 222",
+      "kelurahan": "Genengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20518708",
+      "nama_satuan_pendidikan": "SD ISLAM LUKMAN HAKIM",
+      "alamat": "Jl. Raya Kendalpayak",
+      "kelurahan": "Kendalpayak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20518711",
+      "nama_satuan_pendidikan": "SD ISLAM SUTOJAYAN",
+      "alamat": "Jl. RAYA SUTOJAYAN, No.299 RT: 08 RW :01",
+      "kelurahan": "Sutojayan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "70030490",
+      "nama_satuan_pendidikan": "SD ISLAM UNGGULAN AL-ABROR",
+      "alamat": "Jl. Sidodadi Gang 7 RT. 34 RW. 06 Sememek",
+      "kelurahan": "Kebonagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20518712",
+      "nama_satuan_pendidikan": "SD ISLAM WAHID HASYIM",
+      "alamat": "Jl. Raya Pakisaji 39c",
+      "kelurahan": "Pakisaji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20518681",
+      "nama_satuan_pendidikan": "SD KRISTEN PAMERDI",
+      "alamat": "JALAN RAYA KEBONAGUNG NO 5",
+      "kelurahan": "Kebonagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20518425",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GENENGAN",
+      "alamat": "JL. RAYA GENENGAN NO.4E RT. 01 RW. 09",
+      "kelurahan": "Genengan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20518430",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GLANGGANG",
+      "alamat": "JL. SARANGAN NO. 195 RT. 11 RW. 4",
+      "kelurahan": "Glanggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518380",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JATISARI",
+      "alamat": "RT. 6 RW. 3 DUSUN TAMBAKSARI",
+      "kelurahan": "Jatisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518396",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGDUREN",
+      "alamat": "JL. RAYA KARANGDUREN RT. 1 RW. 1 DUSUN KARANGDUREN",
+      "kelurahan": "Karangduren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518404",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGPANDAN",
+      "alamat": "JL. GARUDA 101 RT. 6 RW. 2",
+      "kelurahan": "Karangpandan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20554965",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEBONAGUNG",
+      "alamat": "JL. GOTONG ROYONG 72C RT. 6RW. 2",
+      "kelurahan": "Kebonagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517112",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAKISAJI",
+      "alamat": "JL. RAYA PAKISAJI NO. 41 RT. 13 RW. 3",
+      "kelurahan": "Pakisaji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20517274",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PERMANU",
+      "alamat": "JL. RAYA PERMANU NO. 81 RT. 3 RW. 2",
+      "kelurahan": "Permanu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20554966",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOKERSO",
+      "alamat": "RT. 8 RW. 2 DUSUN WONOKERSO",
+      "kelurahan": "Wonokerso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518431",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GLANGGANG",
+      "alamat": "JL. MERDEKA SELATAN NO. 733 RT. 25 RW. 6 DUSUN KARANG TENGAH",
+      "kelurahan": "Glanggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518381",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JATISARI",
+      "alamat": "JL. RAYA JATISARI NO.35 RT. 12 RW. 4",
+      "kelurahan": "Jatisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518551",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEBONAGUNG",
+      "alamat": "JL. RAYA KEBONAGUNG NO.1",
+      "kelurahan": "Kebonagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20517113",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAKISAJI",
+      "alamat": "JL. RAYA PAKISAJI NO. 276 RT. 18 RW. 4",
+      "kelurahan": "Pakisaji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517275",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PERMANU",
+      "alamat": "Jl. Raya Blau RT.03 RW.05",
+      "kelurahan": "Permanu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517634",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOKERSO",
+      "alamat": "JL. RAYA SEGENGGENG RT. 20 RW. 4",
+      "kelurahan": "Wonokerso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518382",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JATISARI",
+      "alamat": "JL. DUSUN PENDEM RT.24 RW:06",
+      "kelurahan": "Jatisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518397",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KARANGDUREN",
+      "alamat": "JL. RAYA GOLEK NO. 54 RT. 2 RW. 3",
+      "kelurahan": "Karangduren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518552",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEBONAGUNG",
+      "alamat": "JL. SONOTENGAH NO. 22 RT. 62 A RW. 13",
+      "kelurahan": "Kebonagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517130",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAKISAJI",
+      "alamat": "JL. PAHLAWAN BADJURI NO 28 RT. 2 RW. 1",
+      "kelurahan": "Pakisaji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517276",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PERMANU",
+      "alamat": "JL. RAYA PERMANU NO. 289 RT. 4 RW. 3",
+      "kelurahan": "Permanu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517635",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WONOKERSO",
+      "alamat": "JL. RAYA SEGENGGENG NO. 30 RT. 17 RW. 4",
+      "kelurahan": "Wonokerso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518553",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KEBONAGUNG",
+      "alamat": "JL. COKROAMINOTO NO 9 RT. 46 RW. 8 DUSUN SONOSARI",
+      "kelurahan": "Kebonagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518554",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KEBONAGUNG",
+      "alamat": "JL. RAYA KEBONAGUNG NO. 122",
+      "kelurahan": "Kebonagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518587",
+      "nama_satuan_pendidikan": "SD NEGERI KENDALPAYAK",
+      "alamat": "JL. RAYA KENDALPAYAK RT. 9 RW. 4 DUSUN KENDALPAYAK",
+      "kelurahan": "Kendalpayak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20516981",
+      "nama_satuan_pendidikan": "SD NEGERI SUTOJAYAN",
+      "alamat": "JL. RAYA SUTOJAYAN RT. 06 RW. 03",
+      "kelurahan": "Sutojayan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517608",
+      "nama_satuan_pendidikan": "SD NEGERI WADUNG",
+      "alamat": "NO 19 RT. 2 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Wadung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "70042771",
+      "nama_satuan_pendidikan": "SD TAHFIDZ RIYADLOTUL UQUL",
+      "alamat": "Dusun Lowok RT. 1 RW. 1",
+      "kelurahan": "Permanu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20517422",
+      "nama_satuan_pendidikan": "SMP BUDI MULIA PAKISAJI",
+      "alamat": "Jl. Anjasmoro 294 Karangpandan",
+      "kelurahan": "Karangpandan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20517426",
+      "nama_satuan_pendidikan": "SMP HAMID RUSDI KEBONAGUNG",
+      "alamat": "Jl. Penamas Sonosari",
+      "kelurahan": "Kebonagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20562724",
+      "nama_satuan_pendidikan": "SMP ISLAM ASY-SYAFIIYYAH PAKISAJI",
+      "alamat": "Jalan Sidodadi 23 Sememek RT 36 RW 06",
+      "kelurahan": "Kebonagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20517438",
+      "nama_satuan_pendidikan": "SMP ISLAM LUKMAN HAKIM",
+      "alamat": "Kendalpayak",
+      "kelurahan": "Kendalpayak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20517395",
+      "nama_satuan_pendidikan": "SMP ISLAM PAKISAJI",
+      "alamat": "Jl. Raya Genengan Pakisaji 222",
+      "kelurahan": "Genengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20517335",
+      "nama_satuan_pendidikan": "SMP KRISTEN PAMERDI",
+      "alamat": "Jl. Raya Kebonagung No.5",
+      "kelurahan": "Kebonagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20517344",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH II PAKISAJI",
+      "alamat": "Pakisaji",
+      "kelurahan": "Pakisaji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20517466",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PAKISAJI",
+      "alamat": "JL. CERME NO. 172 RT. 2 RW. 1",
+      "kelurahan": "Kendalpayak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20549207",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PAKISAJI",
+      "alamat": "JL. DARUNGAN",
+      "kelurahan": "Glanggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20517373",
+      "nama_satuan_pendidikan": "SMP PGRI 01 PAKISAJI",
+      "alamat": "Jl. Raya Pakisaji No. 41",
+      "kelurahan": "Pakisaji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20517547",
+      "nama_satuan_pendidikan": "SMP PGRI 02 PAKISAJI",
+      "alamat": "Jalan Permanu Rt 03 Rw 02 Kec. Pakisaji Kab. Malang",
+      "kelurahan": "Permanu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20517565",
+      "nama_satuan_pendidikan": "SMP TRI MURTI 01 PAKISAJI",
+      "alamat": "Jl. Garuda No.81 RT.6 RW.2 Karangpandan",
+      "kelurahan": "Karangpandan",
+      "status": "SWASTA"
+    }
+  ]
+}

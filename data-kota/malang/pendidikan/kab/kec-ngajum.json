@@ -1,0 +1,410 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. NGAJUM",
+  "updated_at": "2026-08-13T11:47:04.727Z",
+  "count": 50,
+  "negeri": 32,
+  "swasta": 18,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "70028194",
+      "nama_satuan_pendidikan": "MI MIFTAHUL MUTA`ALLIMIN",
+      "alamat": "JL. PESANTREN NO.67 RT.02 RW.05",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70036145",
+      "nama_satuan_pendidikan": "MI NURUSSALAM",
+      "alamat": "NGAJUM",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715112",
+      "nama_satuan_pendidikan": "MIS AL-HUDA BALESARI",
+      "alamat": "JLN MASJID BAITUS SALAM NO 01  DUSUN JAMBUWER  RT/RW 01/02",
+      "kelurahan": "Balesari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715110",
+      "nama_satuan_pendidikan": "MIS MAMBAUL HUDA",
+      "alamat": "JL. RAYA BANJARSARI NO. 27 NGAJUM",
+      "kelurahan": "Banjarsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715111",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL.SUNAN MURIA 68 NGASEM NGAJUM MALANG",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715106",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. RAYA BABADAN RT.03 RW. 05 NGAJUM",
+      "kelurahan": "Babadan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715109",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "KEDAWUNG-BANJARSARI-NGAJUM",
+      "kelurahan": "Banjarsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715108",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFALIYAH",
+      "alamat": "JL. RAYA JATISARI NGAJUM NO.9",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715107",
+      "nama_satuan_pendidikan": "MIS TAUFIQIYAH",
+      "alamat": "JALAN GOWOK RANGKOK KEMUNING DESA KRANGGAN KECAMATAN NGAJUM",
+      "kelurahan": "Kranggan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "20581275",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL HUDA",
+      "alamat": "JL. RAYA BANJARSARI NO. 27",
+      "kelurahan": "Banjarsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20581276",
+      "nama_satuan_pendidikan": "MTSS NURUL HUDA",
+      "alamat": "JL. RAYA BABADAN NGAJUM MALANG",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20581274",
+      "nama_satuan_pendidikan": "MTSS TAUFIQIYAH",
+      "alamat": "JL. GOWOK RANGKOK DUSUN. KEMUNING DESA. KRANGGAN",
+      "kelurahan": "Kranggan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20518658",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BABADAN",
+      "alamat": "RT. 3 RW. 4 DUSUN KAPURONO",
+      "kelurahan": "Babadan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20518670",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BALESARI",
+      "alamat": "JL. MASJID NO. 3 BALESARI",
+      "kelurahan": "Balesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20518826",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BANJARSARI",
+      "alamat": "JL. RAYA BANJARSARI",
+      "kelurahan": "Banjarsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20518505",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KESAMBEN",
+      "alamat": "JL. MAWAR NO. 18",
+      "kelurahan": "Kesamben",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20518494",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KRANGGAN",
+      "alamat": "JL. RAYA KRANGGAN RT. 1 RW. 5",
+      "kelurahan": "Kranggan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20518528",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MAGUAN",
+      "alamat": "JL. IR.SOEKARNO NO. 25 MAGUAN",
+      "kelurahan": "Maguan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20517201",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGAJUM",
+      "alamat": "JL. RAYA  A. YANI NO. 14 NGAJUM",
+      "kelurahan": "Ngajum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517178",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGASEM",
+      "alamat": "JL. SUNAN MURIA NO. 54 NGASEM",
+      "kelurahan": "Ngasem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517134",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PALAAN",
+      "alamat": "JL. RAYA PALAAN",
+      "kelurahan": "Palaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518659",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BABADAN",
+      "alamat": "RT. 3 RW. 3 DUSUN WATUTUMPENG",
+      "kelurahan": "Babadan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518669",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BALESARI",
+      "alamat": "JL. UBALAN UTARA RT. 2 RW. 13",
+      "kelurahan": "Balesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518827",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BANJARSARI",
+      "alamat": "JL. KEDAWUNG BANJARSARI",
+      "kelurahan": "Banjarsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20518506",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KESAMBEN",
+      "alamat": "JL. RAYA TALUN RT. 2 RW. 7 KESAMBEN",
+      "kelurahan": "Kesamben",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20518495",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KRANGGAN",
+      "alamat": "JL. RAYA KEMUNING",
+      "kelurahan": "Kranggan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20518529",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MAGUAN",
+      "alamat": "JL. RAYA UBALAN NO. 52",
+      "kelurahan": "Maguan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517202",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGAJUM",
+      "alamat": "DUSUN SEMBON SUMBERJO",
+      "kelurahan": "Ngajum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20517179",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGASEM",
+      "alamat": "RT. 2 RW. 8 DUKUH BABAAN",
+      "kelurahan": "Ngasem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20517135",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PALAAN",
+      "alamat": "JL. SURYA RT. 2 RW. 9 SUKOYUWONO PALAAN",
+      "kelurahan": "Palaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518660",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BABADAN",
+      "alamat": "JL. JOHAR RT. 1 RW. 7 SUMBERKUNCI",
+      "kelurahan": "Babadan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518667",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BALESARI",
+      "alamat": "JL. RAYA GENDOGO NO. 179",
+      "kelurahan": "Balesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20518496",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KRANGGAN",
+      "alamat": "JL. RAYA SUMBERBEJI RT. 2 RW. 7",
+      "kelurahan": "Kranggan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517203",
+      "nama_satuan_pendidikan": "SD NEGERI 3 NGAJUM",
+      "alamat": "RT. 3 RW. 7 DUSUN SEMBON TIMUR",
+      "kelurahan": "Ngajum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517180",
+      "nama_satuan_pendidikan": "SD NEGERI 3 NGASEM",
+      "alamat": "DUSUN SANAN",
+      "kelurahan": "Ngasem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20518661",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BABADAN",
+      "alamat": "JL. RAYA PETUNGROTO",
+      "kelurahan": "Babadan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20518668",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BALESARI",
+      "alamat": "RT. 2 RW. 6 DUSUN NANASAN",
+      "kelurahan": "Balesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517204",
+      "nama_satuan_pendidikan": "SD NEGERI 4 NGAJUM",
+      "alamat": "JL. SEMBON",
+      "kelurahan": "Ngajum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517181",
+      "nama_satuan_pendidikan": "SD NEGERI 4 NGASEM",
+      "alamat": "JL. RAYA BABAAN RT. 2 RW. 10 NGASEM",
+      "kelurahan": "Ngasem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518662",
+      "nama_satuan_pendidikan": "SD NEGERI 5 BABADAN",
+      "alamat": "JL. RAYA MADUARJO NO. 27 BABADAN",
+      "kelurahan": "Babadan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518671",
+      "nama_satuan_pendidikan": "SD NEGERI 5 BALESARI",
+      "alamat": "JL. SEGELAN SIDOMULYO",
+      "kelurahan": "Balesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20517191",
+      "nama_satuan_pendidikan": "SD NEGERI 5 NGAJUM",
+      "alamat": "JL. RAYA JATISARI RT. 3 RW. 13 NGAJUM",
+      "kelurahan": "Ngajum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20517401",
+      "nama_satuan_pendidikan": "SMP DHARMA WANITA 05 NGAJUM",
+      "alamat": "Jl. Raya Petungroto",
+      "kelurahan": "Babadan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20549511",
+      "nama_satuan_pendidikan": "SMP ISLAM SOERJO ALAM",
+      "alamat": "Sembon Durenan RT 01/ RW 09",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20517351",
+      "nama_satuan_pendidikan": "SMP ISLAM SULTAN AGUNG NGAJUM",
+      "alamat": "JL RAYA UBALAN BALESARI",
+      "kelurahan": "Balesari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20517462",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 NGAJUM",
+      "alamat": "JL. JATISARI 33 NGAJUM",
+      "kelurahan": "Ngajum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "69938826",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 NGAJUM",
+      "alamat": "JL.RAYA SUKOREJO RT. 2 RW. 6",
+      "kelurahan": "Kesamben",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20549515",
+      "nama_satuan_pendidikan": "SMP NU RIYADLUL QURAN NGAJUM",
+      "alamat": "JL. SUNAN AMPEL 52 C",
+      "kelurahan": "Ngasem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20517391",
+      "nama_satuan_pendidikan": "SMP PGRI 01 NGAJUM",
+      "alamat": "Jl. A Yani 12 B Ngajum - Malang",
+      "kelurahan": "Ngajum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20517578",
+      "nama_satuan_pendidikan": "SMP PGRI 02 NGAJUM",
+      "alamat": "Jl. Raya Maduarjo",
+      "kelurahan": "Babadan",
+      "status": "SWASTA"
+    }
+  ]
+}

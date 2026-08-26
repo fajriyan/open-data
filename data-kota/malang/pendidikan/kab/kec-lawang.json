@@ -1,0 +1,610 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. LAWANG",
+  "updated_at": "2026-08-13T11:47:40.989Z",
+  "count": 75,
+  "negeri": 46,
+  "swasta": 29,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69993376",
+      "nama_satuan_pendidikan": "MI AL GHOZALI",
+      "alamat": "DUSUN SENGKRAKAN RT 03 RW 09 BEDALI LAWANG",
+      "kelurahan": "Bedali",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70036585",
+      "nama_satuan_pendidikan": "MI HIDAYATUS SALAFIYAH",
+      "alamat": "DUSUN GUNUNG TUMPUK I RT. 001 RW. 009",
+      "kelurahan": "Sidoluhur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715105",
+      "nama_satuan_pendidikan": "MIS AL-IHSAAN",
+      "alamat": "PERUM GRIYA HUSADA NO 05 RT 03 RW 12 SUMBERPORONG  LAWANG MALANG",
+      "kelurahan": "Sumber Porong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715104",
+      "nama_satuan_pendidikan": "MIS AL-MUSTAQIM",
+      "alamat": "JL. KETINDAN NO.215 RT/RW 01 / IV",
+      "kelurahan": "Ketindan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715102",
+      "nama_satuan_pendidikan": "MIS AR RAUDHAH",
+      "alamat": "JLN. ANJASMORO 1A 41 / 42 TURIREJO LAWANG MALANG",
+      "kelurahan": "Turirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715103",
+      "nama_satuan_pendidikan": "MIS AR ROIHAN",
+      "alamat": "JL. MAYOR ABDULLAH 248 LAWANG, JL MONGINSIDI 2 LAWANG.",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715101",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. MASJID NGEPOH NO.432 LAWANG",
+      "kelurahan": "Sumber Ngepoh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "20581268",
+      "nama_satuan_pendidikan": "MTSN 3 MALANG",
+      "alamat": "JL. MANDIRI NO. 9 LAWANG JAWA TIMUR",
+      "kelurahan": "Lawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20581269",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH LAWANG",
+      "alamat": "JL. SENGKRAKAN BEDALI LAWANG",
+      "kelurahan": "Bedali",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "20581270",
+      "nama_satuan_pendidikan": "MTSS ASH-SHIDDIQY",
+      "alamat": "JL. ANJASMORO NO.45 LAWANG",
+      "kelurahan": "Turirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20581271",
+      "nama_satuan_pendidikan": "MTSS NOOR ROCHMAT",
+      "alamat": "JLN. DR. CIPTO VII/5A",
+      "kelurahan": "Bedali",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20581272",
+      "nama_satuan_pendidikan": "MTSS SA AL MUSTAQIM",
+      "alamat": "JL KETINDAN 215 LAWANG",
+      "kelurahan": "Sidoluhur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "69895129",
+      "nama_satuan_pendidikan": "MTSS TERPADU AR-ROIHAN",
+      "alamat": "Jalan Mayor Abdullah 248",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20518701",
+      "nama_satuan_pendidikan": "SD ISLAM NU",
+      "alamat": "Jl Untung Suropati 12",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20565331",
+      "nama_satuan_pendidikan": "SD KRISTEN PLUS PELITA KASIH",
+      "alamat": "JL. MONGINSIDI NO. 4, LAWANG",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20518683",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 6 LAWANG",
+      "alamat": "JL. DR. CIPTO NO.28 RT. 1/RW. 10 BEDALI LAWANG 65215",
+      "kelurahan": "Bedali",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20518688",
+      "nama_satuan_pendidikan": "SD MUTIARA HARAPAN",
+      "alamat": "JL. MAYOR ABDULLAH NO.28 RT. 7/RW. 1 LAWANG",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "69982258",
+      "nama_satuan_pendidikan": "SD MUTIARA HIKMAH",
+      "alamat": "PERUM LAWANG INDAH K.3 RT 7 RW 2",
+      "kelurahan": "Bedali",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20517066",
+      "nama_satuan_pendidikan": "SD NEGERI  SUMBERPORONG",
+      "alamat": "Jl. A. Yani RT. 1 RW. 4 Krajan Selatan Sumberporong Lawang",
+      "kelurahan": "Sumber Porong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20518811",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BEDALI",
+      "alamat": "JL. DR. CIPTO NO. 20 RT. 1 RW. 1",
+      "kelurahan": "Bedali",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20518408",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KALIREJO",
+      "alamat": "JL. SUMBER KEMBAR NO.63 RT. 4 RW. 7",
+      "kelurahan": "Kalirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518508",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KETINDAN",
+      "alamat": "JL. KETINDAN NO. 3 RT. 4 RW. 5",
+      "kelurahan": "Ketindan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518540",
+      "nama_satuan_pendidikan": "SD NEGERI 1 LAWANG",
+      "alamat": "JL. THAMRIN NO.34 RT. 3 RW. 8",
+      "kelurahan": "Lawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20516901",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDODADI",
+      "alamat": "JL. INSPOL SUWOTO NO.14 RT. 1 RW. 1",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20516944",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDOLUHUR",
+      "alamat": "JL. INSPOL SUWOTO NO.265 RT. 1 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Sidoluhur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20516856",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SRIGADING",
+      "alamat": "JL. INSPOL SUWOTO NO.06 RT. 1 RW. 2",
+      "kelurahan": "Srigading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516891",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERNGEPOH",
+      "alamat": "JL. SUMBERNGEPOH",
+      "kelurahan": "Sumber Ngepoh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "69761918",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOREJO",
+      "alamat": "JL. PEMANCAR TVRI NO.19 RT. 2 RW. 6",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518812",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BEDALI",
+      "alamat": "JL. DR. CIPTO NO.67 RT. 1 RW. 2 BEDALI LAWANG",
+      "kelurahan": "Bedali",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518541",
+      "nama_satuan_pendidikan": "SD NEGERI 2 LAWANG",
+      "alamat": "JL. R.A. KARTINI NO. 7 RT. 6 RW. 2",
+      "kelurahan": "Lawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517151",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MULYOARJO",
+      "alamat": "JL. DOROWATI SELATAN NO. 28 RT. 3 RW. 11",
+      "kelurahan": "Mulyoarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20516904",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDODADI",
+      "alamat": "JL. KALIANYAR RT. 6 RW. 6",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20516945",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDOLUHUR",
+      "alamat": "JL. SUMBEREJO 09 RT. 3 RW. 6",
+      "kelurahan": "Sidoluhur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20516857",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SRIGADING",
+      "alamat": "JL. INSPOL SUWOTO DUSUN MENDEK RT. 3 RW. 7",
+      "kelurahan": "Srigading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20516954",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERNGEPOH",
+      "alamat": "RT. 1 RW. 7 DUSUN GAPUK",
+      "kelurahan": "Sumber Ngepoh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517601",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TURIREJO",
+      "alamat": "JL. ANJASMORO 33 RT. 5 RW. 3",
+      "kelurahan": "Turirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517620",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOREJO",
+      "alamat": "JL. PEMANCAR TVRI NO. 114 RT. 3 RW. 9",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518412",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KALIREJO",
+      "alamat": "JL. INDROKILO UTARA NO. 41",
+      "kelurahan": "Kalirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518509",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KETINDAN",
+      "alamat": "JL. TEGALREJO RT. 2 RW. 9",
+      "kelurahan": "Ketindan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517152",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MULYOARJO",
+      "alamat": "JL. DOROWATI BARAT NO. 12 RT. 1 RW. 5",
+      "kelurahan": "Mulyoarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20516946",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SIDOLUHUR",
+      "alamat": "jl. inspol suwoto dusun blendongan rt 01 rw 10 Sidoluhur",
+      "kelurahan": "Sidoluhur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20516844",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SRIGADING",
+      "alamat": "RT. 3 RW. 5 Dusun Gading",
+      "kelurahan": "Srigading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20517602",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TURIREJO",
+      "alamat": "JL. DR. SUTOMO 48 RT. 3 RW. 1",
+      "kelurahan": "Turirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20517617",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WONOREJO",
+      "alamat": "JL. PEMANCAR TVRI NO. 250 RT. 6 RW. 16",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20518814",
+      "nama_satuan_pendidikan": "SD NEGERI 4 BEDALI",
+      "alamat": "RT. 2 RW. 9 DUSUN SENGKRAKAN",
+      "kelurahan": "Bedali",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20518510",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KETINDAN",
+      "alamat": "RT. 4 RW. 9 DUSUN TEGALREJO",
+      "kelurahan": "Ketindan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517153",
+      "nama_satuan_pendidikan": "SD NEGERI 4 MULYOARJO",
+      "alamat": "JL. DOROWATI UTARA NO. 3 RT. 1 RW. 13",
+      "kelurahan": "Mulyoarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20516941",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SIDODADI",
+      "alamat": "JL. INSPOL SUWOTO GG. MAWAR RT. 3 RW. 9 KLOSOT",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20565337",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SIDOLUHUR",
+      "alamat": "RT. 2 RW. 9 DUSUN GUNUNG TUMPUK",
+      "kelurahan": "Sidoluhur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20518830",
+      "nama_satuan_pendidikan": "SD NEGERI 5 BEDALI",
+      "alamat": "JL. DR. CIPTO GG. IX 23 RT. 1 RW. 10",
+      "kelurahan": "Bedali",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20518413",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KALIREJO",
+      "alamat": "JL. SUMBERWUNI SELATAN GG. KLUWIH NO.52 RT. 4 RW. 14",
+      "kelurahan": "Kalirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20518511",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KETINDAN",
+      "alamat": "JL. KETINDAN NO.187 RT. 2 RW. 4",
+      "kelurahan": "Ketindan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20518544",
+      "nama_satuan_pendidikan": "SD NEGERI 5 LAWANG",
+      "alamat": "JL. ARGOPURO NO. 3 RT. 2 RW. 8",
+      "kelurahan": "Lawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20517603",
+      "nama_satuan_pendidikan": "SD NEGERI 5 TURIREJO",
+      "alamat": "JL. Veteran Dalam No. 19 RT. 1 RW. 5",
+      "kelurahan": "Turirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518545",
+      "nama_satuan_pendidikan": "SD NEGERI 6 LAWANG",
+      "alamat": "JL. NGAMARTO 404 LAWANG RT. 2 RW. 7",
+      "kelurahan": "Lawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20516943",
+      "nama_satuan_pendidikan": "SD NEGERI 6 SIDODADI",
+      "alamat": "JL. SUMBERWARAS TIMUR NO.34 RT. :001 RW. :013  PILANG SIDODADI",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20518532",
+      "nama_satuan_pendidikan": "SD NEGERI 7 LAWANG",
+      "alamat": "JL. PANDOWO NO.104 RT. 1 RW. 3",
+      "kelurahan": "Lawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20518730",
+      "nama_satuan_pendidikan": "SD UMMU AIMAN",
+      "alamat": "Jl. Argopuro No 20 Lawang",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "70006442",
+      "nama_satuan_pendidikan": "SD WAHIDIYAH LAWANG",
+      "alamat": "Jalan Inspol Soewoto RT. 02 RW. 04",
+      "kelurahan": "Srigading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20518714",
+      "nama_satuan_pendidikan": "SDK ST FRANSISKUS",
+      "alamat": "Jl Tawangargo 7 Lawang",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "69824965",
+      "nama_satuan_pendidikan": "SMP AISYIYAH BOARDING SCHOOL MALANG",
+      "alamat": "Jl. Argomoyo No.35 Lawang",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "20517406",
+      "nama_satuan_pendidikan": "SMP DHARMA WIRAWAN 10",
+      "alamat": "Jalan Pandawa Timur 375",
+      "kelurahan": "Sumber Ngepoh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": "20517421",
+      "nama_satuan_pendidikan": "SMP KATOLIK BUDI MULIA LAWANG",
+      "alamat": "Jl. Argomoyo 2",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "69772578",
+      "nama_satuan_pendidikan": "SMP KRISTEN PELITA KASIH",
+      "alamat": "JL. MONGINSIDI No.4 LAWANG",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 65,
+      "npsn": "20517342",
+      "nama_satuan_pendidikan": "SMP MAARIF 01 LAWANG",
+      "alamat": "Jl. Raya Thamrin No. 8 Lawang",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": "20558831",
+      "nama_satuan_pendidikan": "SMP MUTIARA HARAPAN LAWANG",
+      "alamat": "JL. MAYOR ABDULLAH NO.28 RT.07/RW.01 LAWANG",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": "20517461",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 LAWANG",
+      "alamat": "JL. SUMBER TAMAN NO. 50",
+      "kelurahan": "Kalirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20517518",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 LAWANG",
+      "alamat": "JL. INSPOL SUWOTO NO. 27",
+      "kelurahan": "Sidodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20517501",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 LAWANG",
+      "alamat": "JL. KETINDAN NO. 185",
+      "kelurahan": "Ketindan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20561840",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 LAWANG SATU ATAP",
+      "alamat": "JL. INSPOL SUWOTO NO. 265",
+      "kelurahan": "Sidoluhur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20559935",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 LAWANG SATU ATAP",
+      "alamat": "JL. INSPOL SUWOTO DUSUN MENDEK",
+      "kelurahan": "Srigading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20570272",
+      "nama_satuan_pendidikan": "SMP NEGERI 6 LAWANG SATU ATAP",
+      "alamat": "DUSUN GUNUNG TUMPUK",
+      "kelurahan": "Sidoluhur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20517371",
+      "nama_satuan_pendidikan": "SMP PGRI 01 LAWANG",
+      "alamat": "Jl. Dr. Wahidin No 17 Lawang",
+      "kelurahan": "Kalirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 74,
+      "npsn": "20517546",
+      "nama_satuan_pendidikan": "SMP PGRI 2 LAWANG",
+      "alamat": "Jl. Argopuro No. 95",
+      "kelurahan": "Lawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": "20517559",
+      "nama_satuan_pendidikan": "SMP PLUS DARUSSALAM LAWANG",
+      "alamat": "JL. ANJASMORO Gg. III A No.07 RT 02 RW 05 DUSUN TURI",
+      "kelurahan": "Turirejo",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PONCOKUSUMO",
+  "updated_at": "2026-08-13T11:43:16.787Z",
+  "count": 86,
+  "negeri": 43,
+  "swasta": 43,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715172",
+      "nama_satuan_pendidikan": "MIS AL - HIKMAH",
+      "alamat": "JL. Raya Simpar RT006 RW001",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715165",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "PANDANSARI",
+      "kelurahan": "Pandansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715181",
+      "nama_satuan_pendidikan": "MIS AL-AMIN",
+      "alamat": "JL. RAYA WONOREJO NO. 89",
+      "kelurahan": "Wonorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715168",
+      "nama_satuan_pendidikan": "MIS AL-HIDAYAH",
+      "alamat": "JL.DUREN UTARA DESA DAWUHAN PONCOKUSUMO",
+      "kelurahan": "Dawuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715164",
+      "nama_satuan_pendidikan": "MIS AL-HIKMAH",
+      "alamat": "Jl. Raya Karanganyar No. 15 RT : 015 / RW : 007",
+      "kelurahan": "Karanganyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715161",
+      "nama_satuan_pendidikan": "MIS AL-ITTIHAD",
+      "alamat": "JL. RAYA 01 PARAS KARANGNONGKO",
+      "kelurahan": "Karangnongko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715173",
+      "nama_satuan_pendidikan": "MIS BISRI MUSTHOFA",
+      "alamat": "LESTI - DAWUHAN - PONCOKUSUMO",
+      "kelurahan": "Dawuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715163",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "DUKUH JAJANG DESA SUMBEREJO KECAMATAN PONCOKUSUMO",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715170",
+      "nama_satuan_pendidikan": "MIS KH HASYIM ASY`ARI",
+      "alamat": "Jl. Raya No.34 Karangnongko",
+      "kelurahan": "Karangnongko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715178",
+      "nama_satuan_pendidikan": "MIS KH HASYIM ASY`ARI",
+      "alamat": "JL. RAYA COBAN PELANGI GUBUGKLAKAH",
+      "kelurahan": "Gubukklakah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715174",
+      "nama_satuan_pendidikan": "MIS KH. ROMLY TAMIM",
+      "alamat": "JL. RAYA  NO. 19 BELUNG",
+      "kelurahan": "Belung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715183",
+      "nama_satuan_pendidikan": "MIS MAMBAUL HUDA",
+      "alamat": "JL. SUMBERSARI 01",
+      "kelurahan": "Jambesari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715182",
+      "nama_satuan_pendidikan": "MIS MATHLA`UL HUDA",
+      "alamat": "JALAN RAYA NO.02 ARGOSUKO",
+      "kelurahan": "Argosuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715166",
+      "nama_satuan_pendidikan": "MIS MAULANA MALIK IBRAHIM BESUKI",
+      "alamat": "JL. RAYA BESUKI WRINGINANOM RT/RW 20/05",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60715180",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "JL.MASJID NO.2 NGADIRESO",
+      "kelurahan": "Ngadireso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60715179",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL.RAYA DAWUHAN",
+      "kelurahan": "Dawuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60715169",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "JL RAYA NGANDENG",
+      "kelurahan": "Dawuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60715177",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. GATOT SUBROTO PAJARAN KEC. PONCOKUSUMO",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60715175",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "JALAN RAYA GADUNGAN NO.36 KARANGANYAR KEC.PONCOKUSUMO",
+      "kelurahan": "Karanganyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60715162",
+      "nama_satuan_pendidikan": "MIS SUNAN AMPEL",
+      "alamat": "JL. KH. BAHAUDDIN KETITANG",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60715167",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JALAN RAYA NGEBRUK",
+      "kelurahan": "Ngebruk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60715171",
+      "nama_satuan_pendidikan": "MIS SUNAN MURIA",
+      "alamat": "JL. RAYA PONCOKUSUMO NO. 66",
+      "kelurahan": "Poncokusumo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60715176",
+      "nama_satuan_pendidikan": "MIS TA ALLAMUL HUDA",
+      "alamat": "JL. RAYA ARAN-ARAN DESA SUMBEREJO",
+      "kelurahan": "Sumberejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581305",
+      "nama_satuan_pendidikan": "MTS AL-ITTIHAD PONCOKUSUMO",
+      "alamat": "Jl. Raya 01 RT 07 RW 04",
+      "kelurahan": "Belung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "70027565",
+      "nama_satuan_pendidikan": "MTs Nurul Huda",
+      "alamat": "Jalan Gajah Mada No. 03 RT/RW: 006/002",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20581310",
+      "nama_satuan_pendidikan": "MTSS AL AMIN",
+      "alamat": "JL. RAYA WONOREJO NO.89",
+      "kelurahan": "Wonorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20581303",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH",
+      "alamat": "Pandansari",
+      "kelurahan": "Pandansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20581308",
+      "nama_satuan_pendidikan": "MTSS AL-FATHONI PONCOKUSUMO",
+      "alamat": "JL. RAYA NO 1 PONCOKUSUMO",
+      "kelurahan": "Poncokusumo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20581309",
+      "nama_satuan_pendidikan": "MTSS AL-HIKMAH",
+      "alamat": "JL. Raya Karanganyar RT : 15 / RW : 07",
+      "kelurahan": "Karanganyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20581306",
+      "nama_satuan_pendidikan": "MTSS DARUSSA`ADAH",
+      "alamat": "JL. RAYA GUBUGKLAKAH",
+      "kelurahan": "Gubukklakah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20581307",
+      "nama_satuan_pendidikan": "MTSS MATHLAUL HUDA",
+      "alamat": "JL. RAYA ARGOSUKO 02 PONCOKUSUMO MALANG",
+      "kelurahan": "Argosuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20581302",
+      "nama_satuan_pendidikan": "MTSS NURUL ULUM",
+      "alamat": "JALAN RAYA GADUNGAN NO.36 KARANGANYAR",
+      "kelurahan": "Karanganyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20581304",
+      "nama_satuan_pendidikan": "MTSS SUNAN AMPEL",
+      "alamat": "JL.KH BAHAUDDIN KETITANG PAJARAN PONCOKUSUMO",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20581311",
+      "nama_satuan_pendidikan": "MTSS TA ALLAMUL HUDA",
+      "alamat": "JLN. RAYA ARAN-ARAN SUMBEREJO",
+      "kelurahan": "Karanganyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20565329",
+      "nama_satuan_pendidikan": "SD ISLAM AL HIDAYAH",
+      "alamat": "RT. 2  RW. 17 DUSUN SUKOSARI",
+      "kelurahan": "Pandansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "70004192",
+      "nama_satuan_pendidikan": "SD ISLAM BAITUT TAQWA",
+      "alamat": "Jalan Masjid RT. 03 RW. 06",
+      "kelurahan": "Belung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20518639",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ARGOSUKO",
+      "alamat": "JL. KLENGKENG RT. 23 RW. 5 DUSUN WANGKAL KIDUL",
+      "kelurahan": "Argosuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20518852",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BELUNG",
+      "alamat": "JL. RAYA BELUNG NO 28 RT. 8 RW. 3",
+      "kelurahan": "Belung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20518743",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DAWUHAN",
+      "alamat": "JL. RAYA DAWUHAN RT. 19 RW. 4",
+      "kelurahan": "Dawuhan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20518473",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GUBUGKLAKAH",
+      "alamat": "JL. RAYA GUBUGKLAKAH NO. 475 RT. 7 RW. 7",
+      "kelurahan": "Gubukklakah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20518463",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JAMBESARI",
+      "alamat": "JL. GATUTKACA NO. 5 RT. 15 RW. 03",
+      "kelurahan": "Jambesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518394",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGANYAR",
+      "alamat": "JL. RAYA KARANGANYAR RT: 15 RW: 7",
+      "kelurahan": "Karanganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518401",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGNONGKO",
+      "alamat": "JL. RAYA KARANGNONGKO NO. 464",
+      "kelurahan": "Karangnongko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20517192",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGADAS",
+      "alamat": "JL. RAYA NGADAS RT. 4 RW. 1",
+      "kelurahan": "Ngadas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517199",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGADIRESO",
+      "alamat": "JL. PISANG NO. 232 NGADIRESO",
+      "kelurahan": "Ngadireso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517184",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGEBRUK",
+      "alamat": "RT. 7 RW. 3 DUSUN NGEBRUK",
+      "kelurahan": "Ngebruk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517094",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAJARAN",
+      "alamat": "JL. PANGLIMA SUDIRMAN NO 15",
+      "kelurahan": "Pajaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20517124",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANSARI",
+      "alamat": "JL. RAYA WONOSARI DUSUN WONOSARI",
+      "kelurahan": "Pandansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517320",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PONCOKUSUMO",
+      "alamat": "JL. RAYA NO. 49 RT. 2 RW. 1",
+      "kelurahan": "Poncokusumo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20517026",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBEREJO",
+      "alamat": "JL. DUSUN SUMBEREJO RT. 2 RW. 1 DUSUN SUMBEREJO",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20552721",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOMULYO",
+      "alamat": "JL. RAYA WONOMULYO RT. 7 RW. 6",
+      "kelurahan": "Wonomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20517643",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WONOREJO",
+      "alamat": "JL. PARAS WONOREJO RT. 28 RW. 5",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20517625",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WRINGINANOM",
+      "alamat": "RT. 10 RW. 3 DUSUN KUNCI",
+      "kelurahan": "Wringinanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20518626",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ARGOSUKO",
+      "alamat": "RT. 23 RW. 7 DUSUN KEDEN",
+      "kelurahan": "Argosuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518853",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BELUNG",
+      "alamat": "JL. BLIMBING RT. 5 RW. 5 DUSUN BELUNG BUNTARAN",
+      "kelurahan": "Belung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20518744",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DAWUHAN",
+      "alamat": "JL. RAYA DUREN RT. 46 RW. 11 DUSUN DUREN",
+      "kelurahan": "Dawuhan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20518474",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GUBUGKLAKAH",
+      "alamat": "JL. RAYA GUBUGKLAKAH RT. 5 RW. 1",
+      "kelurahan": "Gubukklakah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20518464",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JAMBESARI",
+      "alamat": "JL. RAYA PABRIKAN NO.20 RT. : 01RW: 01",
+      "kelurahan": "Jambesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20518395",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KARANGANYAR",
+      "alamat": "JL. RAYA GADUNGAN RW: 14  RT: 35",
+      "kelurahan": "Karanganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20518402",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KARANGNONGKO",
+      "alamat": "JL. RAYA KARANGANYAR LOR",
+      "kelurahan": "Karangnongko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20517193",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGADAS",
+      "alamat": "RT. 1 RW. 2 DUSUN JARAK IJO",
+      "kelurahan": "Ngadas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20517200",
+      "nama_satuan_pendidikan": "SD NEGERI 2 NGADIRESO",
+      "alamat": "JL. RAYA NGADIRESO RT. 2 RW. 1 NGADIRESO",
+      "kelurahan": "Ngadireso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20554985",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PAJARAN",
+      "alamat": "JL. GAJAH MADA NO.01 RT. 11 RW. 3",
+      "kelurahan": "Pajaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20517125",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANSARI",
+      "alamat": "JL. RAYA PANDANSARI RT. 05 RW. 06",
+      "kelurahan": "Pandansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20517321",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PONCOKUSUMO",
+      "alamat": "JL. RAYA PONCOKUSUMO NO.10",
+      "kelurahan": "Poncokusumo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20517030",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBEREJO",
+      "alamat": "JL. RAYA ARAN-ARAN, RT. 31 RW. 8",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20517641",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOMULYO",
+      "alamat": "JL. IRSAT NO 1 DUSUN ROBYONG RT. 44 RW. 12",
+      "kelurahan": "Wonomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20517631",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOREJO",
+      "alamat": "JL. SIMPAR WONOREJO RT. 4 RW. 1",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20517626",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WRINGINANOM",
+      "alamat": "RT. 2 RW. 1 DUSUN SIMPAR",
+      "kelurahan": "Wringinanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20518745",
+      "nama_satuan_pendidikan": "SD NEGERI 3 DAWUHAN",
+      "alamat": "JL. RAYA NGANDENG DUSUN NGANDENG",
+      "kelurahan": "Dawuhan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20517110",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAJARAN",
+      "alamat": "JL. KH.HASYIM ASYARI NO.90 RT. 12 RW. 3 DUSUN KETITANG",
+      "kelurahan": "Pajaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20517031",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBEREJO",
+      "alamat": "RT. 25 RW. 6 DUSUN WONOKERTO",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20517627",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WRINGINANOM",
+      "alamat": "JL. RAYA BESUKI WRINGINANOM RT. 28 RW. 6",
+      "kelurahan": "Wringinanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20518746",
+      "nama_satuan_pendidikan": "SD NEGERI 4 DAWUHAN",
+      "alamat": "RT: 25 RW: 06  DUSUN LESTI DAWUHAN",
+      "kelurahan": "Dawuhan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20518403",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KARANGNONGKO",
+      "alamat": "JL. RAYA TENGGERAN RT. 1 RW. 1 NO 01",
+      "kelurahan": "Karangnongko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20570077",
+      "nama_satuan_pendidikan": "SMP DARUL FIKAR AL LATIFI PONCOKUSUMO",
+      "alamat": "JL.AHMAD YANI NO. 09 PAJARAN",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "20577835",
+      "nama_satuan_pendidikan": "SMP ISLAM DARUSSAADAH PONCOKUSUMO",
+      "alamat": "JL RAYA GUBUGKLAKAH",
+      "kelurahan": "Gubukklakah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "20549200",
+      "nama_satuan_pendidikan": "SMP ISLAM NURUL HUDA PONCOKUSUMO",
+      "alamat": "Jl. Gajah Mada No 2",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "20517467",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PONCOKUSUMO",
+      "alamat": "JL. PARAS NO. 1",
+      "kelurahan": "Karangnongko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 80,
+      "npsn": "20517492",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PONCOKUSUMO",
+      "alamat": "JL. RAYA KARANGANYAR RT. 13 RW. 6",
+      "kelurahan": "Karanganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 81,
+      "npsn": "20561857",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 PONCOKUSUMO SATU ATAP",
+      "alamat": "JL. RAYA DESA NGADAS RT. 4 RW. 1",
+      "kelurahan": "Ngadas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 82,
+      "npsn": "20570904",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 PONCOKUSUMO SATU ATAP",
+      "alamat": "JL. RAYA DUSUN SUMBEREJO DESA SUMBEREJO",
+      "kelurahan": "Sumberejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 83,
+      "npsn": "20517556",
+      "nama_satuan_pendidikan": "SMP PGRI PONCOKUSUMO",
+      "alamat": "Jl. Paras 805 Karangnongko Poncokusumo",
+      "kelurahan": "Karangnongko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "20517562",
+      "nama_satuan_pendidikan": "SMP SUNAN AMPEL",
+      "alamat": "Jl. Subandi No.59 Wonomulyo Poncokusumo Malang",
+      "kelurahan": "Wonomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": "70002453",
+      "nama_satuan_pendidikan": "SMPI NURUL HIKMAH ASSALAFIYAH",
+      "alamat": "Jl. KH. HASYIM ASYARI NO.09 KETITANG",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "70061064",
+      "nama_satuan_pendidikan": "SPM Wustha NURUL HIKMAH ASSALAFIYAH",
+      "alamat": "Jl. KH. HASYIM ASYARI NO. 9 KETITANG",
+      "kelurahan": "Pajaran",
+      "status": "SWASTA"
+    }
+  ]
+}

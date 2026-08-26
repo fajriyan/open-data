@@ -1,0 +1,738 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SUMBER MANJING WETAN",
+  "updated_at": "2026-08-13T11:42:56.392Z",
+  "count": 91,
+  "negeri": 56,
+  "swasta": 35,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715207",
+      "nama_satuan_pendidikan": "MIN 2 MALANG",
+      "alamat": "JL. JENDR. SUDIRMAN NO. 1 DRUJU SUMBERMANJING MALANG",
+      "kelurahan": "Druju",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": "60715214",
+      "nama_satuan_pendidikan": "MIS AL MISBAKH",
+      "alamat": "DESA KEDUNGBANTENG RT. 24 RW. 09 KECAMATAN SUMBERMANJING WETAN KABUPATEN MALANG",
+      "kelurahan": "Tambakrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715221",
+      "nama_satuan_pendidikan": "MIS AL-HUDA",
+      "alamat": "JL.RAYA SIDOMULYO",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715217",
+      "nama_satuan_pendidikan": "MIS DARUL HUDA",
+      "alamat": "JL. RAYA KLEPU 04",
+      "kelurahan": "Klepu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715212",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JL. RAYA HARJOKUNCARAN NO. 06 KEC. SUMBERMANJING WETAN KAB. MALANG PROV. JAWA T",
+      "kelurahan": "Harjokuncaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715222",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "Jl. Muria Depan Masjid",
+      "kelurahan": "Argotirto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715211",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "Jl. Raya Prangas No.1120",
+      "kelurahan": "Klepu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715213",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA DRUJU",
+      "alamat": "JL. Masjid Dsn. Wonorejo Desa Druju",
+      "kelurahan": "Druju",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715215",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "MULYOSARI RT 27 RW 08",
+      "kelurahan": "Harjokuncaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715216",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID DARUL HUSNA WONOREJO",
+      "kelurahan": "Argotirto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715219",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL.RAYA RINGINSARI",
+      "kelurahan": "Ringinsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60715218",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. RAYA SIDOMULYO RT 26 RW 04",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60715210",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "JL.RAYA SUMBERAGUNG RT 13 RW 02",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60715220",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "SIDOMUKTI-RINGINSARI",
+      "kelurahan": "Ringinsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "69756678",
+      "nama_satuan_pendidikan": "MTS AL MUSLIHUUN",
+      "alamat": "Jl. Raya Mulyosari Rt 27 Rw 08 Harjokuncaran Sumbermanjing Wetan",
+      "kelurahan": "Harjokuncaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69994779",
+      "nama_satuan_pendidikan": "MTs DARUL HUDA",
+      "alamat": "JL. RAYA PESANTREN",
+      "kelurahan": "Sumbermanjing Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20581322",
+      "nama_satuan_pendidikan": "MTSN 4 MALANG",
+      "alamat": "JL. RAYA HARJOKUNCARAN NO. 02",
+      "kelurahan": "Harjokuncaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20581325",
+      "nama_satuan_pendidikan": "MTSS DARUL HUDA",
+      "alamat": "JL. RAYA KLEPU NO. 04",
+      "kelurahan": "Klepu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20581327",
+      "nama_satuan_pendidikan": "MTSS DARUSSALAM",
+      "alamat": "Jl. Muria Depan Masjid RT 003 RW 002",
+      "kelurahan": "Argotirto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20581330",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA",
+      "alamat": "JL. RAYA PRANGAS NO. 1120",
+      "kelurahan": "Klepu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20581324",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA",
+      "alamat": "JL MASJID WONOREJO",
+      "kelurahan": "Druju",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20581328",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JALAN RAYA RINGINSARI",
+      "kelurahan": "Ringinsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20581326",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM ARGOTIRTO",
+      "alamat": "JL. MASJID DARUL HUSNA WONOREJO ARGOTIRTO SUMBERMANJING WETAN",
+      "kelurahan": "Argotirto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20581329",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM SIDOMULYO",
+      "alamat": "JL. RAYA SIDOMULYO",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20581323",
+      "nama_satuan_pendidikan": "MTSS RADEN PATAH",
+      "alamat": "RT: 30, RW: 07   JLN. WARINGIN TIMUR",
+      "kelurahan": "Sitiarjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "69853443",
+      "nama_satuan_pendidikan": "Nurul Ulum",
+      "alamat": "Lapangan Olahraga RT. 012 RW. 001",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "69979986",
+      "nama_satuan_pendidikan": "SD ANAK SHOLEH FULL DAY",
+      "alamat": "SITIARJO RT. 62 RW. 05",
+      "kelurahan": "Sitiarjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20518625",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ARGOTIRTO",
+      "alamat": "JL. RAYA ARGOTIRTO RT. 13  RW. 6",
+      "kelurahan": "Argotirto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518797",
+      "nama_satuan_pendidikan": "SD NEGERI 1 DRUJU",
+      "alamat": "JL. RAYA DRUJU RT. 12 RW. 3",
+      "kelurahan": "Druju",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518482",
+      "nama_satuan_pendidikan": "SD NEGERI 1 HARJOKUNCARAN",
+      "alamat": "JL. RAYA MULYOSARI RT. 23 RW. 8",
+      "kelurahan": "Harjokuncaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518560",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KEDUNGBANTENG",
+      "alamat": "JL. RAYA KEDUNGBANTENG RT. 6 RW. 2",
+      "kelurahan": "Kedungbanteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20518489",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KLEPU",
+      "alamat": "JL. RAYA KLEPU RT. 3 RW. 1",
+      "kelurahan": "Klepu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517259",
+      "nama_satuan_pendidikan": "SD NEGERI 1 RINGINKEMBAR",
+      "alamat": "JL. KAVLING RT. 31 RW. 8",
+      "kelurahan": "Ringinkembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20554987",
+      "nama_satuan_pendidikan": "SD NEGERI 1 RINGINSARI",
+      "alamat": "JL. RAYA RINGINSARI NO. 9 RT. 22 RW. 1",
+      "kelurahan": "Ringinsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20516910",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SEKARBANYU",
+      "alamat": "JL. SAPU ANGIN RT. 2 RW. 1",
+      "kelurahan": "Sekarbanyu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20516937",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SITIARJO",
+      "alamat": "JL. TIMUR PASAR SITIARJO RT. 23 RW. 5",
+      "kelurahan": "Sitiarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20571224",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERAGUNG",
+      "alamat": "JL. SUMBERAGUNG KRAJAN RT. 7 RW. 1",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517067",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERMANJING WETAN",
+      "alamat": "JL. RAYA SUMBERMANJING NO. 218 RT. 13 RW. 4",
+      "kelurahan": "Sumbermanjing Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517014",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAMBAKASRI",
+      "alamat": "JL. RAYA SIDOMULYO RT. 7 RW. 1 DUSUN SIDOMULYO",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20554994",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAMBAKREJO",
+      "alamat": "JL. MERPATI PUTIH NO.30 DUSUN SENDANGBIRU",
+      "kelurahan": "Tambakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20554993",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TEGALREJO",
+      "alamat": "JL. RAYA TEGALREJO RT. 2 RW. 1",
+      "kelurahan": "Tegalrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518612",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ARGOTIRTO",
+      "alamat": "JL. SUMBERBENDE RT. 24 RW. 11",
+      "kelurahan": "Argotirto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20518798",
+      "nama_satuan_pendidikan": "SD NEGERI 2 DRUJU",
+      "alamat": "JL. RAYA WONOREJO RT. 26 RW. 5",
+      "kelurahan": "Druju",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518483",
+      "nama_satuan_pendidikan": "SD NEGERI 2 HARJOKUNCARAN",
+      "alamat": "JL. MAGHENDA NO.88 RT. 3 RW. 1",
+      "kelurahan": "Harjokuncaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20518561",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEDUNGBANTENG",
+      "alamat": "JL. RAYA KEDUNGBANTENG RT. 38 RW. 4 DUSUN KEDUNGBANTENG",
+      "kelurahan": "Kedungbanteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20518490",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KLEPU",
+      "alamat": "JL. RAYA PRANGAS RT. 32 RW. 4",
+      "kelurahan": "Klepu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517260",
+      "nama_satuan_pendidikan": "SD NEGERI 2 RINGINKEMBAR",
+      "alamat": "JL. RAYA RINGINKEMBAR DUSUN ARGOSARI RT. 16 RW. 4",
+      "kelurahan": "Ringinkembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20571225",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERAGUNG",
+      "alamat": "JL. GUNUNGSUDO RT. 32 RW. 4",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20554986",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERMANJING WETAN",
+      "alamat": "RT. 18  RW. 5 DUSUN TLOGOSARI",
+      "kelurahan": "Sumbermanjing Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20517007",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAMBAKASRI",
+      "alamat": "JL. RAYA GELONDONG RT. 22 RW. 3",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20517016",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAMBAKREJO",
+      "alamat": "JL. MARTO SUGONDO RT. 6 RW. 2",
+      "kelurahan": "Tambakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20517001",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TEGALREJO",
+      "alamat": "JL. LAPANGAN TEGALREJO RT. 6 RW. 2",
+      "kelurahan": "Tegalrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20518613",
+      "nama_satuan_pendidikan": "SD NEGERI 3 ARGOTIRTO",
+      "alamat": "Jl. Inpres RT 40 RW 18 Argotirto",
+      "kelurahan": "Argotirto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20554989",
+      "nama_satuan_pendidikan": "SD NEGERI 3 DRUJU",
+      "alamat": "RT. 45 RW. 9 DUSUN SUMBERNANAS",
+      "kelurahan": "Druju",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20518470",
+      "nama_satuan_pendidikan": "SD NEGERI 3 HARJOKUNCARAN",
+      "alamat": "JL. MAGHENDA NO.36 RT. 11 RW. 03",
+      "kelurahan": "Harjokuncaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20554992",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KEDUNGBANTENG",
+      "alamat": "JL. RAYA KEDUNGBANTENG ATAS RT. 37  RW. 7",
+      "kelurahan": "Kedungbanteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20518491",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KLEPU",
+      "alamat": "JL. RAYA SUMBERGENTONG DESA KLEPU RT. 24 RW. 3",
+      "kelurahan": "Klepu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20517258",
+      "nama_satuan_pendidikan": "SD NEGERI 3 RINGINKEMBAR",
+      "alamat": "JL. RAYA RINGINKEMBAR R.05 RW. 2",
+      "kelurahan": "Ringinkembar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20554988",
+      "nama_satuan_pendidikan": "SD NEGERI 3 RINGINSARI",
+      "alamat": "JL. RAYA RINGINSARI.NO38 RT. 11.RW. 2",
+      "kelurahan": "Ringinsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20516911",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SEKARBANYU",
+      "alamat": "JL. TAMAN ASRI RT. 7 RW. 2",
+      "kelurahan": "Sekarbanyu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20516953",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SITIARJO",
+      "alamat": "JL. LAPANGAN NO.03 RT. 5 RW. 1",
+      "kelurahan": "Sitiarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20517044",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERAGUNG",
+      "alamat": "JL. RAYA SUMBERAGUNG RT. 19 RW. 2",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20554258",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERMANJING WETAN",
+      "alamat": "JL. RAYA SUMBERMANJING WETAN NO 19 RT. 15 RW. 4",
+      "kelurahan": "Sumbermanjing Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20517008",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TAMBAKASRI",
+      "alamat": "JL. RAYA SUMBERKEMBANG RT. 42 RW. 5",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20554990",
+      "nama_satuan_pendidikan": "SD NEGERI 4 DRUJU",
+      "alamat": "JL. TRUNOJOYO NO. 2 RT. 20 RW. 4",
+      "kelurahan": "Druju",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20518562",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KEDUNGBANTENG",
+      "alamat": "JL. RAYA TEMPURAN RT. 35 RW. 9",
+      "kelurahan": "Kedungbanteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20518492",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KLEPU",
+      "alamat": "JL. KARTINI NO. 1314 RT. 41 RW. 5",
+      "kelurahan": "Klepu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20516892",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SITIARJO",
+      "alamat": "RT. 47 RW. 9 DUSUN SITIARJO",
+      "kelurahan": "Sitiarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20517046",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUMBERAGUNG",
+      "alamat": "JL. DARUNGAN RT. 29  RW. 3",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20517009",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TAMBAKASRI",
+      "alamat": "JL. BOUGENVILLE, RT. 14 RW. 2 DUSUN TAMBAKASRI KULON",
+      "kelurahan": "Sidoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20554991",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SITIARJO",
+      "alamat": "RT. 63 RW. 7 Dusun Krajan Kulon",
+      "kelurahan": "Sitiarjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20517047",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SUMBERAGUNG",
+      "alamat": "JL. SUMBERAGUNG COBAN RT. 1 RW. 1",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20517010",
+      "nama_satuan_pendidikan": "SD NEGERI 5 TAMBAKASRI",
+      "alamat": "RT. 23 RW. 3 DUSUN TAMBAKASRI WETAN",
+      "kelurahan": "Sidoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20554995",
+      "nama_satuan_pendidikan": "SD NEGERI 7 TAMBAKASRI",
+      "alamat": "JL. Raya Sidomulyo",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20517011",
+      "nama_satuan_pendidikan": "SD NEGERI 8 TAMBAKASRI",
+      "alamat": "JL. RAYA SIDOASRI RT. 8 RW. 1",
+      "kelurahan": "Sidoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20517013",
+      "nama_satuan_pendidikan": "SD NEGERI 9 TAMBAKASRI",
+      "alamat": "JL. RAYA SUMBERKEMBANG RT. 36 RW. 5",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20518704",
+      "nama_satuan_pendidikan": "SDS TPN SENDANGBIRU",
+      "alamat": "Jl. Raya Pondok Dadap Sendangbiru",
+      "kelurahan": "Tambakrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "70053203",
+      "nama_satuan_pendidikan": "SMP ANAK SHOLEH FULL DAY",
+      "alamat": "Jl. Belakang Pasar Sitiarjo RT. 24 RW. 05",
+      "kelurahan": "Sitiarjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "20517408",
+      "nama_satuan_pendidikan": "SMP DIPONEGORO SUMBERMANJING",
+      "alamat": "Kedungbanteng  Bawah Rt. 06 Rw. 02",
+      "kelurahan": "Kedungbanteng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "70006947",
+      "nama_satuan_pendidikan": "SMP ISLAM ABU BAKAR",
+      "alamat": "JL. MAKAM 017",
+      "kelurahan": "Klepu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "20517429",
+      "nama_satuan_pendidikan": "SMP ISLAM DRUJU",
+      "alamat": "Jalan Raya Druju",
+      "kelurahan": "Druju",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "20517336",
+      "nama_satuan_pendidikan": "SMP K YBPK SITIARJO",
+      "alamat": "Jl. Raya No.33",
+      "kelurahan": "Sitiarjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20517470",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SUMBERMANJING WETAN",
+      "alamat": "JL. RAYA HARJOKUNCARAN NO. 51",
+      "kelurahan": "Harjokuncaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 84,
+      "npsn": "20517495",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 SUMBERMANJING WETAN",
+      "alamat": "JL. RAYA SUMBERAGUNG",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 85,
+      "npsn": "20517503",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 SUMBERMANJING WETAN",
+      "alamat": "JL. RAYA TAMBAKASRI RT. 13 RW. 2",
+      "kelurahan": "Tambakasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 86,
+      "npsn": "20561874",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 SUMBERMANJING WETAN SATU ATAP",
+      "alamat": "JL. MARTO SUGONDO RT. 6 RW. 2",
+      "kelurahan": "Tambakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 87,
+      "npsn": "20561875",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 SUMBERMANJING WETAN SATU ATAP",
+      "alamat": "JL. RAYA TEGALREJO RT. 2 RW. 1 DUSUN TEGALREJO",
+      "kelurahan": "Tegalrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 88,
+      "npsn": "20517553",
+      "nama_satuan_pendidikan": "SMP PGRI 05 SUMBERMANJING",
+      "alamat": "Sumbermanjing Wetan",
+      "kelurahan": "Tambakasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": "70007676",
+      "nama_satuan_pendidikan": "SMP RAUDLOTUL MUTTAQIN",
+      "alamat": "JL. Dusun Sidodadi",
+      "kelurahan": "Ringinsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": "20517564",
+      "nama_satuan_pendidikan": "SMP TPN SENDANGBIRU",
+      "alamat": "Jalan Raya Pondok Dadap Sendangbiru, Desa Tambakrejo",
+      "kelurahan": "Tambakrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": "20517339",
+      "nama_satuan_pendidikan": "SMP YBPK TAMBAKASRI",
+      "alamat": "Jl. Lapangan No 2",
+      "kelurahan": "Sidoasri",
+      "status": "SWASTA"
+    }
+  ]
+}

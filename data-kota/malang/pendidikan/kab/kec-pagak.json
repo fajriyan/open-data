@@ -1,0 +1,386 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PAGAK",
+  "updated_at": "2026-08-13T11:42:41.069Z",
+  "count": 47,
+  "negeri": 32,
+  "swasta": 15,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69928988",
+      "nama_satuan_pendidikan": "MI Sunan Giri",
+      "alamat": "Jl. Brantas",
+      "kelurahan": "Tlogorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715118",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM 01",
+      "alamat": "JL.SUMBER PASIR NO.15 BEKUR RT.33 RW.08",
+      "kelurahan": "Sumberrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715115",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM 02",
+      "alamat": "JL. KH. HASYIM ASY ARI 297 TLOGOREJO",
+      "kelurahan": "Tlogorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715119",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "JL. TAMAN ILMU NO.10 SUMBERNONGKO RT 16 RW 18 PAGAK",
+      "kelurahan": "Pagak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715117",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL ULUM",
+      "alamat": "JL. BENDO AGUNG 15 SUMBEREJO",
+      "kelurahan": "Sumberrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715116",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ULUM",
+      "alamat": "JL. BIRAWA RT 08/02 SUMBERKERTO",
+      "kelurahan": "Sumberkerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "20581279",
+      "nama_satuan_pendidikan": "MTSS AL MANAR",
+      "alamat": "JL. RAYA SEMPOL RT;15 RW;04",
+      "kelurahan": "Sempol",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "69816294",
+      "nama_satuan_pendidikan": "MTSS Roudlotul Ulum",
+      "alamat": "Jl. Bendo Agung No. 52, Sumberejo",
+      "kelurahan": "Sumberrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "70005078",
+      "nama_satuan_pendidikan": "PDF Wustha Al Hasanul Mumin",
+      "alamat": "Jl. Sumuran No 20 Sumberejo",
+      "kelurahan": "Sumberrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "70005078",
+      "nama_satuan_pendidikan": "PDF Wustha Al Hasanul Mumin",
+      "alamat": "Jl. Sumuran No 20 Sumberejo",
+      "kelurahan": "Sumberrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20573106",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 10 PAGAK",
+      "alamat": "Jl.Ahmad Yani No.19 Sumbermanjing Kulon",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20518438",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GAMPINGAN",
+      "alamat": "JL. RAYA GAMPINGAN RT. 6 RW. 1",
+      "kelurahan": "Gampingan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20517106",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PAGAK",
+      "alamat": "JL. HAMID RUSDI NO. 80 PAGAK",
+      "kelurahan": "Pagak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20571217",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDANREJO",
+      "alamat": "JL. PEMUDA NO. 5 RT. 7 RW. 2 DUSUN KRAJAN",
+      "kelurahan": "Pandanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20516916",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SEMPOL",
+      "alamat": "JL. RAYA SEMPOL RT. 15 RW. 4",
+      "kelurahan": "Sempol",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20517029",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBEREJO",
+      "alamat": "JL. PERTUKANGAN NO 38 RT. 12 RW. 3 DUSUN BANDARANGIN",
+      "kelurahan": "Sumberrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20517033",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERKERTO",
+      "alamat": "JL. KALI RADEN, RT. 6 RW. 2",
+      "kelurahan": "Sumberkerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20517068",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERMANJING KULON",
+      "alamat": "JL. KUSUMA BANGSA NO.150 RT. 25 RW. 6",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20517649",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TLOGOREJO",
+      "alamat": "JL. KATIR NO.225 RT. 18  RW. 5",
+      "kelurahan": "Tlogorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20518439",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GAMPINGAN",
+      "alamat": "JL. KERAMAT NO. 63",
+      "kelurahan": "Gampingan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20571218",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDANREJO",
+      "alamat": "JL. GAJAH MADA RT. 20 RW. 6",
+      "kelurahan": "Pandanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20517027",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBEREJO",
+      "alamat": "JL. DIPONEGORO NO. 34",
+      "kelurahan": "Sumberrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20517049",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERKERTO",
+      "alamat": "JL. SUNAN GIRI NO.38",
+      "kelurahan": "Sumberkerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20517650",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TLOGOREJO",
+      "alamat": "JL. BRANTAS RT. 9   RW. 3",
+      "kelurahan": "Tlogorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517107",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PAGAK",
+      "alamat": "RT. 6 RW. 15 DUSUN SUMBERNONGKO",
+      "kelurahan": "Pagak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517122",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PANDANREJO",
+      "alamat": "JL.  MAWAR RT. 12 RW. 3",
+      "kelurahan": "Pandanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516917",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SEMPOL",
+      "alamat": "JL. RAYA SEMPOL",
+      "kelurahan": "Sempol",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517028",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBEREJO",
+      "alamat": "JL. KRAJAN NO. 17B RT. 7 RW. 2",
+      "kelurahan": "Sumberrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20517050",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUMBERKERTO",
+      "alamat": "JL. PATIMURA RT. 18 RW. 4",
+      "kelurahan": "Sumberkerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20517651",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TLOGOREJO",
+      "alamat": "JL. DRUJU RT. 27 RW. 7",
+      "kelurahan": "Tlogorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20518440",
+      "nama_satuan_pendidikan": "SD NEGERI 4 GAMPINGAN",
+      "alamat": "JL. RAYA DUKUH DEMPOK RT. 15 RW. 2",
+      "kelurahan": "Gampingan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20517108",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PAGAK",
+      "alamat": "JL. PATTIMURA NO.03 PAGAK",
+      "kelurahan": "Pagak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20516918",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SEMPOL",
+      "alamat": "JL. RAYA BANDUROTO, RT. 28 RW. 7",
+      "kelurahan": "Sempol",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517069",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUMBERMANJING KULON",
+      "alamat": "JL. MAKAM RT. 48 RW. 12",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20517109",
+      "nama_satuan_pendidikan": "SD NEGERI 5 PAGAK",
+      "alamat": "DUSUN BANYU URIB",
+      "kelurahan": "Pagak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20516919",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SEMPOL",
+      "alamat": "JL. CRABAAN SEMPOL RT. 3 RW. 1",
+      "kelurahan": "Sempol",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517070",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SUMBERMANJING KULON",
+      "alamat": "JL. A. AHMAD YANI NO. 9 RT. 5 RW. 3",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20517096",
+      "nama_satuan_pendidikan": "SD NEGERI 6 PAGAK",
+      "alamat": "JL. MUHAJIRIN NO.03 SUMBERPETUNG",
+      "kelurahan": "Pagak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517071",
+      "nama_satuan_pendidikan": "SD NEGERI 6 SUMBERMANJING KULON",
+      "alamat": "RT. 37 RW. 10 DUSUN KRAJAN",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517072",
+      "nama_satuan_pendidikan": "SD NEGERI 7 SUMBERMANJING KULON",
+      "alamat": "JL. TLOGOSARI DUSUN KRAJAN RT. 14 RW. 4",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517440",
+      "nama_satuan_pendidikan": "SMP ISLAM PAGAK",
+      "alamat": "Pagak",
+      "kelurahan": "Gampingan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "70000716",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU MIFTAHUL ULUM",
+      "alamat": "JL. RAYA SEMPOL NO. 0436 SEMPOL",
+      "kelurahan": "Sempol",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20549513",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 05 PAGAK",
+      "alamat": "JL. AHMAD YANI 19 SUMBERMANJINGKULON",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20517464",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PAGAK",
+      "alamat": "Jalan Gajahmada No.90",
+      "kelurahan": "Sumbermanjing Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517506",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PAGAK",
+      "alamat": "JL. BATU PUTIH NO. 1",
+      "kelurahan": "Pagak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20561872",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 PAGAK SATU ATAP",
+      "alamat": "JL. SUNAN GIRI NO. 38",
+      "kelurahan": "Sumberkerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517581",
+      "nama_satuan_pendidikan": "SMP PGRI 03 PAGAK",
+      "alamat": "Jl. Brantas",
+      "kelurahan": "Tlogorejo",
+      "status": "SWASTA"
+    }
+  ]
+}

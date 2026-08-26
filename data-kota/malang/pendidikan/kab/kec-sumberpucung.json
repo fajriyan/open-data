@@ -1,0 +1,338 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SUMBERPUCUNG",
+  "updated_at": "2026-08-13T11:46:44.304Z",
+  "count": 41,
+  "negeri": 29,
+  "swasta": 12,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60715225",
+      "nama_satuan_pendidikan": "MI NAHDLATUL ULAMA LOLARAS",
+      "alamat": "JL. LOLARAS 35 RT 21 RW 03 KARANGKATES",
+      "kelurahan": "Karangkates",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715224",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "JL. BANGSA 81E JATIGUWI",
+      "kelurahan": "Jatiguwi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69853444",
+      "nama_satuan_pendidikan": "MTs. DARUSSALAM",
+      "alamat": "JL. BANGSA 81E",
+      "kelurahan": "Jatiguwi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "20581332",
+      "nama_satuan_pendidikan": "MTSS HASANUDDIN",
+      "alamat": "JL. KI TRUNOWONGSO 124 DESA TERNYANG",
+      "kelurahan": "Ternyang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20581331",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA",
+      "alamat": "JL.BUNGUR 53",
+      "kelurahan": "Karangkates",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "70009015",
+      "nama_satuan_pendidikan": "SD ISLAM INTEGRATIF PESANTREN RAKYAT",
+      "alamat": "Jalan Kopral Suradi 98 RT. 7 RW.1",
+      "kelurahan": "Sumberpucung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69948377",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 2 SUMBERPUCUNG",
+      "alamat": "JL. KH. AHMAD DAHLAN NO.23 RT.08 RW.01",
+      "kelurahan": "Sumberpucung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "20518468",
+      "nama_satuan_pendidikan": "SD NEGERI 1 JATIGUWI",
+      "alamat": "JL. IR SOEKARNO NO 18 RT. 11 RW. 3 DUSUN KRAJAN",
+      "kelurahan": "Jatiguwi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20571216",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGEBRUK",
+      "alamat": "JL. RAYA NO 58 NGEBRUK RT. 20 RW. 3",
+      "kelurahan": "Ngebruk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20517261",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SAMBIGEDE",
+      "alamat": "JL. PANGERAN ANTASARI NO 2 RT. 14 RW. 5",
+      "kelurahan": "Sambigede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20516920",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SENGGRENG",
+      "alamat": "JL. RAYA NO 66 RT. 4 RW. 2 DUSUN KRAJAN",
+      "kelurahan": "Senggreng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20517669",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TERNYANG",
+      "alamat": "JL. KI TRUNOWONGSO 108 B RT. 9 RW. 3 TERNYANG",
+      "kelurahan": "Ternyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20555001",
+      "nama_satuan_pendidikan": "SD NEGERI 11 SUMBERPUCUNG",
+      "alamat": "JL. TGP NO. 7 RT. 1 RW. 1  SUMBERPUCUNG",
+      "kelurahan": "Sumberpucung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20555002",
+      "nama_satuan_pendidikan": "SD NEGERI 12 SUMBERPUCUNG",
+      "alamat": "JL. WISNU NO.37  RT. 20 RW.  02 DUSUN PAKEL",
+      "kelurahan": "Sumberpucung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20518484",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JATIGUWI",
+      "alamat": "JL. PAHLAWAN NO.107 RT. 1 RW. 1",
+      "kelurahan": "Jatiguwi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20517052",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KARANGKATES",
+      "alamat": "JL. DURIAN NO. 19 RT. 12 RW. 2",
+      "kelurahan": "Karangkates",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20517262",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SAMBIGEDE",
+      "alamat": "JL. UNTUNG SUROPATI 126 RT. 3 RW. 1",
+      "kelurahan": "Sambigede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20517670",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TERNYANG",
+      "alamat": "JL. KI TRUNOWONGSO NO.02 RT. 14 RW. 4 TERNYANG",
+      "kelurahan": "Ternyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518421",
+      "nama_satuan_pendidikan": "SD NEGERI 3 JATIGUWI",
+      "alamat": "SD NEGERI 3 JATIGUWI",
+      "kelurahan": "Jatiguwi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517053",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KARANGKATES",
+      "alamat": "JL. MANGGIS NO 05 RT. 2 RW. 1 DUSUN KARANGKATES",
+      "kelurahan": "Karangkates",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517186",
+      "nama_satuan_pendidikan": "SD NEGERI 3 NGEBRUK",
+      "alamat": "JL. KEBONSARI NO.1 RT. 7 RW. 2",
+      "kelurahan": "Ngebruk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20555005",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SAMBIGEDE",
+      "alamat": "JL. KUNCORO 687  RT. 22 RW. 9",
+      "kelurahan": "Sambigede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20555006",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SENGGRENG",
+      "alamat": "JL. MAWAR NO 17  RT. 17 RW. 6",
+      "kelurahan": "Senggreng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20517671",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TERNYANG",
+      "alamat": "JL. KI TRUNOWONGSO NO. 79 RT. 26 RW. 7 DUSUN TURUS",
+      "kelurahan": "Ternyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20518360",
+      "nama_satuan_pendidikan": "SD NEGERI 4 JATIGUWI",
+      "alamat": "JL. SIMPANG BANGSA IV NO.16 RT. 24 RW. 6",
+      "kelurahan": "Jatiguwi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517054",
+      "nama_satuan_pendidikan": "SD NEGERI 4 KARANGKATES",
+      "alamat": "JL. A.YANI NO 114  RT. 31 RW. 4 DUSUN BANDUNG",
+      "kelurahan": "Karangkates",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20555008",
+      "nama_satuan_pendidikan": "SD NEGERI 4 NGEBRUK",
+      "alamat": "JL. KODARI NO. 116 RT. 24 RW. 4",
+      "kelurahan": "Ngebruk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20516908",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SENGGRENG",
+      "alamat": "JL. RAYAKECOPOKAN RT. 27 RW. 9 SENGGRENG",
+      "kelurahan": "Senggreng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20517672",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TERNYANG",
+      "alamat": "JL. KALIMAS NO 08 RT. RW. 36 10 TURUS",
+      "kelurahan": "Ternyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20555003",
+      "nama_satuan_pendidikan": "SD NEGERI 5 JATIGUWI",
+      "alamat": "JL. SIMPANG BANGSA JATIMULYO RT. 27 RW. 7",
+      "kelurahan": "Jatiguwi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517055",
+      "nama_satuan_pendidikan": "SD NEGERI 5 KARANGKATES",
+      "alamat": "JL. MANGGAR NO. 22 RT. 33 RW. 5 DUSUN BANDUNG",
+      "kelurahan": "Karangkates",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20516907",
+      "nama_satuan_pendidikan": "SD NEGERI 5 SENGGRENG",
+      "alamat": "JL. LETKOL  SUGIONO  NO. 8 RT. 11 RW. 4 DUSUN KRAJAN",
+      "kelurahan": "Senggreng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517056",
+      "nama_satuan_pendidikan": "SD NEGERI 6 SUMBERPUCUNG",
+      "alamat": "JL. JEND. SUDIRMAN NO.198 RT. 10 RW. 1",
+      "kelurahan": "Sumberpucung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20554998",
+      "nama_satuan_pendidikan": "SD NEGERI 9 SUMBERPUCUNG",
+      "alamat": "JL. ANUSOPATI 90 RT. 30 RW. 3 DUSUN SUKO",
+      "kelurahan": "Sumberpucung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518727",
+      "nama_satuan_pendidikan": "SD SUNAN GIRI",
+      "alamat": "Jalan Raya No. 97 Ngebruk",
+      "kelurahan": "Ngebruk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20517398",
+      "nama_satuan_pendidikan": "SMP DHARMA WANITA 01 SENGGRENG",
+      "alamat": "Jl. Raya Senggreng No. 68",
+      "kelurahan": "Senggreng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "70044454",
+      "nama_satuan_pendidikan": "SMP ISLAM INTEGRATIF PESANTREN RAKYAT AL-AMIN",
+      "alamat": "Jl. Kopral Suradi No. 98 RT. RW. 01",
+      "kelurahan": "Sumberpucung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20517439",
+      "nama_satuan_pendidikan": "SMP ISLAM NGEBRUK",
+      "alamat": "Jl. Raya No. 48  Ngebruk Sumberpucung",
+      "kelurahan": "Ngebruk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20517343",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 01 SUMBERPUCUNG",
+      "alamat": "Jl. Jenderal Sudirman 193",
+      "kelurahan": "Sumberpucung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20517471",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SUMBERPUCUNG",
+      "alamat": "JL. MANGGAR NO. 28",
+      "kelurahan": "Karangkates",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517496",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 SUMBERPUCUNG",
+      "alamat": "JL. TGP NO. 09 SUMBERPUCUNG RT. 1 RW. 1",
+      "kelurahan": "Sumberpucung",
+      "status": "NEGERI"
+    }
+  ]
+}

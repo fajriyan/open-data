@@ -1,0 +1,386 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. DAU",
+  "updated_at": "2026-08-13T11:47:56.347Z",
+  "count": 47,
+  "negeri": 23,
+  "swasta": 24,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "70028856",
+      "nama_satuan_pendidikan": "MI SYIHABUDDIN",
+      "alamat": "Jl. Tirto Mulyo 66 C Klandungan RT 03 RW 09",
+      "kelurahan": "Landungsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715031",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUT THOLIBIN",
+      "alamat": "JL.BRAWIJAYA RT.13 RW.03 TEGALWERU",
+      "kelurahan": "Kec. Dau",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715030",
+      "nama_satuan_pendidikan": "MIS WAHID HASYIM III",
+      "alamat": "JL. RAYA MULYOAGUNG NO. 51A DAU",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "69853441",
+      "nama_satuan_pendidikan": "MTs Nurul Huda Dau",
+      "alamat": "Jl. Pesantren Dsn. karang tengah rt.06 rw.01 ds. karangwidoro Dau malang",
+      "kelurahan": "Karangwidoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20581224",
+      "nama_satuan_pendidikan": "MTSS WAHID HASYIM 01 DAU",
+      "alamat": "JL. RAYA JETIS 33A MULYOAGUNG DAU MALANG",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20581225",
+      "nama_satuan_pendidikan": "MTSS WAHID HASYIM 02 DAU",
+      "alamat": "JL. RAYA KUCUR KRAJAN NO. 29 - KEC.DAU",
+      "kelurahan": "Kucur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "70043134",
+      "nama_satuan_pendidikan": "SD ISLAM AL-GHAFFAAR",
+      "alamat": "Jalan Raya Sengkaling No. 285 RT. 1 RW. 3",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "70006440",
+      "nama_satuan_pendidikan": "SD ISLAM CAHAYA PERMATA",
+      "alamat": "Perum Puncak Permata Sengkaling Blok D/8",
+      "kelurahan": "Sumbersekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "69734052",
+      "nama_satuan_pendidikan": "SD ISLAM DAARUL FIKRI",
+      "alamat": "Jl. Margojoyo VII/6 Jetis Mulyoagung Dau Malang",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "20518687",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 08 DAU",
+      "alamat": "Jl.Margobasuki 48 Jetis",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20518775",
+      "nama_satuan_pendidikan": "SD NEGERI 1 GADINGKULON",
+      "alamat": "JL. RAYA GADINGKULON NO. 76, RT. : 12 RW. 2, DUSUN KRAJAN",
+      "kelurahan": "Gadingkulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20518414",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KALISONGO",
+      "alamat": "JL. RAYA DIENG ATAS NO. 140",
+      "kelurahan": "Kalisongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20518570",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KARANGWIDORO",
+      "alamat": "JL. PESANTREN NO. 4 RT. 6 RW. 1 DUSUN KARANGTENGAH",
+      "kelurahan": "Karangwidoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20518533",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KUCUR",
+      "alamat": "JL. KLAMPOK BARAT RT. 1  RW. 1",
+      "kelurahan": "Kucur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20518537",
+      "nama_satuan_pendidikan": "SD NEGERI 1 LANDUNGSARI",
+      "alamat": "JL. TIRTO RAHAYU NO.72 RT. 5 RW. 2 DUSUN BENDUNGAN",
+      "kelurahan": "Landungsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20517147",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MULYOAGUNG",
+      "alamat": "JL. RAYA MULYOAGUNG NO.121 RT. 1 RW. 10 DUSUN MULYOAGUNG",
+      "kelurahan": "Mulyoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20517280",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PETUNGSEWU",
+      "alamat": "JL. AHMAD YANI NO. 1 RT. 6 RW. 2",
+      "kelurahan": "Petung Sewu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20516913",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SELOREJO",
+      "alamat": "JL. RAYA TOREJO  NO. 45 RT. 5 RW. 2",
+      "kelurahan": "Selorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20517062",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUMBERSEKAR",
+      "alamat": "JL. RAYA SUMBERSEKAR NO.111 KODE POS. 65151",
+      "kelurahan": "Sumbersekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20518776",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GADINGKULON",
+      "alamat": "JL. RAYA PRINCI RT. 17 RW. 3",
+      "kelurahan": "Gadingkulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20518415",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KALISONGO",
+      "alamat": "Jl. Loandeng No. 15",
+      "kelurahan": "Kalisongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20518571",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KARANGWIDORO",
+      "alamat": "JL. RAYA KARANGWIDORO NO. 133 RT. 22 RW. 3 DUSUN NDORO",
+      "kelurahan": "Karangwidoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20518534",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KUCUR",
+      "alamat": "JL. RAYA KUCUR KLASEMAN NO.16 RT. 17 RW. 8",
+      "kelurahan": "Kucur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20518538",
+      "nama_satuan_pendidikan": "SD NEGERI 2 LANDUNGSARI",
+      "alamat": "JL. TIRTO TARUNO NO.19 RT. 1 RW. 7 DUSUN KLANDUNGAN",
+      "kelurahan": "Landungsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517148",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MULYOAGUNG",
+      "alamat": "JL. SIDOMAKMUR NO 105 RT. 2   RW. 2 DUSUN JETAK NGASRI",
+      "kelurahan": "Mulyoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517281",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PETUNGSEWU",
+      "alamat": "JL. BULUREJO PETUNGSEWU",
+      "kelurahan": "Petung Sewu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20516914",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SELOREJO",
+      "alamat": "JL. RAYA SELOKERTO RT. 13 RW. 5",
+      "kelurahan": "Selorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517063",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERSEKAR",
+      "alamat": "JL. RAYA BANJARTENGAH NO.19 RT. 1 RW. 1",
+      "kelurahan": "Sumbersekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20518416",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KALISONGO",
+      "alamat": "JL. SUMBERJO RT. 4 RW. 1 KALISONGO DAU",
+      "kelurahan": "Kalisongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20518535",
+      "nama_satuan_pendidikan": "SD NEGERI 3 KUCUR",
+      "alamat": "NO.1 RT. 14 RW. 6 DUSUN SUMBERBENDO",
+      "kelurahan": "Kucur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20517663",
+      "nama_satuan_pendidikan": "SD NEGERI TEGALWERU",
+      "alamat": "JL. BRAWIJAYA NO 8 RT. 10 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Tegalweru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20568021",
+      "nama_satuan_pendidikan": "SD SWASTA ALAM AR-ROHMAH",
+      "alamat": "Jl. Raya Jambu No.1 Sumbersekar",
+      "kelurahan": "Sumbersekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "70008986",
+      "nama_satuan_pendidikan": "SDIT PELITA HARAPAN UMAT",
+      "alamat": "Jalan Kenanga Dusun Krajan RT. 05 RW. 03",
+      "kelurahan": "Sumbersekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "70045925",
+      "nama_satuan_pendidikan": "SMP AR ROHMAH IIBS",
+      "alamat": "Jl. Raya Sempu No. 1",
+      "kelurahan": "Gadingkulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20562769",
+      "nama_satuan_pendidikan": "SMP AR ROHMAH PUTRI",
+      "alamat": "JL. RAYA JAMBU NO. 01 DS. SUMBERSEKAR",
+      "kelurahan": "Sumbersekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20517417",
+      "nama_satuan_pendidikan": "SMP ARROHMAH BOARDING SCHOOL",
+      "alamat": "Jl. Raya Apel 61",
+      "kelurahan": "Sumbersekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20517424",
+      "nama_satuan_pendidikan": "SMP DAARUL FIKRI",
+      "alamat": "Jl. Margojoyo VII/06 Dau Malang",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "70026854",
+      "nama_satuan_pendidikan": "SMP IBS AL HAMRA",
+      "alamat": "Dusun Karangampel RT. 008 RW. 002",
+      "kelurahan": "Karangwidoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "69937583",
+      "nama_satuan_pendidikan": "SMP INTEGRAL AR - ROHMAH",
+      "alamat": "Jl. Locari RT.3 RW.3",
+      "kelurahan": "Sumbersekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20517432",
+      "nama_satuan_pendidikan": "SMP ISLAM HASANUDDIN",
+      "alamat": "Jl. Raya Mulyoagung 51a",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20517347",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 06 DAU",
+      "alamat": "Jl. MARGOBASUKI 48 JETIS",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20517481",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 DAU",
+      "alamat": "JL. BRAWIJAYA NO. 191 RT.13 RW. 3",
+      "kelurahan": "Tegalweru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20570243",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 DAU SATU ATAP",
+      "alamat": "JL. KLASEMAN NO.16 RT.17 RW. 8",
+      "kelurahan": "Kucur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20517379",
+      "nama_satuan_pendidikan": "SMP PGRI 01 DAU",
+      "alamat": "Jl.Raya Mulyoagung 123",
+      "kelurahan": "Mulyoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "69867917",
+      "nama_satuan_pendidikan": "SMP THURSINA IIBS",
+      "alamat": "JL TIRTO SENTONO 15 RT 03 RW 08 KLANDUNGAN LANDUNGSARI",
+      "kelurahan": "Landungsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "70048013",
+      "nama_satuan_pendidikan": "SMP TSURAYYA ISLAMIC SCHOOL",
+      "alamat": "Jl. Kraguman RT. 17 RW. 04",
+      "kelurahan": "Petung Sewu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "69963397",
+      "nama_satuan_pendidikan": "Wahid Hasyim 02 Dau",
+      "alamat": "JL. RAYA KUCUR KRAJAN NO. 29",
+      "kelurahan": "Kucur",
+      "status": "SWASTA"
+    }
+  ]
+}

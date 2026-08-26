@@ -1,0 +1,442 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. AMPELGADING",
+  "updated_at": "2026-08-13T11:43:11.661Z",
+  "count": 54,
+  "negeri": 35,
+  "swasta": 19,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "70036882",
+      "nama_satuan_pendidikan": "MI RAUDLATUR ROCHMANIYAH",
+      "alamat": "Jalan Sumbersewu RT 004/RW 001",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69894653",
+      "nama_satuan_pendidikan": "MIFTAHUL ULUM I",
+      "alamat": "JL. SEMERU NO. 03",
+      "kelurahan": "Kec. Ampelgading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "70011873",
+      "nama_satuan_pendidikan": "MIS DAARUL ULUM",
+      "alamat": "JL. TAWANGSARI RT/RW. 030/010",
+      "kelurahan": "Tirtomarto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60714984",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM ARGOYUWONO",
+      "alamat": "JALAN SEMERU 05 ARGOYUWONO",
+      "kelurahan": "Argoyuwono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60714979",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM TIRTOMOYO",
+      "alamat": "JL. SEMERU TIRTOMOYO",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60714983",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ATHFAL",
+      "alamat": "JL. KH. AHMAD DAHLAN PUTUKREJO",
+      "kelurahan": "Simojayan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60714982",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM",
+      "alamat": "JALAN RAYA KYAI HUSAIN",
+      "kelurahan": "Tamanasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60714981",
+      "nama_satuan_pendidikan": "MIS SALAFIYAH",
+      "alamat": "JL. RAYA KYAI AHMAD",
+      "kelurahan": "Sidorenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "69977753",
+      "nama_satuan_pendidikan": "MTS RAUDLATUL ULUM",
+      "alamat": "JL. SANTOSO",
+      "kelurahan": "Tawangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "20581193",
+      "nama_satuan_pendidikan": "MTSS AL MUSHOLLIYAH",
+      "alamat": "JL RAYA KYAI HUSAIN",
+      "kelurahan": "Tamanasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20581197",
+      "nama_satuan_pendidikan": "MTSS AL- AZHAR",
+      "alamat": "JL. RAYA KYAI AHMAD",
+      "kelurahan": "Sidorenggo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "70011968",
+      "nama_satuan_pendidikan": "MTSS DAARUL ULUM",
+      "alamat": "JL. TAWANGSARI RT/RW. 030/010",
+      "kelurahan": "Tirtomarto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20581196",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JLN. SEMERU 05",
+      "kelurahan": "Argoyuwono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "69983327",
+      "nama_satuan_pendidikan": "MTSS ROUDLOTUR ROHMANIYAH",
+      "alamat": "JL. SUMBER SEWU NO 20 DESA TIRTOMOYO KECAMATAN AMPELGADING KABUPATEN MALANG",
+      "kelurahan": "Tirtomoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "69756677",
+      "nama_satuan_pendidikan": "MTSS WALI SONGO",
+      "alamat": "JL. SEMERU SELATAN NO. 50 SIMOJAYAN AMPELGADING",
+      "kelurahan": "Simojayan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60716835",
+      "nama_satuan_pendidikan": "Raudlatul Ulum",
+      "alamat": "Jalan Santoso",
+      "kelurahan": "Tawangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20518614",
+      "nama_satuan_pendidikan": "SD NEGERI 1 ARGOYUWONO",
+      "alamat": "RT. 3 RW. 1 DUSUN ARGOYUWONO",
+      "kelurahan": "Argoyuwono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20518531",
+      "nama_satuan_pendidikan": "SD NEGERI 1 LEBAKHARJO",
+      "alamat": "JL. PENGGALANG NO.193 RT. 1 RW. 3",
+      "kelurahan": "Lebakharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20516929",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIDORENGGO",
+      "alamat": "JL. LAPANGAN NO. 25 RT. 7 RW. 1",
+      "kelurahan": "Sidorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20516932",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SIMOJAYAN",
+      "alamat": "JL. RAYA SIMOJAYAN NO. 83 RT. 5 RW. 3",
+      "kelurahan": "Simojayan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20516853",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SONOWANGI",
+      "alamat": "JL. RAYA SONOWANGI RT. 21 RW. 7",
+      "kelurahan": "Sonowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20516984",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAMANSARI",
+      "alamat": "RT. 2 RW. 1 DUSUN TAMANREJO",
+      "kelurahan": "Tamansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20516988",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAWANGAGUNG",
+      "alamat": "JL. RAYA TAWANGAGUNG NO. 15 RT. 3 RW. 1",
+      "kelurahan": "Tawangagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20517673",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TIRTOMARTO",
+      "alamat": "Jln. Raya Tirtomarto",
+      "kelurahan": "Tirtomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517660",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TIRTOMOYO",
+      "alamat": "JL. RAYA TIRTOMOYO RT. 9 RW. 2",
+      "kelurahan": "Tirtomoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20517593",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WIROTAMAN",
+      "alamat": "RT. 3 RW. 2 DUSUN KRAJAN",
+      "kelurahan": "Wirotaman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20518615",
+      "nama_satuan_pendidikan": "SD NEGERI 2 ARGOYUWONO",
+      "alamat": "RT. 14 RW. 4 DUSUN ARGOMULYO",
+      "kelurahan": "Argoyuwono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20518518",
+      "nama_satuan_pendidikan": "SD NEGERI 2 LEBAKHARJO",
+      "alamat": "JL. TRY SATYA RT. 27 RW. 11",
+      "kelurahan": "Lebakharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20517154",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MULYOASRI",
+      "alamat": "RT. 1 RW. 1 DUSUN MULYOAGUNG",
+      "kelurahan": "Mulyoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20516930",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SIDORENGGO",
+      "alamat": "JL. RAFLESIA NO.17 RT. 25 RW. 5",
+      "kelurahan": "Sidorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20516854",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SONOWANGI",
+      "alamat": "JL. RAYA SONOWANGI RT. 8 RW. 3",
+      "kelurahan": "Sonowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20516985",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAMANSARI",
+      "alamat": "RT. 8 RW. 4 DUSUN TAMANSARI",
+      "kelurahan": "Tamansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20516989",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAWANGAGUNG",
+      "alamat": "RT. 16 RW. 6 DUSUN SUMBERSENGKARING",
+      "kelurahan": "Tawangagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20517594",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WIROTAMAN",
+      "alamat": "RT. 9 RW. 1 DUSUN KRAJAN",
+      "kelurahan": "Wirotaman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518519",
+      "nama_satuan_pendidikan": "SD NEGERI 3 LEBAKHARJO",
+      "alamat": "JL. COMDECA NO. 781 RT. 35 RW. 16",
+      "kelurahan": "Lebakharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517155",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MULYOASRI",
+      "alamat": "RT. 21 RW. 6 DUSUN SUMBERSUKO",
+      "kelurahan": "Mulyoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20516931",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SIDORENGGO",
+      "alamat": "JL. SUMBER PITU RT. 17 RW. 3",
+      "kelurahan": "Sidorenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20516855",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SONOWANGI",
+      "alamat": "JL. GUNUNG BAGONG NO.11 RT. 12 RW. 4",
+      "kelurahan": "Sonowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517674",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TIRTOMARTO",
+      "alamat": "JL. RAYA TIRTOMARTO NO.45 RT. 8 RW. 3",
+      "kelurahan": "Tirtomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20517661",
+      "nama_satuan_pendidikan": "SD NEGERI 3 TIRTOMOYO",
+      "alamat": "JL. TIRTOMOYO RT. 16 RW. 3",
+      "kelurahan": "Tirtomoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517595",
+      "nama_satuan_pendidikan": "SD NEGERI 3 WIROTAMAN",
+      "alamat": "RT. 18 RW. 4 DUSUN SUKOANYAR",
+      "kelurahan": "Wirotaman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518520",
+      "nama_satuan_pendidikan": "SD NEGERI 4 LEBAKHARJO",
+      "alamat": "JL. PANTAI LICIN RT. 46 RW. 20",
+      "kelurahan": "Lebakharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20517675",
+      "nama_satuan_pendidikan": "SD NEGERI 4 TIRTOMARTO",
+      "alamat": "JL. TAWANGSARI NO. 50 RT. 26 RW. 10",
+      "kelurahan": "Tirtomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20518521",
+      "nama_satuan_pendidikan": "SD NEGERI 5 LEBAKHARJO",
+      "alamat": "JL. WATU GUNDIK RT. 41 RW. 18",
+      "kelurahan": "Lebakharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20517207",
+      "nama_satuan_pendidikan": "SD NEGERI PURWOHARJO",
+      "alamat": "JL. L. RIADI PURWOHARJO RT. 03 RW. 01  AMPELGADING MALANG",
+      "kelurahan": "Purwoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20516966",
+      "nama_satuan_pendidikan": "SD NEGERI TAMANASRI",
+      "alamat": "JL. RAYA TAMANASRI RT. 8 RW. 3",
+      "kelurahan": "Tamanasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20517340",
+      "nama_satuan_pendidikan": "SMP KUSUMA BANGSA",
+      "alamat": "Jl. Raya Mulyoasri",
+      "kelurahan": "Mulyoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20560636",
+      "nama_satuan_pendidikan": "SMP MAHAPUTRA",
+      "alamat": "JL. BALI NO.37 TIRTOMARTO",
+      "kelurahan": "Tirtomarto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20517477",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 AMPELGADING",
+      "alamat": "JL. RAYA TIRTOMARTO NO. 9 RT.1 RW.3",
+      "kelurahan": "Tirtomarto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20549205",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 AMPELGADING",
+      "alamat": "JL. LAPANGAN NO. 8 RT. 18 RW. 3",
+      "kelurahan": "Sonowangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20562738",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 AMPELGADING",
+      "alamat": "JL. COMDECA NO. 307",
+      "kelurahan": "Lebakharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20561850",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 AMPELGADING SATU ATAP",
+      "alamat": "RT. 3 RW. 1 DUSUN ARGOSARI",
+      "kelurahan": "Argoyuwono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20561852",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 AMPELGADING SATU ATAP",
+      "alamat": "RT. 2 RW. 1 DUSUN TAMANREJO",
+      "kelurahan": "Tamansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20517532",
+      "nama_satuan_pendidikan": "SMP PGRI 4 AMPELGADING",
+      "alamat": "Sidorenggo",
+      "kelurahan": "Sidorenggo",
+      "status": "SWASTA"
+    }
+  ]
+}

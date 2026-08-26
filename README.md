@@ -6,6 +6,11 @@ Kumpulan data publik Indonesia yang bisa digunakan secara bebas. Data diorganisi
 - **`data-kota/`** — data spesifik per kota
 - **file di root** — referensi umum (jurnal, IPTV, API, dll.)
 
+<br>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fajriyan.open-data&left_text=views&left_color=%23555555&right_color=%2379C83D)
+![Total Files](https://img.shields.io/badge/total%20data-40%2B-blue)
+![Format](https://img.shields.io/badge/format-JSON%20%7C%20SQL%20%7C%20GeoJSON-orange)
 ![Last Commit](https://img.shields.io/github/last-commit/fajriyan/open-data?label=last%20update)
 ![Stars](https://img.shields.io/github/stars/fajriyan/open-data?style=social)
 ![Forks](https://img.shields.io/github/forks/fajriyan/open-data?style=social)
@@ -13,7 +18,62 @@ Kumpulan data publik Indonesia yang bisa digunakan secara bebas. Data diorganisi
 ![Issues](https://img.shields.io/github/issues/fajriyan/open-data)
 ![Pull Requests](https://img.shields.io/github/issues-pr/fajriyan/open-data)
 ![Repo Size](https://img.shields.io/github/repo-size/fajriyan/open-data)
-![License](https://img.shields.io/github/license/fajriyan/open-data)
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-red)](https://github.com/sponsors/fajriyan)
+
+## Daftar Isi
+
+- [Referensi Umum (Root)](#referensi-umum-root)
+- [Cara Gunakan Data](#cara-gunakan-data)
+- [Kesehatan](#kesehatan)
+- [Keuangan](#keuangan)
+- [Lingkungan](#lingkungan)
+- [Pendidikan](#pendidikan)
+- [Referensi](#referensi)
+- [Transportasi](#transportasi)
+- [Wilayah](#wilayah)
+- [Pariwisata](#pariwisata)
+- [Data Kota](#data-kota)
+   - [Gresik](#gresik)
+   - [Malang](#malang)
+- [Cara Pakai](#cara-pakai)
+- [Kontribusi](#kontribusi)
+- [Roadmap](#roadmap)
+
+## Cara Gunakan Data
+
+Semua data bisa diakses langsung tanpa perlu clone repo, cukup pakai raw URL dari GitHub.
+
+### Format URL
+
+\`\`\`
+https://raw.githubusercontent.com/fajriyan/open-data/main/{path-file}
+\`\`\`
+
+### Contoh — via cURL
+
+\`\`\`bash
+curl https://raw.githubusercontent.com/fajriyan/open-data/main/data-nasional/keuangan/bank-nasional.json
+\`\`\`
+
+### Contoh — via JavaScript (fetch)
+
+\`\`\`javascript
+const res = await fetch(
+"https://raw.githubusercontent.com/fajriyan/open-data/main/data-nasional/kesehatan/rumah-sakit-nasional.json"
+);
+const data = await res.json();
+console.log(data);
+\`\`\`
+
+### Contoh — via PHP
+
+\`\`\`php
+$data = json_decode(file_get_contents(
+"https://raw.githubusercontent.com/fajriyan/open-data/main/data-nasional/wilayah/administrasi/kodepos-indonesia.json"
+), true);
+\`\`\`
+
+> Ganti `{path-file}` sesuai path data yang mau kamu ambil (lihat kolom **Path** di tabel [Daftar Data](#daftar-data)).
 
 ## Daftar Data
 
@@ -121,13 +181,13 @@ Kumpulan data publik Indonesia yang bisa digunakan secara bebas. Data diorganisi
 
 #### Malang
 
-| Data                 | Deskripsi                                                                        | Path                                                                        | Akses                                                                                                                             |
-| -------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Pendidikan Kota      | Daftar sekolah per kecamatan (Blimbing, Kedungkandang, Klojen, Lowokwaru, Sukun) | `data-kota/malang/pendidikan/kota/`                                         | [buka](https://github.com/fajriyan/open-data/tree/main/data-kota/malang/pendidikan/kota)                                          |
-| Pendidikan Kabupaten | Daftar sekolah Kecamatan Donomulyo                                               | `data-kota/malang/pendidikan/kab/donomulyo.json`                            | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/pendidikan/kab/donomulyo.json)                            |
-| Rute Angkutan Kota   | Rute angkutan kota Malang                                                        | `data-kota/malang/transportasi/rute-angkutan-kota-malang.json`              | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/transportasi/rute-angkutan-kota-malang.json)              |
-| Rute Bus Sekolah     | Rute bus sekolah Kota Malang                                                     | `data-kota/malang/transportasi/rute-bus-sekolah-kota-malang.json`           | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/transportasi/rute-bus-sekolah-kota-malang.json)           |
-| Rute Trans Jatim     | Rute Trans Jatim Koridor 1 Malang Raya                                           | `data-kota/malang/transportasi/rute-trans-jatim-koridor-1-malang-raya.json` | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/transportasi/rute-trans-jatim-koridor-1-malang-raya.json) |
+| Data                 | Deskripsi                                                                                                                                                                                                                                                                                                                                                                | Path                                                                        | Akses                                                                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Pendidikan Kota      | Daftar sekolah per kecamatan (Blimbing, Kedungkandang, Klojen, Lowokwaru, Sukun)                                                                                                                                                                                                                                                                                         | `data-kota/malang/pendidikan/kota/`                                         | [buka](https://github.com/fajriyan/open-data/tree/main/data-kota/malang/pendidikan/kota)                                          |
+| Pendidikan Kabupaten | Daftar sekolah per kecamatan (Donomulyo, Kalipare, Pagak, Bantur, Gedangan, Sumber Manjing Wetan, Dampit, Tirto Yudo, Ampelgading, Poncokusumo, Wajak, Turen, Pagelaran, Gondanglegi, Bululawang, Kepanjen, Sumberpucung, Kromengan, Wonosari, Ngajum, Wagir, Pakisaji, Tajinan, Tumpang, Pakis, Jabung, Lawang, Singosari, Karangploso, Dau, Pujon, Ngantang, Kasembon) | `data-kota/malang/pendidikan/kab`                                           | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/pendidikan/kab)                                           |
+| Rute Angkutan Kota   | Rute angkutan kota Malang                                                                                                                                                                                                                                                                                                                                                | `data-kota/malang/transportasi/rute-angkutan-kota-malang.json`              | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/transportasi/rute-angkutan-kota-malang.json)              |
+| Rute Bus Sekolah     | Rute bus sekolah Kota Malang                                                                                                                                                                                                                                                                                                                                             | `data-kota/malang/transportasi/rute-bus-sekolah-kota-malang.json`           | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/transportasi/rute-bus-sekolah-kota-malang.json)           |
+| Rute Trans Jatim     | Rute Trans Jatim Koridor 1 Malang Raya                                                                                                                                                                                                                                                                                                                                   | `data-kota/malang/transportasi/rute-trans-jatim-koridor-1-malang-raya.json` | [buka](https://github.com/fajriyan/open-data/blob/main/data-kota/malang/transportasi/rute-trans-jatim-koridor-1-malang-raya.json) |
 
 ## Kontribusi
 

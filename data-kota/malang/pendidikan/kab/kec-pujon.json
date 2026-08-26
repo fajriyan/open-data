@@ -1,0 +1,410 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PUJON",
+  "updated_at": "2026-08-13T11:48:01.433Z",
+  "count": 50,
+  "negeri": 29,
+  "swasta": 21,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69928995",
+      "nama_satuan_pendidikan": "MI Bustanul Uqul",
+      "alamat": "Jl. Kawi No. 35 Bakir",
+      "kelurahan": "Sukomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60715193",
+      "nama_satuan_pendidikan": "MIS AL MUJTABAA",
+      "alamat": "Dusun Krajan RT:10 /05 Pujon Kidul",
+      "kelurahan": "Pujon Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60715190",
+      "nama_satuan_pendidikan": "MIS AL-ISHLAH",
+      "alamat": "JL. KYAI SYADULLOH NO.04",
+      "kelurahan": "Wiyurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60715189",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL FATA",
+      "alamat": "BENDOSARI PUJON MALANG",
+      "kelurahan": "Bendosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60715194",
+      "nama_satuan_pendidikan": "MIS MABRUK QUR-AN",
+      "alamat": "JL. BRIGJEN ABDUL MANAN WIJAYA NO. 517",
+      "kelurahan": "Ngroto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60715185",
+      "nama_satuan_pendidikan": "MIS MAFATIHUL HUDA",
+      "alamat": "JL. DIPONEGORO NO. 01 BENGKARAS DESA MADIREDO KECAMATAN PUJON",
+      "kelurahan": "Madiredo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60715191",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM 01",
+      "alamat": "JL. MASJID NO.33 TAWANGSARI PUJON MALANG",
+      "kelurahan": "Tawangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60715186",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM 02",
+      "alamat": "JL.MASJID NO. 04 NGEBRONG TAWANGSARI PUJON MALANG",
+      "kelurahan": "Tawangsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60715187",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL UQULIYAH",
+      "alamat": "JL.MUSHOLLA SABILUL MANJI NO 146 WIYUREJO PUJON KAB MALANG",
+      "kelurahan": "Wiyurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60715192",
+      "nama_satuan_pendidikan": "MIS RADEN PATAH",
+      "alamat": "LEBO RT 23 RW 07",
+      "kelurahan": "Madiredo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60715188",
+      "nama_satuan_pendidikan": "MIS THORIQOTUSSAADAH",
+      "alamat": "JL. MASJID NO. 16 NGABAB",
+      "kelurahan": "Ngabab",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "70012432",
+      "nama_satuan_pendidikan": "MTSS AL MUJTABAA",
+      "alamat": "JL. DARUL ARQOM RT. 10 RW. 05",
+      "kelurahan": "Pujon Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20581314",
+      "nama_satuan_pendidikan": "MTSS MAFATIHUL HUDA",
+      "alamat": "JL. DIPONEGORO NO. 01 RT. 05 RW. 03",
+      "kelurahan": "Pujon Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20581315",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM PUJON",
+      "alamat": "JL.RAYA NO.33 TAWANGSARI",
+      "kelurahan": "Bendosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20581312",
+      "nama_satuan_pendidikan": "MTSS SUNAN BONANG",
+      "alamat": "JL.RAYA NGABAB NO.07 PUJON",
+      "kelurahan": "Ngabab",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20581313",
+      "nama_satuan_pendidikan": "MTSS TMI PUJON",
+      "alamat": "JL. MASJID NO. 01",
+      "kelurahan": "Ngroto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20517103",
+      "nama_satuan_pendidikan": "SD NEGERI  NGROTO",
+      "alamat": "JL. BRIGJEN ABDUL MANAN WIJAYA 134F RT. 17 RW. 8",
+      "kelurahan": "Ngroto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20518854",
+      "nama_satuan_pendidikan": "SD NEGERI 1 BENDOSARI",
+      "alamat": "JL. RAYA TRETES RT. 2 RW. 5 DUSUN TRETES BENDOSARI",
+      "kelurahan": "Bendosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20518525",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MADIREDO",
+      "alamat": "JL. KHALIL NO.01 RT. 20 RW. 6 DUSUN SOBO",
+      "kelurahan": "Madiredo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20517174",
+      "nama_satuan_pendidikan": "SD NEGERI 1 NGABAB",
+      "alamat": "JL. RAYA NGABAB NO.03 RT. 19 RW. 4",
+      "kelurahan": "Ngabab",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20517271",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PANDESARI",
+      "alamat": "JL. BERINGIN NO. 86 RT. 16 RW. 4 DUSUN SEBALUH",
+      "kelurahan": "Pandesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20549625",
+      "nama_satuan_pendidikan": "SD NEGERI 1 PUJON LOR",
+      "alamat": "JL. BRIGJEN ABDUL MANAN WIJAYA NO 166 RT. 1 RW. 1",
+      "kelurahan": "Pujon Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20516885",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOMULYO",
+      "alamat": "RT. 16 RW. 4 DUSUN  BAKIR",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20516996",
+      "nama_satuan_pendidikan": "SD NEGERI 1 TAWANGSARI",
+      "alamat": "JL. RAYA TAWANGSARI NO. 1 RT. 14 RW. 3",
+      "kelurahan": "Tawangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20517596",
+      "nama_satuan_pendidikan": "SD NEGERI 1 WIYUREJO",
+      "alamat": "JL. DIPONEGORO NO. 1 RT. 11 RW. 4 DUSUN WIYUREJO",
+      "kelurahan": "Wiyurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20518855",
+      "nama_satuan_pendidikan": "SD NEGERI 2 BENDOSARI",
+      "alamat": "JL. MOCH. SAID NO. 238 RT. 4 RW. 2 DUSUN CUKAL",
+      "kelurahan": "Bendosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20518526",
+      "nama_satuan_pendidikan": "SD NEGERI 2 MADIREDO",
+      "alamat": "JL. KHALIIL NO 01 RT. 1 RW. 1 BENGKARAS",
+      "kelurahan": "Madiredo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20517287",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PANDESARI",
+      "alamat": "JL. BERINGIN NO 92 RT. 22 RW.  05 DUSUN SEBALUH",
+      "kelurahan": "Pandesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20517316",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PUJON KIDUL",
+      "alamat": "JL. RAYA PUJON KIDUL RT. 4 RW. 2",
+      "kelurahan": "Pujon Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20517303",
+      "nama_satuan_pendidikan": "SD NEGERI 2 PUJON LOR",
+      "alamat": "JL. MARON RT. 15 RW. 7",
+      "kelurahan": "Pujon Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20516886",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKOMULYO",
+      "alamat": "RT. 005 RW. 001 DUSUN BAKIR",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20516997",
+      "nama_satuan_pendidikan": "SD NEGERI 2 TAWANGSARI",
+      "alamat": "JL. RAYA TAWANGSARI RT. 3 RW. 2",
+      "kelurahan": "Tawangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20517597",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WIYUREJO",
+      "alamat": "JL. EYANG WALIDIN NO. 1 RT. 1 RW. 1 DUSUN KALANGAN",
+      "kelurahan": "Wiyurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20518861",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BENDOSARI",
+      "alamat": "RT. 4 RW. 4 DUSUN DADAPAN KULON",
+      "kelurahan": "Bendosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20518527",
+      "nama_satuan_pendidikan": "SD NEGERI 3 MADIREDO",
+      "alamat": "JL. DELIK NO 82 DUSUN DELIK RT. 33 RW. 10 DUSUN DELIK",
+      "kelurahan": "Madiredo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20517176",
+      "nama_satuan_pendidikan": "SD NEGERI 3 NGABAB",
+      "alamat": "RT. 22, RW. 5 DUSUN TORONG",
+      "kelurahan": "Ngabab",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20517288",
+      "nama_satuan_pendidikan": "SD NEGERI 3 PANDESARI",
+      "alamat": "JL. BRIGJEN ABDUL MANAN WIJAYA 1043 RT. 13 RW. 1",
+      "kelurahan": "Pandesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20516887",
+      "nama_satuan_pendidikan": "SD NEGERI 3 SUKOMULYO",
+      "alamat": "RT. 45 RW. 11 DUSUN KEDUNGREJO",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20517289",
+      "nama_satuan_pendidikan": "SD NEGERI 4 PANDESARI",
+      "alamat": "JL. WARU JAJAR INDAH RT. 39 RW. 7",
+      "kelurahan": "Pandesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20516889",
+      "nama_satuan_pendidikan": "SD NEGERI 4 SUKOMULYO",
+      "alamat": "RT. 34 RW. 8 DUSUN GUMUL",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20517290",
+      "nama_satuan_pendidikan": "SD NEGERI 5 PANDESARI",
+      "alamat": "JL. JURANGREJO RT. 5 RW. 2",
+      "kelurahan": "Pandesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20518713",
+      "nama_satuan_pendidikan": "SDIT YA BUNAYYA",
+      "alamat": "Jl . Abdul Manan Wijaya 141",
+      "kelurahan": "Ngroto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20517450",
+      "nama_satuan_pendidikan": "SMP ISLAM 02 PUJON",
+      "alamat": "Karas, RT 01 RW 01 Madiredo, Pujon, Malang",
+      "kelurahan": "Madiredo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20517449",
+      "nama_satuan_pendidikan": "SMP ISLAM 1 PUJON",
+      "alamat": "Jl Masjid No. 03 Ngroto Kec. Pujon",
+      "kelurahan": "Ngroto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20517468",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PUJON",
+      "alamat": "JL. PONDOK ASRI NO. 83",
+      "kelurahan": "Pandesari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20517493",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PUJON",
+      "alamat": "RT. 3 RW. 2  DUSUN TAWANGSARI",
+      "kelurahan": "Tawangsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20561855",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 PUJON SATU ATAP",
+      "alamat": "JL. RAYA PUJON KIDUL RT. 4 RW. 2",
+      "kelurahan": "Pujon Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20561858",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 PUJON SATU ATAP",
+      "alamat": "JL. MOH SAID NO. 238 RT. 1 RW. 2",
+      "kelurahan": "Bendosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20517557",
+      "nama_satuan_pendidikan": "SMP PGRI PUJON",
+      "alamat": "Jl. Raya Kedungrejo Sukomulyo",
+      "kelurahan": "Sukomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20562685",
+      "nama_satuan_pendidikan": "SMP PLUS FITYANI",
+      "alamat": "Jl. Abdul Manan Wijaya 141",
+      "kelurahan": "Ngroto",
+      "status": "SWASTA"
+    }
+  ]
+}
