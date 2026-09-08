@@ -1,0 +1,458 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BALONG PANGGANG",
+  "updated_at": "2026-09-06T13:08:48.455Z",
+  "count": 56,
+  "negeri": 29,
+  "swasta": 27,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718892",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TASWIRUL AFKAR",
+      "alamat": "KARANGSEMANDING",
+      "kelurahan": "Karangsemanding",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69993631",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH  AL FITHRAH",
+      "alamat": "JL. KYAI NAWAWI 99 KEDUNGPRING",
+      "kelurahan": "Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718893",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - KHOIRIYAH",
+      "alamat": "JLN. RAYA NGASIN BALONGPANGGANG GRESIK",
+      "kelurahan": "Ngasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718901",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ASY-SYAFI`IYAH",
+      "alamat": "JLN DUSUN PUCUNG",
+      "kelurahan": "Pucung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718899",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BUSTANUL ULUM",
+      "alamat": "JL. BABATAN JOMBANGDELIK  DSN.JOMBANGDELIK RT:02 RW:01",
+      "kelurahan": "Jombangdelik",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718887",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DA`WATUL KHOIRIYAH",
+      "alamat": "JL. DUSUN GADEL PACUH BALONGPANGGANG",
+      "kelurahan": "Pacuh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718897",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUSSALAM",
+      "alamat": "Dusun Tempuran",
+      "kelurahan": "Pinggir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718890",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HAYATUL AFKAR",
+      "alamat": "TLOGOGEDE - NGASIN",
+      "kelurahan": "Ngasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718891",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HAYATUL WATHON",
+      "alamat": "JL. RAYA MOJOPURO",
+      "kelurahan": "Babatan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718886",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUL ULUM I",
+      "alamat": "DUSUN GRIDI",
+      "kelurahan": "Pacuh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718898",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUL ULUM II",
+      "alamat": "PACUH BALONGPANGGANG GRESIK",
+      "kelurahan": "Pacuh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718889",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUL UMMAH",
+      "alamat": "JL. RAYA BALONGPANGGANG NO. 169 GRESIK",
+      "kelurahan": "Balongpanggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718894",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ISLAMIYAH",
+      "alamat": "DUSUN GANGGANG",
+      "kelurahan": "Ganggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718900",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HIDAYAH",
+      "alamat": "JL.DSN NGABLAK PINGGIR",
+      "kelurahan": "Pinggir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718888",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROBITHOTUL ISLAMIYAH",
+      "alamat": "SUGIHWARAS DAPET",
+      "kelurahan": "Dapet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718895",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SABILUL ULUM",
+      "alamat": "PERENG DS. NGASIN",
+      "kelurahan": "Ngasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718896",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SALAFIYAH",
+      "alamat": "DUSUN KEDONDONG",
+      "kelurahan": "Ngampel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582914",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL - KHOIRIYAH",
+      "alamat": "JL. RAYA NGASIN  DUSUN NGASIN DESA NGASIN KECAMATAN BALONGPANGGANG",
+      "kelurahan": "Ngasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582915",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH HIDAYATUL UMMAH",
+      "alamat": "JL. RAYA BALONGPANGGANG NO. 169 GRESIK",
+      "kelurahan": "Balongpanggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "70045197",
+      "nama_satuan_pendidikan": "MI NURUL HUDA",
+      "alamat": "DUSUN MOJOGEDE",
+      "kelurahan": "Kec. Balong Panggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20501136",
+      "nama_satuan_pendidikan": "SD ISLAM DARUL MUTTAQIN",
+      "alamat": "Genengan",
+      "kelurahan": "Ngasin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20536989",
+      "nama_satuan_pendidikan": "SD ISLAM MAARIF ASWAJA",
+      "alamat": "Bancidemang",
+      "kelurahan": "Balongpanggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20501132",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 BALONGPANGGANG",
+      "alamat": "Jl. Raya Kedungpring No. 21",
+      "kelurahan": "Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20501133",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 2 BALONGPANGGANG",
+      "alamat": "JL. JAMBU NO. 46",
+      "kelurahan": "Karangsemanding",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "70040545",
+      "nama_satuan_pendidikan": "SMP ISLAM SYIFAUL QULUB",
+      "alamat": "Jl. Raya Klotok No 01",
+      "kelurahan": "Klotok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20500432",
+      "nama_satuan_pendidikan": "SMP MAARIF HAYATUL WATHON",
+      "alamat": "Jl. Raya Mojopuro",
+      "kelurahan": "Babatan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20500557",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 2 BALONGPANGGANG",
+      "alamat": "Jalan Raya Kedungpring No. 21",
+      "kelurahan": "Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20501090",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 118 GRESIK",
+      "alamat": "Jalan Pendidikan No 01",
+      "kelurahan": "Babatan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20501086",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 119 GRESIK",
+      "alamat": "Jl Bintoro No 04 Balongpanggang",
+      "kelurahan": "Balongpanggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20501085",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 120 GRESIK",
+      "alamat": "Jl. Raya Sambiroto Nomor. 224",
+      "kelurahan": "Balongpanggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20501127",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 121 GRESIK",
+      "alamat": "Bandungsekaran",
+      "kelurahan": "Bandungsekaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20501124",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 122 GRESIK",
+      "alamat": "Jl. Banjaragung",
+      "kelurahan": "Banjaragung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500305",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 123 GRESIK",
+      "alamat": "Jl. Dr Sutomo No.22/a",
+      "kelurahan": "Brangkal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500276",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 124 GRESIK",
+      "alamat": "Jl. Raya Dapet No 11",
+      "kelurahan": "Dapet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500267",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 125 GRESIK",
+      "alamat": "Jl. Raya Kahuripan No. 01",
+      "kelurahan": "Dohoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500390",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 126 GRESIK",
+      "alamat": "Jombangdelik",
+      "kelurahan": "Jombangdelik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500392",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 127 GRESIK",
+      "alamat": "Jl Karangmalang No. 01",
+      "kelurahan": "Karangsemanding",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500339",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 128 GRESIK",
+      "alamat": "Jl Brawijaya No 24",
+      "kelurahan": "Kedungpring",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500336",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 129 GRESIK",
+      "alamat": "Jalan Raya Kedungsumber No. 50",
+      "kelurahan": "Kedungsumber",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500163",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 130 GRESIK",
+      "alamat": "Jl. Raya Klotok",
+      "kelurahan": "Klotok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500162",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 131 GRESIK",
+      "alamat": "Jl. Raya Klotok",
+      "kelurahan": "Klotok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500112",
+      "nama_satuan_pendidikan": "UPT SD Negeri 132 Gresik",
+      "alamat": "Mojogede",
+      "kelurahan": "Mojogede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500138",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 133 GRESIK",
+      "alamat": "Dusun Karangpilang",
+      "kelurahan": "Ngampel",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500137",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 134 GRESIK",
+      "alamat": "Jl. Raya Ngasin",
+      "kelurahan": "Ngasin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500250",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 135 GRESIK",
+      "alamat": "Dusun Pinggir",
+      "kelurahan": "Pinggir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500243",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 136 GRESIK",
+      "alamat": "Desa Pucung",
+      "kelurahan": "Pucung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500209",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 137 GRESIK",
+      "alamat": "Sekarputih",
+      "kelurahan": "Sekarputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20500683",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 138 GRESIK",
+      "alamat": "Jl Raya Tanahlandean",
+      "kelurahan": "Tanahlandean",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20500701",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 139 GRESIK",
+      "alamat": "Dsn Bangle",
+      "kelurahan": "Tenggor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20500700",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 140 GRESIK",
+      "alamat": "Jl Raya Tenggor No 10",
+      "kelurahan": "Tenggor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20500646",
+      "nama_satuan_pendidikan": "UPT SD Negeri 141 Gresik",
+      "alamat": "Jl. Wahas",
+      "kelurahan": "Wahas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20500640",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 142 GRESIK",
+      "alamat": "Dusun Wonorejo",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20500638",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 143 GRESIK",
+      "alamat": "Wotansari",
+      "kelurahan": "Wotansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20500517",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 27 GRESIK",
+      "alamat": "Dapet",
+      "kelurahan": "Dapet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20500508",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 31 GRESIK",
+      "alamat": "Jalan Gadelrejo 16",
+      "kelurahan": "Pacuh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20500499",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 9 GRESIK",
+      "alamat": "Jl. Raya Balongpanggang No.349",
+      "kelurahan": "Balongpanggang",
+      "status": "NEGERI"
+    }
+  ]
+}

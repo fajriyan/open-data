@@ -1,0 +1,402 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KEDAMEAN",
+  "updated_at": "2026-09-06T13:08:27.969Z",
+  "count": 49,
+  "negeri": 23,
+  "swasta": 26,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60719054",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HUDA 1",
+      "alamat": "BUNTON",
+      "kelurahan": "Turirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60719058",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HUDA II",
+      "alamat": "DS. TURIREJO RT.01 / RW.01",
+      "kelurahan": "Turirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719060",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BAHRUL ULUM",
+      "alamat": "RAYUNG",
+      "kelurahan": "Turirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719064",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL MUTTAQIN",
+      "alamat": "JL. RAYA NGEPUNG GG. MASJID NO.10 KEDAMEAN GRESIK 61175",
+      "kelurahan": "Kedamean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719057",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL ULUM",
+      "alamat": "CERMEN",
+      "kelurahan": "Cermenlerek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719061",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUSSALAM",
+      "alamat": "JL KATIMOHO NO 10",
+      "kelurahan": "Katimoho",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719063",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUSSALAM",
+      "alamat": "DSN. JATISARI DS. MOJOWUKU KEC. KEDAMEAN KAB. GRESIK",
+      "kelurahan": "Mojowuku",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719051",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUS SHIBYAN",
+      "alamat": "KEMUNING RT. 06  RW. 06 DESA MENUNGGAL",
+      "kelurahan": "Menunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719050",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH IHYAUL ULUM",
+      "alamat": "JL.DUSUN MIRU RT.014 RW.004",
+      "kelurahan": "Banyuurip",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719052",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MAHALUL ULUM",
+      "alamat": "Katimoho",
+      "kelurahan": "Katimoho",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719055",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MAMBAUL ULUM",
+      "alamat": "DUSUN BALONGSRI",
+      "kelurahan": "Lampah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719056",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SUNAN AMPEL",
+      "alamat": "DSN.SUMBERJAMBE RT.04,RW.05,DESA SIDORAHARJO",
+      "kelurahan": "Sidoraharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719059",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL ULA",
+      "alamat": "DUSUN PANGGANG DESA TULUNG",
+      "kelurahan": "Tulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719062",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH WACHID HASYIM",
+      "alamat": "DSN. GEMPOL DS. LAMPAH KECAMATAN KEDAMEAN KABUPATEN GRESIK",
+      "kelurahan": "Ngepung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60719053",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH WALISONGO",
+      "alamat": "Jl. Raya Masjid Nurul Huda Desa Belahanrejo RT.012 RW.004",
+      "kelurahan": "Belahanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69754587",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AS SA`ADAH",
+      "alamat": "KEDAMEAN",
+      "kelurahan": "Kedamean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20582969",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH DARUSSALAM",
+      "alamat": "KATIMOHO RT.01 RW. 01",
+      "kelurahan": "Katimoho",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582970",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH IHYAUL ULUM",
+      "alamat": "Dsn. Miru Ds. Banyuurip RT 17 RW 06",
+      "kelurahan": "Banyuurip",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582968",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH RADEN PAKU",
+      "alamat": "JL.RAYA NO.120 KEDAMEAN - GRESIK",
+      "kelurahan": "Kedamean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582974",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SA AL - AMIN DARUSSALAM",
+      "alamat": "JL MOJOWUKU 1A KEDAMEAN",
+      "kelurahan": "Mojowuku",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582973",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SUNAN AMPEL",
+      "alamat": "SIDORAHARJO",
+      "kelurahan": "Sidoraharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582971",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SYARIF HIDAYATULLOH",
+      "alamat": "KEMUNING RT 06 RW 06",
+      "kelurahan": "Menunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20582972",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH WALISONGO",
+      "alamat": "BELAHANREJO",
+      "kelurahan": "Belahanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60719049",
+      "nama_satuan_pendidikan": "MIN 1 GRESIK",
+      "alamat": "JL. Raya Kedamean No. 52",
+      "kelurahan": "Kedamean",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "70012092",
+      "nama_satuan_pendidikan": "SMP AL MUSTOFA",
+      "alamat": "Jl. Sidoraharjo RT. 001 RW. 006",
+      "kelurahan": "Sidoraharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20500553",
+      "nama_satuan_pendidikan": "SMP PGRI KEDAMEAN",
+      "alamat": "Jln. Raya Kedamean No 42 B",
+      "kelurahan": "Kedamean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20500500",
+      "nama_satuan_pendidikan": "SMP UDKP",
+      "alamat": "Jl. Raya Slempit",
+      "kelurahan": "Slempit",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20501107",
+      "nama_satuan_pendidikan": "UPT SD Negeri 193 Gresik",
+      "alamat": "Jl Raya Banyuurip",
+      "kelurahan": "Banyuurip",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20501105",
+      "nama_satuan_pendidikan": "UPT SD Negeri 194 Gresik",
+      "alamat": "Jl. Raya Banyuurip - Kedamean, Gresik, 61175",
+      "kelurahan": "Banyuurip",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20500332",
+      "nama_satuan_pendidikan": "UPT SD Negeri 195 Gresik",
+      "alamat": "Jln Raya Belahanrejo",
+      "kelurahan": "Belahanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20500321",
+      "nama_satuan_pendidikan": "UPT SD Negeri 196 Gresik",
+      "alamat": "Jl Raya Cermenlerek",
+      "kelurahan": "Cermenlerek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20500280",
+      "nama_satuan_pendidikan": "UPT SD Negeri 197 Gresik",
+      "alamat": "Jl Raya Glindah",
+      "kelurahan": "Glindah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500279",
+      "nama_satuan_pendidikan": "UPT SD Negeri 198 Gresik",
+      "alamat": "Jl Raya Glindah",
+      "kelurahan": "Glindah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500344",
+      "nama_satuan_pendidikan": "UPT SD Negeri 199 Gresik",
+      "alamat": "Jl Raya Kedamean No 86",
+      "kelurahan": "Kedamean",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500343",
+      "nama_satuan_pendidikan": "UPT SD Negeri 200 Gresik",
+      "alamat": "Jl Raya Kedamean no 45",
+      "kelurahan": "Kedamean",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500151",
+      "nama_satuan_pendidikan": "UPT SD Negeri 201 Gresik",
+      "alamat": "Jl Raya Lampah",
+      "kelurahan": "Lampah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500152",
+      "nama_satuan_pendidikan": "UPT SD Negeri 202 Gresik",
+      "alamat": "Jl Raya Lampah",
+      "kelurahan": "Lampah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500115",
+      "nama_satuan_pendidikan": "UPT SD Negeri 203 Gresik",
+      "alamat": "Jl Raya Menunggal",
+      "kelurahan": "Menunggal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500114",
+      "nama_satuan_pendidikan": "UPT SD Negeri 204 Gresik",
+      "alamat": "Jl Raya Menunggal",
+      "kelurahan": "Menunggal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500104",
+      "nama_satuan_pendidikan": "UPT SD Negeri 205 Gresik",
+      "alamat": "Jl Raya Mojowuku",
+      "kelurahan": "Mojowuku",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500134",
+      "nama_satuan_pendidikan": "UPT SD Negeri 206 Gresik",
+      "alamat": "Jl Raya Ngepung",
+      "kelurahan": "Ngepung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500630",
+      "nama_satuan_pendidikan": "UPT SD Negeri 207 Gresik",
+      "alamat": "Jl Raya Sidoraharjo",
+      "kelurahan": "Sidoraharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500620",
+      "nama_satuan_pendidikan": "UPT SD Negeri 208 Gresik",
+      "alamat": "Jl Raya Slempit",
+      "kelurahan": "Slempit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500618",
+      "nama_satuan_pendidikan": "UPT SD Negeri 209 Gresik",
+      "alamat": "Jl Raya Slempit",
+      "kelurahan": "Slempit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500681",
+      "nama_satuan_pendidikan": "UPT SD Negeri 210 Gresik",
+      "alamat": "Jl Raya Tanjung",
+      "kelurahan": "Tanjung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500680",
+      "nama_satuan_pendidikan": "UPT SD Negeri 211 Gresik",
+      "alamat": "Jl Raya Tanjung",
+      "kelurahan": "Tanjung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500691",
+      "nama_satuan_pendidikan": "UPT SD Negeri 212 Gresik",
+      "alamat": "Jl Raya Tulung",
+      "kelurahan": "Tulung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20500669",
+      "nama_satuan_pendidikan": "UPT SD Negeri 213 Gresik",
+      "alamat": "Dusun Turi",
+      "kelurahan": "Turirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20500490",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 16 GRESIK",
+      "alamat": "Jl. Raya Kedamean No. 19b",
+      "kelurahan": "Kedamean",
+      "status": "NEGERI"
+    }
+  ]
+}

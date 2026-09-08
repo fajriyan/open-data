@@ -1,0 +1,578 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BUNGAH",
+  "updated_at": "2026-09-06T13:09:13.702Z",
+  "count": 71,
+  "negeri": 20,
+  "swasta": 51,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718928",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL ASYHAR",
+      "alamat": "JL. RAYA NO.33 SUNGONLEGOWO",
+      "kelurahan": "Sungonlegowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718934",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HIDAYAH",
+      "alamat": "Jl. KH. HASYIM ASY`ARI NO. 54 KEMANGI",
+      "kelurahan": "Kemangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718941",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HIDAYAT",
+      "alamat": "JALAN PENDIDIKAN NO. 02 RT 07 / RW 02 DUSUN RACI DELANYAR DESA RACI WETAN BUNGA",
+      "kelurahan": "Raciwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718933",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HIDAYAT",
+      "alamat": "Jl. Pendidikan Timur No. 01 Indrodelik Bungah",
+      "kelurahan": "Indrodelik",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718936",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HIKMAH",
+      "alamat": "JALAN RAYA MASANGAN N0 29",
+      "kelurahan": "Masangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718938",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL MA`ARIF",
+      "alamat": "AIRLANGGA NO. 27",
+      "kelurahan": "Abar-Abir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718932",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL-FALAHIYAH",
+      "alamat": "Jl. Budi Utomo No. 37 Desa Pegundan",
+      "kelurahan": "Pegundan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718943",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ASSA`ADAH",
+      "alamat": "Jl. Masjid Baitur Rahman No. 30",
+      "kelurahan": "Sukowati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718931",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ASSA`ADAH (MIAS)",
+      "alamat": "NONGKOKEREP 23-25 BUNGAH",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718937",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUNNAJAH",
+      "alamat": "JL. SUNAN KALIJAGA RT 02 RW 01 SIDOKUMPUL",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718939",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HAYATUL WATHON",
+      "alamat": "JL.MASJID NO.02 RT.03/RW.01 RACI WETAN",
+      "kelurahan": "Raciwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718925",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUL MUBTADIIN",
+      "alamat": "JL MERDEKA .05 MOJOPURO WETAN",
+      "kelurahan": "Mojopuro Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718935",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUL ULUM",
+      "alamat": "RAYA DESA NO.37 KISIK",
+      "kelurahan": "Kisik",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718921",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MA`ARIF NU ASSA`ADAH",
+      "alamat": "SAMPURNAN BUNGAH GRESIK",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718930",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MAMBA`UL ULUM",
+      "alamat": "JL. ARJUNO RT 09 RW 03 BEDANTEN",
+      "kelurahan": "Bedanten",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718923",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MANBAUL ULUM",
+      "alamat": "JL. Raya Mojopurogede No. 39",
+      "kelurahan": "Mojopurogede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718942",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "Dusun Ujungsawo RT 04 RW 02 Desa KRAMAT",
+      "kelurahan": "Kramat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718926",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM I",
+      "alamat": "JALAN RAYA BUNGAH - DUKUN NO. 29 MELIRANG BUNGAH GRESIK 61152",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718947",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM II",
+      "alamat": "JL. KENCANA PUTIH RT. 14 RW. 07",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718945",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM III",
+      "alamat": "Jl. Watu Geneng RT22/RW09 Dusun Pereng Kulon",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718946",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "Jln. Madrasah No. 17 RT. 14 RW. 07 Grogol",
+      "kelurahan": "Masangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718924",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL ULUM",
+      "alamat": "JL. PRUBUNGAN DESA SIDOMUKTI KECAMATAN BUNGAH KABUPATEN GRESIK",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718922",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL ULUM",
+      "alamat": "JLN SUBUR. NO. 16 GUMENG BUNGAH GRESIK",
+      "kelurahan": "Gumeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718940",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL MUTAALLIMIN",
+      "alamat": "JL. K.HASANAH NO. 151 KARANGLIMAN KRAMAT BUNGAH GRESIK.",
+      "kelurahan": "Kramat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718944",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TASLIMATUL MU`MININ",
+      "alamat": "JL. TAMBAK KALIMALANG TAJUNG WIDORO",
+      "kelurahan": "Tajung Widoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718927",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH THOLABUL HUDA",
+      "alamat": "JL. RAYA MENTANI NO. 17 RT. 003 RW. 03",
+      "kelurahan": "Watuagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718929",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TSAMROTUL ULUM",
+      "alamat": "JL. KH. AHYAD RT. 06 RW. 03 TAJUNGWIDORO",
+      "kelurahan": "Tajung Widoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582923",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL ASYHAR",
+      "alamat": "JL. RAYA NO.33  DESA SUNGONLEGOWO, KECAMATAN BUNGAH, KABUPATEN GRESIK",
+      "kelurahan": "Sungonlegowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20582930",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL HIDAYAH",
+      "alamat": "JL. KH. HASYIM ASY`ARI NO.52 DS.KEMNAGI KEC.BUNGAH KAB. GRESIK",
+      "kelurahan": "Kisik",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20582928",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL HIDAYAT",
+      "alamat": "JL. PENDIDIKAN BARAT NO.03 INDRODELIK BUNGAH",
+      "kelurahan": "Indrodelik",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20582926",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ASSA`ADAH II",
+      "alamat": "JL. SAMPURNAN BUNGAH GRESIK",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20582922",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ASSAADAH I",
+      "alamat": "JL. RAYA NO. 01 BUNGAH, SAMPURNAN BUNGAH GRESIK 61152",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20582924",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH HASYIMIYAH",
+      "alamat": "JL. KH. AHYAD RT.006 RW.003 TAJUNGWIDORO KECAMATAN BUNGAH",
+      "kelurahan": "Tajung Widoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "69754585",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MAMBA`UL ULUM",
+      "alamat": "BEDANTEN BUNGAH",
+      "kelurahan": "Bedanten",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "69788390",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MANBAUL IHSAN",
+      "alamat": "DSN BANGUN REJO DESA MOJOPUROGEDE",
+      "kelurahan": "Mojopurogede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20582927",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MANBAUL ULUM",
+      "alamat": "JL. RAYA MOJOPUROGEDE NO. 39 BUNGAH GRESIK",
+      "kelurahan": "Mojopurogede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "69727683",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MIFTAHUL ULUM",
+      "alamat": "JL. RAYA MELIRANG NO. 29",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20582929",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NURUL HUDA",
+      "alamat": "JL.MADRASAH NO.17 GROGOL MASANGAN BUNGAH",
+      "kelurahan": "Masangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582925",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NURUL ULUM",
+      "alamat": "JL. RAYA GUMENG NO. 5",
+      "kelurahan": "Gumeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "69754588",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ROBITOTUL ASHFIYA`",
+      "alamat": "Jl. Sunan Drajad No.36 Sidokumpul Bungah",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20501149",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH MELIRANG",
+      "alamat": "Desa Melirang Rt.01 Rw.01",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20556175",
+      "nama_satuan_pendidikan": "SMP AL ISHLAH BUNGAH",
+      "alamat": "JL. Kramat Makam Santri No. 01 Bungah",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20500427",
+      "nama_satuan_pendidikan": "SMP ASSAADAH",
+      "alamat": "Jl. Raya Bungah No. 01",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "69988214",
+      "nama_satuan_pendidikan": "SMP DARUSSALAM TEGAL JOYO",
+      "alamat": "Dusun Karangpoh",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20577751",
+      "nama_satuan_pendidikan": "SMP ISLAM NURUL HIDAYAH",
+      "alamat": "Jl. PERENG KULON MELIRANG",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20500433",
+      "nama_satuan_pendidikan": "SMP MA ARIF HASYIMIYAH",
+      "alamat": "Jl. Kh. Ahyad",
+      "kelurahan": "Tajung Widoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20537004",
+      "nama_satuan_pendidikan": "SMP MAARIF MIFTAHUL ULUM",
+      "alamat": "Jl.Raya Melirang No.29",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "70005055",
+      "nama_satuan_pendidikan": "SMP MODERN AL MIFTAH",
+      "alamat": "Jalan Randuagung",
+      "kelurahan": "Mojopuro Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20500428",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 10 BUNGAH",
+      "alamat": "Jl. Desa Melirang Km. 22",
+      "kelurahan": "Melirang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20500532",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 5 BUNGAH GRESIK",
+      "alamat": "Jl. Raya Bungah Km. 17 Gresik",
+      "kelurahan": "Bungah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20500523",
+      "nama_satuan_pendidikan": "SMP NUSANTARA",
+      "alamat": "Jl Merdeka No.05",
+      "kelurahan": "Mojopuro Wetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20501094",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 240 GRESIK",
+      "alamat": "Jl. Raya Abar Abir 02",
+      "kelurahan": "Abar-Abir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20501102",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 241 GRESIK",
+      "alamat": "Bedanten",
+      "kelurahan": "Bedanten",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20500314",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 242 GRESIK",
+      "alamat": "Jl. Raya Bungah No. 06",
+      "kelurahan": "Bungah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20500374",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 243 GRESIK",
+      "alamat": "Jl. Gunungsari No. 47",
+      "kelurahan": "Indrodelik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20500352",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 244 GRESIK",
+      "alamat": "Kh. Hasyim Asyari",
+      "kelurahan": "Kemangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20500160",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 245 GRESIK",
+      "alamat": "Jl. Watugajah No 116 Kramat Bungah Gresik",
+      "kelurahan": "Kramat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20500168",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 246 GRESIK",
+      "alamat": "Jl. Raya Bungah Dukun",
+      "kelurahan": "Masangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20500167",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 247 GRESIK",
+      "alamat": "Jl. Raya Bungah Dukun",
+      "kelurahan": "Melirang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20500110",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 248 GRESIK",
+      "alamat": "Mojopurogede",
+      "kelurahan": "Mojopurogede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20500109",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 249 GRESIK",
+      "alamat": "Desa Mojopurowetan",
+      "kelurahan": "Mojopuro Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20500228",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 250 GRESIK",
+      "alamat": "Pegundan",
+      "kelurahan": "Pegundan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20500615",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 251 GRESIK",
+      "alamat": "Jl. Raya Bungah-Dukun",
+      "kelurahan": "Sidomukti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20500628",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 252 GRESIK",
+      "alamat": "Desa Sidorejo",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20500568",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 253 GRESIK",
+      "alamat": "Sukorejo",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20500565",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 254 GRESIK",
+      "alamat": "Jl. Raya Bungah Dukun",
+      "kelurahan": "Sukowati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20500585",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 255 GRESIK",
+      "alamat": "Jl. Ahmad Yani Sungonlegowo",
+      "kelurahan": "Sungonlegowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20500584",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 256 GRESIK",
+      "alamat": "Jl. Ahmad Yani",
+      "kelurahan": "Sungonlegowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20500579",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 257 GRESIK",
+      "alamat": "Desa Tajung Widoro",
+      "kelurahan": "Tajung Widoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20500643",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 258 GRESIK",
+      "alamat": "Jln Makam Islam No 15",
+      "kelurahan": "Watuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20500497",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 10 GRESIK",
+      "alamat": "Jl.Raya Bungah No.1",
+      "kelurahan": "Bungah",
+      "status": "NEGERI"
+    }
+  ]
+}

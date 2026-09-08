@@ -1,0 +1,658 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. DRIYOREJO",
+  "updated_at": "2026-09-06T13:08:20.997Z",
+  "count": 81,
+  "negeri": 28,
+  "swasta": 53,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "20500495",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 8 GRESIK",
+      "alamat": "Jalan Raya Tenaru Driyorejo",
+      "kelurahan": "Tenaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": "60718974",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL-MUKHLASHIN",
+      "alamat": "DSN. NGOROREJO, DS.TANJUNGAN",
+      "kelurahan": "Tanjungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69977733",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AN-NUR",
+      "alamat": "TENARU",
+      "kelurahan": "Tenaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "69927588",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BILINGUAL AL-HIKMAH",
+      "alamat": "Jln Raya Legundi",
+      "kelurahan": "Banjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718972",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL ULUM",
+      "alamat": "DESA MOJOSARIREJO RT : 09 RW; I03 KECAMATAN DRIYOREJO KABUPATEN GRESIK",
+      "kelurahan": "Mojosarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718969",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL FIQHIYYAH",
+      "alamat": "GADUNG DRIYOREJO GRESIK",
+      "kelurahan": "Gadung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718970",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "JL. BALAI DESA BANJARAN",
+      "kelurahan": "Banjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718971",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "DS. KESAMBEN WETAN",
+      "kelurahan": "Kesambenwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718973",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "DS. SUMPUT",
+      "kelurahan": "Sumput",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718968",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SABILUL MUBTADI`IN",
+      "alamat": "RANDEGANSARI",
+      "kelurahan": "Randegansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718967",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL AKHLAQ",
+      "alamat": "JL. KA SYAFEK 325 WEDOROANOM",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718966",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL ISLAMIYAH",
+      "alamat": "DS. TANJUNGAN RT 03 RW 01 KECAMATAN DRIYOREJO KAB. GRESIK",
+      "kelurahan": "Tanjungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20582939",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH DARUT TAUHID",
+      "alamat": "JL. KAUMAN RAYA BANJARAN DRIYOREJO GRESIK",
+      "kelurahan": "Banjaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "69994873",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH HIKMATUL UMMAH",
+      "alamat": "JL. KA. Syafek No. 396 RT 9 RW 4",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20582934",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MAARIF",
+      "alamat": "JL. DUSUN BUNUT DESA RANDEGANSARI, KECAMATAN DRIYOREJO KAB,GRESIK",
+      "kelurahan": "Randegansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20582935",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH RADEN FATAH",
+      "alamat": "KESAMBEN WETAN RT, 10, RW. 2",
+      "kelurahan": "Kesambenwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "69754589",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SUNAN AMPEL",
+      "alamat": "Jl. Raya Intan 22-23 Perumnas KBD",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582938",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SUNAN GIRI",
+      "alamat": "JL. RAYA MULUNG NO. 129",
+      "kelurahan": "Mulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582936",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUL AKHLAQ",
+      "alamat": "JL. KA SYAFEK 235 RT/RW : 11/04 WEDOROANOM",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "69977735",
+      "nama_satuan_pendidikan": "MI MIFTAHUL MA`ARIF",
+      "alamat": "KALANGAN",
+      "kelurahan": "Karangandong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718975",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "MULUNG-DRIYOREJO-GRESIK",
+      "kelurahan": "Mulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582937",
+      "nama_satuan_pendidikan": "MTSS DARUL ULUM",
+      "alamat": "MOJOSARIREJO NO.1",
+      "kelurahan": "Mojosarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20501156",
+      "nama_satuan_pendidikan": "SD AL FATAH",
+      "alamat": "Jl. Granit Nila 5 Kbd",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20501155",
+      "nama_satuan_pendidikan": "SD AL FURQON",
+      "alamat": "Jl. Mutiara III B/F No. 27 Kotabaru - Driyorejo - Gresik",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "70057842",
+      "nama_satuan_pendidikan": "SD AL FURQON 3",
+      "alamat": "Dusun Karangasem RT 004 RW 004",
+      "kelurahan": "Karangandong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "69974162",
+      "nama_satuan_pendidikan": "SD AL-FURQON 2",
+      "alamat": "Jl. Kyai Abdur Rohim No. 1 RT. 012 RW. 004",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20577839",
+      "nama_satuan_pendidikan": "SD ALAMI DRIYOREJO",
+      "alamat": "Jl. Embong Trengguli Rt 08 Rw 02",
+      "kelurahan": "Kesambenwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20536992",
+      "nama_satuan_pendidikan": "SD ASSA ADAH",
+      "alamat": "Jl.Raya Intan 22-23 Perumnas KBD",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20566154",
+      "nama_satuan_pendidikan": "SD EXCELLENT CHILDREN",
+      "alamat": "Jl. Raya Panca Warna Kav. 24-27 Kota Baru Driyorejo",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "69931721",
+      "nama_satuan_pendidikan": "SD GOLDEN SUN",
+      "alamat": "Jl. Batu Safir Blok FA / No. 3, 5 & 7 Kota Baru Driyorejo",
+      "kelurahan": "Mulung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20501154",
+      "nama_satuan_pendidikan": "SD INSAN MULYA",
+      "alamat": "Jalan Raya Granit Kumala F19-21 Kota Baru Driyorejo",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20552204",
+      "nama_satuan_pendidikan": "SD ISLAM AL MUTTAQIN",
+      "alamat": "Raya  Driyorejo",
+      "kelurahan": "Driyorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "70034456",
+      "nama_satuan_pendidikan": "SD ISLAM MAMBAUL ULUM",
+      "alamat": "Jl. Raya Wedoroanom RT 006 RW 002",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20536987",
+      "nama_satuan_pendidikan": "SD ISLAM MELATI NUSANTARA",
+      "alamat": "Jl. Phyrus Biru 13D/B-18",
+      "kelurahan": "Gadung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "70043329",
+      "nama_satuan_pendidikan": "SD ISLAM NURUL ULUM",
+      "alamat": "Jl. Semeru 99 RT 007 RW 002",
+      "kelurahan": "Bambe",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "70010306",
+      "nama_satuan_pendidikan": "SD KRISTEN PERISTERA",
+      "alamat": "Sentraland B92-96",
+      "kelurahan": "Randegansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "70006944",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 DRIYOREJO",
+      "alamat": "Jl. Raya Panca Warna 11C AU.18/19 Perum.Kota Baru Driyorejo",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20566119",
+      "nama_satuan_pendidikan": "SD MUTIARA HATI",
+      "alamat": "Kalimaya 35 - 36",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20566752",
+      "nama_satuan_pendidikan": "SD PUTRA BANGSA",
+      "alamat": "Perum Griya Kencana Blok 1D/41 Mojosarirejo",
+      "kelurahan": "Mojosarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "70063369",
+      "nama_satuan_pendidikan": "SD SEKOLAH ALAM LENTERA HATI",
+      "alamat": "Perumahan De Naila Garden Blok  DG1  No. 21 - 26",
+      "kelurahan": "Mojosarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "70049027",
+      "nama_satuan_pendidikan": "SDI TAHFIDZ MABARO",
+      "alamat": "Dusun Legundi RT 006 RW 002",
+      "kelurahan": "Krikilan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20500426",
+      "nama_satuan_pendidikan": "SMP AL FURQON",
+      "alamat": "Jl. KH. Abdurrohim No.01",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "70057908",
+      "nama_satuan_pendidikan": "SMP BILINGUAL AL FURQON",
+      "alamat": "Dusun Karangasem RT 004 RW 004",
+      "kelurahan": "Randegansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20500441",
+      "nama_satuan_pendidikan": "SMP DIPONEGORO",
+      "alamat": "Jl. Gadung 87",
+      "kelurahan": "Gadung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "69894179",
+      "nama_satuan_pendidikan": "SMP EXCELLENT",
+      "alamat": "Jl. Raya Panca Warna Kav. 24-27 Driyorejo",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "70057905",
+      "nama_satuan_pendidikan": "SMP ISLAM AL MUTTAQIN",
+      "alamat": "Jalan Raya Driyorejo No. 151 RT. 003 RW. 002",
+      "kelurahan": "Driyorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20559786",
+      "nama_satuan_pendidikan": "SMP MAARIF NU MIFTAHUL ULUM",
+      "alamat": "KALANGAN, KARANGANDONG",
+      "kelurahan": "Karangandong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "70046644",
+      "nama_satuan_pendidikan": "SMP MAMBAUL ULUM",
+      "alamat": "Dusun Juwet RT 006 RW 002",
+      "kelurahan": "Wedoroanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "70039327",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 14",
+      "alamat": "Jl. Raya Tenaru 3 No 517 RT 008 RW 003 Dusun Kelampok",
+      "kelurahan": "Tenaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20500556",
+      "nama_satuan_pendidikan": "SMP PGRI 2 DRIYOREJO",
+      "alamat": "Jl. Raya Legundi",
+      "kelurahan": "Krikilan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "70064267",
+      "nama_satuan_pendidikan": "SMP UNGGULAN MA ARIF NU",
+      "alamat": "Jalan Bunut Randegansari RT. 002 RW. 006",
+      "kelurahan": "Randegansari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "69974161",
+      "nama_satuan_pendidikan": "SMP UNGGULAN PONDOK PESANTREN AL-FURQON",
+      "alamat": "Jl. Granit Kumala 4-5 No.11-13",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20500519",
+      "nama_satuan_pendidikan": "SMP YPM-5 DRIYOREJO",
+      "alamat": "Jl. Sumput",
+      "kelurahan": "Sumput",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20551681",
+      "nama_satuan_pendidikan": "SMPS AL FATAH",
+      "alamat": "JL. GRANIT NILA 05",
+      "kelurahan": "Petiken",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20501100",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 144 GRESIK",
+      "alamat": "Jl  Semeru  No  13",
+      "kelurahan": "Bambe",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20501101",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 145 GRESIK",
+      "alamat": "Jl Raya  Bambe",
+      "kelurahan": "Bambe",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20501128",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 146 GRESIK",
+      "alamat": "Dsn. Ngambar",
+      "kelurahan": "Bambe",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20501122",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 147 GRESIK",
+      "alamat": "Ds. Banjaran",
+      "kelurahan": "Banjaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20500328",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 148 GRESIK",
+      "alamat": "Jl Raya  Cangkir",
+      "kelurahan": "Cangkir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20500263",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 149 GRESIK",
+      "alamat": "Desa Driyorejo",
+      "kelurahan": "Driyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20500262",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 150 GRESIK",
+      "alamat": "Jl.Raya Driyorejo No.123",
+      "kelurahan": "Driyorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20500290",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 151 GRESIK",
+      "alamat": "Desa  Gadung",
+      "kelurahan": "Gadung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20500397",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 152 GRESIK",
+      "alamat": "Jl  Karangandong No. 43",
+      "kelurahan": "Karangandong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20500396",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 153 GRESIK",
+      "alamat": "Dsn  Karangasem Rt.01 Rw.04",
+      "kelurahan": "Karangandong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20500358",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 154 GRESIK",
+      "alamat": "Desa  Kesamben Wetan",
+      "kelurahan": "Kesambenwetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20500159",
+      "nama_satuan_pendidikan": "UPT SD Negeri 155 Gresik",
+      "alamat": "Jl Raya Krikilan No. 95",
+      "kelurahan": "Krikilan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20500158",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 156 GRESIK",
+      "alamat": "Dsn  Larangan",
+      "kelurahan": "Krikilan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20500157",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 157 GRESIK",
+      "alamat": "Jl Raya Legundi",
+      "kelurahan": "Krikilan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20500108",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 158 GRESIK",
+      "alamat": "Ds.  Mojosarirejo",
+      "kelurahan": "Mojosarirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20500145",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 159 GRESIK",
+      "alamat": "Desa  Mulung",
+      "kelurahan": "Mulung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20500144",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 160 GRESIK",
+      "alamat": "Desa  Mulung",
+      "kelurahan": "Mulung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20500257",
+      "nama_satuan_pendidikan": "UPT SD Negeri 161 Gresik",
+      "alamat": "Jln. Raya Petiken",
+      "kelurahan": "Petiken",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20500256",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 162 GRESIK",
+      "alamat": "Jl. Petiken Lapangan",
+      "kelurahan": "Petiken",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20500255",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 163 GRESIK",
+      "alamat": "Perumnas Kota Baru Driyoreo (KBD) Gresik",
+      "kelurahan": "Petiken",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20500196",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 164 GRESIK",
+      "alamat": "Jl. Raya Randegansari Kec. Driyorejo Kab. Gresik",
+      "kelurahan": "Randegansari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20500592",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 165 GRESIK",
+      "alamat": "Ds. Sumput RT. 05 RW. 01",
+      "kelurahan": "Sumput",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20500591",
+      "nama_satuan_pendidikan": "UPT SD Negeri 166 Gresik",
+      "alamat": "Jl. Raya Sumput No. 14 RT 09/ RW 02",
+      "kelurahan": "Sumput",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20500674",
+      "nama_satuan_pendidikan": "UPT SD Negeri 167 Gresik",
+      "alamat": "Desa Tanjungan",
+      "kelurahan": "Tanjungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20500702",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 168 GRESIK",
+      "alamat": "Desa Tenaru",
+      "kelurahan": "Tenaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 80,
+      "npsn": "20500641",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 169 GRESIK",
+      "alamat": "Ds Wedoroanom",
+      "kelurahan": "Wedoroanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 81,
+      "npsn": "69991299",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 33 GRESIK",
+      "alamat": "Perumahan Bukit Bambe",
+      "kelurahan": "Bambe",
+      "status": "NEGERI"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PANCENG",
+  "updated_at": "2026-09-06T13:09:28.669Z",
+  "count": 68,
+  "negeri": 17,
+  "swasta": 51,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "20582990",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MUHAMMADIYAH 7",
+      "alamat": "JL. SENDANG AGUNG NO. 28",
+      "kelurahan": "Pantenan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "20582991",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUL WATHON",
+      "alamat": "JL. OLAH RAGA NO.56 RT 8 RW 2",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "20500487",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 21 GRESIK",
+      "alamat": "Jl. Raya Prupuh",
+      "kelurahan": "Prupuh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 4,
+      "npsn": "60719143",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - FALAH",
+      "alamat": "Kh. Syukur Rt. 15 Rw. 05",
+      "kelurahan": "Petung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719125",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - HIDAYAH",
+      "alamat": "JL. MASJID BAITUSSALAM SERAH PANCENG GRESIK",
+      "kelurahan": "Serah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "69881914",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL AMALIYAH",
+      "alamat": "Dusun Shoberoh",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719140",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HASANIYAH",
+      "alamat": "LARANGAN DALEGAN PANCENG GRESIK",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719134",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL IKHLASH",
+      "alamat": "JL. KH HASYIM ASY`ARI RT 4 RW 2 DOUDO",
+      "kelurahan": "Doudo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719123",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL ISLAM PANTENAN",
+      "alamat": "JL. SENDANG AGUNG NO. 28 PANTENAN PANCENG GRESIK",
+      "kelurahan": "Pantenan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719121",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL KHOIRIYAH 1",
+      "alamat": "DALEGAN PANCENG GRESIK",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719128",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL KHOIRIYAH 2",
+      "alamat": "JALAN RAYA PASIR PUTIH RT/RW.003/007 MULYOREJO",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719138",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL KHOIRIYAH 3",
+      "alamat": "JL. RAYA DALEGAN",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719139",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUSSA`ADAH",
+      "alamat": "DUSUN KARANGTUMPUK DESA CAMPUREJO",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719136",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH IHYAUL ULUM",
+      "alamat": "JL. SENDANG BIRU RT 05 RW 02 SUKODONO",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60719127",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUHAMMADIYAH 2",
+      "alamat": "JL.RAYA CAMPUREJO NO.76  RT.07 RW.02",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60719133",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUHAMMADIYAH 3",
+      "alamat": "JL. SOEKARNO HATTA NO. 20",
+      "kelurahan": "Doudo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60719131",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUHAMMADIYAH 4",
+      "alamat": "JL. RAYA DS. WOTAN RT.005 RW.002",
+      "kelurahan": "Wotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60719132",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUHAMMADIYAH 5",
+      "alamat": "JL. RAYA BANYUTENGAH PANCENG GRESIK 61156",
+      "kelurahan": "Banyutengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60719137",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NASHRUDDIN",
+      "alamat": "JL.KH. WAHID HASYIM NO.74",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60719141",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HIKMAH",
+      "alamat": "WONOREJO DALEGAN PANCENG GRESIK",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60719135",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL ULUM",
+      "alamat": "JL. SUMUR TIBAN NO 39 RT 05 RW 03 BANYUTENGAH",
+      "kelurahan": "Banyutengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60719130",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SUNAN KALIJOGO",
+      "alamat": "JL. CAMARUDDIN NO. 56 SUROWITI PANCENG GRESIK",
+      "kelurahan": "Surowiti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60719119",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL ATHFAL",
+      "alamat": "JL. RAYA SUMURBER PANCENG GRESIK",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60719118",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL WATHON",
+      "alamat": "JLN. OLAH RAGA NO. 56 CAMPUREJO",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60719126",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUS SA`ADAH",
+      "alamat": "JL.MASJID JAMI` BEJAN SIWALAN  PANCENG",
+      "kelurahan": "Siwalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60719129",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JL. PASIR PUTIH SIDOREJO CAMPUREJO PANCENG GRESIK",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60719122",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JALAN KH. SYUKUR NO.09 RT.15/RW.05 PETUNG PANCENG GRESIK",
+      "kelurahan": "Petung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60719120",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JL. PAK KEMBANG NO.01 Wotan Panceng Gresik",
+      "kelurahan": "Wotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60719124",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TASHWIRUL AFKAR",
+      "alamat": "JL. MAKAM ISLAM NO. 20 KETANEN",
+      "kelurahan": "Ketanen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20582993",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL - KHOIRIYAH 1",
+      "alamat": "JL. RAYA DALEGAN",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20583000",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL HIDAYAH",
+      "alamat": "JL. MASJID BAITUSSALAM",
+      "kelurahan": "Serah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "69734214",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL KHOIRIYAH 2",
+      "alamat": "JL. RAYA PASIR PUTIH DUSUN MULYOREJO DALEGAN PANCENG GRESIK",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20582995",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MA`ARIF NU",
+      "alamat": "JL. RAYA SUMURBER RT.18 RW. 06",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20582992",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MUHAMMADIYAH 06",
+      "alamat": "JALAN RAYA BANYUTENGAH PANCENG GRESIK 61156",
+      "kelurahan": "Banyutengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20582996",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MUHAMMADIYAH 9",
+      "alamat": "JL. RAYA DS. WOTAN RT.5, RW.2",
+      "kelurahan": "Wotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20582994",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NASHRUDDIN",
+      "alamat": "JL. KH. WAHID HASYIM NO. 74",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "69734220",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NURUL HIKMAH",
+      "alamat": "JL. DUSUN WONOREJO DESA DALEGAN KECAMATAN PANCENG",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "69734212",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ROUDLOTUL ULUM",
+      "alamat": "JL. SUMUR TIBAN NO. 39 DESA BANYUTENGAH KECAMATAN PANCENG",
+      "kelurahan": "Banyutengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582989",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUS SA`ADAH",
+      "alamat": "JL.SENDANG REJO BEJAN SIWALAN PANCENG GRESIK",
+      "kelurahan": "Siwalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582997",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JL. PAK KEMBANG WOTAN",
+      "kelurahan": "Wotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582998",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JL. KH. SYUKUR NO. 09",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20582999",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JL. PASIR PUTIH DSN. SIDOREJO RT.03/02 DS CAMPUREJO",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "69788391",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TASHWIRUL AFKAR",
+      "alamat": "JL. MAKAM ISLAM NO. 20",
+      "kelurahan": "Ketanen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "60719142",
+      "nama_satuan_pendidikan": "MI NU SUNAN GIRI",
+      "alamat": "Jl. Masjid Agung Rt. 04 Rw. 1 Prupuh Panceng Gresik",
+      "kelurahan": "Prupuh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "70058654",
+      "nama_satuan_pendidikan": "MTS Darussaadah",
+      "alamat": "JL.AIRLANGGA 45 DUSUN KARANG TUMPUK DESA CAMPUREJO PANCENG",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "69734221",
+      "nama_satuan_pendidikan": "MTSS AL FALAH",
+      "alamat": "JL. KH. SYUKUR RT. 15 / RW. 05 DESA PETUNG KECAMATAN PANCENG KABUPATEN GRESIK",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20501158",
+      "nama_satuan_pendidikan": "SD NU AL ISTIQOMAH",
+      "alamat": "Jl. Pendidikan Rejodadi",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20577818",
+      "nama_satuan_pendidikan": "SMP AL IKHLASH",
+      "alamat": "Dusun Mulyorejo",
+      "kelurahan": "Dalegan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20500430",
+      "nama_satuan_pendidikan": "SMP MA ARIF PANCENG",
+      "alamat": "Jalan Raya Sumurber RT 018 RW 006",
+      "kelurahan": "Sumurber",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "69985986",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 13",
+      "alamat": "Kompleks Masjid Al Ikhlas No.1 RT 014 RW 004",
+      "kelurahan": "Campurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "69831547",
+      "nama_satuan_pendidikan": "SMP NU DARUL UBUDIYAH",
+      "alamat": "Dusun Selodingin Kelurahan Siwalan Panceng",
+      "kelurahan": "Siwalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "69761860",
+      "nama_satuan_pendidikan": "SMPS AL FALAH",
+      "alamat": "JL. KH. SYUKUR RT. 15 RW. 05 PETUNG PANCENG",
+      "kelurahan": "Petung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20501108",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 309 GRESIK",
+      "alamat": "Jl. Raya Banyutengah",
+      "kelurahan": "Banyutengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20500331",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 310 GRESIK",
+      "alamat": "Campurejo",
+      "kelurahan": "Campurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20500316",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 311 GRESIK",
+      "alamat": "Dalegan",
+      "kelurahan": "Dalegan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20500296",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 312 GRESIK",
+      "alamat": "Jl. Sebero",
+      "kelurahan": "Dalegan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20500295",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 313 GRESIK",
+      "alamat": "Larangan",
+      "kelurahan": "Dalegan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20500357",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 314 GRESIK",
+      "alamat": "Jl. Raya Ketanen",
+      "kelurahan": "Ketanen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20500235",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 315 GRESIK",
+      "alamat": "Jln Masjid Rt.09 / Rw.05 Pantenan",
+      "kelurahan": "Pantenan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20500251",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 316 GRESIK",
+      "alamat": "Jl Kampung Baru RT.018 RW.006",
+      "kelurahan": "Petung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20500244",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 317 GRESIK",
+      "alamat": "Jl. Raya Desa Prupuh No. 02",
+      "kelurahan": "Prupuh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20500184",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 318 GRESIK",
+      "alamat": "Rt. 08 Rw. 04",
+      "kelurahan": "Serah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20500621",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 319 GRESIK",
+      "alamat": "Ds. Siwalan",
+      "kelurahan": "Siwalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20500574",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 320 GRESIK",
+      "alamat": "Jl. Sendang Biru No.42",
+      "kelurahan": "Sukodono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20500590",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 321 GRESIK",
+      "alamat": "Jalan Raya Sumurber",
+      "kelurahan": "Sumurber",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20500583",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 322 GRESIK",
+      "alamat": "Jl. Camaruddin No.22 Rt.03 Rw.03",
+      "kelurahan": "Surowiti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20500582",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 323 GRESIK",
+      "alamat": "Desa Surowiti",
+      "kelurahan": "Surowiti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20500639",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 324 GRESIK",
+      "alamat": "Wotan",
+      "kelurahan": "Wotan",
+      "status": "NEGERI"
+    }
+  ]
+}

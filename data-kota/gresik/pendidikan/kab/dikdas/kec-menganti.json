@@ -1,0 +1,730 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. MENGANTI",
+  "updated_at": "2026-09-06T13:08:32.792Z",
+  "count": 90,
+  "negeri": 28,
+  "swasta": 62,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69883402",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - AZHAR",
+      "alamat": "Jl. Raya Menganti Krajan No. 474",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60719101",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BAHRUL ULUM",
+      "alamat": "JL. PENGALANGAN RT 06 RW 03",
+      "kelurahan": "Pengalangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719113",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BAHRUL ULUM",
+      "alamat": "JL. RAYA PELEMWATU NO. 09",
+      "kelurahan": "Pelemwatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719104",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BUSTANUL MUTA`ALLIMIN",
+      "alamat": "SETRO",
+      "kelurahan": "Setro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "69854242",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH CITRA TAMAN SISWA",
+      "alamat": "JALAN RAYA BRINGKANG",
+      "kelurahan": "Domas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719111",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL ULUM",
+      "alamat": "SIDOJANGKUNG",
+      "kelurahan": "Sidojangkung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719108",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH KHOIRUL ANAM",
+      "alamat": "GANTANG - BOBOH  MENGANTI",
+      "kelurahan": "Boboh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719105",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MATHOLIUL FALAH",
+      "alamat": "DRANCANG",
+      "kelurahan": "Drancang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719117",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "GEMPOLKURUNG",
+      "kelurahan": "Gempolkurung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719099",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "JL. RAYA MENGANTI - SIDOWUNGU",
+      "kelurahan": "Sidowungu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719098",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH RIYADLATUL ATHFAL",
+      "alamat": "HULAAN",
+      "kelurahan": "Hulaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719107",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL MU`ALLIMIN",
+      "alamat": "GROGOL RT 025 RW 002",
+      "kelurahan": "Laban",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719110",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL MUBTADIIN",
+      "alamat": "JL. RAYA MOJOTENGAH RT.16 RW.07",
+      "kelurahan": "Mojotengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719102",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL MUTA`ALLIMIN",
+      "alamat": "JL. RAYA PUTAT LOR NO. 150",
+      "kelurahan": "Putat Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60719097",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL ULUM",
+      "alamat": "JL. TLOGOBEDAH RT. 07 RW. 03 DESA HULAAN KECAMATAN MENGANTI",
+      "kelurahan": "Hulaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60719109",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUS SHIBYAN",
+      "alamat": "JL. BIBIS RT.07 RW.03",
+      "kelurahan": "Beton",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "69977734",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SABILUL HUDA",
+      "alamat": "LABAN KULON",
+      "kelurahan": "Laban",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60719116",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SUNAN AMPEL",
+      "alamat": "GADINGWATU RT/RW. 02/05",
+      "kelurahan": "Gadingwatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60719115",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL HIDAYAH",
+      "alamat": "JL. BOTENG RT/RW; 12/04, MENGANTI GRESIK",
+      "kelurahan": "Boteng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60719114",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL MUTA ALLIMIN",
+      "alamat": "Jl. Pahlawan Mubin Wonokoyo No. 037 RT 30 RW 09",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60719096",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL ULUM",
+      "alamat": "PENGAMPON RT.12 RW.06 KEC. MENGANTI KAB. GRESIK",
+      "kelurahan": "Pengalangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60719100",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH THORIQUL HUDA",
+      "alamat": "RANDUPADANGAN RT.02 RW.04",
+      "kelurahan": "Randupadangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20582988",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL - MADANY",
+      "alamat": "DSN. NIRON WETAN",
+      "kelurahan": "Gadingwatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "69993769",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL-AZHAR",
+      "alamat": "JL. RAYA MENGANTI KRAJAN NO.474",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20582984",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ATH - THOHIRIYAH",
+      "alamat": "JL. RAYA SIDOWUNGU NO. 87 MENGANTI",
+      "kelurahan": "Sidowungu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20582986",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH BUSTANUL ARIFIN",
+      "alamat": "DOMAS",
+      "kelurahan": "Domas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "70037274",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH CITRA TAMAN SISWA",
+      "alamat": "Jalan Raya Bringkang Desa Domas",
+      "kelurahan": "Domas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582985",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MIFTAHUL ULUM",
+      "alamat": "TLOGOBEDAH",
+      "kelurahan": "Hulaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "69977788",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SALAFIYAH",
+      "alamat": "NGABLAKREJO",
+      "kelurahan": "Gempolkurung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20582987",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH THORIQUL HUDA",
+      "alamat": "RANDUPADANGAN",
+      "kelurahan": "Randupadangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "60719103",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "KEMOROGAN",
+      "kelurahan": "Kepatihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "60719106",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA I",
+      "alamat": "JL. RAYA KEPATIHAN NO. 75",
+      "kelurahan": "Pranti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "60719112",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA II",
+      "alamat": "GLINTUNG KEPATIHAN MENGANTI GRESIK",
+      "kelurahan": "Kepatihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20574622",
+      "nama_satuan_pendidikan": "SD BUDI UTOMO",
+      "alamat": "Puri Safira Regency Celosia Park Blok B4 No. 12B-15 Menganti",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "70026643",
+      "nama_satuan_pendidikan": "SD CHALIDANA ISLAMIC SCHOOL",
+      "alamat": "Puri Safira Regency Blok K3 No. 20 RT. 024 RW. 008",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20572627",
+      "nama_satuan_pendidikan": "SD DARUTTAWWABIN",
+      "alamat": "Jl. Raya Menganti Karangturi RT 24 RW 08",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "70057764",
+      "nama_satuan_pendidikan": "SD INSAN MULIA",
+      "alamat": "Desa Laban RT. 017 RW. 006",
+      "kelurahan": "Laban",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20566131",
+      "nama_satuan_pendidikan": "SD ISLAM AL-HIKMAH",
+      "alamat": "Dusun Kajar Gadingwatu Menganti",
+      "kelurahan": "Gadingwatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "69963656",
+      "nama_satuan_pendidikan": "SD ISLAM AZ-ZAHRO",
+      "alamat": "Jl. Perintis Bendil RT. 002 RW. 006",
+      "kelurahan": "Kepatihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "70054826",
+      "nama_satuan_pendidikan": "SD Islam Integratif Al - Kayyis",
+      "alamat": "Perum Graha Menganti Blok A No. 1",
+      "kelurahan": "Bringkang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20501135",
+      "nama_satuan_pendidikan": "SD ISLAM NURUL IMAN",
+      "alamat": "Perum Menganti Satelit Indah Jl. Sirsat Blok AD",
+      "kelurahan": "Sidojangkung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "69986689",
+      "nama_satuan_pendidikan": "SD IT AL MUFIDAH",
+      "alamat": "Desa Beton RT. 005 RW. 002",
+      "kelurahan": "Beton",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "70010451",
+      "nama_satuan_pendidikan": "SD IT DARUL ILMI",
+      "alamat": "Desa Setro RT. 003 RW. 002",
+      "kelurahan": "Setro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20501152",
+      "nama_satuan_pendidikan": "SD MENGANTI PERMAI",
+      "alamat": "Perum. Menganti Permai",
+      "kelurahan": "Hulaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "69963658",
+      "nama_satuan_pendidikan": "SD MIFTAHUL ULUM",
+      "alamat": "Tlogobedah RT. 008 RW. 004 Hulaan Menganti Gresik",
+      "kelurahan": "Hulaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "69833892",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 MENGANTI",
+      "alamat": "JL. RAYA MENGANTI SIDOWUNGU NO. 4A MENGANTI",
+      "kelurahan": "Sidowungu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "70006984",
+      "nama_satuan_pendidikan": "SD TUNAS BANGSA",
+      "alamat": "Bongso Kulon RT. 002 RW. 001",
+      "kelurahan": "Pengalangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20579287",
+      "nama_satuan_pendidikan": "SDS ISLAM PERMATA HATI",
+      "alamat": "JL. PERUM BMW BALONG DINDING RT. 19 RW. 05, MENGANTI",
+      "kelurahan": "Sidowungu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "69986877",
+      "nama_satuan_pendidikan": "SDTK Budi Mulia",
+      "alamat": "Perumahan Taman Siwalan Indah Blok.T.14",
+      "kelurahan": "Kepatihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20500410",
+      "nama_satuan_pendidikan": "SMP AL AZHAR",
+      "alamat": "Jl. Raya Menganti Krajan No.474",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "70049732",
+      "nama_satuan_pendidikan": "SMP BAITUL AWWABIN",
+      "alamat": "Dusun Hulaan RT 015 RW 007",
+      "kelurahan": "Hulaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "70006740",
+      "nama_satuan_pendidikan": "SMP CITA UTOMO",
+      "alamat": "Puri Safira Regency Celosia Park Blok B4 No.14-07 RT. 024 RW. 008",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "69981208",
+      "nama_satuan_pendidikan": "SMP CITRA ADIKARYA",
+      "alamat": "Desa Pengalangan No. 391 RT. 006 RW. 003",
+      "kelurahan": "Pengalangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20566072",
+      "nama_satuan_pendidikan": "SMP DARUTTAWWABIN",
+      "alamat": "Karangturi RT. 24 RW. 08 Menganti Gresik",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "69947651",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU AL HIKMAH",
+      "alamat": "Dusun Kajar",
+      "kelurahan": "Gadingwatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20500526",
+      "nama_satuan_pendidikan": "SMP NU BAHRUL ULUM",
+      "alamat": "Jl. Raya Pelemwatu No. 09 Menganti Gresik",
+      "kelurahan": "Pelemwatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20500524",
+      "nama_satuan_pendidikan": "SMP NURUL HUDA MENGANTI",
+      "alamat": "Jl. Kepatihan",
+      "kelurahan": "Kepatihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20500551",
+      "nama_satuan_pendidikan": "SMP PGRI MENGANTI",
+      "alamat": "Jln. Raya Menganti",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20500547",
+      "nama_satuan_pendidikan": "SMP SUNAN AMPEL",
+      "alamat": "Bandut",
+      "kelurahan": "Drancang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20500546",
+      "nama_satuan_pendidikan": "SMP SUNAN GIRI MENGANTI",
+      "alamat": "Jalan Raya Sunan Giri No. 16 RT. 006 RW. 003",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "20500545",
+      "nama_satuan_pendidikan": "SMP TRI BHUWANA 2",
+      "alamat": "Jl. Menganti Setro  Kec. Menganti Kab. Gresik",
+      "kelurahan": "Setro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "69992360",
+      "nama_satuan_pendidikan": "SMPTK Budi Mulia",
+      "alamat": "Taman Siwalan Indah blok. T.14-15",
+      "kelurahan": "Kepatihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": "20500312",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 214 GRESIK",
+      "alamat": "Beton",
+      "kelurahan": "Beton",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20500309",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 215 GRESIK",
+      "alamat": "Jl.raya Boboh",
+      "kelurahan": "Boboh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20500307",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 216 GRESIK",
+      "alamat": "Jl Raya Boteng",
+      "kelurahan": "Boteng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20500304",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 217 GRESIK",
+      "alamat": "Jl. Raya Bringkang",
+      "kelurahan": "Bringkang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20536984",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 218 GRESIK",
+      "alamat": "Jl Domas",
+      "kelurahan": "Domas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20500264",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 219 GRESIK",
+      "alamat": "Jl. Drancang",
+      "kelurahan": "Drancang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20500293",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 220 GRESIK",
+      "alamat": "Jl. Gadingwatu",
+      "kelurahan": "Gadingwatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20500285",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 221 GRESIK",
+      "alamat": "Jl. Kutil Gempolkurung",
+      "kelurahan": "Gempolkurung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20500284",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 222 GRESIK",
+      "alamat": "Jl. Ngablak Rejo",
+      "kelurahan": "Gempolkurung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20500378",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 223 GRESIK",
+      "alamat": "Jl. Hendrosari",
+      "kelurahan": "Hendrosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20500377",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 224 GRESIK",
+      "alamat": "Jl. Hulaan",
+      "kelurahan": "Hulaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20500369",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 225 GRESIK",
+      "alamat": "Jl. Raya Kepatihan",
+      "kelurahan": "Kepatihan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20500155",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 226 GRESIK",
+      "alamat": "Jl. Raya Menganti",
+      "kelurahan": "Laban",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20500154",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 227 GRESIK",
+      "alamat": "Jl. Raya Laban No. 314",
+      "kelurahan": "Laban",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20500148",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 228 GRESIK",
+      "alamat": "Jl. Raya Menganti",
+      "kelurahan": "Menganti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20500117",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 229 GRESIK",
+      "alamat": "Dusun Ploso Kerep",
+      "kelurahan": "Menganti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20500106",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 230 GRESIK",
+      "alamat": "Jl. Raya Mojotengah",
+      "kelurahan": "Mojotengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 80,
+      "npsn": "20500225",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 231 GRESIK",
+      "alamat": "Jl. Raya Pelemwatu",
+      "kelurahan": "Pelemwatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 81,
+      "npsn": "20500224",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 232 GRESIK",
+      "alamat": "Jl Pengalangan",
+      "kelurahan": "Pengalangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 82,
+      "npsn": "20500245",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 233 GRESIK",
+      "alamat": "Jl. Pranti",
+      "kelurahan": "Pranti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 83,
+      "npsn": "20500200",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 234 GRESIK",
+      "alamat": "Jl. Raya Putat Lor",
+      "kelurahan": "Putat Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 84,
+      "npsn": "20500199",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 235 GRESIK",
+      "alamat": "Jl. Kletak",
+      "kelurahan": "Putat Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 85,
+      "npsn": "20500188",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 236 GRESIK",
+      "alamat": "Jl. Randupadangan",
+      "kelurahan": "Randupadangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 86,
+      "npsn": "20536985",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 237 GRESIK",
+      "alamat": "Jl. Raya Menganti",
+      "kelurahan": "Setro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 87,
+      "npsn": "20500609",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 238 GRESIK",
+      "alamat": "Jl. Sidojangkung",
+      "kelurahan": "Sidojangkung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 88,
+      "npsn": "20500625",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 239 GRESIK",
+      "alamat": "Jl. Raya Menganti",
+      "kelurahan": "Sidowungu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 89,
+      "npsn": "20500488",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 18 GRESIK",
+      "alamat": "Desa Domas RT 08 RW 03 Kecamatan Menganti Kabupaten Gresik",
+      "kelurahan": "Domas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 90,
+      "npsn": "20500511",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 29 GRESIK",
+      "alamat": "Jl. Raya Laban",
+      "kelurahan": "Laban",
+      "status": "NEGERI"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KEBOMAS",
+  "updated_at": "2026-09-06T13:08:58.948Z",
+  "count": 46,
+  "negeri": 22,
+  "swasta": 24,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "20500513",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 22 GRESIK",
+      "alamat": "Jl. Raya Bengawan Solo 91-93",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": "60719041",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL FALAH",
+      "alamat": "JL.RAYA KEDANYANG KEBOMAS GRESIK",
+      "kelurahan": "Kedanyang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719047",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MA`ARIF AL HASANI",
+      "alamat": "JL. SUNAN PRAPEN 2 AF NO. 3",
+      "kelurahan": "Klangonan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719043",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MA`ARIF NGARGOSARI",
+      "alamat": "JL.DEWI SEKARDADU 35 NGARGOSARI",
+      "kelurahan": "Ngargosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719038",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MA`ARIF SIDOMUKTI",
+      "alamat": "JL. SUNAN GIRI XIII/E NO:26 SIDOMUKTI - KEBOMAS - GRESIK",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719048",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MANBA`UR ROHMAH",
+      "alamat": "JL. DR. WAHIDIN SH NO.80 RT 3 RW 8 DUSUN SUMBER",
+      "kelurahan": "Kembangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719039",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MASYHUDIYAH",
+      "alamat": "JL. SUNAN GIRI 18 F / 08 KEBOMAS GRESIK",
+      "kelurahan": "Giri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719042",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "JL. KH. SYAFI`I  GG: II  NO: 02",
+      "kelurahan": "Dahanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719046",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MODERN SUNAN GIRI",
+      "alamat": "JL. SUNAN GIRI 82",
+      "kelurahan": "Singosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719045",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SUNAN GIRI SIDOMORO",
+      "alamat": "JL. VETERAN 6 NO 30 SIDOMORO KEBOMAS GRESIK",
+      "kelurahan": "Sidomoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20582966",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MA`ARIF SIDOMUKTI",
+      "alamat": "JL. SUNAN GIRI XIII L/18A SIDOMUKTI KEBOMAS GRESIK",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20582965",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MASYHUDIYAH",
+      "alamat": "JL. SUNAN GIRI 18F / 08",
+      "kelurahan": "Giri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "70045106",
+      "nama_satuan_pendidikan": "MI AL FATTAH",
+      "alamat": "JALAN SUNAN GIRI XIII R",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719040",
+      "nama_satuan_pendidikan": "MIS AL MATHLABATUL KHOIRIYAH",
+      "alamat": "JL. JAMBU RAYA NO. 10 SUKOREJO KEBOMAS GRESIK",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "70000524",
+      "nama_satuan_pendidikan": "SD ALAM MUHAMMADIYAH KEDANYANG",
+      "alamat": "Perum GKGA Blok T-11 Kedanyang",
+      "kelurahan": "Prambangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20566063",
+      "nama_satuan_pendidikan": "SD Islam Al-Raudlatul Amien Full Day Education",
+      "alamat": "JL. TOPAZ VII NO. 31-32 GRAHA BUNDER ASRI",
+      "kelurahan": "Kembangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20501164",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 KEBOMAS",
+      "alamat": "Jalan Sunan Prapen 1/15 Desa Giri Kecamatan Kebomas Kabupaten Gresik",
+      "kelurahan": "Giri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20501165",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH GKB",
+      "alamat": "Jl. Belitung IV/20 GKB",
+      "kelurahan": "Randuagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20570063",
+      "nama_satuan_pendidikan": "SD NU NURUL ISHLAH",
+      "alamat": "Jl. Dr. Wahidin Sudirohusodo Gg. 24 Gresik",
+      "kelurahan": "Randuagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20501129",
+      "nama_satuan_pendidikan": "SD SIG",
+      "alamat": "Jl. Tauchid Perdin. PT. Semen Gresik",
+      "kelurahan": "Sidomoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20500442",
+      "nama_satuan_pendidikan": "SMP DHARMA BHAKTI GRESIK",
+      "alamat": "Jalan Ra Kartini IV No. 1",
+      "kelurahan": "Sidomoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20500439",
+      "nama_satuan_pendidikan": "SMP ISLAM MANBAUL ULUM",
+      "alamat": "Jl. Sunan Giri VII/23",
+      "kelurahan": "Kawisanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20500533",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 4",
+      "alamat": "Jl. Sunan Prapen I/17",
+      "kelurahan": "Giri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20500548",
+      "nama_satuan_pendidikan": "SMP SEMEN GRESIK",
+      "alamat": "Jalan Awikoen I No. 1",
+      "kelurahan": "Gending",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "69786397",
+      "nama_satuan_pendidikan": "SMPS DARUT TAQWA",
+      "alamat": "Jl. KH. Syafi`i Bunder, Kebomas",
+      "kelurahan": "Dahanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20500317",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 16 GRESIK",
+      "alamat": "Jl. Kh. Syafii Iv/4",
+      "kelurahan": "Dahanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20500283",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 17 GRESIK",
+      "alamat": "Jl. Veteran Madya 01 D",
+      "kelurahan": "Gending",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20500384",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 18 GRESIK",
+      "alamat": "Jl. Mayjen Sungkono 14a",
+      "kelurahan": "Gulomantung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20500375",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 19 GRESIK",
+      "alamat": "Jl. Kapt. Darmo Sugondo XII/50",
+      "kelurahan": "Indro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20500400",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 20 GRESIK",
+      "alamat": "Jl. Kapt. Darmo Sugondo",
+      "kelurahan": "Karangkering",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20500370",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 21 GRESIK",
+      "alamat": "Jl. Sunan Giri V/ 31",
+      "kelurahan": "Kawisanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20500350",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 22 GRESIK",
+      "alamat": "Jl. Dr. Wahidin Sudirohusodo 89",
+      "kelurahan": "Kebomas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500342",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 23 GRESIK",
+      "alamat": "Desa Kedanyang",
+      "kelurahan": "Kedanyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500353",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 24 GRESIK",
+      "alamat": "Jl. Mayjen Sungkono 18",
+      "kelurahan": "Kembangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500259",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 25 GRESIK",
+      "alamat": "Jl. Sunan Prapen No. 48 Desa Klangonan Kecamatan Kebomas Kabupaten gresik",
+      "kelurahan": "Klangonan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500247",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 26 GRESIK",
+      "alamat": "Jl. Mayjen Sungkono VII/01",
+      "kelurahan": "Prambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500194",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 27 GRESIK",
+      "alamat": "Jl. Dr. Wahidin Sudirohusodo 36 F No. 45",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500193",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 28 GRESIK",
+      "alamat": "Jl. Raya Brantas No.89a Randuagung",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500192",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 29 GRESIK",
+      "alamat": "Jl. Dr. Wahidin Sh 32/02",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500191",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 30 GRESIK",
+      "alamat": "Jl. Dr. Wahidin Sudirohusodo Gg. XXIV No.109",
+      "kelurahan": "Randuagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500213",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 31 GRESIK",
+      "alamat": "Jl. Veteran Segoromadu No. 38",
+      "kelurahan": "Segoromadu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500600",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 32 GRESIK",
+      "alamat": "Jl. Panglima Sudirman Gang XVI No. 24 Sidomoro, Kebomas",
+      "kelurahan": "Sidomoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500599",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 33 GRESIK",
+      "alamat": "Jl. Ra Kartini Xii/38",
+      "kelurahan": "Sidomoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500614",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 34 GRESIK",
+      "alamat": "Jl. Ra. Kartini XVI / 93",
+      "kelurahan": "Sidomoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20536986",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 35 GRESIK",
+      "alamat": "Jl. Ir. Ibrahim Zahier II/46 A",
+      "kelurahan": "Singosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500491",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 20 GRESIK",
+      "alamat": "Jl. Mayjen Sungkono 01 Kebomas",
+      "kelurahan": "Sekarkurung",
+      "status": "NEGERI"
+    }
+  ]
+}

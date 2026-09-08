@@ -1,0 +1,746 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SANGKAPURA",
+  "updated_at": "2026-09-06T13:09:39.915Z",
+  "count": 92,
+  "negeri": 38,
+  "swasta": 54,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "20500486",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 7 GRESIK",
+      "alamat": "Jalan Wiyatamandala No.2",
+      "kelurahan": "Sawahmulya",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": "20553256",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI SATU ATAP",
+      "alamat": "Jl. Bangsal No. 01 Dekatagung",
+      "kelurahan": "Dekatagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 3,
+      "npsn": "69983035",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL-ISTI`MAL",
+      "alamat": "DUSUN GUNUNG MALANG RT001/RW001 DESA PATARSELAMAT KECAMATAN SANGKAPURA KABUPATEN",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719172",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUT TAUHID",
+      "alamat": "DSN. RABA",
+      "kelurahan": "Lebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719171",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUHAMMADIYAH DAUN",
+      "alamat": "JL. KH. Ahmad Dahlan, No.09 Daun",
+      "kelurahan": "Bululanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719156",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 01 SAWAHMULYA",
+      "alamat": "JL. KAWEDANAN, NO. 03 SAWAHMULYA",
+      "kelurahan": "Sawahmulya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719147",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 02 SUNGAI RUJING",
+      "alamat": "DUSUN TAUBAT DESA SUNGAIRUJING",
+      "kelurahan": "Sungairujing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719148",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 03 DAUN 1",
+      "alamat": "JL. RAYA PASAR DAUN DUSUN DAUN BARAT",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719164",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 04 DAUN 2",
+      "alamat": "JL. RAYA PASAR DAUN DUSUN DAUN BARAT",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719154",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 05 DAUN III",
+      "alamat": "ALAS MAKMUR",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719159",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 06 BALIKTERUS 1",
+      "alamat": "BALIKBAK HILIR, DS. BALIKTERUS KEC. SANGKAPURA KAB. GRESIK",
+      "kelurahan": "Balikterus",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719155",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 07 BALIK TERUS 2",
+      "alamat": "SUNGAI TERUS LAOK, BALIK TERUS",
+      "kelurahan": "Balikterus",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719149",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 08 TELUKDALAM",
+      "alamat": "DSN. TELUKDALAM DS. KEBUNTELUK DALAM",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719151",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 09 BANI HATMIN",
+      "alamat": "DSN. LACCAR DS. KEBUNTELUK DALAM",
+      "kelurahan": "Lebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60719166",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 10 KEPONGAN",
+      "alamat": "Jalan Combut Dusun Kepongan Desa Kebontelukdalam",
+      "kelurahan": "Kebontelukdalam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60719150",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 11 BINASPA",
+      "alamat": "DSN. BINASPA",
+      "kelurahan": "Kebontelukdalam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60719158",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 12 SANGAR",
+      "alamat": "DSN. SANGAR DS. KEBUNTELUK DALAM",
+      "kelurahan": "Sungai Teluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60719160",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 13 GANDARIYAH",
+      "alamat": "JALAN MASJID BAITUL HASANAH GANDARIYAH",
+      "kelurahan": "Sawahmulya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60719168",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 14 GUNUNG SOKA",
+      "alamat": "DUSUN GUNUNGSUKA _ DESA GUNUNGTEGUH",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60719157",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 15 BALIKBAKGUNUNG",
+      "alamat": "JL. MASJID AL MUHAJIRIN",
+      "kelurahan": "Gunungteguh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60719162",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 16 MENARA",
+      "alamat": "Jl. Simpanglima No.01 Menara",
+      "kelurahan": "Gunungteguh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60719153",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 17 PATARSELAMAT",
+      "alamat": "Dusun Disallam Desa Patarselamat",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60719144",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 18 LEBAK I",
+      "alamat": "JL. MASJID JAMI NO. 02",
+      "kelurahan": "Lebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60719163",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 19 TANJUNG ANYAR",
+      "alamat": "JL. RAYA TANJUNG ANYAR LEBAK SANGKAPURA",
+      "kelurahan": "Bululanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60719161",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 20 SUNGAITELUK",
+      "alamat": "JALAN PEDOMAN NO. 05 SUNGAI TELUK",
+      "kelurahan": "Kec. Sangkapura",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60719152",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 21 BULULANJANG",
+      "alamat": "JL. MANDALA BULUAR UTARA BULULANJANG",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60719165",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 23 BUSTANUL ARIFIN",
+      "alamat": "JL. MASJID JAMI' BAITURRAHMAN BANGKALAN DEKATAGUNG",
+      "kelurahan": "Dekatagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60719146",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 24 DARUSSALAM",
+      "alamat": "Jl. Mbah Gusti No. 1 Kumalasa",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60719169",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 26 NURUL IMAN",
+      "alamat": "Jl. Simpang Tiga Dsn. Sawahrujing",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "60719170",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SYAMSUL QURA",
+      "alamat": "KUMALABARU",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "70037675",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL-MAHMUDIYAH",
+      "alamat": "JL. MASJID AL FALAH",
+      "kelurahan": "Sidogedungbatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20583007",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH DARUSSALAM",
+      "alamat": "JLN RAYA 1 KUMALASA",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20583004",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH DARUSSALAM",
+      "alamat": "JL. PP. DARUSSALAM DAUN TIMUR DESA DAUN",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "69977787",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH DARUSSHOLAH",
+      "alamat": "Gunungmas Desa Lebak",
+      "kelurahan": "Lebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20583010",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH HASAN JUFRI",
+      "alamat": "Jl. Raya Kebunagung Lebak Sangkapura Gresik 61181",
+      "kelurahan": "Lebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20583002",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH HIMAYATUL ISLAM",
+      "alamat": "JL. LAPANGAN MASBAWANG TELUKDALAM",
+      "kelurahan": "Kebontelukdalam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "69734218",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH IHYAUL ULUM",
+      "alamat": "PONPES AN NASHIRIYAH",
+      "kelurahan": "Sidogedungbatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20583006",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MA`ARIF IV",
+      "alamat": "JL. LINGKAR BAWEAN NO.40",
+      "kelurahan": "Sidogedungbatu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20583008",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MA`ARIF V",
+      "alamat": "JL. RAYA SUWARI BARAT DESA SUWARI",
+      "kelurahan": "Suwari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20583003",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MUHAMMADIYAH 5",
+      "alamat": "JLN K.H.AHMAD DAHLAN No.09",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20583005",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NU MENARA",
+      "alamat": "JL. MASJID AL-MUBAROK NO.02 MENARA",
+      "kelurahan": "Gunungteguh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "69734219",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NU MIFTAHUL ULUM",
+      "alamat": "BULULANJANG SANGKAPURA",
+      "kelurahan": "Bululanjang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20583009",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NU NURUL AMIN",
+      "alamat": "Jl.Masjid Baitul Hasanah Gandariyah-Balikterus",
+      "kelurahan": "Balikterus",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "69977791",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH PLUS NURUT TAQWA",
+      "alamat": "JL. RAYA KH. BAZZI NO 04, DUKU SUNGAIRUJING",
+      "kelurahan": "Sungairujing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "69754591",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH QIRA`ATUT THALIBIN",
+      "alamat": "SANGKAPURA",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "60719145",
+      "nama_satuan_pendidikan": "MIS MINU 22 AL-FALAH",
+      "alamat": "JL. PENDIDIKAN NO.10 PUDAKITTIMUR KEC. SANGKAPURA",
+      "kelurahan": "Pudakittimur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "60719167",
+      "nama_satuan_pendidikan": "MIS MINU 25 KUMALASA 111",
+      "alamat": "JL. PENDIDIKAN NO.01 TAJUNGKIMA",
+      "kelurahan": "Kumalasa",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "70013537",
+      "nama_satuan_pendidikan": "MTSS ADDINI AL-BURDAH",
+      "alamat": "JL. AL-HAFID K.H BURDAH PERAPATUNGGAL-DEKATAGUNG",
+      "kelurahan": "Dekatagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "70013335",
+      "nama_satuan_pendidikan": "MTSS AL-AZHAR NASHIRUDDIN",
+      "alamat": "JL. WISATA AIR TERJUN LACCAR",
+      "kelurahan": "Daun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "69754586",
+      "nama_satuan_pendidikan": "MTSS UMAR MASUD",
+      "alamat": "SANGKAPURA",
+      "kelurahan": "Sawahmulya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20546962",
+      "nama_satuan_pendidikan": "SD ISLAM TERPADU AL HUDA",
+      "alamat": "Jln. Wiyatamandala No.09",
+      "kelurahan": "Sungairujing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "70013577",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 BAWEAN",
+      "alamat": "Jalan Umar Masud RT. 003 RW. 005",
+      "kelurahan": "Kotakusuma",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "70043401",
+      "nama_satuan_pendidikan": "SD NU AN-NUR",
+      "alamat": "Jl. Pedoman No 02 RT 002 RW 003",
+      "kelurahan": "Sungai Teluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "69966461",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU AL-FALAH",
+      "alamat": "Jl. Pendidikan No. 10 Dusun Sumberrejo",
+      "kelurahan": "Pudakittimur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20500534",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 3 SANGKAPURA",
+      "alamat": "Jl. Kuala No. 41 Sangkapura",
+      "kelurahan": "Sawahmulya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20500544",
+      "nama_satuan_pendidikan": "SMP UMAR MAS UD SANGKAPURA",
+      "alamat": "Jln. Nirwana 01 Sawahmulya",
+      "kelurahan": "Sawahmulya",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20501089",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 325 GRESIK",
+      "alamat": "Balibak Hilir",
+      "kelurahan": "Balikterus",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20501088",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 326 GRESIK",
+      "alamat": "Dusun Sungaiterus Utara",
+      "kelurahan": "Balikterus",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20500300",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 327 GRESIK",
+      "alamat": "Bululanjang",
+      "kelurahan": "Bululanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20500299",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 328 GRESIK",
+      "alamat": "Bululanjang",
+      "kelurahan": "Bululanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20500275",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 329 GRESIK",
+      "alamat": "Jl. Raya Daun No. 17",
+      "kelurahan": "Daun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20500274",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 330 GRESIK",
+      "alamat": "Alas Makmur",
+      "kelurahan": "Daun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20500273",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 331 GRESIK",
+      "alamat": "Poloasem",
+      "kelurahan": "Daun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20500272",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 332 GRESIK",
+      "alamat": "Dekatagung",
+      "kelurahan": "Dekatagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20500271",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 333 GRESIK",
+      "alamat": "Bangsal",
+      "kelurahan": "Dekatagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20500381",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 334 GRESIK",
+      "alamat": "Jln. Nyai Ageng Malokok Gunung Teguh",
+      "kelurahan": "Gunungteguh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20500348",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 335 GRESIK",
+      "alamat": "Jl Patar Kebuntelukdalam",
+      "kelurahan": "Kebontelukdalam",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20500346",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 336 GRESIK",
+      "alamat": "Serambah",
+      "kelurahan": "Kebontelukdalam",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20500161",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 337 GRESIK",
+      "alamat": "Jln. CokroKusumo. No. 12",
+      "kelurahan": "Kotakusuma",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20500156",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 338 GRESIK",
+      "alamat": "Jl. Raya Kumalasa",
+      "kelurahan": "Kumalasa",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20500165",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 339 GRESIK",
+      "alamat": "Muara",
+      "kelurahan": "Lebak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20500166",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 340 GRESIK",
+      "alamat": "Sungai Raya",
+      "kelurahan": "Lebak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20500182",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 341 GRESIK",
+      "alamat": "Gunungmas",
+      "kelurahan": "Lebak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20500230",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 342 GRESIK",
+      "alamat": "Gunung Durin",
+      "kelurahan": "Patarselamat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20500221",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 343 GRESIK",
+      "alamat": "Dusun Cokel",
+      "kelurahan": "Patarselamat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20500231",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 344 GRESIK",
+      "alamat": "Kuduk - Kuduk",
+      "kelurahan": "Patarselamat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20500242",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 345 GRESIK",
+      "alamat": "Daya Sawah",
+      "kelurahan": "Pudakitbarat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20500220",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 346 GRESIK",
+      "alamat": "Pudakit Timur",
+      "kelurahan": "Pudakittimur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20500202",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 347 GRESIK",
+      "alamat": "Jl. Kawedanan No.3 Sangkapura",
+      "kelurahan": "Sawahmulya",
+      "status": "NEGERI"
+    },
+    {
+      "no": 80,
+      "npsn": "20500218",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 348 GRESIK",
+      "alamat": "Jln. Pendidikan No. 5 Sangkapura",
+      "kelurahan": "Sawahmulya",
+      "status": "NEGERI"
+    },
+    {
+      "no": 81,
+      "npsn": "20500613",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 349 GRESIK",
+      "alamat": "Batusendi",
+      "kelurahan": "Sidogedungbatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 82,
+      "npsn": "20500612",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 350 GRESIK",
+      "alamat": "Pamuna",
+      "kelurahan": "Sidogedungbatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 83,
+      "npsn": "20500611",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 351 GRESIK",
+      "alamat": "Pancor",
+      "kelurahan": "Sidogedungbatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 84,
+      "npsn": "20500610",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 352 GRESIK",
+      "alamat": "Pulau Gili",
+      "kelurahan": "Sidogedungbatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 85,
+      "npsn": "20500149",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 353 GRESIK",
+      "alamat": "Saricindan",
+      "kelurahan": "Sidogedungbatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 86,
+      "npsn": "20500347",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 354 GRESIK",
+      "alamat": "Sumber Torak",
+      "kelurahan": "Sidogedungbatu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 87,
+      "npsn": "20500589",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 355 GRESIK",
+      "alamat": "Sungai Rujing",
+      "kelurahan": "Sungairujing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 88,
+      "npsn": "20500588",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 356 GRESIK",
+      "alamat": "Jl. Kedaulatan Sungairujing",
+      "kelurahan": "Sungairujing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 89,
+      "npsn": "20500587",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 357 GRESIK",
+      "alamat": "Dukuh",
+      "kelurahan": "Sungairujing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 90,
+      "npsn": "20500586",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 358 GRESIK",
+      "alamat": "Sungaitopo",
+      "kelurahan": "Sungai Teluk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 91,
+      "npsn": "20500581",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 359 GRESIK",
+      "alamat": "Jl. Raya Suwari",
+      "kelurahan": "Suwari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 92,
+      "npsn": "20500580",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 360 GRESIK",
+      "alamat": "Tanah Putih",
+      "kelurahan": "Suwari",
+      "status": "NEGERI"
+    }
+  ]
+}

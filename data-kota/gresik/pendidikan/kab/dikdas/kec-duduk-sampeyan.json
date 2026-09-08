@@ -1,0 +1,386 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. DUDUK SAMPEYAN",
+  "updated_at": "2026-09-06T13:08:53.281Z",
+  "count": 47,
+  "negeri": 17,
+  "swasta": 30,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718982",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - IKHWAN",
+      "alamat": "JALAN HJ. NYAI FATIMAH SHOLEH NO. 01 RT 01 / RW 03 DESA KEMUDI",
+      "kelurahan": "Kemudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718990",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - ISLAMIYAH",
+      "alamat": "KRAMAT RT 03 / RW 01",
+      "kelurahan": "Kramat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718992",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL AZHAR",
+      "alamat": "JL. KIYAI MUHAIMIN RT 02 RW 02 DUSUN PETIS DESA PETISBENEM",
+      "kelurahan": "Petisbenem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718997",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BAHRUL ULUM",
+      "alamat": "KANDANGAN RT 01 RW 01",
+      "kelurahan": "Duduksampeyan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718996",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BUSTANUL ULUM",
+      "alamat": "TUMAPEL",
+      "kelurahan": "Tumapel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718989",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DA`WATUL KHOIRIYYAH",
+      "alamat": "DESA TEBALOAN KECAMATAN DUDUKSAMPEAN",
+      "kelurahan": "Tebaloan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718994",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DA`WATURROSYIDIN",
+      "alamat": "SUMARI DUDUKSAMPEYAN GRESIK",
+      "kelurahan": "Sumari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718987",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL ULUM",
+      "alamat": "JL. KH. ABDUL ROKHIM RT 02 RW 01BENEM",
+      "kelurahan": "Petisbenem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718991",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH FATHUL HUDA",
+      "alamat": "JL. MASJID BAITURROHIM RT 02 RW 01  TAMBAKREJO DUDUKSAMPEYAN GRESIK",
+      "kelurahan": "Tambakrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718978",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH INFARUL GHOYYI",
+      "alamat": "JALAN UTAMA DESA WADAK KIDUL",
+      "kelurahan": "Wadak Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718981",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MANBAUL ULUM ASSA`ADAH",
+      "alamat": "KRAMAT RT 01/RW 01",
+      "kelurahan": "Kramat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718983",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MATHLABUL ULUM",
+      "alamat": "JL UTAMA DESA PALEBON RT 03 RT 02",
+      "kelurahan": "Palebon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718979",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "JL MAS JID ANNUR BENDUNGAN",
+      "kelurahan": "Bendungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718985",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "DESA SETROHADI KECAMATAN DUDUKSAMPEAN",
+      "kelurahan": "Setrohadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718980",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL JANNAH",
+      "alamat": "JL. PENDIDIKAN RT. 10 RW. 06",
+      "kelurahan": "Kandangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718993",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "JL. MASJID AL-MUCHLISIN  RT. 10 RW. 03 GREDEK",
+      "kelurahan": "Gredek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718986",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "WADAK LOR",
+      "kelurahan": "Wadak Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718984",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUNAWAROH",
+      "alamat": "GLANGGANG RT.04;RW.02; NO.27",
+      "kelurahan": "Glanggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718976",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NASRUL UMAM",
+      "alamat": "AMBENG-AMBENG WATANGREJO",
+      "kelurahan": "Ambeng Ambeng Watangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718988",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "SAMIRPLAPAN",
+      "kelurahan": "Samirplapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718995",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUL MUTAALLIM",
+      "alamat": "JL.RAYA KAWISTOWINDU",
+      "kelurahan": "Kawistowindu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718977",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUS SHIBYAN",
+      "alamat": "JL RAYA SUMENGKO RT 11",
+      "kelurahan": "Sumengko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20582946",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL - IKHWAN",
+      "alamat": "KEMUDI DUDUKSAMPEYAN GRESIK",
+      "kelurahan": "Kemudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20582944",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH AL MUKARROMIN",
+      "alamat": "Jl. Utama No. 2 Wadak Kidul Duduksampeyan Gresik",
+      "kelurahan": "Wadak Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20582941",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ARRAUDLAH",
+      "alamat": "JL. PASAR PON NO. 18",
+      "kelurahan": "Tumapel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20582940",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MANBAUL ULUM ASSA`ADAH",
+      "alamat": "KRAMAT RT 01 RW 01",
+      "kelurahan": "Kramat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20582947",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MIFTAHUL JANNAH",
+      "alamat": "JL. PENDIDIKAN GG. 3 NO. 51 RT.10 RW.06",
+      "kelurahan": "Duduksampeyan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582945",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MUNAWAROH",
+      "alamat": "GLANGGANG",
+      "kelurahan": "Glanggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20500440",
+      "nama_satuan_pendidikan": "SMP ISLAM DUDUKSAMPEYAN",
+      "alamat": "Jl. Masjid Jami 242 Duduksampeyan",
+      "kelurahan": "Duduksampeyan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20500528",
+      "nama_satuan_pendidikan": "SMP YPI NASRUL UMAM",
+      "alamat": "Watangrejo Rt 02 Rw 01",
+      "kelurahan": "Ambeng Ambeng Watangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20501093",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 77 GRESIK",
+      "alamat": "Ambeng-ambeng Watangrejo",
+      "kelurahan": "Ambeng Ambeng Watangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20500261",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 78 GRESIK",
+      "alamat": "Jalan Raya Duduksampeyan No.11",
+      "kelurahan": "Duduksampeyan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500282",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 79 GRESIK",
+      "alamat": "Glanggang",
+      "kelurahan": "Glanggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500386",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 80 GRESIK",
+      "alamat": "Jl. Desa Gredek",
+      "kelurahan": "Gredek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500100",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 81 GRESIK",
+      "alamat": "Jl. RAYA PANDANAN",
+      "kelurahan": "Pandanan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500236",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 82 GRESIK",
+      "alamat": "Panjunan",
+      "kelurahan": "Panjunan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500254",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 83 GRESIK",
+      "alamat": "Petisbenem",
+      "kelurahan": "Petisbenem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500201",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 84 GRESIK",
+      "alamat": "Samirplapan",
+      "kelurahan": "Samirplapan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500632",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 85 GRESIK",
+      "alamat": "Dsn.Mandepo Ds.Setrohadi",
+      "kelurahan": "Setrohadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500564",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 86 GRESIK",
+      "alamat": "Sumari",
+      "kelurahan": "Sumari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500594",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 87 GRESIK",
+      "alamat": "Sumengko",
+      "kelurahan": "Sumengko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500685",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 88 GRESIK",
+      "alamat": "Tambakrejo",
+      "kelurahan": "Tambakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500684",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 89 GRESIK",
+      "alamat": "Tambakrejo 2",
+      "kelurahan": "Tambakrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500672",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 90 GRESIK",
+      "alamat": "Tebaloan",
+      "kelurahan": "Tebaloan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500699",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 91 GRESIK",
+      "alamat": "Jl. Puntadewa RT02 RW01 Tirem",
+      "kelurahan": "Tirem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500671",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 92 GRESIK",
+      "alamat": "Tumapel",
+      "kelurahan": "Tumapel",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500494",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 15 GRESIK",
+      "alamat": "Jl. Raya Sumengko 09 Duduksampeyan",
+      "kelurahan": "Sumengko",
+      "status": "NEGERI"
+    }
+  ]
+}

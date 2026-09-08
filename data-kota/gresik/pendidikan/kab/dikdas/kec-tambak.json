@@ -1,0 +1,482 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. TAMBAK",
+  "updated_at": "2026-09-06T13:09:44.734Z",
+  "count": 59,
+  "negeri": 30,
+  "swasta": 29,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69977789",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH PENABER",
+      "alamat": "JL. RAYA PAGINDA SUKAONENG",
+      "kelurahan": "Tambak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60719203",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH 40 ASRARUL ULUM",
+      "alamat": "Jl. Raya Masjid Arja Kepuhlegundi",
+      "kelurahan": "Kepuh Legundi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719194",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "Jl. K. Moh. Amin",
+      "kelurahan": "Sukaoneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719206",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MINU 42 MAMBAUL ULUM",
+      "alamat": "Jl. Pendidikan No. 01 Kelompanggubug",
+      "kelurahan": "Kelompanggubug",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719195",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 27 ASSA`ADAH",
+      "alamat": "JL. PENDIDIKAN",
+      "kelurahan": "Pekalongan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719205",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 28 MAMBAUL FALAH",
+      "alamat": "JLN. KYAI BURHAN AL-MANSUR TAMBILUNG",
+      "kelurahan": "Sukaoneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719207",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 29 DEDAWANG",
+      "alamat": "Jalan Raya Dedawang",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719198",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 30 ASYIQIYAH",
+      "alamat": "JALAN RAYA DUSUN TELUKJATI DESA TELUKJATIDAWANG KEC. TAMBAK. KAB. GRESIK",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719201",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 31 PADANG JAMBU",
+      "alamat": "JL. TOA AMSIKA NO.264 PADANG JAMBU",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719196",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 32 SUMBERLANAS",
+      "alamat": "JL. RAYA SUMBER LANAS",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719200",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 33 TANJUNGORI",
+      "alamat": "Jl.raya no.2 tanjungori",
+      "kelurahan": "Tanjungori",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719197",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 34 ASYIK MUKRI",
+      "alamat": "JALAN GELAM SELATAN",
+      "kelurahan": "Gelam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719202",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 35 LANGAOR",
+      "alamat": "-Jl.Masjid Almuhajirin Langaor",
+      "kelurahan": "Paromaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719210",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 36 ASSYAFIIYAH",
+      "alamat": "Dusun Sumberwaru Desa Peromaan Kec. Tambak",
+      "kelurahan": "Paromaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60719204",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 37 HIDAYATUL ULUM",
+      "alamat": "Jl. Raya Danau Kastoba Candi",
+      "kelurahan": "Paromaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60719209",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 38 MIFTAHUL HUDA",
+      "alamat": "JL. RAYA KEPUH TELUK NO.01 RT.1/RW.2 Kec. Tambak",
+      "kelurahan": "Kepuh Teluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60719199",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 39 LANGKAP",
+      "alamat": "LANGKAP",
+      "kelurahan": "Pekalongan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60719208",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU 41 CARABAKA",
+      "alamat": "Jl. Mumbul Sari Carabaka",
+      "kelurahan": "Kepuh Legundi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "69734217",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH DARUL IMAN",
+      "alamat": "JL. KG SOLO TAMBAK TIMUR  TAMBAK",
+      "kelurahan": "Gelam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "69977790",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH HUSNUL ISLAM",
+      "alamat": "JL. K. JAMZURI NO.10 SUKAONENG TIMUR",
+      "kelurahan": "Sukaoneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20583018",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MAMBAUL FALAH",
+      "alamat": "JL. KH. MANSUR TAMBILUNG",
+      "kelurahan": "Kelompanggubug",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "69734211",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MIFTAHUL HUDA",
+      "alamat": "JL. RAYA KEPUH TELUK NO.01 RT.1/RW.2 Tambak",
+      "kelurahan": "Kepuh Teluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20583020",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MIFTAHUL ULUM",
+      "alamat": "JL. K. MOH. AMIN",
+      "kelurahan": "Sukaoneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20583021",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NU PADANG JAMBU",
+      "alamat": "DSN. PADANG JAMBU DS. TELUKJATIDAWANG",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "69734210",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH RUHUL AMIN",
+      "alamat": "JL. RAYA LANGKAP N0. 01 RT.05/RW.00 TAMBAK",
+      "kelurahan": "Kepuh Teluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20583019",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF I",
+      "alamat": "JL. RAYA TELUKJATI",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20501134",
+      "nama_satuan_pendidikan": "SDNU RAUDHATUSSIBYAN",
+      "alamat": "Jl. Raya Paginda",
+      "kelurahan": "Sukaoneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "69970005",
+      "nama_satuan_pendidikan": "SMP ISLAM NURUL QIDAMI",
+      "alamat": "Kepuh Teluk RT. 004 RW. 001",
+      "kelurahan": "Kepuh Teluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20500437",
+      "nama_satuan_pendidikan": "SMP ISLAMIYAH BAWEAN",
+      "alamat": "Jl.raya Tambak No. 101 A",
+      "kelurahan": "Tambak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20500268",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 361 GRESIK",
+      "alamat": "Diponggo",
+      "kelurahan": "Diponggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20500286",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 362 GRESIK",
+      "alamat": "Jl. Raya Gelam",
+      "kelurahan": "Gelam",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20500385",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 363 GRESIK",
+      "alamat": "Desa Grejeg Utara",
+      "kelurahan": "Grejeg",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500366",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 364 GRESIK",
+      "alamat": "Jl. Air Panas",
+      "kelurahan": "Kepuh Legundi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500365",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 365 GRESIK",
+      "alamat": "Dusun Panyalpangan",
+      "kelurahan": "Kepuh Legundi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500364",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 366 GRESIK",
+      "alamat": "Jl. Raya Kepuh Teluk",
+      "kelurahan": "Kepuh Teluk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500363",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 367 GRESIK",
+      "alamat": "Jl. Mahakam Kepuh Teluk",
+      "kelurahan": "Kepuh Teluk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500362",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 368 GRESIK",
+      "alamat": "Dusun Tanah Rata",
+      "kelurahan": "Kepuh Teluk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500164",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 369 GRESIK",
+      "alamat": "Dusun Eler",
+      "kelurahan": "Kelompanggubug",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500183",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 370 GRESIK",
+      "alamat": "Dusun Pategalan",
+      "kelurahan": "Kelompanggubug",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500227",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 371 GRESIK",
+      "alamat": "Pekalongan",
+      "kelurahan": "Pekalongan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500226",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 372 GRESIK",
+      "alamat": "Gunung Timur",
+      "kelurahan": "Pekalongan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500223",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 373 GRESIK",
+      "alamat": "Jl. Telaga Kastoba",
+      "kelurahan": "Paromaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500240",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 374 GRESIK",
+      "alamat": "Jln. Gunung Desa",
+      "kelurahan": "Paromaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500241",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 375 GRESIK",
+      "alamat": "Dusun Tanah Merah",
+      "kelurahan": "Paromaan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500596",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 376 GRESIK",
+      "alamat": "Jl. Pendidikan",
+      "kelurahan": "Sukalela",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500595",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 377 GRESIK",
+      "alamat": "Sukaoneng",
+      "kelurahan": "Sukaoneng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500707",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 378 GRESIK",
+      "alamat": "Tambak Keramat",
+      "kelurahan": "Tambak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20500688",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 379 GRESIK",
+      "alamat": "Jl. Raya Tambak",
+      "kelurahan": "Tambak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20500687",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 380 GRESIK",
+      "alamat": "Jl.lapangan Tambak",
+      "kelurahan": "Tambak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20500686",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 381 GRESIK",
+      "alamat": "Tambak",
+      "kelurahan": "Tambak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20500679",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 382 GRESIK",
+      "alamat": "Jl. Raya Tanjungori",
+      "kelurahan": "Tanjungori",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20500677",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 383 GRESIK",
+      "alamat": "Jl. Raya Pajinggahan Tanjungori",
+      "kelurahan": "Tanjungori",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20500676",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 384 GRESIK",
+      "alamat": "Dusun Pagarangan",
+      "kelurahan": "Tanjungori",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20500675",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 385 GRESIK",
+      "alamat": "Dusun Langgatan",
+      "kelurahan": "Tanjungori",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20500690",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 386 GRESIK",
+      "alamat": "Jl. Pesisir Timur Telukjatidawang",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20500706",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 387 GRESIK",
+      "alamat": "Dusun Dedawang",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20500705",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 388 GRESIK",
+      "alamat": "Jalan Sayyid Yusuf Dusun Batu lintang",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20500704",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 389 GRESIK",
+      "alamat": "Pinanggunung Telukjatidawang",
+      "kelurahan": "Teluk Jatidawang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20500501",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 19 GRESIK",
+      "alamat": "Jl. Kramat Tambak",
+      "kelurahan": "Tambak",
+      "status": "NEGERI"
+    }
+  ]
+}

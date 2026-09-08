@@ -1,0 +1,434 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SIDAYU",
+  "updated_at": "2026-09-06T13:09:18.573Z",
+  "count": 53,
+  "negeri": 18,
+  "swasta": 35,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60719176",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - FIRDAUS",
+      "alamat": "JL.RAYA LASEM SIDAYU GRESIK",
+      "kelurahan": "Lasem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60719188",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL FATAH",
+      "alamat": "JL. KLAMPOK RT.01 RW.02",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719180",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL FURQON",
+      "alamat": "JL. KH. AHMAD FADLIL 9 SROWO SIDAYU",
+      "kelurahan": "Srowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719193",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL KHOLIDIYAH",
+      "alamat": "JL. MANGGA NO. 24",
+      "kelurahan": "Wadeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719178",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DAROYISSALAM",
+      "alamat": "KERTOSONO",
+      "kelurahan": "Kertosono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "69977736",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH IM DARUL IKHLAS",
+      "alamat": "JL. TELAGA RAMBIT NO.08",
+      "kelurahan": "Purwodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719183",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ISLAMIYAH",
+      "alamat": "SIDORUKUN KERTOSONO",
+      "kelurahan": "Kertosono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719174",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ISLAMIYAH",
+      "alamat": "JL. KH. MUNAWWAR 38 PENGULU SIDAYU GRESIK 61153",
+      "kelurahan": "Pengulu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719185",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ISLAMIYAH",
+      "alamat": "JLN. DEANDLES NO 27 SAMBIPONDOK SIDAYU GRESIK KODE POS 61153",
+      "kelurahan": "Sambipondok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719190",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH KANJENG SEPUH 1",
+      "alamat": "JL. AIR LANGGA NGAWEN",
+      "kelurahan": "Ngawen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719184",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH KANJENG SEPUH 2",
+      "alamat": "JL. MASJID AL MUTTAQIN NO 42 RACI KULON",
+      "kelurahan": "Racikulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719191",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MAMBA`UL HISAN",
+      "alamat": "JL. KH. MUNAWAR NO, 15",
+      "kelurahan": "Pengulu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719173",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MAMBAUDDA`WAH",
+      "alamat": "MASJID JAMI` BAITURRAHMAN TANJUNGSARI",
+      "kelurahan": "Randuboto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60719189",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "JL. TERATAI B NO. 05-06 BRAK WADENG",
+      "kelurahan": "Wadeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60719181",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUHAMMADIYAH",
+      "alamat": "JL. KHA. DAHLAN II/02,  DESA GOLOKAN KEC. SIDAYU GRESIK",
+      "kelurahan": "Golokan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60719179",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MUTTABIUL HUDA",
+      "alamat": "PETIYIN WADENG SIDAYU GRESIK",
+      "kelurahan": "Wadeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60719186",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NAHDLATUL UMMAH",
+      "alamat": "JL. LAPANGAN NOMOR 01 DESA GOLOKAN SIDAYU GRESIK",
+      "kelurahan": "Golokan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60719175",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU ASSYAFI`IYAH",
+      "alamat": "JL. PELITA III RT 02 RW 01 RANDUBOTO",
+      "kelurahan": "Randuboto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60719187",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL ATHFAL",
+      "alamat": "Jl. Pendidikan RT. 02 RW. 02 No. 02",
+      "kelurahan": "Ngawen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60719177",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL FATAH",
+      "alamat": "JL.RAYA GEDANGAN",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60719182",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "JL.RAYA NO.13 - 15 WADENG",
+      "kelurahan": "Kec. Sidayu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60719192",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TUHFATUS SHIBYAN",
+      "alamat": "JL. PENDIDIKAN NO.06 RT.01 RW.07 UJUNG TIMUR",
+      "kelurahan": "Racikulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "69983229",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ISLAM TERPADU REFAH",
+      "alamat": "Desa Sukorejo RT 01 RW 01",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20583017",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH KANJENG SEPUH",
+      "alamat": "Jl. Kanjeng Sepuh No. 2 Mriyunan",
+      "kelurahan": "Mriyunan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20583015",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MAMBA UL HISAN",
+      "alamat": "JL. KH. MUNAWAR NO 15 PENGULU SIDAYU GRESIK",
+      "kelurahan": "Pengulu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20583011",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MUHAMMADIYAH 4",
+      "alamat": "JL.TELAGA RAMBIT NO.35B PURWODADI SIDAYU GRESIK",
+      "kelurahan": "Purwodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20583016",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NAHDLATUL ULAMA`",
+      "alamat": "JL. KH. HASYIM ASY`ARI NO. 1",
+      "kelurahan": "Kertosono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20583013",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NURUL FATAH",
+      "alamat": "JL. RAYA DESA GEDANGAN SIDAYU GRESIK",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20583012",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NURUL HUDA",
+      "alamat": "Jl. Raya Wadeng No. 13 - 15",
+      "kelurahan": "Wadeng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20583014",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NURUL JADID",
+      "alamat": "JL. PELITA III/143 RANDUBOTO SIDAYU",
+      "kelurahan": "Randuboto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20501161",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH SIDAYU",
+      "alamat": "JL. PEMUDA 67 SIDAYU",
+      "kelurahan": "Bunderan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20501160",
+      "nama_satuan_pendidikan": "SD NU KANJENG SEPUH",
+      "alamat": "Jl. Kanjeng Sepuh No. 02",
+      "kelurahan": "Mriyunan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20500537",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 9 SIDAYU",
+      "alamat": "Jalan Raya Deandles RT.01/RW.01",
+      "kelurahan": "Golokan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "70045189",
+      "nama_satuan_pendidikan": "SMP PLUS JAUHARUL MAKNUUN ISLAMIC BOARDING SCHOOL",
+      "alamat": "Jl. Raya Dukun-Lasem RT 001 RW 001",
+      "kelurahan": "Lasem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "70012122",
+      "nama_satuan_pendidikan": "SMP SUNANUL MUHTADIN",
+      "alamat": "Dusun Sidorukun RT. 012 RW. 005",
+      "kelurahan": "Kertosono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20500287",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 259 GRESIK",
+      "alamat": "Jl. Raya Gedangan",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500407",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 260 GRESIK",
+      "alamat": "Jl. Raya Golokan",
+      "kelurahan": "Golokan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500361",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 261 GRESIK",
+      "alamat": "Jalan Raya Kertosono",
+      "kelurahan": "Kertosono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500150",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 262 GRESIK",
+      "alamat": "Jl. Raya Lasem 22",
+      "kelurahan": "Lasem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500119",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 263 GRESIK",
+      "alamat": "Jl Raden Bardun No.5",
+      "kelurahan": "Mriyunan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500136",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 264 GRESIK",
+      "alamat": "Jl. Nyai Ayu 36",
+      "kelurahan": "Ngawen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500198",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 265 GRESIK",
+      "alamat": "Racikulon",
+      "kelurahan": "Racikulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500197",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 266 GRESIK",
+      "alamat": "Jl. Mawar No. 35",
+      "kelurahan": "Racitengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500190",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 267 GRESIK",
+      "alamat": "Jl. Pelita 03",
+      "kelurahan": "Randuboto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500215",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 268 GRESIK",
+      "alamat": "Jl. KH. Raden Said No. 1-3",
+      "kelurahan": "Sedagaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500631",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 269 GRESIK",
+      "alamat": "Jl. Kh. Ahmad Fadlil No. 35",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500566",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 270 GRESIK",
+      "alamat": "SUKOREJO",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20552071",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 271 GRESIK",
+      "alamat": "Jl. Raya Wadeng No. 17",
+      "kelurahan": "Wadeng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20500647",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 272 GRESIK",
+      "alamat": "Budi Utomo No. 01",
+      "kelurahan": "Wadeng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20500510",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 23 GRESIK",
+      "alamat": "Jl. Raya Wadeng",
+      "kelurahan": "Wadeng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20500506",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 30 GRESIK",
+      "alamat": "Jl. Kanjeng Sepuh",
+      "kelurahan": "Mriyunan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20500504",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 32 GRESIK",
+      "alamat": "Jalan Gelang Jaya VI/18",
+      "kelurahan": "Lasem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20500485",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 6 GRESIK",
+      "alamat": "Jalan Kanjeng Sepuh",
+      "kelurahan": "Mriyunan",
+      "status": "NEGERI"
+    }
+  ]
+}

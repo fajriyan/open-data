@@ -1,0 +1,378 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. GRESIK",
+  "updated_at": "2026-09-06T13:09:03.744Z",
+  "count": 46,
+  "negeri": 19,
+  "swasta": 27,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60719026",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ASMAIYAH",
+      "alamat": "KEBUNGSON",
+      "kelurahan": "Kebungson",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60719031",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH FATHIMIYAH",
+      "alamat": "JL. MALIK IBRAHIM NO. 19 GRESIK",
+      "kelurahan": "Gapurosukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719030",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH LUMPUR",
+      "alamat": "JL. SINDUJOYO X / 54 LUMPUR",
+      "kelurahan": "Lumpur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719037",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM GRESIK",
+      "alamat": "JL. GUBERNUR SURYO 110 GRESIK",
+      "kelurahan": "Tlogopojok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719028",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU SALAFIYYAH",
+      "alamat": "JL. KH. WAKHID HASYIM VII B / 10 GRESIK",
+      "kelurahan": "Bedilan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719033",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU SUKODONO",
+      "alamat": "JL. KH. HASYIM ASY`ARI 15 GRESIK",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719034",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU TRATE PUTRI",
+      "alamat": "JL. KH. ABDUL KARIM 60 GRESIK",
+      "kelurahan": "Trate",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719032",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NU TRATEE PUTERA",
+      "alamat": "JL. KH. ABDUL KARIM 60 GRESIK",
+      "kelurahan": "Trate",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719029",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH POEMUSGRI",
+      "alamat": "JALAN SINDUJOYO 28 GRESIK 61116",
+      "kelurahan": "Kroman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "70034101",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NU SINDUJOYO",
+      "alamat": "Jalan Sindujoyo XVI A RT 05 RW 02 Lumpur Gresik",
+      "kelurahan": "Lumpur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20582964",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH NU TRATE GRESIK",
+      "alamat": "JL. KH. ABDUL KARIM 60 GRESIK",
+      "kelurahan": "Trate",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719027",
+      "nama_satuan_pendidikan": "MIS MIM BANIN BANAT NU",
+      "alamat": "JL. K.H. KHOLIL III/1-3 GRESIK",
+      "kelurahan": "Kebungson",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20501137",
+      "nama_satuan_pendidikan": "SD AT THOHIRIYAH",
+      "alamat": "Jl. Harun Thohir No. 35",
+      "kelurahan": "Pulopancikan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20501163",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 GRESIK",
+      "alamat": "JL. KH. KHOLIL 90 GRESIK",
+      "kelurahan": "Kemuteran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20501148",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 2",
+      "alamat": "Jl. Kh. Kholil 90",
+      "kelurahan": "Kemuteran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20501162",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 3 GRESIK",
+      "alamat": "Jalan Harun Tohir 67 A Gresik",
+      "kelurahan": "Pulopancikan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20501159",
+      "nama_satuan_pendidikan": "SD NAHDLATUL ULAMA-1 TRATE GRESIK",
+      "alamat": "Jl. Kh. Abdul Karim Gresik",
+      "kelurahan": "Trate",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20501157",
+      "nama_satuan_pendidikan": "SD PUTRA DARUL ISLAM",
+      "alamat": "Jl. Kh. Kholil No. 39",
+      "kelurahan": "Kebungson",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20501099",
+      "nama_satuan_pendidikan": "SD SETIA BUDHI",
+      "alamat": "Jalan Dr Setia Budhi 7 - 9 Gresik",
+      "kelurahan": "Bedilan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20554881",
+      "nama_satuan_pendidikan": "SD YIMI FULL DAY SCHOOL",
+      "alamat": "Jl. K.H. Agus Salim 37 Gresik",
+      "kelurahan": "Gapurosukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20500443",
+      "nama_satuan_pendidikan": "SMP DARUL ISLAM GRESIK",
+      "alamat": "Jl. Dr. Setia Budhi No 05 Gresik",
+      "kelurahan": "Bedilan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20500529",
+      "nama_satuan_pendidikan": "SMP MUALLIMAT NU",
+      "alamat": "Jl. KH. Hasyim Asyari 15",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20500536",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 1 GRESIK",
+      "alamat": "Jl. Kh. Kholil 90",
+      "kelurahan": "Kemuteran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20500503",
+      "nama_satuan_pendidikan": "SMP NAHDLATUL ULAMA 2",
+      "alamat": "Jalan Raden Santri V/22",
+      "kelurahan": "Bedilan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20500527",
+      "nama_satuan_pendidikan": "SMP NU 1",
+      "alamat": "JL. KH. HASYIM ASYARI 13-15",
+      "kelurahan": "Sukodono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20500554",
+      "nama_satuan_pendidikan": "SMP PGRI 2 GRESIK",
+      "alamat": "Jl. Jaksa Agung No.71gresik",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20500436",
+      "nama_satuan_pendidikan": "SMP YIMI GRESIK FULL DAY SCHOOL",
+      "alamat": "Jl. Jaksa Agung Suprapto No. 76 Gresik  61111",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20501083",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 1 GRESIK",
+      "alamat": "Jl. Aks Tubun No.1  Gresik",
+      "kelurahan": "Bedilan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20500601",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 10 GRESIK",
+      "alamat": "Jl Arif Rahman Hakim",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20500627",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 11 GRESIK",
+      "alamat": "Jl. Amak Khasim 31",
+      "kelurahan": "Sidorukun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20500571",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 12 GRESIK",
+      "alamat": "Jl. Usman Sadar XV / 52",
+      "kelurahan": "Sukorame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20500696",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 13 GRESIK",
+      "alamat": "Jl. Dr. Sutomo No. 46",
+      "kelurahan": "Tlogopatut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500695",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 14 GRESIK",
+      "alamat": "Jl. Kartini 294",
+      "kelurahan": "Tlogopatut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500694",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 15 GRESIK",
+      "alamat": "Jl.Gubernur Suryo XI/54 Gresik",
+      "kelurahan": "Tlogopojok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500391",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 2 GRESIK",
+      "alamat": "JL. USMAN SADAR VIII/03 GRESIK",
+      "kelurahan": "Karangturi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500174",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 3 GRESIK",
+      "alamat": "Jl.gubernur Suryo No.25 Gresik",
+      "kelurahan": "Lumpur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500252",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 4 GRESIK",
+      "alamat": "Jl. A. Yani Gresik",
+      "kelurahan": "Karangturi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500607",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 5 GRESIK",
+      "alamat": "Jl. Jaksa Agung Suprapto 5 Gresik",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500606",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 6 GRESIK",
+      "alamat": "Jl. Jaksa Agung Suprapto No.1 Gresik",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500605",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 7 GRESIK",
+      "alamat": "JL. JAKSA AGUNG SUPRAPTO VI/2",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500603",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 8 GRESIK",
+      "alamat": "Jl. Akasia No.22 Bp Wetan",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500602",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 9 GRESIK",
+      "alamat": "Jl. Arif Rahman Hakim No.36",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500492",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 1 GRESIK",
+      "alamat": "Jl.Jaksa Agung Suprapto No. 79 Gresik",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500514",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 2 GRESIK",
+      "alamat": "Jl. KH. Kholil No.16 Gresik",
+      "kelurahan": "Kebungson",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500507",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 3 GRESIK",
+      "alamat": "Jl. Panglima Sudirman No. 100",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500505",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 4 GRESIK",
+      "alamat": "Jl. Proklamasi No. 17 Gresik",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    }
+  ]
+}

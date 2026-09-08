@@ -1,0 +1,442 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. CERME",
+  "updated_at": "2026-09-06T13:08:37.705Z",
+  "count": 54,
+  "negeri": 27,
+  "swasta": 27,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "20500496",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 5 GRESIK",
+      "alamat": "Jl. Raya Cerme Kidul 69",
+      "kelurahan": "Cerme Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": "60718959",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL HIDAYAH",
+      "alamat": "RAYA BANJARSARI NO. 24",
+      "kelurahan": "Banjarsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718948",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL-KHOIRIYAH",
+      "alamat": "JALAN MASJID NO. 09DUSUN AMBURAN DESA KANDANGAN KECAMATAN CERME",
+      "kelurahan": "Kandangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718950",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AS SHIBYAN",
+      "alamat": "DAMPAAN",
+      "kelurahan": "Dampaan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718964",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BAITUSSALAM",
+      "alamat": "Jl. Mawar RT 001 RW 001 Dusun Betiring",
+      "kelurahan": "Banjarsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718965",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH BANI HASYIM",
+      "alamat": "JL. BANI HASYIM NO. 01",
+      "kelurahan": "Lengkong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69819616",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL UBUDIYYAH",
+      "alamat": "Jl. Terongbangi Rt.2 Rw.1",
+      "kelurahan": "Dadapkuning",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718957",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUN NAJAH",
+      "alamat": "KARANGAN",
+      "kelurahan": "Kambingan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718954",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH HIDAYATUL ISLAMIYAH",
+      "alamat": "GEDANGKULUT CERME",
+      "kelurahan": "Gedangkulut",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718960",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MANBAUL ULUM",
+      "alamat": "SEMAMPIR RT 03 RW I CERME GRESIK",
+      "kelurahan": "Semampir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718953",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MATHOLIUL ANWAR",
+      "alamat": "JL. RAYA TAMBAK BERAS",
+      "kelurahan": "Tambakberas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718949",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MATHOLIUL FALAH",
+      "alamat": "DUNGUS",
+      "kelurahan": "Dungus",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718956",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "KAMBINGAN - CERME - GRESIK",
+      "kelurahan": "Kambingan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718961",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "JL.MADRASAH BETITING KEC.CERME",
+      "kelurahan": "Betiting",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718963",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "DSN.SAWAHAN RT.02/RW.08-KEC.CERME",
+      "kelurahan": "Gedangkulut",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718952",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "LENGKONG RT.02 RW.02",
+      "kelurahan": "Lengkong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718958",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH ROUDLOTUT THOLIBIN",
+      "alamat": "TEMPEL-WEDANI-CERME-GRESIK  RT 01 RW 03",
+      "kelurahan": "Wedani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718951",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL AULAD",
+      "alamat": "JL. TAMBAK REJO RT.01 RW.01 WEDANI CERME",
+      "kelurahan": "Wedani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718955",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL BANIN",
+      "alamat": "JL.JAMBU DESA SEMAMPIR",
+      "kelurahan": "Semampir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718962",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH TARBIYATUL MUWAHHIDIN",
+      "alamat": "JL. RAYA MOROWUDI NO. 36",
+      "kelurahan": "Morowudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582932",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH BANI HASYIM",
+      "alamat": "BANI HASYIM NO. 1-9",
+      "kelurahan": "Lengkong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582931",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ROUDLOTUL HIKMAH",
+      "alamat": "JL.RAYA BANJARSARI GG.PONPES NO.39 DS.BANJARSARI CERME GRESIKSARI CERME",
+      "kelurahan": "Banjarsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20582933",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH TARBIYATUL AULAD",
+      "alamat": "DUSUN WEDANI DESA WEDANI KECAMATAN CERME",
+      "kelurahan": "Wedani",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20501138",
+      "nama_satuan_pendidikan": "SD AL ISLAM MOROWUDI",
+      "alamat": "Jln. Raya Morowudi No. 01",
+      "kelurahan": "Morowudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20501096",
+      "nama_satuan_pendidikan": "SD YPI DARUSSALAM",
+      "alamat": "Desa Cerme Lor",
+      "kelurahan": "Cerme Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20500531",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 7 CERME",
+      "alamat": "Jl. Raya Morowudi No.01 Cerme",
+      "kelurahan": "Morowudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20500521",
+      "nama_satuan_pendidikan": "SMP YPI DARUSSALAM 1 CERME",
+      "alamat": "Jl. Raya Pasar Cerme Lor No. 03",
+      "kelurahan": "Cerme Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20500520",
+      "nama_satuan_pendidikan": "SMP YPI DARUSSALAM 2",
+      "alamat": "Jl. Raya Morowudi No. 36",
+      "kelurahan": "Morowudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20501121",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 52 GRESIK",
+      "alamat": "Jl. Raya Banjarsari No. 10",
+      "kelurahan": "Banjarsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20576746",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 53 GRESIK",
+      "alamat": "Perumahan Cerme Indah",
+      "kelurahan": "Betiting",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20500315",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 54 GRESIK",
+      "alamat": "Cagakagung",
+      "kelurahan": "Cagakagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20500325",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 55 GRESIK",
+      "alamat": "Jln. Raya Cerme Kidul No. 86",
+      "kelurahan": "Cerme Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20500324",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 56 GRESIK",
+      "alamat": "Jln. Jurit No. 02",
+      "kelurahan": "Cerme Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20500323",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 57 GRESIK",
+      "alamat": "Jl. Raya Pasar Cerme Lor No. 64 & 66 Desa Cerme Lor",
+      "kelurahan": "Cerme Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500318",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 58 GRESIK",
+      "alamat": "Jl. Raya Dadapkuning No. 19",
+      "kelurahan": "Dadapkuning",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500265",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 59 GRESIK",
+      "alamat": "Desa Dooro",
+      "kelurahan": "Dooro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500294",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 60 GRESIK",
+      "alamat": "Jl.Raya Dungus",
+      "kelurahan": "Dungus",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500288",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 61 GRESIK",
+      "alamat": "Gedangkulut",
+      "kelurahan": "Gedangkulut",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500379",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 62 GRESIK",
+      "alamat": "Jln. Airlangga No.03",
+      "kelurahan": "Guranganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500376",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 63 GRESIK",
+      "alamat": "Jl. Jurit - Betiting",
+      "kelurahan": "Ikerikergeger",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500406",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 64 GRESIK",
+      "alamat": "JL.DUSUN TUGU",
+      "kelurahan": "Jono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500402",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 65 GRESIK",
+      "alamat": "Kambingan",
+      "kelurahan": "Kambingan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500401",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 66 GRESIK",
+      "alamat": "Jln. Raya Kandangan",
+      "kelurahan": "Kandangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500118",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 67 GRESIK",
+      "alamat": "Dsn.Tandegan",
+      "kelurahan": "Morowudi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500139",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 68 GRESIK",
+      "alamat": "Desa Ngabetan",
+      "kelurahan": "Ngabetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500135",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 69 GRESIK",
+      "alamat": "Jln. Ngembung No 11",
+      "kelurahan": "Ngembung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500130",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 70 GRESIK",
+      "alamat": "Desa Paseg",
+      "kelurahan": "Padeg",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20500258",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 71 GRESIK",
+      "alamat": "Ds.pandu",
+      "kelurahan": "Pandu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20500207",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 72 GRESIK",
+      "alamat": "Jalan Poros Desa Semampir",
+      "kelurahan": "Semampir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20500576",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 73 GRESIK",
+      "alamat": "Dusun Ngering Rt 03 Rw 03",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20500575",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 74 GRESIK",
+      "alamat": "Sukoanyar",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20500559",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 75 GRESIK",
+      "alamat": "Tambakberas",
+      "kelurahan": "Tambakberas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20500642",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 76 GRESIK",
+      "alamat": "Jalan Makadam No.5",
+      "kelurahan": "Wedani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20500515",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 24 GRESIK",
+      "alamat": "Jl. Raya Dungus Cerme Gresik",
+      "kelurahan": "Dungus",
+      "status": "NEGERI"
+    }
+  ]
+}

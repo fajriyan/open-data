@@ -1,0 +1,474 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. WRINGIN ANOM",
+  "updated_at": "2026-09-06T13:08:15.510Z",
+  "count": 58,
+  "negeri": 25,
+  "swasta": 33,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60719240",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AL - HIDAYAH",
+      "alamat": "SUMBER PLOSO",
+      "kelurahan": "Sembung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60719246",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH AS SALAM",
+      "alamat": "TANJUNG, WATESTANJUNG",
+      "kelurahan": "Watestanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60719243",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUL ULUM",
+      "alamat": "PASINAN LEMAH PUTIH RT.03 RW.01 KEC. WRINGINANOM KAB.GRESIK",
+      "kelurahan": "Pasinan Lemahputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60719238",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUNNAJAH",
+      "alamat": "LEBANISUKO - WRINGINANOM - GRESIK",
+      "kelurahan": "Lebanisuko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60719241",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH DARUS SALAM",
+      "alamat": "DUSUN TLANAK DS. SEMBUNG KEC.WRINGINANOM KAB. GRESIK",
+      "kelurahan": "Sembung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60719247",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MA ARIF AT TAQWA",
+      "alamat": "JLN RANDUSONGO KESAMBEN KULON",
+      "kelurahan": "Kesambenkulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60719235",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MATHLABUN NAJIHIN",
+      "alamat": "SUMBERWARU-WRINGINANOM",
+      "kelurahan": "Sumberwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60719239",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL HUDA",
+      "alamat": "SUMBERWARU RT.02 RW.04",
+      "kelurahan": "Sumberwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60719237",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "WATESTANJUNG RT/RW:06/02",
+      "kelurahan": "Watestanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60719242",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "SOOKO",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60719236",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH MIFTAHUL ULUM",
+      "alamat": "PEDAGANGAN RT 11 RW 02",
+      "kelurahan": "Pedagangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60719245",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH NURUL HUDA",
+      "alamat": "kesamben kulon",
+      "kelurahan": "Kesambenkulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60719244",
+      "nama_satuan_pendidikan": "MADRASAH IBTIDAIYAH SUNAN GIRI",
+      "alamat": "REJOSARI SUMBERAME",
+      "kelurahan": "Kedunganyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20583036",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MAULANA MALIK IBRAHIM",
+      "alamat": "SOOKO",
+      "kelurahan": "Soko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20583035",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH MODERN AL HUDA",
+      "alamat": "LEBANIWARAS",
+      "kelurahan": "Lebaniwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20583033",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH RADEN PAKU",
+      "alamat": "JL. RAYA WRINGINANOM NO.25",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20583032",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH ROUDLOTUL HIKMAH",
+      "alamat": "WATESTANJUNG WRINGINANOM GRESIK 61176",
+      "kelurahan": "Watestanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "70013326",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH SUNAN GIRI",
+      "alamat": "DS. SUMENGKO RT 04 RW 02",
+      "kelurahan": "Sumengko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20583034",
+      "nama_satuan_pendidikan": "MADRASAH TSANAWIYAH WALISONGO",
+      "alamat": "JL. PEDAGANGAN RT. 11 RW. 02",
+      "kelurahan": "Pedagangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "70043070",
+      "nama_satuan_pendidikan": "MIS TAHFIDZ USMANIYAH",
+      "alamat": "JALAN RAYA WRINGINANOM",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "70043665",
+      "nama_satuan_pendidikan": "MTSS UNGGULAN HAMDALAH 01",
+      "alamat": "Jl.Raya Pasinan Wringinanom,Sidokandeg",
+      "kelurahan": "Pasinan Lemahputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "69955391",
+      "nama_satuan_pendidikan": "SD ISLAM AL IRSYAD",
+      "alamat": "Dsn. Juwet RT. 01 RW. 04",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20536988",
+      "nama_satuan_pendidikan": "SD ISLAM AL MUHAJIRIN",
+      "alamat": "Sumengko utara rt.17 rw.07",
+      "kelurahan": "Sumengko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "70043983",
+      "nama_satuan_pendidikan": "SD ISLAM AL-ILLIYIN",
+      "alamat": "Dusun Sumberwaru RT 002 RW 003",
+      "kelurahan": "Sumberwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "69963184",
+      "nama_satuan_pendidikan": "SD ISLAM ROUDLOTUL HIKMAH",
+      "alamat": "Dusun Ngampon RT 011  RW 003",
+      "kelurahan": "Watestanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "70043669",
+      "nama_satuan_pendidikan": "SD ISLAM SUBULUSSALAM",
+      "alamat": "Dusun Sumberglagah RT 002 RW 001",
+      "kelurahan": "Kepuhklagen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20536991",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 WRINGINANOM",
+      "alamat": "Wringinanom",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20536990",
+      "nama_satuan_pendidikan": "SDIT YAA BUNAYYA",
+      "alamat": "Sidowaras",
+      "kelurahan": "Lebaniwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20537003",
+      "nama_satuan_pendidikan": "SMP AL MUHAJIRIN",
+      "alamat": "Jl. Sumengko Utara",
+      "kelurahan": "Sumengko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "70043968",
+      "nama_satuan_pendidikan": "SMP AL-ILLIYIN",
+      "alamat": "Dusun Sumberwaru RT 002 RW 003",
+      "kelurahan": "Sumberwaru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "70050936",
+      "nama_satuan_pendidikan": "SMP FAVORIT",
+      "alamat": "Jalan Raya Soko",
+      "kelurahan": "Soko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20500438",
+      "nama_satuan_pendidikan": "SMP ISLAM WATESTANJUNG",
+      "alamat": "Dsn. Wates RT 06 RW 02",
+      "kelurahan": "Watestanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20500550",
+      "nama_satuan_pendidikan": "SMP PGRI WRINGINANOM",
+      "alamat": "Jl. Raya Wringinanom",
+      "kelurahan": "Wringinanom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20500341",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 170 GRESIK",
+      "alamat": "Kedunganyar",
+      "kelurahan": "Kedunganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20500340",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 171 GRESIK",
+      "alamat": "Dusun Bureng Kidul",
+      "kelurahan": "Kedunganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20500368",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 172 GRESIK",
+      "alamat": "KepuhKlagen",
+      "kelurahan": "Kepuhklagen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20500360",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 173 GRESIK",
+      "alamat": "Kesambenkulon",
+      "kelurahan": "Kesambenkulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20500359",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 174 GRESIK",
+      "alamat": "Kesambenkulon",
+      "kelurahan": "Kesambenkulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20500181",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 175 GRESIK",
+      "alamat": "Lebanisuko",
+      "kelurahan": "Lebanisuko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20500179",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 176 GRESIK",
+      "alamat": "Lebaniwaras",
+      "kelurahan": "Lebaniwaras",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20500102",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 177 GRESIK",
+      "alamat": "Mondoluku",
+      "kelurahan": "Mondoluku",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20500233",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 178 GRESIK",
+      "alamat": "Pasinan Lemah Putih",
+      "kelurahan": "Pasinan Lemahputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20500232",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 179 GRESIK",
+      "alamat": "Pasinan Lemah Putih",
+      "kelurahan": "Pasinan Lemahputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20500229",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 180 GRESIK",
+      "alamat": "Pedagangan",
+      "kelurahan": "Pedagangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20500204",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 181 GRESIK",
+      "alamat": "Sembung",
+      "kelurahan": "Sembung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20500186",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 182 GRESIK",
+      "alamat": "Sooko",
+      "kelurahan": "Soko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20500563",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 183 GRESIK",
+      "alamat": "Sumberame",
+      "kelurahan": "Sumberame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20500561",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 184 GRESIK",
+      "alamat": "Sumbergede",
+      "kelurahan": "Sumbergede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20500560",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 185 GRESIK",
+      "alamat": "Sumberwaru",
+      "kelurahan": "Sumberwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20500577",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 186 GRESIK",
+      "alamat": "Sumberwaru",
+      "kelurahan": "Sumberwaru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20500593",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 187 GRESIK",
+      "alamat": "Sumengko",
+      "kelurahan": "Sumengko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20500578",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 188 GRESIK",
+      "alamat": "Sumengko",
+      "kelurahan": "Sumengko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20500645",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 189 GRESIK",
+      "alamat": "Watestanjung",
+      "kelurahan": "Watestanjung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20500644",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 190 GRESIK",
+      "alamat": "Watestanjung",
+      "kelurahan": "Watestanjung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20500637",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 191 GRESIK",
+      "alamat": "Wringinanom",
+      "kelurahan": "Wringinanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20500636",
+      "nama_satuan_pendidikan": "UPT SD NEGERI 192 GRESIK",
+      "alamat": "Wringinanom",
+      "kelurahan": "Wringinanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20500518",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 12 GRESIK",
+      "alamat": "Jl. Raya Wringinanom 138 Gresik",
+      "kelurahan": "Wringinanom",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20500509",
+      "nama_satuan_pendidikan": "UPT SMP NEGERI 26 GRESIK",
+      "alamat": "Bureng Kidul Rt.17 Rw.06",
+      "kelurahan": "Kedunganyar",
+      "status": "NEGERI"
+    }
+  ]
+}
