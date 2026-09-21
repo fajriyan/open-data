@@ -1,0 +1,466 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. MODO",
+  "updated_at": "2026-09-21T01:55:50.479Z",
+  "count": 57,
+  "negeri": 32,
+  "swasta": 25,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718650",
+      "nama_satuan_pendidikan": "MIS ALKHOIRIYAH - SIDODOWO",
+      "alamat": "JL.MANUNGGAL 02 SIDODOWO MODO LAMONGAN",
+      "kelurahan": "Sidodowo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718649",
+      "nama_satuan_pendidikan": "MIS INHADLUT THOLIBIN",
+      "alamat": "JL. PENDIDIKAN NO 01",
+      "kelurahan": "Kec. Modo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718647",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "KEDUNGPENGARON MODO LAMONGAN",
+      "kelurahan": "Kedungpengaron",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718652",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH KEDUNGLEREP",
+      "alamat": "DUSUN BAJUL DESA KEDUNGLEREP",
+      "kelurahan": "Pule",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718651",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH NGUWOK",
+      "alamat": "JL. MOROSENENG NO. 25 NGUWOK",
+      "kelurahan": "Nguwok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718654",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU TORONGLO",
+      "alamat": "DUSUN TORONGLO DESA SUMBERAGUNG KECAMATAN MODO KABUPATEN LAMONGAN",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718643",
+      "nama_satuan_pendidikan": "MIS MANBAUL HUDA",
+      "alamat": "JL.MASJID AT-TAQWA BENDO DS.MOJOREJO",
+      "kelurahan": "Mojorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718646",
+      "nama_satuan_pendidikan": "MIS Miftahul Ulum",
+      "alamat": "SAMBEN RT 15 RW 07 DS. JEGREG",
+      "kelurahan": "Jegreg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718655",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JALAN MADRASAH NO. 25 LENGKIR KACANGAN",
+      "kelurahan": "Jatipayak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718653",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "JLN. LAPANGAN OLAHRAGA DESA MOJOREJO",
+      "kelurahan": "Mojorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718645",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH JEGREG",
+      "alamat": "RT. 006 RW. 002 DUSUN KAMPAK DESA JEGREG",
+      "kelurahan": "Jegreg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718648",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH KEDUNGWARAS",
+      "alamat": "DUSUN KEDUNG, DESA KEDUNGWARAS",
+      "kelurahan": "Kedungwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718644",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH MEDALEM KEC. MODO",
+      "alamat": "DUSUN GANGGANG DESA MEDALEM KECAMATAN MODO",
+      "kelurahan": "Medalem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718642",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH SUMBERAGUNG",
+      "alamat": "JLN. MANGUNSIDI NO 8  DSN. PULO  DS. SUMBERAGUNG  KEC. MODO  KAB. LAMONGAN  JAW",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20582835",
+      "nama_satuan_pendidikan": "MTSS ALKHOIRIYAH SIDODOWO",
+      "alamat": "JLN MANUNGGAL NO. 02",
+      "kelurahan": "Jegreg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69881688",
+      "nama_satuan_pendidikan": "MTSS Asrorus Syifa",
+      "alamat": "Jln Musholla Baiturrohim No 01 Landeyan",
+      "kelurahan": "Kedungwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20582836",
+      "nama_satuan_pendidikan": "MTSS ISLAMIYAH NGUWOK",
+      "alamat": "JL. RAYA BABAT-JOMBANG NO. 02 DESA NGUWOK",
+      "kelurahan": "Nguwok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582837",
+      "nama_satuan_pendidikan": "MTSS MAARIF NU NGUWOK",
+      "alamat": "JL. RAYA NGUWOK NO. 99",
+      "kelurahan": "Nguwok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "70013515",
+      "nama_satuan_pendidikan": "MTSS MAMBA`UL ULUM MODO",
+      "alamat": "JL. RAYA MODO DSN. NGEMBES",
+      "kelurahan": "Yungyang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582834",
+      "nama_satuan_pendidikan": "MTSS MANBA`UL HUDA",
+      "alamat": "JL. MASJID ATTAQWA BENDO MOJOREJO KECAMATAN MODO LAMONGAN",
+      "kelurahan": "Mojorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20574450",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Modo",
+      "alamat": "Dusun Sumberwungu RT.02 RW.04",
+      "kelurahan": "Kedungpengaron",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20506232",
+      "nama_satuan_pendidikan": "SD Negeri 1 Jatipayak",
+      "alamat": "Dusun Jati",
+      "kelurahan": "Jatipayak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20506151",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kacangan",
+      "alamat": "Desa Kacangan",
+      "kelurahan": "Kacangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20505884",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungpengaron",
+      "alamat": "Dusun Banjaringas desa kedungpengaron",
+      "kelurahan": "Kedungpengaron",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20505889",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungrejo",
+      "alamat": "Jl Panglima Sudirman No 116 Dusun Karangpilang Desa Kedungrejo",
+      "kelurahan": "Kedungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20505879",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungwaras",
+      "alamat": "Dusun Landean desa kedungwaras",
+      "kelurahan": "Kedungwaras",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20505851",
+      "nama_satuan_pendidikan": "SD NEGERI 1 MOJOREJO",
+      "alamat": "Dusun Gonjo",
+      "kelurahan": "Mojorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505948",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pule",
+      "alamat": "Jalan Raya Dradah-Modo No. 108 Kec.Modo Kab.Lamongan",
+      "kelurahan": "Pule",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506514",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sidodowo",
+      "alamat": "Dusun Beringin desa sidodowo",
+      "kelurahan": "Sidodowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506541",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sidomulyo",
+      "alamat": "Dusun Pleding DESA SIDOMULYO",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506485",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sumberagung",
+      "alamat": "Dusun Torongglonggong",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506592",
+      "nama_satuan_pendidikan": "SD Negeri 1 Yungyang",
+      "alamat": "Dusun Ngembes Desa Yungyang",
+      "kelurahan": "Yungyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506233",
+      "nama_satuan_pendidikan": "SD NEGERI 2 JATIPAYAK",
+      "alamat": "Dusun Jati",
+      "kelurahan": "Jatipayak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506226",
+      "nama_satuan_pendidikan": "SD Negeri 2 Jegreg",
+      "alamat": "Dusun Balong Desa Jegreg",
+      "kelurahan": "Jegreg",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506152",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kacangan",
+      "alamat": "Dusun Lengkir Desa kacangan",
+      "kelurahan": "Kacangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20505885",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungpengaron",
+      "alamat": "Dusun Pengkol",
+      "kelurahan": "Kedungpengaron",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20505891",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungrejo",
+      "alamat": "Dusun Dopok Desa Kedungrejo",
+      "kelurahan": "Kedungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20505852",
+      "nama_satuan_pendidikan": "SD Negeri 2 Mojorejo",
+      "alamat": "Jalan Lapangan No 271 Dusun Modo",
+      "kelurahan": "Mojorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20505962",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pule",
+      "alamat": "Dsn. Jimus Desa Pule",
+      "kelurahan": "Pule",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506532",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sidomulyo",
+      "alamat": "Dusun Songaran",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506486",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sumberagung",
+      "alamat": "Dusun Kedungturi",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506593",
+      "nama_satuan_pendidikan": "SD Negeri 2 Yungyang",
+      "alamat": "Jl.amd Manunggal IV no 16 desa yungyang",
+      "kelurahan": "Yungyang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506225",
+      "nama_satuan_pendidikan": "SD Negeri 3 Jegreg",
+      "alamat": "Dusun Jegreg",
+      "kelurahan": "Jegreg",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20505866",
+      "nama_satuan_pendidikan": "SD Negeri 3 Mojorejo",
+      "alamat": "Jl Raya Modo No 05 Desa Mojorejo",
+      "kelurahan": "Mojorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506528",
+      "nama_satuan_pendidikan": "SD Negeri 3 Sidodowo",
+      "alamat": "DUSUN KEDUNGDOWO DESA SIDODOWO",
+      "kelurahan": "Sidodowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20505921",
+      "nama_satuan_pendidikan": "SD Negeri 4 Mojorejo",
+      "alamat": "Dusun Lebak",
+      "kelurahan": "Mojorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20505868",
+      "nama_satuan_pendidikan": "SD Negeri Kedunglerep",
+      "alamat": "Dusun Terban",
+      "kelurahan": "Kedunglerep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20505867",
+      "nama_satuan_pendidikan": "SD Negeri Medalem",
+      "alamat": "Dusun Ngangkrok desa medalem",
+      "kelurahan": "Medalem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20505980",
+      "nama_satuan_pendidikan": "SD Negeri Nguwok",
+      "alamat": "Jalan Raya Babat Jombang No. 05 & 07 Nguwok Modo Lamongan",
+      "kelurahan": "Nguwok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20505954",
+      "nama_satuan_pendidikan": "SD NEGERI SAMBANGREJO",
+      "alamat": "Jalan Terban Dusun Graman Desa Sambangrejo",
+      "kelurahan": "Sambangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20505957",
+      "nama_satuan_pendidikan": "SD Negeri Sambungrejo",
+      "alamat": "Dusun Mambung desa sambungrejo",
+      "kelurahan": "Sambungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "69960811",
+      "nama_satuan_pendidikan": "SMP IHYAUL ULUM MODO",
+      "alamat": "Jl. Ponpes ihyaul ulum Balong Modo",
+      "kelurahan": "Jegreg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20506409",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 10 MODO",
+      "alamat": "Jl. Lapangan Olahraga",
+      "kelurahan": "Mojorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "69766976",
+      "nama_satuan_pendidikan": "SMP NAHDLATUL ULAMA MODO",
+      "alamat": "JL. RAYA MOJOREJO NO. 59 MODO",
+      "kelurahan": "Mojorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20506353",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 MODO",
+      "alamat": "Jl. Panji No. 03",
+      "kelurahan": "Pule",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506383",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 MODO",
+      "alamat": "Sumberjo",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506361",
+      "nama_satuan_pendidikan": "SMP TRISAKTI MODO",
+      "alamat": "Jln. Trisakti  Dusun , Bendo,  Rt.01/04",
+      "kelurahan": "Mojorejo",
+      "status": "SWASTA"
+    }
+  ]
+}

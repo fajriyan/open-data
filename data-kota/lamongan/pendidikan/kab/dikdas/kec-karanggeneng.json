@@ -1,0 +1,402 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KARANGGENENG",
+  "updated_at": "2026-09-21T01:56:41.840Z",
+  "count": 49,
+  "negeri": 20,
+  "swasta": 29,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718519",
+      "nama_satuan_pendidikan": "MIN 2 LAMONGAN",
+      "alamat": "Jl. Masjid No. 279",
+      "kelurahan": "Kawistolegi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 2,
+      "npsn": "60718520",
+      "nama_satuan_pendidikan": "MIS AL MUKHLISHIN",
+      "alamat": "DESA BANJARMADU KARANGGENENG LAMONGAN",
+      "kelurahan": "Banjarmadu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718530",
+      "nama_satuan_pendidikan": "MIS AL-MUHAJIRIN I",
+      "alamat": "JALAN. AH.YANI RT. 12 RW. 03 DESA LATUKAN",
+      "kelurahan": "Jagran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718531",
+      "nama_satuan_pendidikan": "MIS AL-MUHAJIRIN II",
+      "alamat": "JLN.PATIMURAH RT.12 RW.03 LATUKAN",
+      "kelurahan": "Latukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718534",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL.RAJAWALI NO 12  DESA KALIGERMAN",
+      "kelurahan": "Jagran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718536",
+      "nama_satuan_pendidikan": "MIS DARUL HIKAM",
+      "alamat": "JL. SULTAN HASANUDDIN NO.44",
+      "kelurahan": "Sumberwudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718535",
+      "nama_satuan_pendidikan": "MIS FALAHIYAH",
+      "alamat": "JLN. MASJID AL HUDA RT.04/RW.02",
+      "kelurahan": "Banjarmadu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718526",
+      "nama_satuan_pendidikan": "MIS HIDAYATUS SHIBYAN",
+      "alamat": "JL. EMBONG GEDE KENDAL",
+      "kelurahan": "Kendalkemlagi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718527",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "SUMBERWUDI-KARANGGENENG",
+      "kelurahan": "Sumberwudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718528",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH GUPPI",
+      "alamat": "JLN SRI GADING LEGOH JAGRAN",
+      "kelurahan": "Jagran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718521",
+      "nama_satuan_pendidikan": "MIS MA`ARIF AT TAQWA",
+      "alamat": "DESA KALANGANYAR RT.04 RW.01",
+      "kelurahan": "Karangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718533",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU",
+      "alamat": "JALAN KH. HASYIM ASYARI NO. 26 BANTENGPUTIH",
+      "kelurahan": "Bantengputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718537",
+      "nama_satuan_pendidikan": "MIS MANSYAUL HUDA",
+      "alamat": "JALAN RAYA PUD DESA GUCI",
+      "kelurahan": "Jagran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718529",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "JL. PATTIMURA  NO 57 DESA LATUKAN",
+      "kelurahan": "Latukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718532",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "JL.SUNAN KALIJAGA NO 93 BANTENGPUTIH",
+      "kelurahan": "Bantengputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718525",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "KENDALKEMLAGI",
+      "kelurahan": "Kendalkemlagi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718524",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL BANAT",
+      "alamat": "SIMO SUNGELEBAK KARANGGENENG LAMONGAN",
+      "kelurahan": "Sungelebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718523",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL BANIN",
+      "alamat": "DUSUN SIMO DESA SUNGELEBAK KECAMATAN KARANGGENENG",
+      "kelurahan": "Sungelebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "69853461",
+      "nama_satuan_pendidikan": "MTS PUTRA-PUTRI SIMO",
+      "alamat": "JL.Raya Simo Sungelebak Karanggeneng",
+      "kelurahan": "Sungelebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582800",
+      "nama_satuan_pendidikan": "MTSS AL MUSLIMUN",
+      "alamat": "JALAN MASJID NO. 279. KAWISTOLEGI",
+      "kelurahan": "Kawistolegi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582801",
+      "nama_satuan_pendidikan": "MTSS AT-TAQWA",
+      "alamat": "DESA KALANGANYAR KECAMATAN KARANGGENENG KABUPATEN LAMONGAN",
+      "kelurahan": "Karanggeneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582799",
+      "nama_satuan_pendidikan": "MTSS DARUL HIKAM",
+      "alamat": "JLN. SULTAN HASANUDDIN NO 44. TRACAL KARANGGENENG LAMONGAN. KODE POS: 62254 E-M",
+      "kelurahan": "Tracal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20582802",
+      "nama_satuan_pendidikan": "MTSS HIDAYATUS SHIBYAN",
+      "alamat": "KENDALKEMLAGI KARANGGENENG LAMONGAN",
+      "kelurahan": "Kendalkemlagi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20582798",
+      "nama_satuan_pendidikan": "MTSS NURUL JADID",
+      "alamat": "JL. RAYA NO. 64 BANJARMADU",
+      "kelurahan": "Banjarmadu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20582803",
+      "nama_satuan_pendidikan": "MTSS TANWIRUL QULUB",
+      "alamat": "JL RAYA SUKODADI-KARANGGENENG SUNGELEBAK KARANGGENENG",
+      "kelurahan": "Sungelebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "69985315",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Karanggeneng",
+      "alamat": "Dsn. Karanggeneng RT002 RW002",
+      "kelurahan": "Karanggeneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20505830",
+      "nama_satuan_pendidikan": "SD Negeri 1 Latukan",
+      "alamat": "Jl. Ahmad Yani No. 36 Latukan",
+      "kelurahan": "Latukan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505845",
+      "nama_satuan_pendidikan": "SD Negeri 1 Mertani",
+      "alamat": "DS. MERTANI",
+      "kelurahan": "Mertani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20505846",
+      "nama_satuan_pendidikan": "SD Negeri 2 Mertani",
+      "alamat": "Desa Mertani",
+      "kelurahan": "Mertani",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506095",
+      "nama_satuan_pendidikan": "SD Negeri Banjarmadu",
+      "alamat": "Jl. Raya Karanggeneng Nomor 10",
+      "kelurahan": "Banjarmadu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506101",
+      "nama_satuan_pendidikan": "SD Negeri Bantengputih",
+      "alamat": "Bantengputih",
+      "kelurahan": "Bantengputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506196",
+      "nama_satuan_pendidikan": "SD Negeri Guci",
+      "alamat": "Desa Guci",
+      "kelurahan": "Guci",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506228",
+      "nama_satuan_pendidikan": "SD Negeri Jagran",
+      "alamat": "Jagran",
+      "kelurahan": "Jagran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506155",
+      "nama_satuan_pendidikan": "SD Negeri Kalanganyar",
+      "alamat": "Kalanganyar",
+      "kelurahan": "Kalanganyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506157",
+      "nama_satuan_pendidikan": "SD Negeri Kaligerman",
+      "alamat": "Jl. Pengairan No. 55",
+      "kelurahan": "Kaligerman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506142",
+      "nama_satuan_pendidikan": "SD Negeri Karanggeneng",
+      "alamat": "Jl. Raya Karanggeneg No. 11",
+      "kelurahan": "Karanggeneng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506159",
+      "nama_satuan_pendidikan": "SD Negeri Karangrejo",
+      "alamat": "Karangrejo",
+      "kelurahan": "Karangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506177",
+      "nama_satuan_pendidikan": "SD Negeri Karangwungu",
+      "alamat": "Karangwungu",
+      "kelurahan": "Karangwungu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506180",
+      "nama_satuan_pendidikan": "SD Negeri Kawistolegi",
+      "alamat": "Desa Kawistolegi",
+      "kelurahan": "Kawistolegi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20505894",
+      "nama_satuan_pendidikan": "SD Negeri Kendalkemlagi",
+      "alamat": "Jl. Raya PUD No. 128 Ds. Kendalkemlagi Kec. Karanggeneng Kab. Lamongan",
+      "kelurahan": "Kendalkemlagi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20505927",
+      "nama_satuan_pendidikan": "SD Negeri Prijekngablak",
+      "alamat": "Jl. Bengawan Solo No. 156 Desa Prijek Ngablak",
+      "kelurahan": "Prijekngablag",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506463",
+      "nama_satuan_pendidikan": "SD Negeri Sonoadi",
+      "alamat": "Dusun Boyo, DS. Sonoadi RT.02/RW.01",
+      "kelurahan": "Sonoadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506633",
+      "nama_satuan_pendidikan": "SD Negeri Sumberwudi",
+      "alamat": "Jalan Raya Sumberwudi No.408 - Kecamatan Karanggeneng",
+      "kelurahan": "Sumberwudi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506612",
+      "nama_satuan_pendidikan": "SD Negeri Sungelebak",
+      "alamat": "Sungelebak",
+      "kelurahan": "Sungelebak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506275",
+      "nama_satuan_pendidikan": "SMP EMPAT LIMA KARANGGENENG",
+      "alamat": "JL. Patimura No.9",
+      "kelurahan": "Latukan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20506424",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 5 KARANGGENENG",
+      "alamat": "Jl. Raya Karanggeneng No. 27",
+      "kelurahan": "Karanggeneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20506445",
+      "nama_satuan_pendidikan": "SMP NAHDLATUL ULAMA  KARANGGENENG",
+      "alamat": "Ds. Simo Sungelebak Karanggeneng LAMONGAN",
+      "kelurahan": "Sungelebak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20506357",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KARANGGENENG",
+      "alamat": "Ds. Sumberwudi Karanggeneng Kab. Lamongan",
+      "kelurahan": "Sumberwudi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506363",
+      "nama_satuan_pendidikan": "SMP WAHID HASYIM KARANGGENENG",
+      "alamat": "Desa. Sumberwudi Kec. Karanggeneng Kab. Lamongan",
+      "kelurahan": "Sumberwudi",
+      "status": "SWASTA"
+    }
+  ]
+}

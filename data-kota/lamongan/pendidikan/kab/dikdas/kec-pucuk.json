@@ -1,0 +1,490 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PUCUK",
+  "updated_at": "2026-09-21T01:55:59.543Z",
+  "count": 60,
+  "negeri": 18,
+  "swasta": 42,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718714",
+      "nama_satuan_pendidikan": "MIS AL-HIDAYAH",
+      "alamat": "JL. KI HAJAR DEWANTARA PADENGANPLOSO PUCUK",
+      "kelurahan": "Padenganploso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718713",
+      "nama_satuan_pendidikan": "MIS DARUL HASAN",
+      "alamat": "DUSUN WONOREJO DESA NGAMBEG KEC. PUCUK KAB. LAMONGAN",
+      "kelurahan": "Ngambeg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718712",
+      "nama_satuan_pendidikan": "MIS IHYAUL ULUM",
+      "alamat": "JL. IMAM BONJOL NO. 104",
+      "kelurahan": "Ngambeg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718718",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DSN. PERENG DS. SUMBERJO KEC. PUCUK KAB. LAMONGAN",
+      "kelurahan": "Sumberjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60729509",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL. Karya",
+      "kelurahan": "Karangtinggil",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718702",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH KEDALI",
+      "alamat": "Jl. Pendidikan No.1 Desa Kedali, Kecamatan Pucuk",
+      "kelurahan": "Kedali",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718708",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH PLOSOSETRO",
+      "alamat": "JL. PENDIDIKAN NO.212 RT.05 RW.01` DESA PLOSOSETRO KEC.PUCUK KAB.LAMONGAN",
+      "kelurahan": "Plososetro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718703",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH SUMBERJO",
+      "alamat": "DSN.PATALAN DS. SUMBERJO KEC. PUCUK KAB. LAMONGAN",
+      "kelurahan": "Sumberjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718704",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU KEBONAGUNG",
+      "alamat": "KEBONAGUNG,SUMBERJO PUCUK LAMONGAN",
+      "kelurahan": "Sumberjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718698",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU PUCUK",
+      "alamat": "JL VETERAN NO 136 PUCUK",
+      "kelurahan": "Pucuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718706",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU TANGGUNGAN",
+      "alamat": "JL.KH.BADRUN NO.163 RT.04 RW.02 TANGGUNGAN-PUCUK-LAMONGAN",
+      "kelurahan": "Tanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718720",
+      "nama_satuan_pendidikan": "MIS MAARIF NU PLOSOSETRO",
+      "alamat": "JL.MASJID NO 216 RT 004 RW 002 DS. PLOSOSETRO",
+      "kelurahan": "Plososetro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718699",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 KESAMBI",
+      "alamat": "JL. PENDIDIKAN NO. 1 KESAMBI",
+      "kelurahan": "Kesambi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718711",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03",
+      "alamat": "DSN BAKUNG DS. NGAMBEG KEC. PUCUK KAB. LAMONGAN",
+      "kelurahan": "Ngambeg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718710",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 04 CUNGKUP",
+      "alamat": "JL.BALAI DESA NO.35",
+      "kelurahan": "Cungkup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69727506",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 05",
+      "alamat": "JL. Sidodadi no 160",
+      "kelurahan": "Gempolpading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718705",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 06 TANGGUNGAN",
+      "alamat": "JL.KH.BADRUN NO.82 DS.TANGGUNGAN KEC.PUCUK",
+      "kelurahan": "Tanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718701",
+      "nama_satuan_pendidikan": "MIS Muhammadiyah 07 Warukulon",
+      "alamat": "JL.KH.A.DAHLAN NO.21 DESA WARUKULON KEC.PUCUK",
+      "kelurahan": "Warukulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718697",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 08 TULUNG",
+      "alamat": "DSN.TULUNG DS.WANAR KEC.PUCUK",
+      "kelurahan": "Wanar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718716",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 2 PADENGANPLOSO",
+      "alamat": "JL. JEND. SUDIRMAN RT 04/RW 02",
+      "kelurahan": "Padenganploso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718719",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA",
+      "alamat": "JL. KYAI PATIH NO 3 PAJI",
+      "kelurahan": "Paji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718717",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL ATHFAL",
+      "alamat": "JL.KULINTANG RT.01/RW.04 DUSUN TULUNG",
+      "kelurahan": "Wanar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718700",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUT THOLIBIN",
+      "alamat": "JL.Pendidikan No.59 Desa Warukulon, Kecamatan Pucuk, Kabupaten Lamongan",
+      "kelurahan": "Warukulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718709",
+      "nama_satuan_pendidikan": "MIS SALAFIYAH",
+      "alamat": "JL.KH.KHOLIL NO.14",
+      "kelurahan": "Cungkup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718696",
+      "nama_satuan_pendidikan": "MIS SALAFIYAH WANAR",
+      "alamat": "DS.WANAR KEC.PUCUK",
+      "kelurahan": "Wanar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718715",
+      "nama_satuan_pendidikan": "MIS TA`LIMUL HUDA",
+      "alamat": "JL. PAGAR DURI NO. 003  BUGOHARJO",
+      "kelurahan": "Bugoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718695",
+      "nama_satuan_pendidikan": "MIS TAHDZIBIYAH",
+      "alamat": "JL. MASJID JAMI` NO.248 DESA GEMPOLPADING",
+      "kelurahan": "Gempolpading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "69727507",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFAL",
+      "alamat": "JL. MASJID DARUSSALAM NO. 01 DUSUN BADU DESA WANAR KECAMATAN PUCUK",
+      "kelurahan": "Wanar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718707",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ISLAMIYAH",
+      "alamat": "JL. KH. JA`FAR NO. 156 KESAMBI PUCUK LAMONGAN",
+      "kelurahan": "Kesambi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20582864",
+      "nama_satuan_pendidikan": "MTSS AL-HIDAYAH PADENGANPLOSO",
+      "alamat": "DS. PADENGANPLOSO, KEC. PUCUK, KAB. LAMONGAN",
+      "kelurahan": "Padenganploso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20582860",
+      "nama_satuan_pendidikan": "MTSS HIDAYATUL MUTA`ALIMIN",
+      "alamat": "Jl. Ki Hajar Dewantoro No. 002 RT/RW: 001/005",
+      "kelurahan": "Bugoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20582863",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF",
+      "alamat": "JL RAYA PUCUK NO 01",
+      "kelurahan": "Pucuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20582862",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "JL. RONGGOPATI NO. 56 WANAR",
+      "kelurahan": "Wanar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20582865",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 30",
+      "alamat": "DS. PADENGANPLOSO, PUCUK",
+      "kelurahan": "Padenganploso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20582861",
+      "nama_satuan_pendidikan": "MTSS SALAFIYAH",
+      "alamat": "JL. KH. KHOLIL NO.14 CUNGKUP",
+      "kelurahan": "Cungkup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "69853464",
+      "nama_satuan_pendidikan": "MTSS SATU ATAP KEBON DALEM",
+      "alamat": "KH. Badrun RT.03 RW.04",
+      "kelurahan": "Tanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "69755970",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Pucuk",
+      "alamat": "DESA PAJI KECAMATAN PUCUK",
+      "kelurahan": "Paji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20505998",
+      "nama_satuan_pendidikan": "SD Negeri 1 Padenganploso",
+      "alamat": "Dsn. Plosokuning",
+      "kelurahan": "Padenganploso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506013",
+      "nama_satuan_pendidikan": "SD Negeri 2 Padenganploso",
+      "alamat": "Jl.pendidikan No.2",
+      "kelurahan": "Padenganploso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20507253",
+      "nama_satuan_pendidikan": "SD Negeri Babatkumpul",
+      "alamat": "Jl. Imam Bonjol Desa Babatkumpul",
+      "kelurahan": "Babatkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506044",
+      "nama_satuan_pendidikan": "SD Negeri Bugoharjo",
+      "alamat": "Jl. Raden Sahid No.05 Bugoharjo",
+      "kelurahan": "Bugoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506041",
+      "nama_satuan_pendidikan": "SD Negeri Cungkup",
+      "alamat": "Patriot Raya 1 Desa Cungkup",
+      "kelurahan": "Cungkup",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506207",
+      "nama_satuan_pendidikan": "SD Negeri Gempolpading",
+      "alamat": "Dsn. Mojomeneng Desa Gempolpading",
+      "kelurahan": "Gempolpading",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506175",
+      "nama_satuan_pendidikan": "SD Negeri Karangtinggil",
+      "alamat": "Jl.Karya No.53  Desa Karangtinggil",
+      "kelurahan": "Karangtinggil",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506162",
+      "nama_satuan_pendidikan": "SD Negeri Kedali",
+      "alamat": "Desa Kedali Rt/rw.04/02",
+      "kelurahan": "Kedali",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20505910",
+      "nama_satuan_pendidikan": "SD Negeri Kesambi",
+      "alamat": "Jl. Batik No.166 Desa Kesambi",
+      "kelurahan": "Kesambi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20505997",
+      "nama_satuan_pendidikan": "SD Negeri Ngambeg",
+      "alamat": "Jalan Balai Desa Ngambeg  No.02",
+      "kelurahan": "Ngambeg",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506002",
+      "nama_satuan_pendidikan": "SD Negeri Paji",
+      "alamat": "Paji",
+      "kelurahan": "Paji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506626",
+      "nama_satuan_pendidikan": "SD Negeri Sumberejo",
+      "alamat": "Dsn Patalan Desa Sumberjo",
+      "kelurahan": "Sumberjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506658",
+      "nama_satuan_pendidikan": "SD Negeri Tanggungan",
+      "alamat": "Jl.mawar Melati No.48 Desa Tanggungan",
+      "kelurahan": "Tanggungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506599",
+      "nama_satuan_pendidikan": "SD Negeri Wanar",
+      "alamat": "Jln. A. Yani  No. 07  Wanar",
+      "kelurahan": "Wanar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20507215",
+      "nama_satuan_pendidikan": "SD Negeri Warukulon",
+      "alamat": "Jl. Masjid No.07 RT 01 RW 03 Desa Warukulon",
+      "kelurahan": "Warukulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506603",
+      "nama_satuan_pendidikan": "SD Negeri Waruwetan",
+      "alamat": "Jl. Raya Waruwetan",
+      "kelurahan": "Waruwetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506419",
+      "nama_satuan_pendidikan": "SMP MA`ARIF 5 PUCUK",
+      "alamat": "Jl. KH Badrun No. 96 A Desa Tanggungan",
+      "kelurahan": "Tanggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20506421",
+      "nama_satuan_pendidikan": "SMP MA`ARIF 7 PUCUK",
+      "alamat": "Jl. Imam Bonjol No. 106",
+      "kelurahan": "Ngambeg",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20506438",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 6 PUCUK",
+      "alamat": "Jl. Veteran No 150 Desa Pucuk",
+      "kelurahan": "Pucuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20506356",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PUCUK",
+      "alamat": "Jl. Raya Paji No. 03 Kec. Pucuk - Lamongan",
+      "kelurahan": "Paji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506375",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PUCUK",
+      "alamat": "Desa Kesambi",
+      "kelurahan": "Kesambi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20506427",
+      "nama_satuan_pendidikan": "SMP RADEN PATAH PUCUK",
+      "alamat": "Jalan Ahmad Yani No. 01",
+      "kelurahan": "Gempolpading",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20548716",
+      "nama_satuan_pendidikan": "SMP ROUDLOTUS SHOLIHIN",
+      "alamat": "Jl. Sumur Wetan No. 01 Desa Kedali",
+      "kelurahan": "Kedali",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. TIKUNG",
+  "updated_at": "2026-09-21T01:56:14.262Z",
+  "count": 43,
+  "negeri": 26,
+  "swasta": 17,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69977732",
+      "nama_satuan_pendidikan": "MI UNGGULAN MAARIF NU",
+      "alamat": "JL. RAYA MANTUP",
+      "kelurahan": "Bakalanpule",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718852",
+      "nama_satuan_pendidikan": "MIS AL- HIDAYAH",
+      "alamat": "TINARO",
+      "kelurahan": "Dukuhagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718857",
+      "nama_satuan_pendidikan": "MIS AL-MARUF",
+      "alamat": "MOJORANU",
+      "kelurahan": "Dukuhagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718854",
+      "nama_satuan_pendidikan": "MIS AL-MUTTAQIN",
+      "alamat": "DSN. MADE",
+      "kelurahan": "Botoputih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718847",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DESA JOTOSANUR KEC. TIKUNG KAB. LAMONGAN",
+      "kelurahan": "Jotosanur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718849",
+      "nama_satuan_pendidikan": "MIS IDZHARUL ULUM",
+      "alamat": "RT.03/RW.01 DSN. BAKALAN DS. BAKALANPULE KEC. TIKUNG KAB. LAMONGAN",
+      "kelurahan": "Bakalanpule",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718853",
+      "nama_satuan_pendidikan": "MIS KHOIRUL HUDA",
+      "alamat": "RT.01/RW.06 DSN. LEMAHBANG DS. SOKO",
+      "kelurahan": "Soko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718848",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DUSUN MUMBULAN",
+      "kelurahan": "Pengumbulanadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718850",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "Jl. Bogo Desa Guminingrejo",
+      "kelurahan": "Guminingrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718851",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "DSN.GENCENG DS.TAKERANKLATING KEC.TIKUNG KAB.LAMONGAN",
+      "kelurahan": "Takeranklating",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20582910",
+      "nama_satuan_pendidikan": "MTSS A .WAHID HASYIM",
+      "alamat": "JL. RAYA MANTUP NO. 163 GUMININGREJO TIKUNG LAMONGAN",
+      "kelurahan": "Guminingrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20582911",
+      "nama_satuan_pendidikan": "MTSS NURUL HIDAYAH",
+      "alamat": "JL. RAYA MANTUP NO. 68",
+      "kelurahan": "Jotosanur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20582909",
+      "nama_satuan_pendidikan": "MTSS NURUL ULUM",
+      "alamat": "DUSUN GENCENG",
+      "kelurahan": "Takeranklating",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20506130",
+      "nama_satuan_pendidikan": "SD Negeri  Botoputih",
+      "alamat": "DUSUN SAMBIKEREP",
+      "kelurahan": "Botoputih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20507256",
+      "nama_satuan_pendidikan": "SD Negeri 1 Bakalanpule",
+      "alamat": "Jl. Raya Mantup No.111",
+      "kelurahan": "Bakalanpule",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20507260",
+      "nama_satuan_pendidikan": "SD Negeri 1 Balongwangi",
+      "alamat": "DUSUN LEBOYO",
+      "kelurahan": "Balongwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20506077",
+      "nama_satuan_pendidikan": "SD Negeri 1 Dukuhagung",
+      "alamat": "JL. RAYA SARIREJO DUSUN KACANGAN",
+      "kelurahan": "Dukuhagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20506223",
+      "nama_satuan_pendidikan": "SD Negeri 1 Jotosanur",
+      "alamat": "JL. RAYA MANTUP No. 48 GANG 1",
+      "kelurahan": "Jotosanur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20505870",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kelorarum",
+      "alamat": "DUSUN KALIANYAR",
+      "kelurahan": "Kelorarum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20505943",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pengumbulanadi",
+      "alamat": "DUSUN DELIK GUNO",
+      "kelurahan": "Pengumbulanadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20506469",
+      "nama_satuan_pendidikan": "SD Negeri 1 Soko",
+      "alamat": "DUSUN KALITENGAH",
+      "kelurahan": "Soko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20506619",
+      "nama_satuan_pendidikan": "SD Negeri 1 Takeranklating",
+      "alamat": "DUSUN TAKERAN",
+      "kelurahan": "Takeranklating",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20506655",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tambakrigadung",
+      "alamat": "JL. RAYA TAMBAKBOYO NO.2",
+      "kelurahan": "Tambakrigadung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506587",
+      "nama_satuan_pendidikan": "SD Negeri 1 Wonokromo",
+      "alamat": "DUSUN PILANGGOT",
+      "kelurahan": "Wonokromo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20507257",
+      "nama_satuan_pendidikan": "SD Negeri 2 Bakalanpule",
+      "alamat": "JL. RAYA KEMBANGBAHU NO. 116 DUSUN TIKUNG",
+      "kelurahan": "Bakalanpule",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506078",
+      "nama_satuan_pendidikan": "SD Negeri 2 Dukuhagung",
+      "alamat": "DUSUN DUKUH",
+      "kelurahan": "Dukuhagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506224",
+      "nama_satuan_pendidikan": "SD Negeri 2 Jotosanur",
+      "alamat": "JL. RAYA MANTUP No. 161 KEC.TIKUNG KAB.LAMONGAN",
+      "kelurahan": "Jotosanur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505871",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kelorarum",
+      "alamat": "DUSUN KELOR",
+      "kelurahan": "Kelorarum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20505944",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pengumbulanadi",
+      "alamat": "DUSUN PENGARON",
+      "kelurahan": "Pengumbulanadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506470",
+      "nama_satuan_pendidikan": "SD Negeri 2 Soko",
+      "alamat": "DESA SOKO",
+      "kelurahan": "Soko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506620",
+      "nama_satuan_pendidikan": "SD Negeri 2 Takeranklating",
+      "alamat": "DUSUN KLATING",
+      "kelurahan": "Takeranklating",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506656",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tambakrigadung",
+      "alamat": "JL. JATIREJO NO.3 DUSUN TAMBAKBOYO",
+      "kelurahan": "Tambakrigadung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506588",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOKROMO",
+      "alamat": "DUSUN GABUS RT 02 RW 07",
+      "kelurahan": "Wonokromo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20507249",
+      "nama_satuan_pendidikan": "SD Negeri 3 Balongwangi",
+      "alamat": "DUSUN GEGER RT 01 RW 08",
+      "kelurahan": "Balongwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506471",
+      "nama_satuan_pendidikan": "SD Negeri 3 Soko",
+      "alamat": "DUSUN RANDEKAN",
+      "kelurahan": "Soko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506657",
+      "nama_satuan_pendidikan": "SD Negeri 3 Tambakrigadung",
+      "alamat": "DUSUN PILANGGADUNG",
+      "kelurahan": "Tambakrigadung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506211",
+      "nama_satuan_pendidikan": "SD NEGERI GUMININGREJO",
+      "alamat": "DUSUN GUMINING",
+      "kelurahan": "Guminingrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506235",
+      "nama_satuan_pendidikan": "SD Negeri Jatirejo",
+      "alamat": "DUSUN TOPENG",
+      "kelurahan": "Jatirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506269",
+      "nama_satuan_pendidikan": "SMP AL MUSAA`ADAH TIKUNG",
+      "alamat": "Dusun Klating Rt. 05 Rw. 01",
+      "kelurahan": "Takeranklating",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20506272",
+      "nama_satuan_pendidikan": "SMP DINIYYAH NU TIKUNG",
+      "alamat": "Dusun Sekargeneng",
+      "kelurahan": "Bakalanpule",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20506413",
+      "nama_satuan_pendidikan": "SMP ISLAM TIKUNG",
+      "alamat": "Jl. Raya Mantup No. 96 Desa Bakalan Pule",
+      "kelurahan": "Bakalanpule",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20506390",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 TIKUNG",
+      "alamat": "Jl. Raya Tikung - Kembangbahu No. 120 Desa Bakalanpule",
+      "kelurahan": "Bakalanpule",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506426",
+      "nama_satuan_pendidikan": "SMP PGRI TIKUNG",
+      "alamat": "Jl. Raya Mantup No. 09 Tikung",
+      "kelurahan": "Bakalanpule",
+      "status": "SWASTA"
+    }
+  ]
+}

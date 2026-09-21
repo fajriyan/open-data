@@ -1,0 +1,458 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SEKARAN",
+  "updated_at": "2026-09-21T01:56:46.422Z",
+  "count": 56,
+  "negeri": 22,
+  "swasta": 34,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718760",
+      "nama_satuan_pendidikan": "MI MA`ARIF NU",
+      "alamat": "JL. MADE GONDO MIRU SEKARAN LAMONGAN",
+      "kelurahan": "Miru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718755",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "KEBOAN",
+      "kelurahan": "Kembangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69725771",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "SEKARAN",
+      "kelurahan": "Besur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718763",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL ATHFAL",
+      "alamat": "DESA TROSONO KEC. SEKARAN KAB. LAMONGAN",
+      "kelurahan": "Trosono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718765",
+      "nama_satuan_pendidikan": "MIS IHYAUL ULUM",
+      "alamat": "JL. K.H.HASYIM ASY`ARI NO.2 MANYAR",
+      "kelurahan": "Manyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718768",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH NGARUM",
+      "alamat": "NGARUM SEKARAN LAMONGAN",
+      "kelurahan": "Ngarum",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718756",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU",
+      "alamat": "JL.KYAI BAHWONO NO.179 PORODESO SEKARAN LAMONGAN",
+      "kelurahan": "Porodeso",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718772",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU ISLAMIYAH KENDAL",
+      "alamat": "KH.HASYIM ASY`ARI NO.09 KENDAL SEKARAN",
+      "kelurahan": "Karang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718754",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU SEKARAN",
+      "alamat": "JL. RAYA TIMUR NO. 1 RT.1 RW.1 DESA SEKARAN",
+      "kelurahan": "Sekaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718757",
+      "nama_satuan_pendidikan": "MIS MAARIF NU",
+      "alamat": "JL. IMAM BONJOL NO. 542 SUNGEGENENG",
+      "kelurahan": "Sungegeneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718762",
+      "nama_satuan_pendidikan": "MIS MARIF NU HIDAYATUS SHIBYAN",
+      "alamat": "JL RAYA DESA LATEK RT 5 RW 1",
+      "kelurahan": "Latek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718769",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID AT-TAQWA DUSUN NGARENG DESA KUDIKAN KECAMATAN SEKARAN KABUPATEN LAMO",
+      "kelurahan": "Kudikan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718770",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. PENDIDIKAN NO 7 DESA KEBALANKULON",
+      "kelurahan": "Kebalan Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718766",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. RAYA DESA JUGO RT. 007 / RW. 003",
+      "kelurahan": "Jugo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718773",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 02 KENDAL",
+      "alamat": "JL. KH. AHMAD DAHLAN NO.1 DS. KENDAL RT 05 RW 01 KEC. SEKARAN KAB. LAMONGAN",
+      "kelurahan": "Latek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718767",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03 JUGO",
+      "alamat": "JL. RAYA DESA JUGO RT 001 /RW 001",
+      "kelurahan": "Jugo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718761",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 04 LATEK",
+      "alamat": "JL. DIPONEGORO NO. 001 LATEK",
+      "kelurahan": "Trosono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718758",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 07",
+      "alamat": "Jl. KH. Ahmad Dahlan No. 01 Desa Sungegeneng Kec. Sekaran Kab. Lamongan",
+      "kelurahan": "Sungegeneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718771",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 08",
+      "alamat": "JL.MODIN NUR HADI NO.36 RT04 RW 01 DESA KEBALANKULON",
+      "kelurahan": "Kebalan Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "69725770",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 09",
+      "alamat": "JL PENGAIRAN 73",
+      "kelurahan": "Sekaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718764",
+      "nama_satuan_pendidikan": "MIS NURUL JAMI` AL KAUTSAR",
+      "alamat": "JL. MASJID JAMI AL MUMINUN MANYAR SEKARAN LAMONGAN",
+      "kelurahan": "Manyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718759",
+      "nama_satuan_pendidikan": "MIS SALAFIYAH BANIN BANAT",
+      "alamat": "-JL. PONPES AL- FATTAH SIMAN RT/RW 04/02",
+      "kelurahan": "Siman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20582876",
+      "nama_satuan_pendidikan": "MTSS AL-HIDAYAH MIRU",
+      "alamat": "JL. MADE GONDO NO. 25",
+      "kelurahan": "Miru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20582878",
+      "nama_satuan_pendidikan": "MTSS BAHRUL ULUM BESUR",
+      "alamat": "JL.H.MASJKUR NO.47 BESUR SEKARAN",
+      "kelurahan": "Jugo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "69773643",
+      "nama_satuan_pendidikan": "MTSS IHYAUL ULUM MANYAR",
+      "alamat": "JL KH HASYIM ASARI NO 2 DESA MANYAR KECAMATAN SEKARAN KABUPATEN LAMONGAN",
+      "kelurahan": "Besur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20582875",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF",
+      "alamat": "SUNGEGENENG",
+      "kelurahan": "Sungegeneng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20582880",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF 19 MIFTAHUL ULUM KEBALANKULON",
+      "alamat": "JL. RAYA KEBALANKULON SEKARAN LAMONGAN",
+      "kelurahan": "Kebalan Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582879",
+      "nama_satuan_pendidikan": "MTSS SALAFIYAH SIMAN",
+      "alamat": "JL. KH. ABD, FATTAH SIMAN SEKARAN LAMONGAN",
+      "kelurahan": "Siman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "69900053",
+      "nama_satuan_pendidikan": "SD Islam Ar-Roudloh",
+      "alamat": "Komplek Pondok Pesantren Ar-Roudloh Desa Miru",
+      "kelurahan": "Miru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20506613",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sungegeneng",
+      "alamat": "Jalan Pemuda No.41",
+      "kelurahan": "Sungegeneng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506614",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sungegeneng",
+      "alamat": "Jln.pemuda 001.DESA SUNGEGENENG",
+      "kelurahan": "Sungegeneng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506089",
+      "nama_satuan_pendidikan": "SD Negeri Besur",
+      "alamat": "Jl.KH. Mashur No. 34",
+      "kelurahan": "Besur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506117",
+      "nama_satuan_pendidikan": "SD Negeri Bugel",
+      "alamat": "JL.Raya Bugel No.62 Desa Bugel",
+      "kelurahan": "Bugel",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506029",
+      "nama_satuan_pendidikan": "SD Negeri Bulutengger",
+      "alamat": "Jln.lapangan No.02 Desa Bulutengger",
+      "kelurahan": "Bulutengger",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506150",
+      "nama_satuan_pendidikan": "SD Negeri Jugo",
+      "alamat": "Jl. Raya Ds.Jugo No.73",
+      "kelurahan": "Jugo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506182",
+      "nama_satuan_pendidikan": "SD Negeri Kebalankulon",
+      "alamat": "Jl.Pesantren No.01",
+      "kelurahan": "Kebalan Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20505873",
+      "nama_satuan_pendidikan": "SD Negeri Kembangan",
+      "alamat": "JL. PROTOKOL NO. 100",
+      "kelurahan": "Kembangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20507210",
+      "nama_satuan_pendidikan": "SD Negeri Keting",
+      "alamat": "Ds. Keting",
+      "kelurahan": "Keting",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20505907",
+      "nama_satuan_pendidikan": "SD Negeri Kudikan",
+      "alamat": "Jln. Pendidikan No. 26 Desa Kudikan",
+      "kelurahan": "Kudikan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20505840",
+      "nama_satuan_pendidikan": "SD Negeri Latek",
+      "alamat": "Jl. Raya Latek Rt.05 Rw.02",
+      "kelurahan": "Latek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20505856",
+      "nama_satuan_pendidikan": "SD Negeri Manyar",
+      "alamat": "Ds. Manyar 02/03",
+      "kelurahan": "Manyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20505847",
+      "nama_satuan_pendidikan": "SD Negeri Miru",
+      "alamat": "Jl.made Gondo 42 Miru",
+      "kelurahan": "Miru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20505988",
+      "nama_satuan_pendidikan": "SD Negeri Moro",
+      "alamat": "Jl. Raya Moro No.01 Rt.01 Rw.01",
+      "kelurahan": "Moro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20505986",
+      "nama_satuan_pendidikan": "SD Negeri Ngarum",
+      "alamat": "JL. SURUHAN - DEMPEL",
+      "kelurahan": "Ngarum",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20505926",
+      "nama_satuan_pendidikan": "SD Negeri Porodeso",
+      "alamat": "JL. Kyai Bawono, RT.04 /RW.01",
+      "kelurahan": "Porodeso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506518",
+      "nama_satuan_pendidikan": "SD Negeri Sekaran",
+      "alamat": "Jl. Raya Sekaran No.12 Desa Sekaran",
+      "kelurahan": "Sekaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506537",
+      "nama_satuan_pendidikan": "SD Negeri Siman",
+      "alamat": "Jln. Kramat Raya RT.002/ RW.001",
+      "kelurahan": "Siman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506644",
+      "nama_satuan_pendidikan": "SD Negeri Titik",
+      "alamat": "Jl. Mawar No. 1 Desa Tititk",
+      "kelurahan": "Titik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506581",
+      "nama_satuan_pendidikan": "SD Negeri Trosono",
+      "alamat": "JL. RAYA TROSONO NO. 01",
+      "kelurahan": "Trosono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506412",
+      "nama_satuan_pendidikan": "SMP ISLAM SEKARAN",
+      "alamat": "Jalan Raya Timur No. 01 Sekaran",
+      "kelurahan": "Sekaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20506417",
+      "nama_satuan_pendidikan": "SMP MA`ARIF 3 SEKARAN",
+      "alamat": "Jl. Masjid Jami Al-Mu`Minun",
+      "kelurahan": "Manyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20506405",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 19 SEKARAN",
+      "alamat": "Jl. Modin Nurhadi No 36. Desa Kebalankulon",
+      "kelurahan": "Kebalan Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20506372",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SEKARAN",
+      "alamat": "Sekaran",
+      "kelurahan": "Kudikan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506376",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 SEKARAN",
+      "alamat": "Ds. Sungegeneng",
+      "kelurahan": "Sungegeneng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "70012147",
+      "nama_satuan_pendidikan": "SMP SAINS AL-QURAN AR-ROUDLOH",
+      "alamat": "Jl. Yos Sudarso No. 292 Komplek Pondok Pesantren Ar-Roudloh Desa Miru.",
+      "kelurahan": "Miru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20506429",
+      "nama_satuan_pendidikan": "SMP SIMANJAYA SEKARAN",
+      "alamat": "Jl. Pondok Pesantren Al-Fattah Desa Siman",
+      "kelurahan": "Siman",
+      "status": "SWASTA"
+    }
+  ]
+}

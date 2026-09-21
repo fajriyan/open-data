@@ -1,0 +1,482 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SUKODADI",
+  "updated_at": "2026-09-21T01:56:05.314Z",
+  "count": 59,
+  "negeri": 26,
+  "swasta": 33,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69994102",
+      "nama_satuan_pendidikan": "MI NUR ROBBI",
+      "alamat": "DSN. MEJONO RT. 02 RW. 04 DS. SUMBERAJI",
+      "kelurahan": "Sumberaji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70060489",
+      "nama_satuan_pendidikan": "MI Unggulan Darussalam",
+      "alamat": "Jalan Airlangga Keduwul",
+      "kelurahan": "Menongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718843",
+      "nama_satuan_pendidikan": "MIS AL HUDA",
+      "alamat": "DUSUN BAGEL DESA SUMBERAGUNG KECAMATAN SUKODADI KABUPATEN LAMONGAN",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718845",
+      "nama_satuan_pendidikan": "MIS BABUL ULUM",
+      "alamat": "Dusun Dorogede",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718842",
+      "nama_satuan_pendidikan": "MIS CHOIRIYAH SIDOGEMBUL",
+      "alamat": "Jl. Masjid Al Islam No. 01 Dusun Kepoh Desa Sidogembul",
+      "kelurahan": "Sidogembul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718841",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH SURABAYAN",
+      "alamat": "DESA SURABAYAN RT.01  RW.01",
+      "kelurahan": "Surabayan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718837",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU",
+      "alamat": "DUSUN BALI RT 03 RW04",
+      "kelurahan": "Plumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718839",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU",
+      "alamat": "JL. MASJID JAMI` BAITUL MUTTAQIN",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718844",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU AL-MUTTAQIN",
+      "alamat": "JLN. KOMPLEK MASJID JAMI AL-MUTAQIN PAJANGAN",
+      "kelurahan": "Pajangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718840",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU MADULEGI",
+      "alamat": "DSN. NGIPRIK RT. 04 RW. 04",
+      "kelurahan": "Madulegi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718846",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU MENONGO",
+      "alamat": "DS. MENONGO",
+      "kelurahan": "Menongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718835",
+      "nama_satuan_pendidikan": "MIS MAARIF NU",
+      "alamat": "JL.PANGLIMA SUDIRMAN NO.130 SUKODADI LAMONGAN",
+      "kelurahan": "Sukodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718831",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM BANDUNGSARI",
+      "alamat": "DUSUN BANDUNG RT 002 RW 002 DESA BANDUNGSARI KECAMATAN SUKODADI KABUPATEN LAMON",
+      "kelurahan": "Bandungsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718829",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM BANJAREJO",
+      "alamat": "DSN.BANJARAN  DS.BANJAREJO",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718836",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 SUKODADI",
+      "alamat": "JLN. RADEN WIJAYA SUKODADI",
+      "kelurahan": "Sukodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718832",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 02",
+      "alamat": "Jl. Waduk Balongganggang No. 01 Menongo",
+      "kelurahan": "Menongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718838",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03",
+      "alamat": "JLN. KOMPLEK MASJID AT TAQWA KARANGREJO",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718833",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL MUTA`ALLIMIN",
+      "alamat": "JLN RAYA MASJID KEBONSARI NO. 52",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718828",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL ULUM",
+      "alamat": "JL.H.YUSUF NO.78 GEMPOL GEDANGAN",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718830",
+      "nama_satuan_pendidikan": "MIS SABILIL MUTTAQIN",
+      "alamat": "DESA BALUNGTAWUN RT.02/03 KEC. SUKODADI",
+      "kelurahan": "Balungtawun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718834",
+      "nama_satuan_pendidikan": "MIS TANFA`UL ULUM",
+      "alamat": "JL. PONDOK PESANTREN NO.01 DESA KADUNGREMBUG",
+      "kelurahan": "Kadungrembug",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "69977783",
+      "nama_satuan_pendidikan": "MTS AR ROHMAH",
+      "alamat": "Jl. Tlogo-Bandung",
+      "kelurahan": "Tlogorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "69977785",
+      "nama_satuan_pendidikan": "MTS BUSTANUL THULLAB",
+      "alamat": "DUSUN SIWALAN",
+      "kelurahan": "Siwalanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20582906",
+      "nama_satuan_pendidikan": "MTSS 17 DARUL ULUM PLUMPANG",
+      "alamat": "DUSUN BALI DESA PLUMPANG",
+      "kelurahan": "Plumpang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20582905",
+      "nama_satuan_pendidikan": "MTSS DARUSSALAM",
+      "alamat": "JL.H .YUSUF NO 78 GEMPOL GEDANGAN SUKODADI",
+      "kelurahan": "Menongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20582907",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF NU SUKODADI",
+      "alamat": "JALAN PANGLIMA SUDIRMAN NO. 130 SUKODADI",
+      "kelurahan": "Pajangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20582903",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 20 MENONGO",
+      "alamat": "JL. WADUK BALONGGANGGANG",
+      "kelurahan": "Menongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582904",
+      "nama_satuan_pendidikan": "MTSS NUSANTARA",
+      "alamat": "JL. MASJID JAMI`",
+      "kelurahan": "Sukolilo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20582908",
+      "nama_satuan_pendidikan": "MTSS TANFA`UL ULUM",
+      "alamat": "Dusun Kadung",
+      "kelurahan": "Kadungrembug",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "70041530",
+      "nama_satuan_pendidikan": "SD AL-MUTTAQIN",
+      "alamat": "Dusun Mlaten",
+      "kelurahan": "Bandungsari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "70028232",
+      "nama_satuan_pendidikan": "SD ISLAM AL ISYROQ",
+      "alamat": "Desa Menongo",
+      "kelurahan": "Menongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20505820",
+      "nama_satuan_pendidikan": "SD Negeri 1 Madulegi",
+      "alamat": "Dusun Sumampir -Madulegi",
+      "kelurahan": "Madulegi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506457",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sugihrejo",
+      "alamat": "Dusun Tanon",
+      "kelurahan": "Sugihrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506494",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sukodadi",
+      "alamat": "Jl. Panglima Sudirman No.29",
+      "kelurahan": "Sukodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506496",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sukolilo",
+      "alamat": "Dusun Karangrejo",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20505821",
+      "nama_satuan_pendidikan": "SD Negeri 2 Madulegi",
+      "alamat": "Dusun Cuping",
+      "kelurahan": "Madulegi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506458",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sugihrejo",
+      "alamat": "Dusun Gilig",
+      "kelurahan": "Sugihrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506495",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sukodadi",
+      "alamat": "Jalan Pandu No. 1b Desa Sukodadi",
+      "kelurahan": "Sukodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506497",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sukolilo",
+      "alamat": "Dusun Dukoh",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20507240",
+      "nama_satuan_pendidikan": "SD Negeri Balungtawun",
+      "alamat": "Jl Pendidikan No 11 Dusun Jirekan Desa Balungtawun",
+      "kelurahan": "Balungtawun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20507244",
+      "nama_satuan_pendidikan": "SD NEGERI BANDUNGSARI",
+      "alamat": "Dusun Donak",
+      "kelurahan": "Bandungsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506099",
+      "nama_satuan_pendidikan": "SD Negeri Banjarejo",
+      "alamat": "Jl. Raya Sugio-Lamongan No.09 Banjarejo",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506082",
+      "nama_satuan_pendidikan": "SD Negeri Baturono",
+      "alamat": "Jl Lamongan - Sugio No. 79 RT.01/RW.01 Desa Baturono",
+      "kelurahan": "Baturono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506079",
+      "nama_satuan_pendidikan": "SD Negeri Gedangan",
+      "alamat": "Jl. Sumoharjo Dusun Mergayu",
+      "kelurahan": "Gedangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506153",
+      "nama_satuan_pendidikan": "SD Negeri Kadungrembug",
+      "alamat": "Dusun Bugan Desa Kadungrembug",
+      "kelurahan": "Kadungrembug",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506172",
+      "nama_satuan_pendidikan": "SD Negeri Kebonsari",
+      "alamat": "Jl. Raya Kebonsari No. 32",
+      "kelurahan": "Kebonsari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20505844",
+      "nama_satuan_pendidikan": "SD Negeri Menongo",
+      "alamat": "Jl. Raya Menongo Dusun Keduwul",
+      "kelurahan": "Menongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506001",
+      "nama_satuan_pendidikan": "SD Negeri Pajangan",
+      "alamat": "Jl Dr. Sutomo No 01",
+      "kelurahan": "Pajangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20505924",
+      "nama_satuan_pendidikan": "SD Negeri Plumpang",
+      "alamat": "Dusun Plumpang",
+      "kelurahan": "Plumpang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506529",
+      "nama_satuan_pendidikan": "SD Negeri Sidogembul",
+      "alamat": "Dusun Talun Desa Sidogembul",
+      "kelurahan": "Sidogembul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506540",
+      "nama_satuan_pendidikan": "SD Negeri Siwalanrejo",
+      "alamat": "Jl. Maospati No.02 Dusun Siwalan",
+      "kelurahan": "Siwalanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506484",
+      "nama_satuan_pendidikan": "SD Negeri Sumberagung",
+      "alamat": "Dusun Padang Desa Sumberagung",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506488",
+      "nama_satuan_pendidikan": "SD Negeri Sumberaji",
+      "alamat": "Dusun Bulak Desa Sumberaji",
+      "kelurahan": "Sumberaji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506616",
+      "nama_satuan_pendidikan": "SD Negeri Surabayan",
+      "alamat": "Dusun Semlawang",
+      "kelurahan": "Surabayan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506576",
+      "nama_satuan_pendidikan": "SD Negeri Tlogorejo",
+      "alamat": "Dusun Belok Desa Tlogorejo",
+      "kelurahan": "Tlogorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506399",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 11 SUKODADI",
+      "alamat": "Jl. Raden Wijaya No 19 Sukodadi",
+      "kelurahan": "Sukodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20506388",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SUKODADI",
+      "alamat": "Desa Sumberaji",
+      "kelurahan": "Sumberaji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506378",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 SUKODADI",
+      "alamat": "Jl. Ds. Sukolilo",
+      "kelurahan": "Sukolilo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20506428",
+      "nama_satuan_pendidikan": "SMP SABILILLAH",
+      "alamat": "Jl Veteran no. 05",
+      "kelurahan": "Kebonsari",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SUKORAME",
+  "updated_at": "2026-09-21T01:55:15.193Z",
+  "count": 21,
+  "negeri": 14,
+  "swasta": 7,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69725777",
+      "nama_satuan_pendidikan": "MIS ARROHMAN",
+      "alamat": "SUKARAME",
+      "kelurahan": "Kedungkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718826",
+      "nama_satuan_pendidikan": "MIS DARUL FALAH",
+      "alamat": "JL.KEDUNGKUMPUL NO.08 SUKORAME",
+      "kelurahan": "Kedungkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718827",
+      "nama_satuan_pendidikan": "MIS MA`ARIF",
+      "alamat": "JL.RAYA SUKORAME KABUH",
+      "kelurahan": "Pendowokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "20582902",
+      "nama_satuan_pendidikan": "MTSS DARULFALAH",
+      "alamat": "JL.KEDUNGKUMPUL NO.08",
+      "kelurahan": "Kedungkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "20582901",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF 32 HIDAYATULLAH",
+      "alamat": "JL.SUKORAME KABUH",
+      "kelurahan": "Pendowokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20506171",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungkumpul",
+      "alamat": "Dsn.paluombo, Desa Kedungkumpul",
+      "kelurahan": "Kedungkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 7,
+      "npsn": "20506512",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sewor",
+      "alamat": "Jalan Semboja No.83 Dusun. Ngrapah",
+      "kelurahan": "Sewor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 8,
+      "npsn": "20506500",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sukorame",
+      "alamat": "Jl. Raya Sukorame-Bluluk",
+      "kelurahan": "Sukorame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20549726",
+      "nama_satuan_pendidikan": "SD Negeri 2  Kedungkumpul",
+      "alamat": "Dusun Paluombo",
+      "kelurahan": "Kedungkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20549728",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sewor",
+      "alamat": "Dusun Sewor",
+      "kelurahan": "Sewor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20506501",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKORAME",
+      "alamat": "Dusun Putuk Desa Sukorame Kec. Sukorame Kab. Lamongan",
+      "kelurahan": "Sukorame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20553209",
+      "nama_satuan_pendidikan": "SD Negeri 3 Sukorame",
+      "alamat": "Sukorame",
+      "kelurahan": "Sukorame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20507245",
+      "nama_satuan_pendidikan": "SD Negeri Banggle",
+      "alamat": "Dusun Banggle",
+      "kelurahan": "Banggle",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20549727",
+      "nama_satuan_pendidikan": "SD Negeri Kedungrejo",
+      "alamat": "Dsn Wedegan",
+      "kelurahan": "Kedungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20548707",
+      "nama_satuan_pendidikan": "SD NEGERI MRAGEL",
+      "alamat": "Dusun Mragel",
+      "kelurahan": "Mragel",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20505938",
+      "nama_satuan_pendidikan": "SD Negeri Pendowokumpul",
+      "alamat": "Dusun Turi",
+      "kelurahan": "Pendowokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20506517",
+      "nama_satuan_pendidikan": "SD Negeri Sembung",
+      "alamat": "Desa Sembung",
+      "kelurahan": "Sembung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20549729",
+      "nama_satuan_pendidikan": "SD Negeri Wedoro",
+      "alamat": "Dusun Wedoro",
+      "kelurahan": "Wedoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20549730",
+      "nama_satuan_pendidikan": "SMP AHMAD YANI SUKORAME",
+      "alamat": "Jl. Raya Sukorame Kabuh No.01",
+      "kelurahan": "Sukorame",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20506389",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SUKORAME",
+      "alamat": "Jl. Raya Sukorame No. 50 Sukorame",
+      "kelurahan": "Sukorame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20506425",
+      "nama_satuan_pendidikan": "SMP PGRI SUKORAME",
+      "alamat": "Desa Pendowokumpul",
+      "kelurahan": "Pendowokumpul",
+      "status": "SWASTA"
+    }
+  ]
+}

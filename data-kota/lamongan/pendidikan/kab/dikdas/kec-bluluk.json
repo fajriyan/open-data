@@ -1,0 +1,186 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BLULUK",
+  "updated_at": "2026-09-21T01:55:19.525Z",
+  "count": 22,
+  "negeri": 17,
+  "swasta": 5,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718411",
+      "nama_satuan_pendidikan": "MI MA`ARIF NU",
+      "alamat": "JL.BANCARAN-WEDORO",
+      "kelurahan": "Primpen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718407",
+      "nama_satuan_pendidikan": "MIN 3 LAMONGAN",
+      "alamat": "JL. SONGOWARENG - TANJUNG",
+      "kelurahan": "Sumberbanjar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 3,
+      "npsn": "60718408",
+      "nama_satuan_pendidikan": "MIS AL-IKHLAS",
+      "alamat": "JL. TALUNREJO NO. 45",
+      "kelurahan": "Banjargondang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718410",
+      "nama_satuan_pendidikan": "MIS MAARIF NU",
+      "alamat": "JL.TALUNREJO-GAMPENG NO.25 BLULUK LMONGAN",
+      "kelurahan": "Talunrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718409",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL AMAL",
+      "alamat": "JL.BLULUK-SUKORAME",
+      "kelurahan": "Bluluk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "70061786",
+      "nama_satuan_pendidikan": "MTsN 3 Lamongan",
+      "alamat": "Jl. Songowareng - Tanjung Dsn. Sumbergondang",
+      "kelurahan": "Sumberbanjar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 7,
+      "npsn": "20582765",
+      "nama_satuan_pendidikan": "MTSS EMPAT LIMA SONGOWARENG",
+      "alamat": "DUSUN WARENG DESA SONGOWRENG RT 002/002",
+      "kelurahan": "Songowareng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "20506124",
+      "nama_satuan_pendidikan": "SD Negeri 1 Bluluk",
+      "alamat": "Jalan Raya Bluluk Nomor 240 Bluluk",
+      "kelurahan": "Bluluk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 9,
+      "npsn": "20505900",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kuwurejo",
+      "alamat": "Dusun Kuwurejo",
+      "kelurahan": "Kuwurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 10,
+      "npsn": "20506635",
+      "nama_satuan_pendidikan": "SD Negeri 1 Talunrejo",
+      "alamat": "Dsn.Gampeng",
+      "kelurahan": "Talunrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20505901",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KUWUREJO",
+      "alamat": "Dusun Kuwurejo",
+      "kelurahan": "Kuwurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20506636",
+      "nama_satuan_pendidikan": "SD Negeri 2 Talunrejo",
+      "alamat": "Dusun Godog",
+      "kelurahan": "Talunrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20506126",
+      "nama_satuan_pendidikan": "SD Negeri 3 Bluluk",
+      "alamat": "Jl.raya Bluluk Sukorame No.127",
+      "kelurahan": "Bluluk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20506464",
+      "nama_satuan_pendidikan": "SD Negeri 3 Songo",
+      "alamat": "dusun Songo",
+      "kelurahan": "Songowareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20506650",
+      "nama_satuan_pendidikan": "SD Negeri 3 Talunrejo",
+      "alamat": "Dusun Suwaloh",
+      "kelurahan": "Talunrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20506081",
+      "nama_satuan_pendidikan": "SD Negeri Banjargondang",
+      "alamat": "Dusun Banjargondang",
+      "kelurahan": "Banjargondang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20506115",
+      "nama_satuan_pendidikan": "SD Negeri Bronjong",
+      "alamat": "Jln. Bronjong - Primpen",
+      "kelurahan": "Bronjong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20506050",
+      "nama_satuan_pendidikan": "SD Negeri Cangkring",
+      "alamat": "Dusun Mlaten",
+      "kelurahan": "Cangkring",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20505928",
+      "nama_satuan_pendidikan": "SD Negeri Primpen",
+      "alamat": "Jln. Bancaran-Wedoro No. 06",
+      "kelurahan": "Primpen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20506475",
+      "nama_satuan_pendidikan": "SD Negeri Songowareng",
+      "alamat": "Dusun Wareng",
+      "kelurahan": "Songowareng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20506556",
+      "nama_satuan_pendidikan": "SD Negeri Sumberbanjar",
+      "alamat": "RT.05/RW.01 Dusun Namar",
+      "kelurahan": "Sumberbanjar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20506365",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Bluluk",
+      "alamat": "Jl. Sukorame No. 84",
+      "kelurahan": "Bluluk",
+      "status": "NEGERI"
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. TURI",
+  "updated_at": "2026-09-21T01:56:32.845Z",
+  "count": 62,
+  "negeri": 23,
+  "swasta": 39,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69963419",
+      "nama_satuan_pendidikan": "Al-Barokah",
+      "alamat": "Dsn Badu Ds Badurame Kec Turi",
+      "kelurahan": "Badurame",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718881",
+      "nama_satuan_pendidikan": "MI ASSYAFI`IYAH",
+      "alamat": "JL. RAYA KRUWUL NO. 12 SUKOANYAR TURI LAMONGAN (KOMPLEKS MASJID BESAR DARUSSALA",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69725591",
+      "nama_satuan_pendidikan": "MI ASY SYAFIIYAH",
+      "alamat": "DUSUN KEPUIKULON RT:02 RW:01",
+      "kelurahan": "Kepudibener",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718876",
+      "nama_satuan_pendidikan": "MI MISBAHUL QURO`",
+      "alamat": "DSN KEPUDIWETAN DS KEPUDIBENER TURI LAMONGAN",
+      "kelurahan": "Kepudibener",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718868",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH BAMBANG",
+      "alamat": "BAMBANG",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718877",
+      "nama_satuan_pendidikan": "MIS AL IRSYADIYAH",
+      "alamat": "MELAWE KEPUDIBENER TURI LAMONGAN",
+      "kelurahan": "Kepudibener",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718874",
+      "nama_satuan_pendidikan": "MIS AL-AZHARIYAH",
+      "alamat": "DUSUN GOWAH DESA POMAHANJANGGAN",
+      "kelurahan": "Pomahanjanggan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718869",
+      "nama_satuan_pendidikan": "MIS ASSADIYAH",
+      "alamat": "KEMLAGIGEDE RT/RW 08/02 TURI LAMONGAN",
+      "kelurahan": "Kemlagigede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718862",
+      "nama_satuan_pendidikan": "MIS ASSYAFI`IYAH GETUNG",
+      "alamat": "DUSUN GETUNG RT. 01/RW.02 DESA TAWANGREJO",
+      "kelurahan": "Tawangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718860",
+      "nama_satuan_pendidikan": "MIS ASSYAFI`IYAH KEBEN",
+      "alamat": "JLN. MASJID MUNAWAROTUL ULUM DESA KEBEN",
+      "kelurahan": "Ngujungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718863",
+      "nama_satuan_pendidikan": "MIS ASSYAFI`IYAH NGANGKRIK",
+      "alamat": "NGANGKRIK",
+      "kelurahan": "Balun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718875",
+      "nama_satuan_pendidikan": "MIS ASYSYAFIIYAH",
+      "alamat": "DSN JANGGAN DESA POMAHANJANGGAN",
+      "kelurahan": "Pomahanjanggan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718885",
+      "nama_satuan_pendidikan": "MIS ASYSYAFIIYAH KLARI",
+      "alamat": "KLARI GEDONGBOYOUNTUNG",
+      "kelurahan": "Gedongboyountung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718873",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "DESA KEMLAGILOR RT 01 RW 02 KEC. TURI KAB. LAMONGAN",
+      "kelurahan": "Kemlagilor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718883",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "Dsn Pilang",
+      "kelurahan": "Wangunrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718865",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM NATAAN",
+      "alamat": "DSN. NATAAN DS.GEDONGBOYOUNTUNG KEC. TURI KAB. LAMONGAN",
+      "kelurahan": "Gedongboyountung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718859",
+      "nama_satuan_pendidikan": "MIS BANIN BANAT GEGER",
+      "alamat": "DESA GEGER KEC. TURI KAB. LAMONGAN",
+      "kelurahan": "Geger",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718867",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DSN. RANGKAH RT : 10 / RW : 04",
+      "kelurahan": "Ngujungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718864",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "NGUJUNGJOBO GEDONGBOYOUNTUNG, TURI, LAMONGAN",
+      "kelurahan": "Gedongboyountung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718870",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "KARANGWEDORO KEC.TURI KAB. LAMONGAN",
+      "kelurahan": "Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718879",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH KAAFFAH",
+      "alamat": "DESA TURI KEC TURI KAB LAMONGAN",
+      "kelurahan": "Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718880",
+      "nama_satuan_pendidikan": "MIS MAMBA`UL ULUM",
+      "alamat": "CANDIPARI",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718858",
+      "nama_satuan_pendidikan": "MIS MAMBA`UL ULUM",
+      "alamat": "JLN RAYA GALANG NO 317",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "69728019",
+      "nama_satuan_pendidikan": "MIS MAMBAUL MAARIF",
+      "alamat": "PUTATLOR PUTATKUMPUL TURI",
+      "kelurahan": "Putatkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718878",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "DUSUN BENERAN DESA KEPUDIBENER TURI",
+      "kelurahan": "Kepudibener",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718872",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DSN.MOROGO DS.PUTATKUMPUL",
+      "kelurahan": "Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718866",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "NGUJUNGREJO-TURI-LAMONGAN",
+      "kelurahan": "Ngujungrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60718861",
+      "nama_satuan_pendidikan": "MIS QOMARUL WATHON",
+      "alamat": "DESA TURI KECAMATAN TURI KABUPATEN LAMONGAN 62252",
+      "kelurahan": "Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718871",
+      "nama_satuan_pendidikan": "MIS TANWIRUL QULUB",
+      "alamat": "PUTATKIDUL RT 02 RW 02",
+      "kelurahan": "Putatkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "60718882",
+      "nama_satuan_pendidikan": "MIS TARBIYATUSHSHIBYAN",
+      "alamat": "DESA BALUN   RT/RW:05/03",
+      "kelurahan": "Balun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "69725411",
+      "nama_satuan_pendidikan": "MTSS AL-MUBAROKAH",
+      "alamat": "JL.",
+      "kelurahan": "Kec. Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "70013193",
+      "nama_satuan_pendidikan": "MTSS BAHRUL ULUM",
+      "alamat": "RT. 01 RW. 02",
+      "kelurahan": "Kemlagilor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20582913",
+      "nama_satuan_pendidikan": "MTSS DARUSSALAM",
+      "alamat": "GETUNG TURI (KKM MTSN LMG)",
+      "kelurahan": "Tawangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "69725620",
+      "nama_satuan_pendidikan": "MTSS IANATUT THOLIBIN",
+      "alamat": "PUTAT LOR PUTAT KUMPUL",
+      "kelurahan": "Putatkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20582912",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "POMAHANJANGGAN",
+      "kelurahan": "Pomahanjanggan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "70026426",
+      "nama_satuan_pendidikan": "SD MUHAMMADIYAH 1 TURI",
+      "alamat": "Dusun Jalak",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20507254",
+      "nama_satuan_pendidikan": "SD Negeri 1 Badurame",
+      "alamat": "Dusun Gorame",
+      "kelurahan": "Badurame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20507248",
+      "nama_satuan_pendidikan": "SD Negeri 1 Balun",
+      "alamat": "Dusun Balun",
+      "kelurahan": "Balun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506134",
+      "nama_satuan_pendidikan": "SD Negeri 1 Geger",
+      "alamat": "Dusun Geger",
+      "kelurahan": "Geger",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20505965",
+      "nama_satuan_pendidikan": "SD Negeri 1 Putatkumpul",
+      "alamat": "Dusun Morogo",
+      "kelurahan": "Putatkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506649",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tawangrejo",
+      "alamat": "Dusun Kauman",
+      "kelurahan": "Tawangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20507255",
+      "nama_satuan_pendidikan": "SD Negeri 2 Badurame",
+      "alamat": "Dusun Gorame",
+      "kelurahan": "Badurame",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20507238",
+      "nama_satuan_pendidikan": "SD Negeri 2 Balun",
+      "alamat": "Dusun Balun",
+      "kelurahan": "Balun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506187",
+      "nama_satuan_pendidikan": "SD Negeri 2 Geger",
+      "alamat": "Desa Geger",
+      "kelurahan": "Geger",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20505966",
+      "nama_satuan_pendidikan": "SD Negeri 2 Putatkumpul",
+      "alamat": "Desa Putatkumpul",
+      "kelurahan": "Putatkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506648",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tawangrejo",
+      "alamat": "Dusun Deyo",
+      "kelurahan": "Tawangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506201",
+      "nama_satuan_pendidikan": "SD Negeri 3 Geger",
+      "alamat": "Desa Geger",
+      "kelurahan": "Geger",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506021",
+      "nama_satuan_pendidikan": "SD Negeri Gedongboyountung",
+      "alamat": "Desa Gedongboyountung",
+      "kelurahan": "Gedongboyountung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506176",
+      "nama_satuan_pendidikan": "SD Negeri Karangwedoro",
+      "alamat": "Dusun Karangboyo",
+      "kelurahan": "Karangwedoro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506184",
+      "nama_satuan_pendidikan": "SD Negeri Keben",
+      "alamat": "Desa Keben",
+      "kelurahan": "Keben",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20505876",
+      "nama_satuan_pendidikan": "SD Negeri Kemlagigede",
+      "alamat": "Dusun Kemlagigede",
+      "kelurahan": "Kemlagigede",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20505877",
+      "nama_satuan_pendidikan": "SD Negeri Kemlagilor",
+      "alamat": "Desa Kemlagilor",
+      "kelurahan": "Kemlagilor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20505979",
+      "nama_satuan_pendidikan": "SD Negeri Ngujungrejo",
+      "alamat": "Dusun Ngujung",
+      "kelurahan": "Ngujungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506477",
+      "nama_satuan_pendidikan": "SD Negeri Sukoanyar",
+      "alamat": "Jl Raya Sukoanyar 274",
+      "kelurahan": "Sukoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506490",
+      "nama_satuan_pendidikan": "SD Negeri Sukorejo",
+      "alamat": "Jl Raya Turi No 88",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506654",
+      "nama_satuan_pendidikan": "SD Negeri Tambakploso",
+      "alamat": "Dusun Plosolebak",
+      "kelurahan": "Tambakploso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20551776",
+      "nama_satuan_pendidikan": "SD Negeri Turi",
+      "alamat": "JL RAYA TURI DESA TURI",
+      "kelurahan": "Turi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506600",
+      "nama_satuan_pendidikan": "SD Negeri Wangunrejo",
+      "alamat": "Dusun Winong",
+      "kelurahan": "Wangunrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20570386",
+      "nama_satuan_pendidikan": "SMP AL-MA RUF",
+      "alamat": "Jl. Karanglangit Kiringan",
+      "kelurahan": "Kemlagigede",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20506271",
+      "nama_satuan_pendidikan": "SMP DINIYAH TURI",
+      "alamat": "Dusun Gowah",
+      "kelurahan": "Pomahanjanggan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "20506391",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 TURI",
+      "alamat": "Jl. Raya Turi No. 164 Turi",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "69853460",
+      "nama_satuan_pendidikan": "Ta sisut Taqwa",
+      "alamat": "Raya. Sukoanyar, No. 369",
+      "kelurahan": "Sukoanyar",
+      "status": "SWASTA"
+    }
+  ]
+}

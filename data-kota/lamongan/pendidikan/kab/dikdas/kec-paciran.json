@@ -1,0 +1,794 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. PACIRAN",
+  "updated_at": "2026-09-21T01:57:05.542Z",
+  "count": 98,
+  "negeri": 20,
+  "swasta": 78,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718669",
+      "nama_satuan_pendidikan": "MIS 02 PONDOK MODERN MUHAMMADIYAH PACIRAN",
+      "alamat": "JALAN WATU BOLONG RT 08 RW. 01 DUSUN PACIRAN",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718674",
+      "nama_satuan_pendidikan": "MIS AL - AMIN MUHAMMADIYAH 06",
+      "alamat": "JL. RAYA DEANDLES NO.113",
+      "kelurahan": "Tunggul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69728023",
+      "nama_satuan_pendidikan": "MIS AL MUHTADI",
+      "alamat": "JL.KH ISMAIL NO.96 SUTO SENDANGAGUNG",
+      "kelurahan": "Sendangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718692",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL.DR. SOETOMO NO. 42 RT. 07 RW. 03",
+      "kelurahan": "Warulor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718661",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH BLIMBING",
+      "alamat": "JL. RAYA BLIMBING-LAREN GG. PENDIDIKAN NO. 1 SIDOREJO BLIMBING",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718685",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH PALOH",
+      "alamat": "JALAN RAYA CAMPUREJO NO. 01 PALOH",
+      "kelurahan": "Paloh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718675",
+      "nama_satuan_pendidikan": "MIS MALIHATUL HIKAM",
+      "alamat": "Jl. Kyai Abdul Wahab RT. 04 RW. 01 Tunggul",
+      "kelurahan": "Tunggul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718693",
+      "nama_satuan_pendidikan": "MIS MAMBAUL MA`ARIF",
+      "alamat": "Jl. Karang Asem RT 02 RW 02",
+      "kelurahan": "Banjarwati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718667",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM SUMURGAYAM",
+      "alamat": "JL. K.H. Zen Sumuran Paciran",
+      "kelurahan": "Sumurgayam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718663",
+      "nama_satuan_pendidikan": "MIS MASLAKUL HUDA",
+      "alamat": "JL.KALBAKAL NO.382 DSN.DENGOK DS.KANDANGSEMANGKON KEC.PACIRAN",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718687",
+      "nama_satuan_pendidikan": "MIS MATHLABUL HUDA",
+      "alamat": "JL. H. NUR HADI NO. 18 WERU",
+      "kelurahan": "Weru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718670",
+      "nama_satuan_pendidikan": "MIS MAZRAATUL ULUM 01",
+      "alamat": "JL. MASJID BAITUL GHOFUR NO. 127 JETAK PACIRAN",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718671",
+      "nama_satuan_pendidikan": "MIS MAZRAATUL ULUM 02",
+      "alamat": "Jalan Raya No. 214 Paciran",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718679",
+      "nama_satuan_pendidikan": "MIS MU`AWANAH",
+      "alamat": "JL. MAYANG MADU NO.06 BANJARANYAR",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718668",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 PONDOK MODERN PACIRAN LMG",
+      "alamat": "JLN.PONDOK PACIRAN LAMONGAN",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718686",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03",
+      "alamat": "JLN.H.DAHLAN NO.56 WERU PACIRAN LAMONGAN JATIM (62264)",
+      "kelurahan": "Weru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718659",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 04",
+      "alamat": "JL. PENDIDIKAN NO. 29 BLIMBING",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718688",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 05",
+      "alamat": "JL.RAYA NO.302 DESA WARULOR",
+      "kelurahan": "Warulor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718683",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 07 SIDOKELAR",
+      "alamat": "JLN. PASIR PUTIH NO.10 KLAYAR SIDOKELAR",
+      "kelurahan": "Sidokelar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718662",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 08",
+      "alamat": "JL. PENDIDIKAN 07 KANDANGSEMANGKON PACIRAN LAMONGAN",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718677",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 09 KRANJI",
+      "alamat": "JL.KH.AH.DAHLAN NO.12 KRANJI PACIRAN LAMONGAN",
+      "kelurahan": "Kranji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718682",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 10 TLOGOSADANG",
+      "alamat": "JL.PENDIDIDKAN NO. 127 TLOGOSADANG PACIRAN LAMONGAN",
+      "kelurahan": "Tlogosadang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718660",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 11 TPAY",
+      "alamat": "JLN. GOWAH NO 50 RT. 06/ RW.02 BLIMBING, PACIRAN, LAMONGAN",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718664",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 12",
+      "alamat": "JL. SEKAR PETAK 03 DENGOK KANDANGSEMANGKON PACIRAN LAMONGAN",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718694",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 13",
+      "alamat": "JL.KHA. DAHLAN NO. 99 SENDANGAGUNG PACIRAN LAMONGAN",
+      "kelurahan": "Sendangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718680",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 15",
+      "alamat": "Jln Sunan Drajat No 97 Desa Banjarwati",
+      "kelurahan": "Banjarwati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718672",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 16 PACIRAN",
+      "alamat": "Jl. Pondok Pesantren Karangasem Paciran",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60718689",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 18 SIDODADI",
+      "alamat": "JL. MASJID DARUS SALAM DUSUN SIDODADI DESA KRANJI KEC. PACIRAN KAB. LAMONGAN",
+      "kelurahan": "Kranji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718690",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 19 SIDOKUMPUL",
+      "alamat": "JL. SIMPANG TIGA BARAT NO. 01 DESA SIDOKUMPUL KEC. PACIRAN KAB. LAMONGAN",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "60718691",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 20",
+      "alamat": "JALAN SENDANG NO. 281 PAYM  JETAK PACIRAN",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "60718665",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH-14",
+      "alamat": "JL. RAYA NO. 24 SUMURGAYAM PACIRAN LAMONGAN",
+      "kelurahan": "Sumurgayam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "60718666",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH-17",
+      "alamat": "JL. RAYA NO. 01 SUMURAN PACIRAN",
+      "kelurahan": "Sumurgayam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "60718684",
+      "nama_satuan_pendidikan": "MIS TAHDZIBIYAH",
+      "alamat": "JL. PASIR PUTIH RT. 001 RW. 002 DUSUN PERDOTO DESA SIDOKELAR",
+      "kelurahan": "Sidokelar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "60718678",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFAL",
+      "alamat": "JL.SUNAN DRAJAT BARAT NO. 036 DESA DRAJAT",
+      "kelurahan": "Drajat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "60718673",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL HUDA",
+      "alamat": "JL.R.FATAH 39 SENDANGDUWUR PACIRAN",
+      "kelurahan": "Sendangduwur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "60718681",
+      "nama_satuan_pendidikan": "MIS TARBIYATUS SHIBYAN",
+      "alamat": "Jl. Syaikh Maulana Ishaq RT. 02 RW. 02",
+      "kelurahan": "Kemantren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "60718676",
+      "nama_satuan_pendidikan": "MIS TARBIYATUT THOLABAH",
+      "alamat": "JL.KH. MUSTHOFA KRANJI PACIRAN",
+      "kelurahan": "Kranji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "69977786",
+      "nama_satuan_pendidikan": "MTS MAMBA`UL MA`ARIF",
+      "alamat": "JL. RAYA DEANDLES NO. 388",
+      "kelurahan": "Banjarwati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "70034444",
+      "nama_satuan_pendidikan": "MTs Mu`allimin Mu`allimat Sunan Drajat",
+      "alamat": "Jln. Raden Qosim RT.002 RW.001",
+      "kelurahan": "Banjarwati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582859",
+      "nama_satuan_pendidikan": "MTSS AL - AZHAR",
+      "alamat": "JLN KARANGASEM NO. 3 BANJARWATI PACIRAN LAMONGAN",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582846",
+      "nama_satuan_pendidikan": "MTSS AL MUHTADI",
+      "alamat": "JL. KH. ISMAIL NO 78 RT 2 RW 2 SENDANGAGUNG",
+      "kelurahan": "Sendangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20582858",
+      "nama_satuan_pendidikan": "MTSS AL-FATHIMIYAH",
+      "alamat": "JL. SUNAN DRAJAD BARAT NO.164 BANJARWATI",
+      "kelurahan": "Drajat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20582857",
+      "nama_satuan_pendidikan": "MTSS BAHRUL ULUM",
+      "alamat": "JL. DR. SOETOMO NO. 42 RT. 07 RW. 03",
+      "kelurahan": "Warulor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20582840",
+      "nama_satuan_pendidikan": "MTSS ISLAMIYAH BLIMBING",
+      "alamat": "JL. RAYA BLIMBING NO.01 GG. PENDIDIKAN SIDOREJO BLIMBING",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20582850",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF 11 TARBIYATUS SHIBYAN",
+      "alamat": "Jl. Raya Deandels Kemantren",
+      "kelurahan": "Kemantren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20582814",
+      "nama_satuan_pendidikan": "MTSS MAARIF-20 ISLAMIYAH",
+      "alamat": "JL.RAYA CMPUREJO NO.01 PALOH",
+      "kelurahan": "Paloh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20582842",
+      "nama_satuan_pendidikan": "MTSS MASLAKUL HUDA",
+      "alamat": "JL. KALBAKAL NO. 382 DENGOK PACIRAN LAMONGAN",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20582854",
+      "nama_satuan_pendidikan": "MTSS MATHLABUL HUDA",
+      "alamat": "JL. H. NUR HADI NO. 18 WERU (KKM MTSN LMG)",
+      "kelurahan": "Weru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "70013250",
+      "nama_satuan_pendidikan": "MTSS MAULANA ISHAQ",
+      "alamat": "JL. PENDIDIKAN RT. 01 RW. 05",
+      "kelurahan": "Kemantren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20582845",
+      "nama_satuan_pendidikan": "MTSS MAZRA`ATUL ULUM",
+      "alamat": "JALAN RAYA NO. 214 PACIRAN LAMONGAN",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20582853",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH - 09",
+      "alamat": "JL. PENDIDIKAN NO 03 WERU PACIRAN LAMONGAN",
+      "kelurahan": "Weru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20582847",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH - 17",
+      "alamat": "JL. P. Diponegoro",
+      "kelurahan": "Kranji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20582855",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH - 18",
+      "alamat": "JL.RAYA NO. 302 DESA WARU LOR (KKM MTSN LMG)",
+      "kelurahan": "Warulor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20582843",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 01 PONDOK MODERN",
+      "alamat": "JL. Pondok RT.03 RW.05 Desa Paciran",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20582851",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 08",
+      "alamat": "JLN. PASIR PUTIH NO. 10 SIDOKELAR PACIRAN LAMONGAN (KKM MTSN LMG)",
+      "kelurahan": "Sidokelar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20582841",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 11",
+      "alamat": "JL. SEKAR PETAK NO. 03 DENGOK",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20582844",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 2 PONDOK KARANGASEM PACIRAN LAMONGAN",
+      "alamat": "KOMPLEKS PONDOK KARANGASEM PACIRAN LAMONGAN",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20582852",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 27",
+      "alamat": "JL. PENDIDIKAN NO. 127 (KKM MTSN LMG)",
+      "kelurahan": "Sendangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20582849",
+      "nama_satuan_pendidikan": "MTSS SUNAN DRAJAT BANJARWATI",
+      "alamat": "JL. RADEN QOSIM BANJARWATI",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20582856",
+      "nama_satuan_pendidikan": "MTSS TARBIYATUL HUDA",
+      "alamat": "JL. R. FATAH NO. 38",
+      "kelurahan": "Sendangduwur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 61,
+      "npsn": "20582848",
+      "nama_satuan_pendidikan": "MTSS TARBIYATUT THOLABAH",
+      "alamat": "JL. KH. MUSTHOFA NO.O4 KRANJI",
+      "kelurahan": "Kranji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "69983923",
+      "nama_satuan_pendidikan": "SD Islam Plus Darul Jannah Al-Ma`wa",
+      "alamat": "jl. Raya Deanles RT 01 RW 04",
+      "kelurahan": "Tunggul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": "20548703",
+      "nama_satuan_pendidikan": "SD Islam Sultan Agung",
+      "alamat": "Jl. SULTAN AGUNG No. 45 - 47 Kel. Blimbing Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "20506105",
+      "nama_satuan_pendidikan": "SD Negeri 1 Blimbing",
+      "alamat": "Jl. Raya Deandels No. 240 Kel. Blimbing Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20505918",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kranji",
+      "alamat": "Jl. Raya Daendles No. 1 Desa Kranji Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Kranji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20505983",
+      "nama_satuan_pendidikan": "SD Negeri 1 Paciran",
+      "alamat": "Jl. Raya Deandles No.74 Jetak Paciran",
+      "kelurahan": "Paciran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20506596",
+      "nama_satuan_pendidikan": "SD Negeri 1 Weru",
+      "alamat": "Jl. Pendidikan No. 784 Desa Weru Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Weru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20506106",
+      "nama_satuan_pendidikan": "SD Negeri 2 Blimbing",
+      "alamat": "Jl. Raya Blimbing Laren No. 55 Kel. Blimbing Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20505919",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kranji",
+      "alamat": "Dusun Tepanas Desa Kranji Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Kranji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20506595",
+      "nama_satuan_pendidikan": "SD Negeri 2 Weru",
+      "alamat": "Jl. Pendidikan Nomor 576 Desa Weru Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Weru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20506107",
+      "nama_satuan_pendidikan": "SD Negeri 3 Blimbing",
+      "alamat": "Jl. Semangu No. 181 Kel. Blimbing Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Blimbing",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20505909",
+      "nama_satuan_pendidikan": "SD Negeri 3 Kranji",
+      "alamat": "Dusun Sidodadi Desa Kranji Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Kranji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20505984",
+      "nama_satuan_pendidikan": "SD Negeri 3 Paciran",
+      "alamat": "Dusun Penanjan Desa Paciran Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Paciran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20506100",
+      "nama_satuan_pendidikan": "SD Negeri Banjarwati",
+      "alamat": "Jl. Sunan Drajat Desa Banjarwati Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Banjarwati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20506137",
+      "nama_satuan_pendidikan": "SD Negeri Kandangsemangkon",
+      "alamat": "Jl. Raya Deandels No. 357 Desa Kandangsemangkon Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Kandangsemangkon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20505872",
+      "nama_satuan_pendidikan": "SD Negeri Kemantren",
+      "alamat": "Jl. Cinde Amoh No. 34 Desa Kemantren Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Kemantren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20506516",
+      "nama_satuan_pendidikan": "SD Negeri Sendangagung",
+      "alamat": "Jl. R. Fatah No. 11 Desa Sendangagung Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Sendangduwur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20506546",
+      "nama_satuan_pendidikan": "SD Negeri Sidokelar",
+      "alamat": "Jl. Raya Deandels No. 127 Sidokelar Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Sidokelar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20506548",
+      "nama_satuan_pendidikan": "SD Negeri Sidokumpul",
+      "alamat": "Jl. Pendidikan Nomor 189",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 80,
+      "npsn": "20506577",
+      "nama_satuan_pendidikan": "SD NEGERI TLOGOSADANG",
+      "alamat": "Jl. Raya Deandels Nomor 58 Desa Tlogosadang Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Tlogosadang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 81,
+      "npsn": "20506560",
+      "nama_satuan_pendidikan": "SD Negeri Tunggul",
+      "alamat": "Jl. Raya Deandels No. 40 Desa Tunggul Kec. Paciran Kab. Lamongan",
+      "kelurahan": "Tunggul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 82,
+      "npsn": "69987110",
+      "nama_satuan_pendidikan": "SD TQ Al Ihsan",
+      "alamat": "Jl. Sumur ombe",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20506267",
+      "nama_satuan_pendidikan": "SMP AL AMIN PACIRAN",
+      "alamat": "Jl. Raya Deandles No. 113 Tunggul",
+      "kelurahan": "Tunggul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "69787010",
+      "nama_satuan_pendidikan": "SMP BILINGUAL  AL- AZHAR",
+      "alamat": "Jl. Karangasem No. 03 banjarwati",
+      "kelurahan": "Banjarwati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": "20576081",
+      "nama_satuan_pendidikan": "SMP BILINGUAL DARUL JANNAH AL-MA`WA",
+      "alamat": "Jalan Raya Deandels RT 01 RW 04 Ds. Tunggul",
+      "kelurahan": "Tunggul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "20574710",
+      "nama_satuan_pendidikan": "SMP MANARUL QUR`AN PACIRAN",
+      "alamat": "Jalan Pasar Lama I Paciran",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": "20506400",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 12 PACIRAN",
+      "alamat": "Jl. Raya Sendangagung",
+      "kelurahan": "Sendangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 88,
+      "npsn": "20506401",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 14 PACIRAN",
+      "alamat": "Pon. Pes. Karangasem Muhammadiyah Paciran",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 89,
+      "npsn": "20555377",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 25 PACIRAN",
+      "alamat": "Jl. Pondok Modern",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 90,
+      "npsn": "20555624",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 27 PACIRAN",
+      "alamat": "Jl. Simpang Tiga  Barat  No. 01 RT. 09 / RW. 03",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 91,
+      "npsn": "20177904",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 28 PACIRAN",
+      "alamat": "Jl. Pendidikan No. 07 Rt. 02 Rw. 03 Kandangsemangkon Paciran",
+      "kelurahan": "Kandangsemangkon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": "69762595",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 29 PACIRAN",
+      "alamat": "JL. Masjid Darussalam Sidodadi Kranji Paciran",
+      "kelurahan": "Kranji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": "20506439",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 7 PACIRAN",
+      "alamat": "Jl. H.M. Jafar Adenan No. 5 Blimbing",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": "20506355",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 PACIRAN",
+      "alamat": "Jl. Raya 240 Paciran",
+      "kelurahan": "Paciran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 95,
+      "npsn": "20506374",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 PACIRAN",
+      "alamat": "Paciran Lamongan",
+      "kelurahan": "Banjarwati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 96,
+      "npsn": "69899852",
+      "nama_satuan_pendidikan": "SMP Sultan Agung Paciran",
+      "alamat": "Jl. Sultan Agung No. 45 - 47",
+      "kelurahan": "Blimbing",
+      "status": "SWASTA"
+    },
+    {
+      "no": 97,
+      "npsn": "70012759",
+      "nama_satuan_pendidikan": "SMP UNGGULAN KARANGSAWO",
+      "alamat": "Jl. Gunungjati no. 99",
+      "kelurahan": "Paciran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 98,
+      "npsn": "70051402",
+      "nama_satuan_pendidikan": "SPM WUSTHA KARANGASEM",
+      "alamat": "Jalan Raya Sendangagung",
+      "kelurahan": "Kec. Paciran",
+      "status": "SWASTA"
+    }
+  ]
+}

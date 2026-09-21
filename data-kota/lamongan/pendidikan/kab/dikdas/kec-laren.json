@@ -1,0 +1,634 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. LAREN",
+  "updated_at": "2026-09-21T01:56:55.341Z",
+  "count": 78,
+  "negeri": 17,
+  "swasta": 61,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "70035646",
+      "nama_satuan_pendidikan": "MI TERPADU AL-ISMAILI",
+      "alamat": "Jalan KH. Ismail No. 656 RT 003 RW 005",
+      "kelurahan": "Bulubrangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718578",
+      "nama_satuan_pendidikan": "MI THORIQOTUL HIDAYAH 1",
+      "alamat": "Pilang RT 001 RW 003",
+      "kelurahan": "Tejoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718588",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM SUKOREJO",
+      "alamat": "JLN.KH.HASYIM ASY,ARI NO.91 SUKOREJO BULUTIGO LAREN LAMONGAN",
+      "kelurahan": "Siser",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718601",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL UMMAH DATENG",
+      "alamat": "JL. MASJID JAMI` BAITURRAHMAN DS. DATENG KEC. LAREN KAB. LAMONGAN",
+      "kelurahan": "Dateng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718577",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL UMMAH GAMPANGSEJATI",
+      "alamat": "JL MASJID AL MUHAJIRIN DESA GAMPANGSEJATI",
+      "kelurahan": "Gampang Sejati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718579",
+      "nama_satuan_pendidikan": "MIS HIDAYATUT THOLIBIN TEJOASRI",
+      "alamat": "JL. TEUKU UMAR NO. 117 RT. 002, RW. 004 TEJOASRI LAREN LAMONGAN",
+      "kelurahan": "Tejoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718589",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL. TAMBANGAN TIMUR NO. 1 DESA MOJOASEM KECAMATAN LAREN KABUPATEN LAMONGAN",
+      "kelurahan": "Mojo Asem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718593",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH GUPPI",
+      "alamat": "DSN TELOGOREJO DESA GAMPANGSEJATI KECAMATAN LAREN KABUPATEN LAMONGAN",
+      "kelurahan": "Gampang Sejati",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "69726229",
+      "nama_satuan_pendidikan": "MIS MAMBAUASSAADAH",
+      "alamat": "DUSUN.KORYO BULUTIGO LAREN LAMONGAN JAWA TIMUR",
+      "kelurahan": "Bulutigo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718598",
+      "nama_satuan_pendidikan": "MIS MANBAUL ULUM BULUBRANGSI",
+      "alamat": "JL. KH. DAHLAN NO. 1 RT. 01/RW. 01 BULUBRANGSI",
+      "kelurahan": "Bulubrangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718585",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA LENGOR",
+      "alamat": "JL.MASJID AL IHLAS NO 186 LENGOR  PELANGWOT",
+      "kelurahan": "Pelangwot",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718586",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM PELANGWOT",
+      "alamat": "JL. SUNAN KALIJAGA NO.549 DESA PELANGWOT LAREN LAMONGAN",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718603",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM SAPAN",
+      "alamat": "JL. EMBONG TANGKIS NO. 01 DSN. SAPAN DS. DATENG",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718602",
+      "nama_satuan_pendidikan": "MIS MUHAMADIYAH 14 DATENG",
+      "alamat": "JL. MASJID AL - IKHLAS DS. DATENG KEC. LAREN",
+      "kelurahan": "Dateng",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718574",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 02 LAREN",
+      "alamat": "JL. KH. AHMAD DAHLAN NO. 18 LAREN",
+      "kelurahan": "Laren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718580",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03 BULUBRANGSI",
+      "alamat": "JL. K.H. ISMAIL RT. 03 RW. 05 DESA BULUBRANGSI KECAMATAN LAREN KABUPATEN LAMONG",
+      "kelurahan": "Bulubrangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718587",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 08 PELANGWOT",
+      "alamat": "PERUMAHAN PILANG ASRI DESA PELANGWOT KEC.LAREN KAB.LAMONGAN",
+      "kelurahan": "Pelangwot",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718582",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 09 KARANGWUNGULOR",
+      "alamat": "JL DR.SUTOMO NO. 01 KARANGWUNGULOR",
+      "kelurahan": "Karangwungu Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718597",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 1 GODOG",
+      "alamat": "JL. CENDERAWASIH 292 RT. 01/RW. 04",
+      "kelurahan": "Godog",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "69726233",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 10",
+      "alamat": "JL",
+      "kelurahan": "Pesanggrahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718591",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 11 JABUNG",
+      "alamat": "JL. MASJIT AL - MUTTAQIN NO.42    DS. JABUNG KEC. LAREN KAB. LAMONGAN",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "69726236",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 12",
+      "alamat": "CENTINI RT.01/RW. 02 DESA CENTINI - LAREN",
+      "kelurahan": "Centini",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718592",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 13 SAPAN DATENG",
+      "alamat": "JL. PENDIDIKAN NO. 57 DSN. SAPAN DS. DATENG",
+      "kelurahan": "Kec. Laren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718581",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 4 BRANGSI",
+      "alamat": "JL. CANDRA KARTIKA NO. 01 BRANGSI",
+      "kelurahan": "Brangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718595",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 6",
+      "alamat": "JALAN K.H. AHMAD DAHLAN NO. 54 RT 03/RW 01 DESA KARANGTAWAR KECAMATAN LAREN KAB",
+      "kelurahan": "Karangtawar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718596",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 7 SINGKUL",
+      "alamat": "JL. KH. AHMAD DAHLAN NO. 63 RT.03 / RW.04 SINGKUL",
+      "kelurahan": "Karangtawar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718599",
+      "nama_satuan_pendidikan": "MIS SIROJUL ULUM",
+      "alamat": "JL. PRAMUKA NO. 165 RT 03 RW 01",
+      "kelurahan": "Pesanggrahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60718604",
+      "nama_satuan_pendidikan": "MIS SYIFAUL QULUB",
+      "alamat": "PRIJEK SIDOREJO 07/03 LAREN LAMONGAN",
+      "kelurahan": "Taman Prijek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718583",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH",
+      "alamat": "KARANGWUNGULOR LAREN LAMONGAN",
+      "kelurahan": "Karangwungu Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "69726227",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH",
+      "alamat": "JL. PP. AL BALAGH RT. 04/02 DESA BULUTIGO KEMACATAN LAREN KABUPATEN LAMONGAN",
+      "kelurahan": "Duri Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "60718590",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH",
+      "alamat": "JL MASJID RT 01 / 03 KEDUYUNG",
+      "kelurahan": "Keduyung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "69726234",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH",
+      "alamat": "JL JOKO TINGKIR NO 17  GELAP LAREN LAMONGAN",
+      "kelurahan": "Gelap",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "69726231",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH",
+      "alamat": "JL MASJID JAMI, BAITUL KHOIR NO 01 RT 04/02",
+      "kelurahan": "Siser",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "60718594",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH",
+      "alamat": "KARANGTAWAR LAREN LAMONGAN",
+      "kelurahan": "Karangtawar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "60718584",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH 2 TEJOASRI",
+      "alamat": "JL. KALIPANG NO. 44 RT 02 RW 02 TEJOASRI LAREN",
+      "kelurahan": "Tejoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "60718575",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH GENDONG",
+      "alamat": "DSN. GENDONG DS. LAREN KEC. LAREN",
+      "kelurahan": "Gelap",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "60718600",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH JABUNG",
+      "alamat": "JL. HASYIM ASYARI NO. 09 RT/RW : 08/01 JABUNG LAREN LAMONGAN",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "60718576",
+      "nama_satuan_pendidikan": "MIS THORIQOTUL HIDAYAH LAREN",
+      "alamat": "JL. KH. HASYIM ASYARI 52 LAREN LAMONGAN 62262",
+      "kelurahan": "Laren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582824",
+      "nama_satuan_pendidikan": "MTSS AL ISLAMIYAH MOJOASEM",
+      "alamat": "JLN.TAMBANGAN TIMUR NO.09 DESA MOJOASEM KECAMATAN LAREN KABUPATEN LAMONGAN",
+      "kelurahan": "Mojo Asem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582825",
+      "nama_satuan_pendidikan": "MTSS ALBALAGH",
+      "alamat": "JL. PP. AL BALAGH RT.004 RW. 002",
+      "kelurahan": "Bulutigo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582821",
+      "nama_satuan_pendidikan": "MTSS DARUL ROHMAH",
+      "alamat": "JL. KH. HASYIM ASYARI 52",
+      "kelurahan": "Mojo Asem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20582819",
+      "nama_satuan_pendidikan": "MTSS DARUSSALAM",
+      "alamat": "JL. K.H. AHMAD DAHLAN NO.01 RT.01/RW.01 BULUBRANGSI.",
+      "kelurahan": "Bulubrangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20582822",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM PELANGWOT",
+      "alamat": "JL. SUNAN KALIJAGA NO.543 PELANGWOT, KECAMATAN LAREN KABUPATEN LAMONGAN",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20582817",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 14 LAREN",
+      "alamat": "JL. KH. AHMAD DAHLAN NO 18 LAREN",
+      "kelurahan": "Laren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20582820",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 4",
+      "alamat": "JL.KH.ISMAIL RT.03 RW.05",
+      "kelurahan": "Bulubrangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20582818",
+      "nama_satuan_pendidikan": "MTSS THORIQOTUL HIDAYAH CENTINI",
+      "alamat": "DESA CENTINI KEC.LARENA KAB.LAMONGAN",
+      "kelurahan": "Centini",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "69853598",
+      "nama_satuan_pendidikan": "MTSS Thoriqotul Hidayah Jabung",
+      "alamat": "KH HASYIM ASY`ARI NO 08",
+      "kelurahan": "Jabung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20582823",
+      "nama_satuan_pendidikan": "MTSS WACHID HASYIM",
+      "alamat": "JL. EMBOG SEPUR NO. 17 GELAP",
+      "kelurahan": "Gelap",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20574540",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Laren",
+      "alamat": "Jl MASJID AL-MUHAJIRIN",
+      "kelurahan": "Tejoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20505936",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pelangwot",
+      "alamat": "Jl. Tangkis Bengawan Solo",
+      "kelurahan": "Pelangwot",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506638",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tejoasri",
+      "alamat": "Jln Dusun Pilang gang 9",
+      "kelurahan": "Tejoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20505937",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pelangwot",
+      "alamat": "Jl. Ngalengko Dirojo Dusun Lengor",
+      "kelurahan": "Pelangwot",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506639",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tejoasri",
+      "alamat": "Tejoasri RT. 001 RW. 006",
+      "kelurahan": "Tejoasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506118",
+      "nama_satuan_pendidikan": "SD Negeri Bulubrangsi",
+      "alamat": "Jl. KH. Ahmad Dahlan RT. 001 RW. 001",
+      "kelurahan": "Bulubrangsi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506043",
+      "nama_satuan_pendidikan": "SD NEGERI BULUTIGO",
+      "alamat": "Dusun Bulutigo",
+      "kelurahan": "Bulutigo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506051",
+      "nama_satuan_pendidikan": "SD Negeri Centini",
+      "alamat": "Desa Centini  RT. 001 RW. 006",
+      "kelurahan": "Centini",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506032",
+      "nama_satuan_pendidikan": "SD Negeri Dateng",
+      "alamat": "RT. 002 RW. 003 Desa Dateng",
+      "kelurahan": "Dateng",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506057",
+      "nama_satuan_pendidikan": "SD Negeri Durikulon",
+      "alamat": "Durikulon",
+      "kelurahan": "Duri Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20506059",
+      "nama_satuan_pendidikan": "SD NEGERI GAMPANGSEJATI",
+      "alamat": "Jl. Raya Gampangsejati RT. 001RW. 001",
+      "kelurahan": "Gampang Sejati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20506202",
+      "nama_satuan_pendidikan": "SD Negeri Gelap",
+      "alamat": "Dusun Dandu Desa Gelap",
+      "kelurahan": "Gelap",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506193",
+      "nama_satuan_pendidikan": "SD Negeri Godog",
+      "alamat": "JL. MLIWIS NO.78",
+      "kelurahan": "Godog",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20505869",
+      "nama_satuan_pendidikan": "SD Negeri Keduyung",
+      "alamat": "Keduyung",
+      "kelurahan": "Keduyung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20506539",
+      "nama_satuan_pendidikan": "SD Negeri Siser",
+      "alamat": "Jl. Tanggul No. 5 Siser",
+      "kelurahan": "Siser",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20506651",
+      "nama_satuan_pendidikan": "SD Negeri Tamanprijek",
+      "alamat": "RT. 004 RW. 002 Desa Tamanprijek",
+      "kelurahan": "Taman Prijek",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "70001427",
+      "nama_satuan_pendidikan": "SDI AL ROSYID",
+      "alamat": "Kalimondo",
+      "kelurahan": "Pelangwot",
+      "status": "SWASTA"
+    },
+    {
+      "no": 66,
+      "npsn": "70005341",
+      "nama_satuan_pendidikan": "SDI Sahabat Berlian",
+      "alamat": "Jl. Mbah Abu",
+      "kelurahan": "Laren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 67,
+      "npsn": "69985709",
+      "nama_satuan_pendidikan": "SMP AL ISMAILI",
+      "alamat": "Jl. KH Ismail, RT.03, RW. 05, No. 656",
+      "kelurahan": "Bulubrangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 68,
+      "npsn": "69888563",
+      "nama_satuan_pendidikan": "SMP MA`ARIF DARUL HIDAYAH LAREN",
+      "alamat": "Dusun Pilang Desa Tejoasri",
+      "kelurahan": "Tejoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 69,
+      "npsn": "20506404",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 17 LAREN",
+      "alamat": "Jl. Masjid Attaqwa No. 179",
+      "kelurahan": "Keduyung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 70,
+      "npsn": "20506408",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 21 BRANGSI",
+      "alamat": "Jl. Candra Kartika No. 01 Desa Brangsi Kec. Laren Kab. Lamongan",
+      "kelurahan": "Brangsi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 71,
+      "npsn": "20506440",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 8 LAREN",
+      "alamat": "Jl. Cendrawasih No. 292 Rt.01/Rw.04 Desa Godog",
+      "kelurahan": "Godog",
+      "status": "SWASTA"
+    },
+    {
+      "no": 72,
+      "npsn": "70059297",
+      "nama_satuan_pendidikan": "SMP NAHDLATUL `ULAMA` TAMAN",
+      "alamat": "Jl. Anggrek Taman RT.03 RW.01",
+      "kelurahan": "Taman Prijek",
+      "status": "SWASTA"
+    },
+    {
+      "no": 73,
+      "npsn": "20554302",
+      "nama_satuan_pendidikan": "SMP NAHDLOTUL ULAMA  LAREN",
+      "alamat": "Jl. KH. Hasyim Asyari No.1 Gendong",
+      "kelurahan": "Laren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 74,
+      "npsn": "20506350",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Laren",
+      "alamat": "Jl. Raya Gampangsejati No. 07 Laren Lamongan",
+      "kelurahan": "Gampang Sejati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20506367",
+      "nama_satuan_pendidikan": "SMP Negeri 2 Laren",
+      "alamat": "Jalan Tanggul",
+      "kelurahan": "Centini",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "69894699",
+      "nama_satuan_pendidikan": "THORIQOTUL HIDAYAH",
+      "alamat": "JL.KH.HASYIM ASY ARI RT 03 RW 01 DURI KULON LAREN",
+      "kelurahan": "Duri Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "69894698",
+      "nama_satuan_pendidikan": "THORIQOTUL HIDAYAH",
+      "alamat": "Jl. RAYA DESA CENTINI. RT.01 RW.04",
+      "kelurahan": "Centini",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "69894700",
+      "nama_satuan_pendidikan": "THORIQOTUL HIDAYAH TAMAN",
+      "alamat": "Jl. Madrasah Tho-Hid Taman",
+      "kelurahan": "Taman Prijek",
+      "status": "SWASTA"
+    }
+  ]
+}

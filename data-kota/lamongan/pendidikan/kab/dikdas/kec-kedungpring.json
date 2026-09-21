@@ -1,0 +1,514 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KEDUNGPRING",
+  "updated_at": "2026-09-21T01:55:45.923Z",
+  "count": 63,
+  "negeri": 31,
+  "swasta": 32,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718550",
+      "nama_satuan_pendidikan": "MI MAARIF NU DARUL MUTTAQIN SUKOMALO",
+      "alamat": "JL. STRAT BUNTU",
+      "kelurahan": "Sukomalo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "70028213",
+      "nama_satuan_pendidikan": "MI NAHDLATUL ULAMA",
+      "alamat": "Dsn. Jati RT/RW 006/002",
+      "kelurahan": "Jatidrojok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718538",
+      "nama_satuan_pendidikan": "MIN 1 LAMONGAN",
+      "alamat": "JL. PRAMUKA NO. 01 BLAWIREJO KEDUNGPRING LAMONGAN",
+      "kelurahan": "Blawirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 4,
+      "npsn": "70028080",
+      "nama_satuan_pendidikan": "MIS AL-MA`RUF",
+      "alamat": "DUSUN DRADAH",
+      "kelurahan": "Dradah Blumbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718545",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM KRADENANREJO",
+      "alamat": "DESA KRADENANREJO KECAMATAN KEDUNGPRING",
+      "kelurahan": "Kradenanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718547",
+      "nama_satuan_pendidikan": "MIS EMPAT LIMA",
+      "alamat": "JL. KALENKEDUNGPRIN NO 14",
+      "kelurahan": "Mekanderejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718540",
+      "nama_satuan_pendidikan": "MIS INFARUL GHOY",
+      "alamat": "JL.WADUK PRIJETAN DUSUN NGAMPON RT.06 / RW.01",
+      "kelurahan": "Tenggerejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718549",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "RT 001  RW 004 DSN JATENAN  DS TENGGEREJO KEC. KEDUNGPRING KAB. LAMONGAN",
+      "kelurahan": "Tenggerejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718544",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL. KAMBOJA 83 RT.01 / RW.02 DESA MAINDU",
+      "kelurahan": "Maindu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718539",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH DRADAHBLUMBANG",
+      "alamat": "DS.DRADAHBLUMBANG KEC.KEDUNGPRING-KAB.LAMONGAN",
+      "kelurahan": "Dradah Blumbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718548",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "Kampung Mojorembun RT 004 RW 002",
+      "kelurahan": "Mojodadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718542",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 KALEN",
+      "alamat": "JL. RAYA BABAT-JOMBANG NO. 63 A KALEN",
+      "kelurahan": "Kalen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718543",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 2 SIDOMLANGEAN",
+      "alamat": "JL.AHMAD DAHLAN NO. 31 SIDOMLANGEAN KEDUNGPRING LAMONGAN",
+      "kelurahan": "Sidomlangean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718551",
+      "nama_satuan_pendidikan": "MIS NAHDLATUL ULAMA",
+      "alamat": "JLN. BRAWIJAYA NO.27 DESA SUKOMALO",
+      "kelurahan": "Blawirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718541",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JLN.RAYA WADUK GONDANG NO. 41 DS.MAJENANG- KEC.KEDUNGPRING",
+      "kelurahan": "Majenang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718546",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL AULAD",
+      "alamat": "JLN. TANAH PUTIH NO. 25 DESA GUNUNGREJO - KECAMATAN KEDUNGPRING - KABUPATEN LAM",
+      "kelurahan": "Jatidrojok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718552",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ULUM",
+      "alamat": "JL.CILIWUNG NO.02 RT 01 RW 05",
+      "kelurahan": "Banjarrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "70044932",
+      "nama_satuan_pendidikan": "MTs KHOZINATUL ULUM",
+      "alamat": "Jalan Pasir Putih RT 02 RW 7 Banan",
+      "kelurahan": "Kec. Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582806",
+      "nama_satuan_pendidikan": "MTSS PLUS ATH-THOHIRIYYAH",
+      "alamat": "JL.PUTERAN NO.94 BLAWIREJO",
+      "kelurahan": "Dradah Blumbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582807",
+      "nama_satuan_pendidikan": "MTSS SA AR-ROHMAN",
+      "alamat": "JL. PRAMUKA NO. 3 BLAWIREJO",
+      "kelurahan": "Tlanak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582804",
+      "nama_satuan_pendidikan": "MTSS TARBIYATUL ULUM",
+      "alamat": "JALAN CILIWUNG NO. 02",
+      "kelurahan": "Jatidrojok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20507233",
+      "nama_satuan_pendidikan": "SD Islam",
+      "alamat": "Jl Basuki Rahmat No.14 Kedungpring",
+      "kelurahan": "Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20549685",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Kedungpring",
+      "alamat": "JL KH ROWI NO.05",
+      "kelurahan": "Kandangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20549825",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 2 Kedungpring",
+      "alamat": "JL. PENDIDIKAN NO.06",
+      "kelurahan": "Banjarrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20506073",
+      "nama_satuan_pendidikan": "SD Negeri 1 Dradahblumbang",
+      "alamat": "Jl. Raya Babat - Jombang No.25",
+      "kelurahan": "Dradah Blumbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506212",
+      "nama_satuan_pendidikan": "SD Negeri 1 Gunungrejo",
+      "alamat": "Jalan Pembangunan Gunungrejo",
+      "kelurahan": "Gunungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20505886",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungpring",
+      "alamat": "Jl. Basuki Rahmat No. 11",
+      "kelurahan": "Kedungpring",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505863",
+      "nama_satuan_pendidikan": "SD Negeri 1 Mekanderejo",
+      "alamat": "JL.CANGGAH NO.140",
+      "kelurahan": "Mekanderejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506640",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tenggerejo",
+      "alamat": "JL. WADUK PRIJETAN",
+      "kelurahan": "Tenggerejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506646",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tlanak",
+      "alamat": "Jl. A.yani No 42",
+      "kelurahan": "Tlanak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506074",
+      "nama_satuan_pendidikan": "SD Negeri 2 Dradahblumbang",
+      "alamat": "Dsn.Sempu Ds.Dradahblumbang",
+      "kelurahan": "Dradah Blumbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506213",
+      "nama_satuan_pendidikan": "SD Negeri 2 Gunungrejo",
+      "alamat": "Dsn. Ngadipiro RT.01 RW.02",
+      "kelurahan": "Gunungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20505887",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungpring",
+      "alamat": "RT.02 RW.02",
+      "kelurahan": "Kedungpring",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20505825",
+      "nama_satuan_pendidikan": "SD Negeri 2 Majenang",
+      "alamat": "Jl. Pembangunan 05",
+      "kelurahan": "Majenang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20505864",
+      "nama_satuan_pendidikan": "SD Negeri 2 Mekanderejo",
+      "alamat": "Jl. Mayangkara No. 09",
+      "kelurahan": "Mekanderejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506641",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tenggerejo",
+      "alamat": "Jalan Waduk Prijetan dusun Toan",
+      "kelurahan": "Tenggerejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506670",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tlanak",
+      "alamat": "JL.ANGGREK NO.17",
+      "kelurahan": "Tlanak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506609",
+      "nama_satuan_pendidikan": "SD Negeri 3 Tlanak",
+      "alamat": "Jl. A. Yani No. 110",
+      "kelurahan": "Tlanak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506098",
+      "nama_satuan_pendidikan": "SD Negeri Banjarejo",
+      "alamat": "DESA BANJAREJO",
+      "kelurahan": "Banjarrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506091",
+      "nama_satuan_pendidikan": "SD Negeri Blawirejo",
+      "alamat": "Jl. Olah Raga No.25",
+      "kelurahan": "Blawirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506230",
+      "nama_satuan_pendidikan": "SD NEGERI JATIDROJOG",
+      "alamat": "Jatidrojog",
+      "kelurahan": "Jatidrojok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506156",
+      "nama_satuan_pendidikan": "SD Negeri Kalen",
+      "alamat": "Jl. Raya Babat - Jombang No.35",
+      "kelurahan": "Kalen",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506138",
+      "nama_satuan_pendidikan": "SD Negeri Kandangrejo",
+      "alamat": "JL.A YANI NO.01",
+      "kelurahan": "Kandangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20505915",
+      "nama_satuan_pendidikan": "SD Negeri Kradenanrejo",
+      "alamat": "Desa Kradenanrejo",
+      "kelurahan": "Kradenanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20505823",
+      "nama_satuan_pendidikan": "SD Negeri Maindu",
+      "alamat": "Jl. Masjid Nomor. 88 Desa Maindu",
+      "kelurahan": "Maindu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20505848",
+      "nama_satuan_pendidikan": "SD Negeri Mlati",
+      "alamat": "JL. WADUK PRIJETAN",
+      "kelurahan": "Mlati",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20505850",
+      "nama_satuan_pendidikan": "SD Negeri Mojodadi",
+      "alamat": "Mojodadi",
+      "kelurahan": "Mojodadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20505978",
+      "nama_satuan_pendidikan": "SD Negeri Nglebur",
+      "alamat": "Desa Nglebur",
+      "kelurahan": "Nglebur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506551",
+      "nama_satuan_pendidikan": "SD Negeri Sidomlangean",
+      "alamat": "JL.RAYA NO.17",
+      "kelurahan": "Sidomlangean",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20507214",
+      "nama_satuan_pendidikan": "SD Negeri Sukomalo",
+      "alamat": "Desa Sukomalo",
+      "kelurahan": "Sukomalo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506623",
+      "nama_satuan_pendidikan": "SD Negeri Sumengko",
+      "alamat": "Sumengko",
+      "kelurahan": "Sumengko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506602",
+      "nama_satuan_pendidikan": "SD Negeri Warungering",
+      "alamat": "Jl. KEDUNGPRING - BABAT NO 18 WARUNGERING",
+      "kelurahan": "Warungering",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506276",
+      "nama_satuan_pendidikan": "SMP EMPAT LIMA 1 KEDUNGPRING",
+      "alamat": "Muka Masjid Besar Al-Ikhlas Kedungpring",
+      "kelurahan": "Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20506290",
+      "nama_satuan_pendidikan": "SMP EMPAT LIMA 2 KEDUNGPRING",
+      "alamat": "Desa Kalen Kec. Kedungpring Kab. Lamongan",
+      "kelurahan": "Kalen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20549008",
+      "nama_satuan_pendidikan": "SMP EMPAT LIMA 3 KEDUNGPRING",
+      "alamat": "Jl. Raya Waduk Gondang Desa Majenang",
+      "kelurahan": "Majenang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20549827",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 13 KALEN",
+      "alamat": "Jl.Babat- Jombang No.63 A",
+      "kelurahan": "Kalen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20549828",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 23 KEDUNGPRING",
+      "alamat": "Jl. Pendidikan No.06 Banjarejo Kedungpring",
+      "kelurahan": "Banjarrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20549829",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 3 KEDUNGPRING",
+      "alamat": "Jln. KH Rowi No.5 Kandangrejo",
+      "kelurahan": "Kandangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20506347",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KEDUNGPRING",
+      "alamat": "Jl. Mayangkara No. 01",
+      "kelurahan": "Mekanderejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20506395",
+      "nama_satuan_pendidikan": "SMP Negeri 2 Kedungpring",
+      "alamat": "Dusun Blumbang Desa Dradahblumbang",
+      "kelurahan": "Dradah Blumbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506447",
+      "nama_satuan_pendidikan": "SMP PERSATUAN KEDUNGPRING",
+      "alamat": "Jl. Basuki Rahmad No. 10",
+      "kelurahan": "Kedungpring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "69888416",
+      "nama_satuan_pendidikan": "SMP TERPADU NURUL UMMAH",
+      "alamat": "Desa Sukomalo",
+      "kelurahan": "Sukomalo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 63,
+      "npsn": "20506360",
+      "nama_satuan_pendidikan": "SMP TRI SAKTI",
+      "alamat": "Jln. Brawijaya No. 06",
+      "kelurahan": "Sukomalo",
+      "status": "SWASTA"
+    }
+  ]
+}

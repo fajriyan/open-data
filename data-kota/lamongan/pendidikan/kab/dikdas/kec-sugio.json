@@ -1,0 +1,642 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SUGIO",
+  "updated_at": "2026-09-21T01:55:41.512Z",
+  "count": 79,
+  "negeri": 39,
+  "swasta": 40,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718810",
+      "nama_satuan_pendidikan": "MIS AL AMIN",
+      "alamat": "DSN.KEDUNGGADUNG, DS.DEKETAGUNG",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718821",
+      "nama_satuan_pendidikan": "MIS AL FALAH",
+      "alamat": "Rt. 001 Rw. 001 Desa Lawanganagung Kecamatan Sugio Kabupaten Lamongan",
+      "kelurahan": "Lawanganagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718824",
+      "nama_satuan_pendidikan": "MIS AL FATTAH",
+      "alamat": "DUSUN KEDUNGSONO DESA KEDUNGDADI",
+      "kelurahan": "Kedungdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718809",
+      "nama_satuan_pendidikan": "MIS AL ISLAM",
+      "alamat": "Dusun Bedingin RT. 02//RW. 01",
+      "kelurahan": "Bedingin",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718812",
+      "nama_satuan_pendidikan": "MIS ASSA`ADAH",
+      "alamat": "Bagusan RT. 02 RW. 04 Desa Sekarbagus Kab. Lamongan",
+      "kelurahan": "Sekarbagus",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718816",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "Dsn. Karangasem Rt. 001 Rw. 006",
+      "kelurahan": "Karangsambigalih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718820",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM MEDALI",
+      "alamat": "JL.PONPES DARUL ULUM MEDALI",
+      "kelurahan": "Daliwangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718822",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "DUSUN SAMBIROTO RT.003/RW.003",
+      "kelurahan": "Karangsambigalih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718818",
+      "nama_satuan_pendidikan": "MIS FALAHIYAH",
+      "alamat": "Dsn. Kedungkendo",
+      "kelurahan": "Kedungdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718817",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL ISLAMIYAH",
+      "alamat": "JL. LELE NO. 84 DS. GERMAN",
+      "kelurahan": "German",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718808",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL UMMAH",
+      "alamat": "DEKETAGUNG SUGIO LAMONGAN",
+      "kelurahan": "Deketagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718803",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DUSUN SUGIO DESA SUGIO",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718813",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "Jl. Wego Dan. Kumisik",
+      "kelurahan": "Lawanganagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718806",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DSN. WANGUN  DS. DALIWANGUN",
+      "kelurahan": "Daliwangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718804",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "Jl. Poros Dusun Suci",
+      "kelurahan": "Jubel Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718823",
+      "nama_satuan_pendidikan": "MIS JADIDUSSALAFIYAH",
+      "alamat": "DS. SUPENUH",
+      "kelurahan": "Supenuh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718802",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "DSN.KEDUNGSUMBER DS.JUBELLOR",
+      "kelurahan": "Jubel Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718825",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL JANNAH",
+      "alamat": "DUSUN JEGREG DESA KALITENGAH",
+      "kelurahan": "Kalitengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718814",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "DUSUN KEDUNGGADUNG",
+      "kelurahan": "Deketagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718815",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "JL. MASJID DS. SIDOREJO KEC. SUGIO KAB. LAMONGAN",
+      "kelurahan": "Sidorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718807",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JLN. UTAMA PANGKATREJO NO. 83",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718805",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "Dsn. Kayen",
+      "kelurahan": "Jubel Kidul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718819",
+      "nama_satuan_pendidikan": "MIS SUNAN GIRI",
+      "alamat": "JL.RONGGOHADI NO. 140 DESA GONDANGLOR",
+      "kelurahan": "Gondang Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718801",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ISLAMIYAH",
+      "alamat": "DESA KALIPANG KEC.SUGIO KAB.LAMONGAN",
+      "kelurahan": "Kalipang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718811",
+      "nama_satuan_pendidikan": "MIS ULWIYAH",
+      "alamat": "SIDOWAYAH LAWANGANAGUNG JL. RAYA WADUK GONDANG NO. 03",
+      "kelurahan": "Lawanganagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "69853465",
+      "nama_satuan_pendidikan": "MTs Mazroatul Ulum",
+      "alamat": "Jln. Raya Sugio Lamongan-Simpang Tiga Sugio",
+      "kelurahan": "Lebakadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20582897",
+      "nama_satuan_pendidikan": "MTSS DARUL ULUM MEDALI",
+      "alamat": "DUSUN MEDALI",
+      "kelurahan": "Kedungdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582898",
+      "nama_satuan_pendidikan": "MTSS IHYAUL ULUM SUCI",
+      "alamat": "JL. K. MHO ROJI NO 60 DUSUN SUCI",
+      "kelurahan": "Jubel Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "69788389",
+      "nama_satuan_pendidikan": "MTsS MA`ARIF NU SUGIO",
+      "alamat": "DESA SUPENUH",
+      "kelurahan": "Supenuh",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20582900",
+      "nama_satuan_pendidikan": "MTSS NASHOIHUDDIN KARANGASEM",
+      "alamat": "DSN. KARANGASEM",
+      "kelurahan": "Karangsambigalih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20582899",
+      "nama_satuan_pendidikan": "MTSS NURUL HUDA SUCI",
+      "alamat": "JL. SAWAH MULYO NO. 29 SUCI",
+      "kelurahan": "Jubel Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20582896",
+      "nama_satuan_pendidikan": "MTSS SUNAN DRAJAT",
+      "alamat": "JL. RAYA SUGIO NO. 397",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "69986204",
+      "nama_satuan_pendidikan": "SD Islam Budi Luhur",
+      "alamat": "Jl. Raya Sugio",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20548705",
+      "nama_satuan_pendidikan": "SD Islam Nurul Hikmah",
+      "alamat": "DUSUN BALONGGESING",
+      "kelurahan": "Lebakadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20555406",
+      "nama_satuan_pendidikan": "SD IT Ala Bashiroh",
+      "alamat": "Dusun Guyangan Desa Sekarbagus",
+      "kelurahan": "Sekarbagus",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20548704",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Sugio",
+      "alamat": "Dsn. Balonggesing",
+      "kelurahan": "Lebakadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20507258",
+      "nama_satuan_pendidikan": "SD Negeri 1 Bakalrejo",
+      "alamat": "Dusun Singgang",
+      "kelurahan": "Bakalrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506085",
+      "nama_satuan_pendidikan": "SD Negeri 1 Bedingin",
+      "alamat": "Bedingin",
+      "kelurahan": "Bedingin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506194",
+      "nama_satuan_pendidikan": "SD Negeri 1 Gondanglor",
+      "alamat": "Gondang Lor",
+      "kelurahan": "Gondang Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506239",
+      "nama_satuan_pendidikan": "SD Negeri 1 Jubelkidul",
+      "alamat": "Dusun Jubel Kidul",
+      "kelurahan": "Jubel Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506147",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kalitengah",
+      "alamat": "Jegreg",
+      "kelurahan": "Kalitengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506160",
+      "nama_satuan_pendidikan": "SD Negeri 1 Karangsambigalih",
+      "alamat": "Sambiroto",
+      "kelurahan": "Karangsambigalih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506165",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungbanjar",
+      "alamat": "Dusun Kedungpari",
+      "kelurahan": "Kedungbanjar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506169",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungdadi",
+      "alamat": "Dsn. Kedungsono, Ds. Kedungdadi, Kec. Sugio",
+      "kelurahan": "Kedungdadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20505835",
+      "nama_satuan_pendidikan": "SD Negeri 1 Lebakadi",
+      "alamat": "Desa Lebakadi",
+      "kelurahan": "Lebakadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506015",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pangkatrejo",
+      "alamat": "Dusun Dagelan",
+      "kelurahan": "Pangkatrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506520",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sekarbagus",
+      "alamat": "Dusun Menengahi",
+      "kelurahan": "Sekarbagus",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506535",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sidorejo",
+      "alamat": "Jl. Raya Waduk Gondang",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506461",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sugio",
+      "alamat": "Jl. Raya Sugio",
+      "kelurahan": "Sugio",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20507259",
+      "nama_satuan_pendidikan": "SD Negeri 2 Bakalrejo",
+      "alamat": "Dusun Bakalan",
+      "kelurahan": "Bakalrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506086",
+      "nama_satuan_pendidikan": "SD Negeri 2 Bedingin",
+      "alamat": "BINORONG",
+      "kelurahan": "Bedingin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506195",
+      "nama_satuan_pendidikan": "SD Negeri 2 Gondanglor",
+      "alamat": "Jl. Ronggohadi No. 152 Dsn Biting Ds. Gondanglor",
+      "kelurahan": "Gondang Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506186",
+      "nama_satuan_pendidikan": "SD Negeri 2 Jubelkidul",
+      "alamat": "Dusun Jatirejo",
+      "kelurahan": "Jubel Kidul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506146",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kalitengah",
+      "alamat": "Dusun Bulu Plapak",
+      "kelurahan": "Kalitengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506161",
+      "nama_satuan_pendidikan": "SD Negeri 2 Karangsambigalih",
+      "alamat": "Dusun Bandung Desa Karangsambigalih",
+      "kelurahan": "Karangsambigalih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506168",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungbanjar",
+      "alamat": "Kedungbanjar",
+      "kelurahan": "Kedungbanjar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506170",
+      "nama_satuan_pendidikan": "SD NEGERI 2 KEDUNGDADI",
+      "alamat": "Dusun Kedungbulu",
+      "kelurahan": "Kedungdadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20505836",
+      "nama_satuan_pendidikan": "SD Negeri 2 Lebakadi",
+      "alamat": "Lebakadi",
+      "kelurahan": "Lebakadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20551775",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pangkatrejo",
+      "alamat": "Dsn.DAGELAN",
+      "kelurahan": "Pangkatrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20506521",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sekarbagus",
+      "alamat": "Dusun Sekaran Desa Sekarbagus",
+      "kelurahan": "Sekarbagus",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506536",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sidorejo",
+      "alamat": "Kalikacang",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20506462",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sugio",
+      "alamat": "Jl. Raya Sugio No. 26",
+      "kelurahan": "Sugio",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20506087",
+      "nama_satuan_pendidikan": "SD Negeri 3 Bedingin",
+      "alamat": "Puripan",
+      "kelurahan": "Bedingin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20506476",
+      "nama_satuan_pendidikan": "SD Negeri 3 Sugio",
+      "alamat": "Dusun Caron Desa Sugio",
+      "kelurahan": "Sugio",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20506031",
+      "nama_satuan_pendidikan": "SD Negeri Daliwangun",
+      "alamat": "Dusun Medali",
+      "kelurahan": "Daliwangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20506034",
+      "nama_satuan_pendidikan": "SD Negeri Deketagung",
+      "alamat": "Jl. Raya Deketagung",
+      "kelurahan": "Deketagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20506200",
+      "nama_satuan_pendidikan": "SD Negeri German",
+      "alamat": "Jl. Tumbro RT 01 RW 04 Desa German",
+      "kelurahan": "German",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20506135",
+      "nama_satuan_pendidikan": "SD Negeri Jubellor",
+      "alamat": "Jubellor",
+      "kelurahan": "Jubel Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20506158",
+      "nama_satuan_pendidikan": "SD Negeri Kalipang",
+      "alamat": "Dusun Lumber",
+      "kelurahan": "Kalipang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20505834",
+      "nama_satuan_pendidikan": "SD Negeri Lawanganagung",
+      "alamat": "Jln. Raya Lawanganagung RT.01/ RW.01.",
+      "kelurahan": "Lawanganagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20506513",
+      "nama_satuan_pendidikan": "SD Negeri Sidobogem",
+      "alamat": "Sidobogem",
+      "kelurahan": "Sidobogem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20506615",
+      "nama_satuan_pendidikan": "SD Negeri Supenuh",
+      "alamat": "Dusun Mambung",
+      "kelurahan": "Supenuh",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20506268",
+      "nama_satuan_pendidikan": "SMP AL - FATTAH SUGIO",
+      "alamat": "Dsn. Kedungsono Desa Kedungdadi",
+      "kelurahan": "Kedungdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 74,
+      "npsn": "70040624",
+      "nama_satuan_pendidikan": "SMP ISLAM BUDI LUHUR SUGIO LAMONGAN",
+      "alamat": "RT 02 RW 01 Dusun Sugio",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": "20506441",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 9 SUGIO",
+      "alamat": "Jl. Raya Sugio No. 67 Ds. Sugio Kec. Sugio",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": "20506387",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SUGIO",
+      "alamat": "Jalan Raya Sugio - Lamongan",
+      "kelurahan": "Sugio",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20506377",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 SUGIO",
+      "alamat": "Jl. Desa Gondanglor No.154",
+      "kelurahan": "Gondang Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20548715",
+      "nama_satuan_pendidikan": "SMP Negeri 3 Sugio",
+      "alamat": "Kompleks Pondok Pesantren Darul Ulum  Medali",
+      "kelurahan": "Daliwangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20506432",
+      "nama_satuan_pendidikan": "SMP SUNAN DRAJAT SUGIO",
+      "alamat": "Jl.Raya Sugio No.397 Sugio",
+      "kelurahan": "Sugio",
+      "status": "SWASTA"
+    }
+  ]
+}

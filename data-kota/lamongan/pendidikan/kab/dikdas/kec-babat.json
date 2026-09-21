@@ -1,0 +1,770 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BABAT",
+  "updated_at": "2026-09-21T01:55:55.132Z",
+  "count": 95,
+  "negeri": 35,
+  "swasta": 60,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "70034537",
+      "nama_satuan_pendidikan": "MI BAITUL QUR`AN LAMONGAN",
+      "alamat": "Jl. Soekarno Hatta RT 002 RW 001",
+      "kelurahan": "Gembong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69994676",
+      "nama_satuan_pendidikan": "MI TERPADU AL - ABROR",
+      "alamat": "JL. SAWONGGALING NO. 26  LINGKUNGAN SAWO KEL/KEC. BABAT KAB, LAMONGAN",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718398",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "JL. A. YANI NO. 8 KEL. BANARAN",
+      "kelurahan": "Banaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718381",
+      "nama_satuan_pendidikan": "MIS AL HUDA",
+      "alamat": "JL. PENDIDIKAN NO. 21 A DESA PUCAKWANGI",
+      "kelurahan": "Pucakwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718375",
+      "nama_satuan_pendidikan": "MIS ATTAHDZIBIYAH",
+      "alamat": "JL. MASJID BESAR",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718382",
+      "nama_satuan_pendidikan": "MIS BUSTANUL ULUM",
+      "alamat": "JL. PEMBANGUNAN NO.28 DESA TREPAN",
+      "kelurahan": "Trepan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718396",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JLN PEND NO45 DUSUN DATI DESA DATINAWONG",
+      "kelurahan": "Datinawong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718384",
+      "nama_satuan_pendidikan": "MIS HAYATUL ISLAM",
+      "alamat": "JL. PENDIDIKAN NO. 28",
+      "kelurahan": "Gendong Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718388",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL MUTA`ALLIMIN",
+      "alamat": "JL. PENDIDIKAN NO.544 DESA DATI NAWONG",
+      "kelurahan": "Datinawong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718385",
+      "nama_satuan_pendidikan": "MIS HIDAYATUSSIBYAN",
+      "alamat": "JL. PENDIDIKAN NO. 130 DESA KURIPAN",
+      "kelurahan": "Kuripan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718380",
+      "nama_satuan_pendidikan": "MIS IHYA`UL ULUM",
+      "alamat": "JL. RA KARTINI NO 15 KARANGKEMBANG",
+      "kelurahan": "Karangkembang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718392",
+      "nama_satuan_pendidikan": "MIS INFARUL GHOY",
+      "alamat": "JL. KH HASYIM AS`ARY NO. 01 TRITUNGGAL",
+      "kelurahan": "Tritunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718389",
+      "nama_satuan_pendidikan": "MIS IRSYADUTH THOLIBIN",
+      "alamat": "JL.PENDIDIKAN NO. 51 DESA BULUMARGI",
+      "kelurahan": "Bulumargi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718386",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL. IMAM BONJOL NO. 01 DESA SUMURGENUK",
+      "kelurahan": "Sumurgenuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718378",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH BABAT",
+      "alamat": "JL. RAYA BABAT NO. 362 KEL. BABAT",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718387",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU GEMBONG",
+      "alamat": "JL. BRAWIJAYA NO. 23",
+      "kelurahan": "Gembong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718406",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU KEBALANDONO",
+      "alamat": "JL. SIDODADI NO. 05 DESA KEBALANDONO",
+      "kelurahan": "Kebalandono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718379",
+      "nama_satuan_pendidikan": "MIS MATHLABUL HUDA",
+      "alamat": "JL. JOMBANG NO. 40 DESA KARANGKEMBANG",
+      "kelurahan": "Karangkembang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718401",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. MASJID AL HIDAYAH NO.26 DS. LERAN DESA KEYONGAN",
+      "kelurahan": "Keyongan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718390",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 KEBALANDONO",
+      "alamat": "JL. SIDOMUNCUL NO.05 DESA KEBALAN DONO",
+      "kelurahan": "Kebalandono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718393",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 02 PATIHAN",
+      "alamat": "JL. PROTOKOL NO. 02",
+      "kelurahan": "Patihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718397",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03 PUCAKWANGI",
+      "alamat": "JL.DR SOETOMO NO.23 DESA PUCAKWANGI",
+      "kelurahan": "Pucakwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718400",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 04 MOROPELANG",
+      "alamat": "JL. RAYA MOROPELANG NO. 77",
+      "kelurahan": "Moropelang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718403",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 05 GENDONGKULON",
+      "alamat": "JL. MASJID MUJAHIDIN NO. 61 DESA GENDONGKULON",
+      "kelurahan": "Gendong Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718404",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 06 TRITUNGGAL",
+      "alamat": "JL. Dr. Sutomo No. 13 Desa Tritungal",
+      "kelurahan": "Tritunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718402",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. KENANGA NO.09 DESA PATIHAN",
+      "kelurahan": "Patihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718391",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "JL. MASJID AL IKHLAS NO. 09 MOROPELANG",
+      "kelurahan": "Moropelang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60718376",
+      "nama_satuan_pendidikan": "MIS PPI BINTANG SEMBILAN",
+      "alamat": "JL. MADRASAH NO. 22 KEL. BABAT",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718395",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL MUTA`ALLIMIN",
+      "alamat": "Jl. Raya Gembong No. 55 Tegalrejo Datinawong",
+      "kelurahan": "Datinawong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "60718405",
+      "nama_satuan_pendidikan": "MIS SABILUN NAJA",
+      "alamat": "JL. MUSHOLLA NURUL HUDA DESA KURIPAN",
+      "kelurahan": "Kuripan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "60718399",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFAL",
+      "alamat": "JL. MARGO RUKUN NO. 26 DSN. BENER DESA KEYONGAN",
+      "kelurahan": "Keyongan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "60718383",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFAL",
+      "alamat": "JL. KENANGA NO. 74",
+      "kelurahan": "Kebalanpelang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "60718394",
+      "nama_satuan_pendidikan": "MIS TARBIYATUS SA`ADAH",
+      "alamat": "JL. GOTONG ROYONG NO. 56 DESA KEYONGAN",
+      "kelurahan": "Keyongan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "60718377",
+      "nama_satuan_pendidikan": "MIS YPPI 1945",
+      "alamat": "JL. COKROAMINOTO NO.43 KEL. BABAT",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "69993525",
+      "nama_satuan_pendidikan": "MTs SUNAN SANTRI",
+      "alamat": "JL. POMAHAN",
+      "kelurahan": "Banaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20582754",
+      "nama_satuan_pendidikan": "MTSN 1 LAMONGAN",
+      "alamat": "JL. RAYA PLAOSAN NO.11 BABAT",
+      "kelurahan": "Plaosan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20582760",
+      "nama_satuan_pendidikan": "MTSS BUSTANUL ULUM",
+      "alamat": "JL. MASJID NO.05",
+      "kelurahan": "Plaosan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20582756",
+      "nama_satuan_pendidikan": "MTSS HIDAYATUL MUTA`ALLIMIN",
+      "alamat": "JLN. PENDIDIKAN NOMOR 544",
+      "kelurahan": "Datinawong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582758",
+      "nama_satuan_pendidikan": "MTSS INFARUL GHOY",
+      "alamat": "JL. KH. HASYIM ASY`ARI NO. 07",
+      "kelurahan": "Tritunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582759",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF NU 30",
+      "alamat": "JALAN PENDIDIKAN NO.01 DUSUN AWAR - AWAR",
+      "kelurahan": "Bulumargi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582762",
+      "nama_satuan_pendidikan": "MTsS MA`ARIF NU DARUN NAJAH",
+      "alamat": "JALAN MASJID PODANG52 KARANGKEMBANG BABAT",
+      "kelurahan": "Karangkembang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "69725414",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF NU MIFTAHUL HUDA",
+      "alamat": "JL.GOTONG ROYONG KEYONGAN BABAT",
+      "kelurahan": "Gendong Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20582764",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF NU NURUL HUDA",
+      "alamat": "JL.KENANGA NO.09 PATIHAN BABAT",
+      "kelurahan": "Banaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20582761",
+      "nama_satuan_pendidikan": "MTSS PLUS HIDAYATUSSIBYAN KURIPAN",
+      "alamat": "JLN PENDIDIKAN NO. 130 KURIPAN",
+      "kelurahan": "Kuripan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20582755",
+      "nama_satuan_pendidikan": "MTSS RAUDLATUL MUTA`ALLIMIN",
+      "alamat": "JL. RAYA GEMBONG TEGALREJO DATINAWONG BABAT LAMONGAN",
+      "kelurahan": "Datinawong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20582763",
+      "nama_satuan_pendidikan": "MTSS ROUDLOTUL MUTA`LLIMIN 2",
+      "alamat": "SAWAHREJO MOROPELANG BABAT LAMONGAN",
+      "kelurahan": "Sambangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20582757",
+      "nama_satuan_pendidikan": "MTSS YPPI 1945 BABAT",
+      "alamat": "JALAN RAYA NO. 152 BABAT",
+      "kelurahan": "Banaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20507212",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Babat",
+      "alamat": "Jl. TANGGUL REJO NO 02 DESA BABAT",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20572537",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 2 Babat",
+      "alamat": "Jalan Kesadaran 106 Bedahan",
+      "kelurahan": "Bedahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20507219",
+      "nama_satuan_pendidikan": "SD Negeri 1 Babat",
+      "alamat": "Jl. Pendidikan No.02",
+      "kelurahan": "Babat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20507242",
+      "nama_satuan_pendidikan": "SD Negeri 1 Banaran",
+      "alamat": "Jl. Sumowiharjo No.11",
+      "kelurahan": "Banaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506203",
+      "nama_satuan_pendidikan": "SD Negeri 1 Gembong",
+      "alamat": "Jl. Raya Gembong No.02",
+      "kelurahan": "Gembong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506621",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sumurgenuk",
+      "alamat": "Jl. Imam Bonjol No.155",
+      "kelurahan": "Sumurgenuk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506579",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tritunggal",
+      "alamat": "Jl. Raya Tritunggal NO. 043 Babat",
+      "kelurahan": "Tritunggal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20507243",
+      "nama_satuan_pendidikan": "SD Negeri 2 Banaran",
+      "alamat": "Jl. Ahmad Yani No.01",
+      "kelurahan": "Banaran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506204",
+      "nama_satuan_pendidikan": "SD Negeri 2 Gembong",
+      "alamat": "Jl. Brawijaya no 2",
+      "kelurahan": "Gembong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506611",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sumurgenuk",
+      "alamat": "Jl. Teratai No.01 Desa Sumurgenuk",
+      "kelurahan": "Sumurgenuk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506580",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tritunggal",
+      "alamat": "Jl. Raya Tritunggal No. 20 Dusun Tesan",
+      "kelurahan": "Tritunggal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20507235",
+      "nama_satuan_pendidikan": "SD NEGERI 3 BABAT",
+      "alamat": "Jl Sumowiharjo No.95",
+      "kelurahan": "Babat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20507236",
+      "nama_satuan_pendidikan": "SD Negeri 6 Babat",
+      "alamat": "Jl. Gotong Royong No.107",
+      "kelurahan": "Babat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20507237",
+      "nama_satuan_pendidikan": "SD Negeri 7 Babat",
+      "alamat": "Jl. Pramuka 105 Babat",
+      "kelurahan": "Babat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20507251",
+      "nama_satuan_pendidikan": "SD Negeri 8 Babat",
+      "alamat": "Jl. Gotong Royong No.188",
+      "kelurahan": "Babat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20506084",
+      "nama_satuan_pendidikan": "SD Negeri Bedahan",
+      "alamat": "Jl. Raya Bedahan No.99",
+      "kelurahan": "Bedahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20506133",
+      "nama_satuan_pendidikan": "SD Negeri Bulumargi",
+      "alamat": "Dsn. Kemlagi",
+      "kelurahan": "Bulumargi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20506033",
+      "nama_satuan_pendidikan": "SD Negeri Datinawong",
+      "alamat": "Jl. Nawonggo No.87 A",
+      "kelurahan": "Datinawong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20506210",
+      "nama_satuan_pendidikan": "SD Negeri Gendongkulon",
+      "alamat": "Jl. Ki Hajar Dewantara No.41 Dusun Pereng",
+      "kelurahan": "Gendong Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20506144",
+      "nama_satuan_pendidikan": "SD Negeri Karangkembang",
+      "alamat": "Jl. Dr. Soetomo No. 24-25",
+      "kelurahan": "Karangkembang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20506181",
+      "nama_satuan_pendidikan": "SD Negeri Kebalandono",
+      "alamat": "Jl. Raya No.62",
+      "kelurahan": "Kebalandono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20506183",
+      "nama_satuan_pendidikan": "SD Negeri Kebalanpelang",
+      "alamat": "Jl. Kenanga No.06",
+      "kelurahan": "Kebalanpelang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20506173",
+      "nama_satuan_pendidikan": "SD Negeri Kebonagung",
+      "alamat": "Dusun Kalen",
+      "kelurahan": "Kebonagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20505896",
+      "nama_satuan_pendidikan": "SD Negeri Kepoh Bulumargi",
+      "alamat": "Jl. Abdul Karim No.08 Dusun Kepoh",
+      "kelurahan": "Bulumargi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20505913",
+      "nama_satuan_pendidikan": "SD Negeri Keyongan",
+      "alamat": "Jl. Perekonomian No.02",
+      "kelurahan": "Keyongan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 73,
+      "npsn": "20505899",
+      "nama_satuan_pendidikan": "SD Negeri Kuripan",
+      "alamat": "Jalan Desa No. 03  Kuripan",
+      "kelurahan": "Kuripan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 74,
+      "npsn": "20505992",
+      "nama_satuan_pendidikan": "SD Negeri Moropelang",
+      "alamat": "Jl. Puskesmas No.90",
+      "kelurahan": "Moropelang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 75,
+      "npsn": "20505935",
+      "nama_satuan_pendidikan": "SD Negeri Plaosan",
+      "alamat": "Jl. Udayana No. 07 Desa Plaosan",
+      "kelurahan": "Plaosan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 76,
+      "npsn": "20505953",
+      "nama_satuan_pendidikan": "SD Negeri Sambangan",
+      "alamat": "Jl. Telogorejo No.01",
+      "kelurahan": "Sambangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 77,
+      "npsn": "20506467",
+      "nama_satuan_pendidikan": "SD Negeri Sogo",
+      "alamat": "Jl. Pendidikan No. 343",
+      "kelurahan": "Sogo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 78,
+      "npsn": "20506578",
+      "nama_satuan_pendidikan": "SD Negeri Trepan",
+      "alamat": "Jl Pembangunan No. 225",
+      "kelurahan": "Trepan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 79,
+      "npsn": "20506571",
+      "nama_satuan_pendidikan": "SD Negeri Truni",
+      "alamat": "Jl. Pembangunan No.01",
+      "kelurahan": "Truni",
+      "status": "NEGERI"
+    },
+    {
+      "no": 80,
+      "npsn": "69897146",
+      "nama_satuan_pendidikan": "SD Nurul Hikmah",
+      "alamat": "Jl. Pendidikan, Dsn, Tangar, Ds. Bedahan, Kec. Babat, Kab. Lamongan",
+      "kelurahan": "Bedahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "69974547",
+      "nama_satuan_pendidikan": "SDI Mansya`ul Huda",
+      "alamat": "Desa Bulumargi",
+      "kelurahan": "Bulumargi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "70038781",
+      "nama_satuan_pendidikan": "SMP CAHAYA QURAN",
+      "alamat": "Jl. Sentra Konveksi RT 06 RW 03",
+      "kelurahan": "Tritunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20506273",
+      "nama_satuan_pendidikan": "SMP DIPONEGORO",
+      "alamat": "Jl. Masjid Al-Ikhlas No. 09 Moropelang",
+      "kelurahan": "Moropelang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "20506344",
+      "nama_satuan_pendidikan": "SMP EMPAT LIMA BABAT",
+      "alamat": "Jl. Raya Bedahan No. 89 Babat",
+      "kelurahan": "Bedahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 85,
+      "npsn": "20506442",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 1 BABAT",
+      "alamat": "Jl. Tanggulrejo No.02",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "20555684",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 26 BABAT",
+      "alamat": "Jl. Protokol",
+      "kelurahan": "Patihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": "20506364",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 BABAT",
+      "alamat": "Jl. Raya No. 1 Babat",
+      "kelurahan": "Bedahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 88,
+      "npsn": "20506392",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 BABAT",
+      "alamat": "Jl. KH. Ahmad Dahlan No. 03 Desa Moropelang",
+      "kelurahan": "Moropelang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 89,
+      "npsn": "20506379",
+      "nama_satuan_pendidikan": "SMP Negeri 3 Babat",
+      "alamat": "Jl. Raya Gembong",
+      "kelurahan": "Gembong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 90,
+      "npsn": "20506381",
+      "nama_satuan_pendidikan": "SMP Negeri 4 Babat",
+      "alamat": "Desa Pucakwangi Babat",
+      "kelurahan": "Pucakwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 91,
+      "npsn": "20574526",
+      "nama_satuan_pendidikan": "SMP NU Sabilunnaja",
+      "alamat": "JL. Musholah Nurul Huda",
+      "kelurahan": "Kuripan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 92,
+      "npsn": "69762724",
+      "nama_satuan_pendidikan": "SMP PLUS AL BAROKAH BABAT",
+      "alamat": "JL. Sunan Ampel No. 67 Gilang Kel. Babat",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 93,
+      "npsn": "20553958",
+      "nama_satuan_pendidikan": "SMP RAUDLATUL MUTAALIMIN BABAT",
+      "alamat": "Jl Raya Babat Surabaya",
+      "kelurahan": "Datinawong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 94,
+      "npsn": "69886198",
+      "nama_satuan_pendidikan": "SMP TERPADU AL-MUBTADI`IN",
+      "alamat": "Desa Banaran",
+      "kelurahan": "Banaran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 95,
+      "npsn": "70033971",
+      "nama_satuan_pendidikan": "SPM WUSTHA IHYAUL `ULUM GILANG",
+      "alamat": "JL. SUMOWIHARJO NO 61-63 RT. 002 RW. 012 DUSUN GILANG",
+      "kelurahan": "Babat",
+      "status": "SWASTA"
+    }
+  ]
+}

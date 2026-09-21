@@ -1,0 +1,442 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KEMBANGBAHU",
+  "updated_at": "2026-09-21T01:55:37.055Z",
+  "count": 54,
+  "negeri": 29,
+  "swasta": 25,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718554",
+      "nama_satuan_pendidikan": "MI SIROJUL ULUM",
+      "alamat": "Dusun Lopang RT. 006 RW. 001",
+      "kelurahan": "Lopang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718563",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "MANGKUJAJAR",
+      "kelurahan": "Mangkujajar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718553",
+      "nama_satuan_pendidikan": "MIS AL MUNAWWAROH",
+      "alamat": "JL. RAYA KEMBANGBAHU NO. 68 KEMBANGBAHU LAMONGAN",
+      "kelurahan": "Kembangbahu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718564",
+      "nama_satuan_pendidikan": "MIS AL-MUNAWWAROH MAOR",
+      "alamat": "DESA MAOR KECAMATAN KEMBANGBAHU KABUPATEN LAMONGAN",
+      "kelurahan": "Maor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718561",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DSN. KALITEMU DS. KATEMAS KEC. KEMBANGBAHU KAB. LAMONGAN",
+      "kelurahan": "Katemas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718567",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM DUMPIAGUNG",
+      "alamat": "JL.RAYA MANTUP NO.02 DUMPIAGUNG KEC.KEMBANGBAHU KAB. LAMONGAN 62282",
+      "kelurahan": "Dumpiagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718557",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DUSUN KEDUNGKLANTING",
+      "kelurahan": "Kedungmegarih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718560",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH PUTER",
+      "alamat": "JL. RAYA MANTUP KM.12 NO.20 PUTER",
+      "kelurahan": "Puter",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718555",
+      "nama_satuan_pendidikan": "MIS MANSYAUL ULUM",
+      "alamat": "DSN. SONGO RT.012 RW.006 DS.SUKOSONGO",
+      "kelurahan": "Sukosongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718562",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "WRINGINANOM LOPANG",
+      "kelurahan": "Gintungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718565",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DUSUN KEDUNGKAMPIL DS.SUKOSONGO  KEC.KEMBANGBAHU  KAB.LAMONGAN",
+      "kelurahan": "Sukosongo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718566",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DESA RANDUBENER",
+      "kelurahan": "Randubener",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718559",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM TLOGOAGUNG",
+      "alamat": "Dusun Slatung RT/RW 002/001",
+      "kelurahan": "Tlogoagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60725027",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "DSN. LOPANG",
+      "kelurahan": "Lopang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718558",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH",
+      "alamat": "JL. RAYA LAMONGAN MANTUP DSN. KEDUNGSARI",
+      "kelurahan": "Maor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718568",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "DSN. MORO DS. MORONYAMPLUN KEC. KEMBANGBAHU KAB. LAMONGAN",
+      "kelurahan": "Moronyamplung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "69728021",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUN NASYIIN",
+      "alamat": "DSN. SUMBERPANGGANG DS. LOPANG",
+      "kelurahan": "Lopang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "69977784",
+      "nama_satuan_pendidikan": "MTS AT TAMIMI",
+      "alamat": "DUSUN MERGAYU",
+      "kelurahan": "Katemas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "70035334",
+      "nama_satuan_pendidikan": "MTs YUSUF ANNUR",
+      "alamat": "Jl. Raya Kembangbahu No. 9",
+      "kelurahan": "Lopang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "69725412",
+      "nama_satuan_pendidikan": "MTSS HASYIM ASY`ARI",
+      "alamat": "Dusun Kedungklanting",
+      "kelurahan": "Kedungmegarih",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "69725621",
+      "nama_satuan_pendidikan": "MTSS ISLAMIYAH",
+      "alamat": "JL RAYA KEMBANGBAHU 68",
+      "kelurahan": "Kembangbahu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582809",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF PUTER",
+      "alamat": "JL.RAYA MANTUP KM.13 NO.22 PUTER KEMBANGBAHU LAMONGAN 62282",
+      "kelurahan": "Puter",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20506067",
+      "nama_satuan_pendidikan": "SD Negeri 1 Dumpiagung",
+      "alamat": "Dsn Dogo RT 02 RW 05",
+      "kelurahan": "Dumpiagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506199",
+      "nama_satuan_pendidikan": "SD Negeri 1 Gintungan",
+      "alamat": "Jl. Prapatan Klampok Desa Gintungan",
+      "kelurahan": "Gintungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506178",
+      "nama_satuan_pendidikan": "SD NEGERI 1 KATEMAS",
+      "alamat": "Dusun Kalitemu Desa Katemas",
+      "kelurahan": "Katemas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20505874",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kembangbahu",
+      "alamat": "Jln. Raya Kembangbahu",
+      "kelurahan": "Kembangbahu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20505838",
+      "nama_satuan_pendidikan": "SD Negeri 1 Lopang",
+      "alamat": "Jl. Raya Kembangbahu No. 75 Desa Lopang",
+      "kelurahan": "Lopang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505990",
+      "nama_satuan_pendidikan": "SD Negeri 1 Moronyamplung",
+      "alamat": "Jl. Surodiharjo No. 1 Dusun Nyamplung Desa Moronyamplung",
+      "kelurahan": "Moronyamplung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20505967",
+      "nama_satuan_pendidikan": "SD Negeri 1 Puter",
+      "alamat": "Desa Puter",
+      "kelurahan": "Puter",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506066",
+      "nama_satuan_pendidikan": "SD Negeri 2 Dumpiagung",
+      "alamat": "Jalan Raya Mantup Km. 18 Desa Dumpiagung",
+      "kelurahan": "Dumpiagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506198",
+      "nama_satuan_pendidikan": "SD Negeri 2 Gintungan",
+      "alamat": "Desa Gintungan",
+      "kelurahan": "Gintungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506179",
+      "nama_satuan_pendidikan": "SD Negeri 2 Katemas",
+      "alamat": "Dusun Katemas Desa Katemas",
+      "kelurahan": "Katemas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20505875",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kembangbahu",
+      "alamat": "Jl. Raya Kembangbahu No 110 Desa Kembangbahu",
+      "kelurahan": "Kembangbahu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20505839",
+      "nama_satuan_pendidikan": "SD Negeri 2 Lopang",
+      "alamat": "Dusun Mojorayung Desa Lopang",
+      "kelurahan": "Lopang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20505991",
+      "nama_satuan_pendidikan": "SD Negeri 2 Moronyamplung",
+      "alamat": "Desa Moronyamplung",
+      "kelurahan": "Moronyamplung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20505973",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pelang",
+      "alamat": "Dusun Pelang Desa Pelang",
+      "kelurahan": "Pelang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20505968",
+      "nama_satuan_pendidikan": "SD Negeri 2 Puter",
+      "alamat": "Dusun Puter Desa Puter",
+      "kelurahan": "Puter",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20505829",
+      "nama_satuan_pendidikan": "SD Negeri 3 Lopang",
+      "alamat": "Dusun Mojorembun Desa Lopang",
+      "kelurahan": "Lopang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20505969",
+      "nama_satuan_pendidikan": "SD Negeri 3 Puter",
+      "alamat": "Dusun Tempuran Desa Puter",
+      "kelurahan": "Puter",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506072",
+      "nama_satuan_pendidikan": "SD Negeri Doyomulyo",
+      "alamat": "Jl Kembangbahu- Baturono no 159 Desa Doyomulyo",
+      "kelurahan": "Doyomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506136",
+      "nama_satuan_pendidikan": "SD Negeri Kaliwates",
+      "alamat": "Dusun Wates Desa Kaliwates",
+      "kelurahan": "Kaliwates",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506166",
+      "nama_satuan_pendidikan": "SD Negeri Kedungasri",
+      "alamat": "Dusun Cumpleng Desa Kedungasri",
+      "kelurahan": "Kedungasri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20505882",
+      "nama_satuan_pendidikan": "SD Negeri Kedungmegarih",
+      "alamat": "Desa Kedungmegarih Rt/Rw : 10/3",
+      "kelurahan": "Kedungmegarih",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20505826",
+      "nama_satuan_pendidikan": "SD Negeri Mangkujajar",
+      "alamat": "Jl Raya Kembangbahu Desa Mangkujajar",
+      "kelurahan": "Mangkujajar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20505857",
+      "nama_satuan_pendidikan": "SD NEGERI MAOR",
+      "alamat": "Desa Maor",
+      "kelurahan": "Maor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506027",
+      "nama_satuan_pendidikan": "SD Negeri Pelang",
+      "alamat": "Jalan Raya Mantup No. 29 Desa Pelang",
+      "kelurahan": "Pelang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20505961",
+      "nama_satuan_pendidikan": "SD Negeri Randubener",
+      "alamat": "Desa Randubener",
+      "kelurahan": "Randubener",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506552",
+      "nama_satuan_pendidikan": "SD Negeri Sidomukti",
+      "alamat": "Dusun Sukoanyar Desa Sidomukti",
+      "kelurahan": "Sidomukti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506481",
+      "nama_satuan_pendidikan": "SD Negeri Sukosongo",
+      "alamat": "Desa Sukosongo",
+      "kelurahan": "Sukosongo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506573",
+      "nama_satuan_pendidikan": "SD Negeri Tlogoagung",
+      "alamat": "Jl. Raya Menengai No.100 Desa Tlogoagung",
+      "kelurahan": "Tlogoagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "69831492",
+      "nama_satuan_pendidikan": "SMP ISLAM BUSTANUL HIKMAH",
+      "alamat": "Desa Dumpiagung",
+      "kelurahan": "Dumpiagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20506348",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Kembangbahu",
+      "alamat": "Jl. Raya Kembangbahu No 06",
+      "kelurahan": "Kembangbahu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506435",
+      "nama_satuan_pendidikan": "SMP PGRI KEMBANGBAHU",
+      "alamat": "Jl. Raya Mantup",
+      "kelurahan": "Pelang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20506449",
+      "nama_satuan_pendidikan": "SMP SYEH JAMALUDDIN",
+      "alamat": "Jl.Raya Desa Sukosongo",
+      "kelurahan": "Sukosongo",
+      "status": "SWASTA"
+    }
+  ]
+}

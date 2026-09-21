@@ -1,0 +1,378 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. NGIMBANG",
+  "updated_at": "2026-09-21T01:55:23.934Z",
+  "count": 46,
+  "negeri": 36,
+  "swasta": 10,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "70025097",
+      "nama_satuan_pendidikan": "MI UNGGULAN DARUSSALAM",
+      "alamat": "DUSUN BENDOSUKUN RT 25 RW 10",
+      "kelurahan": "Slaharwotan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718657",
+      "nama_satuan_pendidikan": "MIS AL ISTIQLAL",
+      "alamat": "Dusun Klembak Desa Lawak Kec. Ngimbang Kab. Lamongan",
+      "kelurahan": "Lawak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718658",
+      "nama_satuan_pendidikan": "MIS ASSA`ADAH",
+      "alamat": "JLN.TANJUNG-WARENG DS. PURWOKERTO",
+      "kelurahan": "Purwokerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718656",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DUSUN KANYAR DS.LAMONG REJO KEC.NGIMBANG KAB.LAMONGAN",
+      "kelurahan": "Lamongrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "69881913",
+      "nama_satuan_pendidikan": "MIS Murni Al Hidayah",
+      "alamat": "JL. RONGGO 02/03 Dsn. BUJEL",
+      "kelurahan": "Gebangangkrik",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "20582838",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH",
+      "alamat": "DS.SENDANGREJO DSN. BUJEL KEC. NGIMBANG KAB. LAMONGAN",
+      "kelurahan": "Sendangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69725413",
+      "nama_satuan_pendidikan": "MTSS AL-IKHLAS",
+      "alamat": "DUSUN KANYAR",
+      "kelurahan": "Lamongrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "20582839",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF 8",
+      "alamat": "DS.PURWOKERTO KEC.NGIMBANG",
+      "kelurahan": "Purwokerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "69830598",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Ngimbang",
+      "alamat": "Jl. Pendidikan No. 180 Desa Sendangrejo",
+      "kelurahan": "Sendangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "20506064",
+      "nama_satuan_pendidikan": "SD Negeri 1 Gebangangkrik",
+      "alamat": "Dsn Ngangkrik Lor Ds. Gebangangkrik",
+      "kelurahan": "Gebangangkrik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 11,
+      "npsn": "20506188",
+      "nama_satuan_pendidikan": "SD Negeri 1 Girik",
+      "alamat": "Jln. Dr Sutomo No. 2 Dusun Girik",
+      "kelurahan": "Girik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 12,
+      "npsn": "20505904",
+      "nama_satuan_pendidikan": "SD Negeri 1 Lamongrejo",
+      "alamat": "Jl. Mayangkara No. 08 Dsn. Ngeblek Desa Lamongrejo",
+      "kelurahan": "Lamongrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 13,
+      "npsn": "20505832",
+      "nama_satuan_pendidikan": "SD Negeri 1 Lawak",
+      "alamat": "Dsn Kalongan",
+      "kelurahan": "Lawak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 14,
+      "npsn": "20505995",
+      "nama_satuan_pendidikan": "SD Negeri 1 Munungrejo",
+      "alamat": "Jl. Babat - Jombang, No. 11 Desa Munungrejo",
+      "kelurahan": "Munungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20506505",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sendangrejo",
+      "alamat": "Jl. Mayangkara No. 45 Desa Sendangrejo",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20506503",
+      "nama_satuan_pendidikan": "SD Negeri 1 Slaharwotan",
+      "alamat": "Dsn. Wotan Desa Slaharwotan",
+      "kelurahan": "Slaharwotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20506557",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tlemang",
+      "alamat": "Tlemang",
+      "kelurahan": "Tlemang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20506065",
+      "nama_satuan_pendidikan": "SD Negeri 2 Gebangangkrik",
+      "alamat": "Dsn Ngangkrik Kidul Desa Gebangangkrik",
+      "kelurahan": "Gebangangkrik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20506189",
+      "nama_satuan_pendidikan": "SD Negeri 2 Girik",
+      "alamat": "Jl. Pendidikan No 01 Desa Girik",
+      "kelurahan": "Girik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20505905",
+      "nama_satuan_pendidikan": "SD Negeri 2 Lamongrejo",
+      "alamat": "Talun Juwet",
+      "kelurahan": "Lawak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20505833",
+      "nama_satuan_pendidikan": "SD Negeri 2 Lawak",
+      "alamat": "Dsn Lawak",
+      "kelurahan": "Lawak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20505996",
+      "nama_satuan_pendidikan": "SD Negeri 2 Munungrejo",
+      "alamat": "Munungkidul",
+      "kelurahan": "Munungrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20506451",
+      "nama_satuan_pendidikan": "SD Negeri 2 Slaharwotan",
+      "alamat": "Dsn. Bendosukun Ds. Slaharwotan",
+      "kelurahan": "Slaharwotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506572",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tlemang",
+      "alamat": "Dsn Bakon Tlemang",
+      "kelurahan": "Tlemang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506190",
+      "nama_satuan_pendidikan": "SD Negeri 3 Girik",
+      "alamat": "Dsn Kayen Desa Girik Kec. Ngimbang",
+      "kelurahan": "Girik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20505906",
+      "nama_satuan_pendidikan": "SD Negeri 3 Lamongrejo",
+      "alamat": "Brumbun",
+      "kelurahan": "Lamongrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506509",
+      "nama_satuan_pendidikan": "SD Negeri 3 Sendangrejo",
+      "alamat": "Jl  Ngimbang - sambeng Desa Sendangrejo",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20506466",
+      "nama_satuan_pendidikan": "SD Negeri 3 Slaharwotan",
+      "alamat": "MIRENG",
+      "kelurahan": "Slaharwotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20505920",
+      "nama_satuan_pendidikan": "SD Negeri 4 Lamongrejo",
+      "alamat": "Jl. Mayor Jarot No 123 Desa Lamongrejo",
+      "kelurahan": "Lamongrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506510",
+      "nama_satuan_pendidikan": "SD Negeri 4 Sendangrejo",
+      "alamat": "Dsn. Cancing",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506511",
+      "nama_satuan_pendidikan": "SD Negeri 5 Sendangrejo",
+      "alamat": "Dsn.Blawi Desa Sendangrejo",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506052",
+      "nama_satuan_pendidikan": "SD Negeri Cerme",
+      "alamat": "Cerme",
+      "kelurahan": "Cerme",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506075",
+      "nama_satuan_pendidikan": "SD Negeri Drujugurit",
+      "alamat": "Ds. Drujugurit Kec. Ngimbang",
+      "kelurahan": "Drujugurit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506056",
+      "nama_satuan_pendidikan": "SD Negeri Durikedungjero",
+      "alamat": "Desa Durikedungjero",
+      "kelurahan": "Durikedungjero",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506060",
+      "nama_satuan_pendidikan": "SD Negeri Ganggangtingan",
+      "alamat": "Dusun Tingan",
+      "kelurahan": "Ganggantingan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506214",
+      "nama_satuan_pendidikan": "SD Negeri Jejel",
+      "alamat": "Desa Jejel Kec. Ngimbang",
+      "kelurahan": "Jejel",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506154",
+      "nama_satuan_pendidikan": "SD Negeri Kakatpenjalin",
+      "alamat": "Desa Kakatpenjalin Kec. Ngimbang",
+      "kelurahan": "Kakatpenjalin",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20505883",
+      "nama_satuan_pendidikan": "SD Negeri Kedungmentawar",
+      "alamat": "Dsn. Towo Ds. Kedungmentawar",
+      "kelurahan": "Kedungmentawar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20554144",
+      "nama_satuan_pendidikan": "SD Negeri Mendogo",
+      "alamat": "Dsn Mawut Desa Mendogo",
+      "kelurahan": "Mendogo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20505985",
+      "nama_satuan_pendidikan": "SD Negeri Ngasemlemahbang",
+      "alamat": "Dsn Lemahbang Desa Ngasemlemahbang",
+      "kelurahan": "Ngasemlemahbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20505977",
+      "nama_satuan_pendidikan": "SD Negeri Ngimbang",
+      "alamat": "Jln. Pendidikan no. 11",
+      "kelurahan": "Ngimbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20505963",
+      "nama_satuan_pendidikan": "SD Negeri Purwokerto",
+      "alamat": "Jl. Tanjung - Songowareng Ds.Purwokerto kec.Ngimbang",
+      "kelurahan": "Purwokerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "69964682",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 30 NGIMBANG",
+      "alamat": "Jl. Pendidikan 180 Ds. Sendangrejo Ngimbang",
+      "kelurahan": "Sendangrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20506354",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 NGIMBANG",
+      "alamat": "Jl. Raya Sambeng-Ngimbang No. 209",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506373",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 NGIMBANG",
+      "alamat": "Brumbun, Ngimbang, Kab. Lamongan",
+      "kelurahan": "Lamongrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20551648",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 NGIMBANG",
+      "alamat": "Jl.Tanjung - Songowareng Desa Ngasemlemahbang",
+      "kelurahan": "Ngasemlemahbang",
+      "status": "NEGERI"
+    }
+  ]
+}

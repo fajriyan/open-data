@@ -1,0 +1,530 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. GLAGAH",
+  "updated_at": "2026-09-21T01:56:23.840Z",
+  "count": 65,
+  "negeri": 21,
+  "swasta": 44,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718475",
+      "nama_satuan_pendidikan": "MIS AL AZHAR",
+      "alamat": "JL. SEKOLAHAN",
+      "kelurahan": "Tanggungprigel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718465",
+      "nama_satuan_pendidikan": "MIS AL FALAH",
+      "alamat": "PANGGANG",
+      "kelurahan": "Panggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "69726225",
+      "nama_satuan_pendidikan": "MIS AL ISHLAH",
+      "alamat": "PEDURUNGAN DUKUHTUNGGAL KECAMATAN GLAGAH LAMONGAN",
+      "kelurahan": "Dukuhtunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718478",
+      "nama_satuan_pendidikan": "MIS AL KHOIRIYAH",
+      "alamat": "DS. MELUNTUR GLAGAH LAMONGAN",
+      "kelurahan": "Meluntur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718471",
+      "nama_satuan_pendidikan": "MIS AL KHOIRIYAH",
+      "alamat": "DSN.KALIMALANG DS. KENTONG",
+      "kelurahan": "Medang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718480",
+      "nama_satuan_pendidikan": "MIS AL-HIDAYAH",
+      "alamat": "JL. IKAN BANDENG RT.I RW.I DESA WEDORO KECAMATAN GLAGAH KABUPATEN LAMONGAN",
+      "kelurahan": "Wedoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718462",
+      "nama_satuan_pendidikan": "MIS AL-ISLAM",
+      "alamat": "Jl Sawah",
+      "kelurahan": "Konang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718482",
+      "nama_satuan_pendidikan": "MIS AL-MUTTAHIDUN",
+      "alamat": "DS. MEDANG, RT001/RW004 KEC. GLAGAH, KAB. LAMONGAN",
+      "kelurahan": "Medang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718463",
+      "nama_satuan_pendidikan": "MIS AL-QUDSIYAH",
+      "alamat": "KARANGTURI RT II / RW I GLAGAH LAMONGAN",
+      "kelurahan": "Karangturi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718464",
+      "nama_satuan_pendidikan": "MIS ASSAADAH",
+      "alamat": "DUSUN LENGKONG RT 02 RW 03",
+      "kelurahan": "Duduk Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718469",
+      "nama_satuan_pendidikan": "MIS ASY-SYAFIIYAH",
+      "alamat": "JLN. BUNTU, DESA SUDANGAN",
+      "kelurahan": "Sudangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718470",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "DUSUN GARANGAN DESA SUDANGAN",
+      "kelurahan": "Dukuhtunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718466",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM PANGGANG",
+      "alamat": "JL. MANFAAT DS. PANGGANG RT/RW: 02/01 KEC. GLAGAH KAB. LAMONGAN",
+      "kelurahan": "Panggang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718476",
+      "nama_satuan_pendidikan": "MIS BUSTANUL ULUM",
+      "alamat": "JL. PESAWAHAN TENGAH NO.289 TANGGUNGPRIGEL",
+      "kelurahan": "Tanggungprigel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718481",
+      "nama_satuan_pendidikan": "MIS DARUL HUDA",
+      "alamat": "RT 02, RW 01, MELUWUR",
+      "kelurahan": "Meluwur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718461",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "BAPUH BARU GLAGAH LAMONGAN",
+      "kelurahan": "Bapuh Baru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718800",
+      "nama_satuan_pendidikan": "MIS DARUN NAJAH",
+      "alamat": "KENTONG RT 02/ RW 03",
+      "kelurahan": "Kentong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718449",
+      "nama_satuan_pendidikan": "MIS FALAKHIYAH",
+      "alamat": "JL. RAYA GLAGAH NO. 58 GLAGAH",
+      "kelurahan": "Glagah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718456",
+      "nama_satuan_pendidikan": "MIS IHYAUL ULUM",
+      "alamat": "SUMBEREJO",
+      "kelurahan": "Wedoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718451",
+      "nama_satuan_pendidikan": "MIS IHYAUSSUNNAH",
+      "alamat": "MARGOREJO, MARGOANYAR",
+      "kelurahan": "Margoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718460",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "RT 03/RW 01 DUSUN BAPUH DESA BAPUHBARU",
+      "kelurahan": "Rayunggumuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718455",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "RAYUNGGUMUK-GLAGAH-LAMONGAN",
+      "kelurahan": "Rayunggumuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718483",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL. RAYA SOKO NO. 09 SOKO GLAGAH LAMONGAN",
+      "kelurahan": "Soko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718458",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JL. H. ABD MADJID NO. 30 DESA BEGAN KEC. GLAGAH LAMONGAN JAWA TIMUR",
+      "kelurahan": "Began",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718473",
+      "nama_satuan_pendidikan": "MIS MANBAUL KHOIR",
+      "alamat": "DSN.WUKIR DS WANGEN",
+      "kelurahan": "Duduk Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718468",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "KARANGAGUNG KEC. GLAGAH KAB. LAMONGAN",
+      "kelurahan": "Karangagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718457",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DS. MENGANTI",
+      "kelurahan": "Menganti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60718452",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH MOROCALAN",
+      "alamat": "DSN MORO RT 01 RW 01",
+      "kelurahan": "Soko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718450",
+      "nama_satuan_pendidikan": "MIS NAILUL ULUM",
+      "alamat": "KH. MAS THOLHAH 06 KALIANYAR, MARGOANYAR, GLAGAH, LAMONGAN",
+      "kelurahan": "Margoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "60718467",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "JL. RAYA BAPUHBANDUNG RT. 02 RW. 02",
+      "kelurahan": "Bapuhbandung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "60718477",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUR RIDLWAN",
+      "alamat": "JL. AHMAD YANI NO.25 DS. BANGKOK",
+      "kelurahan": "Bangkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "60718459",
+      "nama_satuan_pendidikan": "MIS SULLAMUL MAALIY",
+      "alamat": "MENDOGO KIDUL RT.003/RW.003",
+      "kelurahan": "Mendogo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "60718453",
+      "nama_satuan_pendidikan": "MIS TANFIRUL ATHFAL",
+      "alamat": "DSN. CALAN,DS. MOROCALAN",
+      "kelurahan": "Duduk Lor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "60718472",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFAL",
+      "alamat": "DESA WANGEN",
+      "kelurahan": "Wangen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "60718479",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL WATHON",
+      "alamat": "DUKUHTUNGGAL",
+      "kelurahan": "Dukuhtunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "60718474",
+      "nama_satuan_pendidikan": "MIS WASILATUT TAQWA WUKIR",
+      "alamat": "DSN.WUKIR KEC. GLAGAH KAB. LAMONGAN",
+      "kelurahan": "Glagah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20582781",
+      "nama_satuan_pendidikan": "MTSN 2 LAMONGAN",
+      "alamat": "JL. RAYA PUK NO. 12 GLAGAH",
+      "kelurahan": "Glagah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20582783",
+      "nama_satuan_pendidikan": "MTSS AL AZHAR",
+      "alamat": "TANGGUNGPRIGEL KEC. GLAGAH KAB. LAMONGAN (KKM MTSN LMG)",
+      "kelurahan": "Tanggungprigel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582786",
+      "nama_satuan_pendidikan": "MTSS AL HIDAYAH WEDORO",
+      "alamat": "JL, IKAN BANDENG RT.01 RW.01",
+      "kelurahan": "Wedoro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582787",
+      "nama_satuan_pendidikan": "MTSS ASSA`ADAH",
+      "alamat": "LENGKONG WONOREJO GLAGAH",
+      "kelurahan": "Wonorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582784",
+      "nama_satuan_pendidikan": "MTSS BUSTANUL ULUM",
+      "alamat": "JL. PESAWAHAN TENGAH  NO. 289 TANGGUNGPRIGEL  (KKM MTSN LMG)",
+      "kelurahan": "Tanggungprigel",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20582785",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 10 WUKIR",
+      "alamat": "JALAN IKAN MAS NO. 56 WUKIR GLAGAH LAMONGAN (KKM MTSN LMG)",
+      "kelurahan": "Wangen",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20582782",
+      "nama_satuan_pendidikan": "MTSS TARBIYATUL WATHON",
+      "alamat": "DUKUHTUNGGAL (KKM MTSN LMG)",
+      "kelurahan": "Dukuhtunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20506191",
+      "nama_satuan_pendidikan": "SD Negeri 1 Glagah",
+      "alamat": "Jl Raya Puk No. 16 Glagah",
+      "kelurahan": "Glagah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20505853",
+      "nama_satuan_pendidikan": "SD Negeri 1 Menganti",
+      "alamat": "Dusun Bucu Kidul Desa Menganti",
+      "kelurahan": "Menganti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506006",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pasi",
+      "alamat": "Desa Pasi",
+      "kelurahan": "Pasi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506192",
+      "nama_satuan_pendidikan": "SD Negeri 2 Glagah",
+      "alamat": "Glagah",
+      "kelurahan": "Glagah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20505843",
+      "nama_satuan_pendidikan": "SD Negeri 2 Menganti",
+      "alamat": "Dusun Delok Desa Menganti",
+      "kelurahan": "Menganti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506007",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pasi",
+      "alamat": "Dusun Gombong Desa Pasi",
+      "kelurahan": "Pasi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506104",
+      "nama_satuan_pendidikan": "SD Negeri Bapuhbandung",
+      "alamat": "Desa Bapuhbandung",
+      "kelurahan": "Bapuhbandung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506076",
+      "nama_satuan_pendidikan": "SD Negeri Duduklor",
+      "alamat": "Jl. Raya Duduklor",
+      "kelurahan": "Duduk Lor",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506068",
+      "nama_satuan_pendidikan": "SD Negeri Dukuhtunggal",
+      "alamat": "Dusun Pedurungan",
+      "kelurahan": "Dukuhtunggal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506206",
+      "nama_satuan_pendidikan": "SD Negeri Gempolpendowo",
+      "alamat": "Jl. Raya Desa Gempolpendowo No. 43 Dusun Pompongan",
+      "kelurahan": "Gempolpendowo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506237",
+      "nama_satuan_pendidikan": "SD Negeri Jatirenggo",
+      "alamat": "Dusun Jatisari Desa Jatirenggo",
+      "kelurahan": "Jatirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506140",
+      "nama_satuan_pendidikan": "SD Negeri Karangagung",
+      "alamat": "Dusun Karangagung Desa Karangagung",
+      "kelurahan": "Karangagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20505858",
+      "nama_satuan_pendidikan": "SD Negeri Margoanyar",
+      "alamat": "Desa Margoanyar",
+      "kelurahan": "Margoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20505862",
+      "nama_satuan_pendidikan": "SD NEGERI MEDANG",
+      "alamat": "Medang",
+      "kelurahan": "Medang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20505854",
+      "nama_satuan_pendidikan": "SD NEGERI MENDOGO",
+      "alamat": "Desa Mendogo",
+      "kelurahan": "Mendogo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20506025",
+      "nama_satuan_pendidikan": "SD Negeri Panggang",
+      "alamat": "Desa Panggang Kec. Glagah",
+      "kelurahan": "Panggang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20505960",
+      "nama_satuan_pendidikan": "SD Negeri Rayunggumuk",
+      "alamat": "Dusun Bucu Lor Desa Rayunggumuk",
+      "kelurahan": "Rayunggumuk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506468",
+      "nama_satuan_pendidikan": "SD Negeri Soko",
+      "alamat": "Desa Soko RT 04 RW 01",
+      "kelurahan": "Soko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20506454",
+      "nama_satuan_pendidikan": "SD Negeri Sudangan",
+      "alamat": "Dusun Suwi, Desa Sudangan",
+      "kelurahan": "Sudangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20506398",
+      "nama_satuan_pendidikan": "SMP HASYIM ASY`ARI GLAGAH",
+      "alamat": "Jl. Raya KH. Hasyim Asyari No.1 Glagah",
+      "kelurahan": "Glagah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 64,
+      "npsn": "20554143",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 GLAGAH",
+      "alamat": "Jl. Raya Jatirenggo No. 01",
+      "kelurahan": "Jatirenggo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "69754594",
+      "nama_satuan_pendidikan": "SMP WAHID HASYIM GLAGAH",
+      "alamat": "Jl Raya Puk No 02 Desa Glagah",
+      "kelurahan": "Glagah",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. DEKET",
+  "updated_at": "2026-09-21T01:56:19.487Z",
+  "count": 37,
+  "negeri": 24,
+  "swasta": 13,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718446",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "MELUKE, SIDOMULYO, RT 04 RW 03",
+      "kelurahan": "Sidomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718442",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "GOWOK SIDOBINANGUN RT. 04 RW. 04",
+      "kelurahan": "Sidobinangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718445",
+      "nama_satuan_pendidikan": "MIS BUSTANUL ULUM",
+      "alamat": "DUSUN PUTAT DESA WEDUNI",
+      "kelurahan": "Deket Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718441",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "CALUNGAN RT 03/ RW 04 REJOTENGAH DEKET",
+      "kelurahan": "Rejotengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718443",
+      "nama_satuan_pendidikan": "MIS HIDAYATUSSIBYAN",
+      "alamat": "DSN. GLUGU DS.DLANGGU KEC. DEKET KAB. LAMONGAN",
+      "kelurahan": "Dlanggu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718447",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JALAN RAYA KARANGBINANGUN NO 7 DESA DINOYO KECAMATAN DEKET KABUPATEN LAMONGAN",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718440",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DSN. BUDEN DS.PLOSOBUDEN KEC. DEKET KAB. LAMONGAN",
+      "kelurahan": "Dinoyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718444",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "DSN. DALIT DS. TUKKERTO",
+      "kelurahan": "Tukkerto",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718439",
+      "nama_satuan_pendidikan": "MIS MINHAJUL HUDA",
+      "alamat": "DUSUN PLOSO RT.04/02 DESA PLOSOBUDEN",
+      "kelurahan": "Deket Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718448",
+      "nama_satuan_pendidikan": "MIS NURUL QOMAR",
+      "alamat": "Dusun Kudu RT. 01 / RW. 02",
+      "kelurahan": "Weduni",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20582779",
+      "nama_satuan_pendidikan": "MTSS AL ISHLAH",
+      "alamat": "DSN. BUDEN DS. PLOSOBUDEN KECAMATAN DEKET KABUPATEN LAMONGAN (KKM MTSN LMG)",
+      "kelurahan": "Deket Kulon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20582780",
+      "nama_satuan_pendidikan": "MTSS AL-IHSAN",
+      "alamat": "DUSUN NGEPUNG REJOSARI DEKET  (KKM MTSN LMG)",
+      "kelurahan": "Rejosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "20582778",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL JINAN",
+      "alamat": "DSN. GLUGU RT 04 RW 04 DS. DLANGGU (KKM MTSN LMG)",
+      "kelurahan": "Dlanggu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "20506070",
+      "nama_satuan_pendidikan": "SD Negeri  Dlanggu",
+      "alamat": "Dusun Glugu",
+      "kelurahan": "Dlanggu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 15,
+      "npsn": "20505950",
+      "nama_satuan_pendidikan": "SD Negeri 1 Rejotengah",
+      "alamat": "Jl. Wangen N0 63",
+      "kelurahan": "Rejotengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 16,
+      "npsn": "20506531",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sidomulyo",
+      "alamat": "Jl. Raya Karangbinangun No.1",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 17,
+      "npsn": "20506452",
+      "nama_satuan_pendidikan": "SD Negeri 1 Srirande",
+      "alamat": "Dusun Pucuk",
+      "kelurahan": "Srirande",
+      "status": "NEGERI"
+    },
+    {
+      "no": 18,
+      "npsn": "20506022",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pandanpancur",
+      "alamat": "Jl. Raya Nginjen No. 64",
+      "kelurahan": "Pandanpancur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 19,
+      "npsn": "20505951",
+      "nama_satuan_pendidikan": "SD Negeri 2 Rejotengah",
+      "alamat": "Jl. Dinoyo-Wangen No. 20",
+      "kelurahan": "Rejotengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 20,
+      "npsn": "20506533",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sidomulyo",
+      "alamat": "jl. Karangbinangun no. 121",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 21,
+      "npsn": "20506453",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SRIRANDE",
+      "alamat": "Srirande",
+      "kelurahan": "Srirande",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20506038",
+      "nama_satuan_pendidikan": "SD Negeri 3 Deketkulon",
+      "alamat": "Jln Sawo No.44 Deket Permai",
+      "kelurahan": "Deket Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20506023",
+      "nama_satuan_pendidikan": "SD Negeri 3 Pandanpancur",
+      "alamat": "Dusun Pondok",
+      "kelurahan": "Pandanpancur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20507252",
+      "nama_satuan_pendidikan": "SD NEGERI BABATAGUNG",
+      "alamat": "jl. Wongsorejo no.34",
+      "kelurahan": "Babatagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506035",
+      "nama_satuan_pendidikan": "SD Negeri Deketkulon",
+      "alamat": "Jalan Raya Deket No.116",
+      "kelurahan": "Deket Kulon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506036",
+      "nama_satuan_pendidikan": "SD Negeri Deketwetan",
+      "alamat": "Jalan Raya Deket",
+      "kelurahan": "Deket Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506055",
+      "nama_satuan_pendidikan": "SD Negeri Dinoyo",
+      "alamat": "Jln. Raya Karangbinangun No 70",
+      "kelurahan": "Dinoyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505903",
+      "nama_satuan_pendidikan": "SD Negeri Laladan",
+      "alamat": "Dusun Keduran",
+      "kelurahan": "Laladan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20505934",
+      "nama_satuan_pendidikan": "SD Negeri Plosobuden",
+      "alamat": "Dusun Ploso",
+      "kelurahan": "Plosobuden",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20505959",
+      "nama_satuan_pendidikan": "SD Negeri Rejosari",
+      "alamat": "Jl. Wirohadi No.01",
+      "kelurahan": "Rejosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20549380",
+      "nama_satuan_pendidikan": "SD Negeri Sidobinangun",
+      "alamat": "Dusun Gowok",
+      "kelurahan": "Sidobinangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506534",
+      "nama_satuan_pendidikan": "SD Negeri Sidorejo",
+      "alamat": "Jl. Kadet Soewoko No. 107A",
+      "kelurahan": "Sidorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506460",
+      "nama_satuan_pendidikan": "SD Negeri Sugihwaras",
+      "alamat": "Jalan Karangbinangun No. 08",
+      "kelurahan": "Sugihwaras",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506569",
+      "nama_satuan_pendidikan": "SD Negeri Tukkerto",
+      "alamat": "JL. Kartini no.13",
+      "kelurahan": "Tukkerto",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506597",
+      "nama_satuan_pendidikan": "SD Negeri Weduni",
+      "alamat": "Jln Ds Weduni no 2",
+      "kelurahan": "Weduni",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506368",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Deket",
+      "alamat": "Jl Deket Wetan",
+      "kelurahan": "Deket Wetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506393",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 DEKET",
+      "alamat": "Desa PANDAN PANCUR",
+      "kelurahan": "Pandanpancur",
+      "status": "NEGERI"
+    }
+  ]
+}

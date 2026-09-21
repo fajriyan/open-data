@@ -1,0 +1,338 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KALITENGAH",
+  "updated_at": "2026-09-21T01:56:37.372Z",
+  "count": 41,
+  "negeri": 19,
+  "swasta": 22,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718497",
+      "nama_satuan_pendidikan": "MIS AL-AMAL",
+      "alamat": "KEDIREN",
+      "kelurahan": "Kediren",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718498",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL.TELAGA BENING BLAJO",
+      "kelurahan": "Blajo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718486",
+      "nama_satuan_pendidikan": "MIS BUSTANUT THOLABAH",
+      "alamat": "DESA GAMBUHAN KECAMATAN KALITENGAH KABUPATEN LAMONGAN",
+      "kelurahan": "Gambuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718500",
+      "nama_satuan_pendidikan": "MIS DALAILUL KHOIROT",
+      "alamat": "BUTUNGAN",
+      "kelurahan": "Butungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718489",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "Jalan Rondo Kuning Desa Jelakcatur Kecamatan Kalitengah Kabupaten Lamongan",
+      "kelurahan": "Jelakcatur",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718501",
+      "nama_satuan_pendidikan": "MIS IDHOTUN NASYI`IN",
+      "alamat": "Dsn. Depeg, Ds. Sugihwaras",
+      "kelurahan": "Sugihwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718496",
+      "nama_satuan_pendidikan": "MIS IHYAUL ULUM II",
+      "alamat": "SUGIHWARAS",
+      "kelurahan": "Sugihwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718484",
+      "nama_satuan_pendidikan": "MIS ISLAM",
+      "alamat": "JL. SEKOLAHAN NO. 1 DS. PUCANGRO",
+      "kelurahan": "Pucangro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718485",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "PUCANGTELU",
+      "kelurahan": "Pucangtelu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718490",
+      "nama_satuan_pendidikan": "MIS KEBANGKITAN UMAT ISLAM",
+      "alamat": "JL.RAYA CANDITUNGGAL",
+      "kelurahan": "Canditunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718493",
+      "nama_satuan_pendidikan": "MIS KHOZAINUL ULUM 1",
+      "alamat": "Dondoman",
+      "kelurahan": "Bojoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718494",
+      "nama_satuan_pendidikan": "MIS KHOZAINUL ULUM 2",
+      "alamat": "Dondoman",
+      "kelurahan": "Bojoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718499",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL QULUB",
+      "alamat": "JL. PENDIDIKAN NO. 125 DESA TIWET",
+      "kelurahan": "Tiwet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718492",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. KI PUTHUT NO. 02 DESA KULURAN",
+      "kelurahan": "Kuluran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718488",
+      "nama_satuan_pendidikan": "MIS SABILUL MUHTADIN",
+      "alamat": "TUNJUNGMEKAR",
+      "kelurahan": "Tunjungmekar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718491",
+      "nama_satuan_pendidikan": "MIS THORIQOTUS SALAM",
+      "alamat": "SOMOSARI",
+      "kelurahan": "Somosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20582789",
+      "nama_satuan_pendidikan": "MTSS IHYAUL ULUM SUGIHWARAS",
+      "alamat": "JL. RAYA SUGIHWARAS (KKM MTSN LMG)",
+      "kelurahan": "Sugihwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582788",
+      "nama_satuan_pendidikan": "MTSS KHOZAINUL ULUM",
+      "alamat": "JALAN DESA BOJOASRI KECAMATAN KALITENGAH KABUPATEN LAMONGAN",
+      "kelurahan": "Bojoasri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582790",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM KULURAN",
+      "alamat": "JLN. P. TENDEAN NO. 14 KULURAN KALITENGAH TELP. 085 648 558 049",
+      "kelurahan": "Kuluran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582792",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 26 KALITENGAH",
+      "alamat": "JL. MAHKOTA NO. 60 KALITENGAH, KEC. KALITENGAH, KAB, LAMONGAN (KKM MTSN LMG)",
+      "kelurahan": "Kalitengah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582791",
+      "nama_satuan_pendidikan": "MTSS SUNAN DRAJAT SUGIHWARAS",
+      "alamat": "JL. RAYA SUGIHWARAS NO. 03 SUGIHWARAS KALITENGAH LAMONGAN JAWA TIMUR",
+      "kelurahan": "Sugihwaras",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "69973051",
+      "nama_satuan_pendidikan": "SD Islam Terpadu Alfurqan",
+      "alamat": "Ds. Canditunggal",
+      "kelurahan": "Canditunggal",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20505941",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pengangsalan",
+      "alamat": "Desa Pengangsalan",
+      "kelurahan": "Pengangsalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20505942",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pengangsalan",
+      "alamat": "Desa Pengangsalan",
+      "kelurahan": "Pengangsalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506045",
+      "nama_satuan_pendidikan": "SD Negeri Butungan",
+      "alamat": "Jl. Embong Joar No. 01 Desa Butungan",
+      "kelurahan": "Butungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506048",
+      "nama_satuan_pendidikan": "SD Negeri Canditunggal",
+      "alamat": "Desa Canditunggal",
+      "kelurahan": "Canditunggal",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506042",
+      "nama_satuan_pendidikan": "SD Negeri Cluring",
+      "alamat": "Desa Cluring",
+      "kelurahan": "Cluring",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20506054",
+      "nama_satuan_pendidikan": "SD Negeri Dibee",
+      "alamat": "Desa Dibee",
+      "kelurahan": "Dibe",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506215",
+      "nama_satuan_pendidikan": "SD Negeri Jelakcatur",
+      "alamat": "Desa Jelakcatur",
+      "kelurahan": "Jelakcatur",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20554087",
+      "nama_satuan_pendidikan": "SD Negeri Kalitengah",
+      "alamat": "JL. BENGAWAN SOLO DESA KALITENGAH",
+      "kelurahan": "Kalitengah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506163",
+      "nama_satuan_pendidikan": "SD Negeri Kediren",
+      "alamat": "Desa Kediren",
+      "kelurahan": "Kediren",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20505897",
+      "nama_satuan_pendidikan": "SD Negeri Kuluran",
+      "alamat": "Desa Kuluran",
+      "kelurahan": "Kuluran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20505828",
+      "nama_satuan_pendidikan": "SD Negeri Lukrejo",
+      "alamat": "Desa Lukrejo",
+      "kelurahan": "Lukrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20505994",
+      "nama_satuan_pendidikan": "SD Negeri Mungli",
+      "alamat": "Desa Mungli",
+      "kelurahan": "Mungli",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20505932",
+      "nama_satuan_pendidikan": "SD Negeri Pucangro",
+      "alamat": "Desa Pucangro",
+      "kelurahan": "Pucangro",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20505946",
+      "nama_satuan_pendidikan": "SD Negeri Pucangtelu",
+      "alamat": "Desa Pucangtelu",
+      "kelurahan": "Pucangtelu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506473",
+      "nama_satuan_pendidikan": "SD Negeri Somosari",
+      "alamat": "Desa Somosari",
+      "kelurahan": "Somosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506459",
+      "nama_satuan_pendidikan": "SD Negeri Sugihwaras",
+      "alamat": "Desa Sugihwaras Kecamatan Kalitengah",
+      "kelurahan": "Sugihwaras",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506645",
+      "nama_satuan_pendidikan": "SD Negeri Tiwet",
+      "alamat": "Desa Tiwet",
+      "kelurahan": "Tiwet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506566",
+      "nama_satuan_pendidikan": "SD Negeri Tunjungmekar",
+      "alamat": "Desa Tunjungmekar",
+      "kelurahan": "Tunjungmekar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506359",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 KALITENGAH",
+      "alamat": "Jl. Mahkota No. 280 Desa Dibee",
+      "kelurahan": "Dibe",
+      "status": "NEGERI"
+    }
+  ]
+}

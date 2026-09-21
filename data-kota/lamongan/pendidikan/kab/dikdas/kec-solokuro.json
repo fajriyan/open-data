@@ -1,0 +1,482 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SOLOKURO",
+  "updated_at": "2026-09-21T01:57:00.242Z",
+  "count": 59,
+  "negeri": 11,
+  "swasta": 48,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718794",
+      "nama_satuan_pendidikan": "MI MAMBAUL ULUM",
+      "alamat": "Jln. KH. Amin No. 01 Desa Dagan Kecamatan Solokuro Kabupaten Lamongan",
+      "kelurahan": "Dagan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718788",
+      "nama_satuan_pendidikan": "MIS AL-FATAH",
+      "alamat": "JL.MERDEKA NO.04",
+      "kelurahan": "Sugihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "70013514",
+      "nama_satuan_pendidikan": "MIS ASSA`DIYYAH",
+      "alamat": "JL. SIDO RUKUN",
+      "kelurahan": "Solokuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718781",
+      "nama_satuan_pendidikan": "MIS DARUL MA`ARIF",
+      "alamat": "JL.KH.ABDURROHMAN MUSTHOFA NO. 21 GAYAM PAYAMAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718799",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JL. SONOKEMBANG NO. 31 PETIYIN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718796",
+      "nama_satuan_pendidikan": "MIS IHYAUL ULUM BLURI",
+      "alamat": "JL. PANTENAN RT : 2 RW : 3 Pos: 62265",
+      "kelurahan": "Bluri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718790",
+      "nama_satuan_pendidikan": "MIS ISHLAHUL MASALIK",
+      "alamat": "JL. PROKLAMASI NO. 73",
+      "kelurahan": "Tebluru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718798",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU",
+      "alamat": "DSN. SIMANRAYA DSA. DADAPAN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718785",
+      "nama_satuan_pendidikan": "MIS MAMBA`UL HUDA",
+      "alamat": "JL. SUMUR SEJAJAR PAYAMAN SOLOKURO LAMONGAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718780",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA TENGGULUN",
+      "alamat": "JL. PENDIDIKAN NO. 006 TENGGULUN",
+      "kelurahan": "Tenggulun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718786",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM BANGO",
+      "alamat": "JL. ASEM GEDE BANGO PAYAMAN SOLOKURO LAMONGAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718779",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM SOLOKURO",
+      "alamat": "JL. PENDIDIKAN NO. 09 SOLOKURO LAMONGAN",
+      "kelurahan": "Solokuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718782",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 PAYAMAN",
+      "alamat": "JL. RINGIN RT.02 / RW.05 DESA PAYAMAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718778",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 02 SOLOKURO",
+      "alamat": "JL. H.M. SHODIQ NO. 07 SOLOKURO",
+      "kelurahan": "Solokuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718776",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 03 TAKERHARJO",
+      "alamat": "JL. PENDIDIKAN N0 01",
+      "kelurahan": "Takerharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718792",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 04 DADAPAN",
+      "alamat": "JL. RAYA NO. 55 DADAPAN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718784",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 05 PALIRANGAN",
+      "alamat": "JL, MASJID NURUL IMAN NO : 80 PALIRANGAN PAYAMAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718789",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 06 TEBLURU",
+      "alamat": "Jl. Sidorejo No. 08 Tebluru Solokuro Lamongan",
+      "kelurahan": "Tebluru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718787",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 07 SUGIHAN",
+      "alamat": "JALAN PENDIDIKAN NO. 232 SUGIHAN - SOLOKURO",
+      "kelurahan": "Sugihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718797",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 08 BANGO",
+      "alamat": "JLN. MASJID DARUSSALAM BANGO PAYAMAN SOLOKURO",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718791",
+      "nama_satuan_pendidikan": "MIS NIDHOMUT THOLIBIN",
+      "alamat": "JL. H. IRSYAD DADAPAN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718795",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "JL. AL-MUKARROM RT/RW 04/02 BANYUBANG",
+      "kelurahan": "Banyubang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "69725776",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL MUTAABBIDIN PUTERA",
+      "alamat": "JL. PONPES. ROUDLOTUL MUTA`ABBIDIN NO. 102 PAYAMAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718783",
+      "nama_satuan_pendidikan": "MIS ROUDLOTUL MUTAABBIDIN PUTERI",
+      "alamat": "JL. PON.PES. ROUDLOTUL MUTAABBIDIN NO.102",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718793",
+      "nama_satuan_pendidikan": "MIS SABILUL HUDA",
+      "alamat": "JLN. PENDIDIKAN NO. 48 LANGGAREJO DADAPAN KEC. SOLOKURO KAB.LAMONGAN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718777",
+      "nama_satuan_pendidikan": "MIS TANWIRUL MA`ARIF",
+      "alamat": "JL. EMPAT LIMA NO.10 TAKERHARJO",
+      "kelurahan": "Takerharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20582890",
+      "nama_satuan_pendidikan": "MTSS AL FATTAH",
+      "alamat": "JL MERDEKA NO 4 SUGIHAN",
+      "kelurahan": "Sugihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "20582892",
+      "nama_satuan_pendidikan": "MTSS AL-AMAN",
+      "alamat": "JLN. SETITET",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "20582887",
+      "nama_satuan_pendidikan": "MTSS AL-IHSAN",
+      "alamat": "JL. MERDEKA NO. 006",
+      "kelurahan": "Tenggulun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "69725804",
+      "nama_satuan_pendidikan": "MTSS DARUL MAARIF",
+      "alamat": "JL. KH. Abdurrohman Musthofa No.21 Payaman",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "20582893",
+      "nama_satuan_pendidikan": "MTSS DARUL ULUM",
+      "alamat": "JL SONO KEMBANG NO 31 PETIYIN TAKERHARJO",
+      "kelurahan": "Takerharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "20582891",
+      "nama_satuan_pendidikan": "MTSS IHYAUL ULUM",
+      "alamat": "JL. PANTENAN NO.412 DESA BLURI KEC. SOLOKURO KAB. LAMONGAN",
+      "kelurahan": "Bluri",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "20582894",
+      "nama_satuan_pendidikan": "MTSS ISHLAHUL MASALIK",
+      "alamat": "JL. Proklamasi No. 35",
+      "kelurahan": "Tebluru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "20582815",
+      "nama_satuan_pendidikan": "MTSS MAARIF 16 NURUL HIDAYAH",
+      "alamat": "JLN RAYA SUKODADI BANJARANYAR RT 06/RW 02 BANYUBANG SOLOKURO",
+      "kelurahan": "Banyubang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "20582895",
+      "nama_satuan_pendidikan": "MTSS MAMBAUL ULUM",
+      "alamat": "JL. KH. AMIN NO. 01 DESA DAGAN",
+      "kelurahan": "Dagan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20582885",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JL. SIDOKUMPUL NO.09 SOLOKURO (KKM MTSN LMG)",
+      "kelurahan": "Solokuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20582886",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 06 SUGIHAN",
+      "alamat": "JL. PENDIDIKAN NO. 232 SUGIHAN - SOLOKURO",
+      "kelurahan": "Sugihan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20582881",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 07",
+      "alamat": "JL. K. BASYIR NO. 11 (KKM MTSN LMG)",
+      "kelurahan": "Takerharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582884",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH-12",
+      "alamat": "JL. MASJID NURUL IMAN NO. 80 PALIRANGAN, PAYAMAN, SOLOKURO,",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582753",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH-13",
+      "alamat": "JLN. H.M. SHODIQ.NO.07 SOLOKURO-LAMONGAN",
+      "kelurahan": "Solokuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582882",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH-5",
+      "alamat": "JALAN RINGIN PAYAMAN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20582883",
+      "nama_satuan_pendidikan": "MTSS ROUDLOTUL MUTAABBIDIN",
+      "alamat": "JL. PON. PES. R. MUTAABBIDIN NO. 102 PAYAMAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20582888",
+      "nama_satuan_pendidikan": "MTSS TANWIRUL MA,ARIF",
+      "alamat": "JL. RAYA SUKODADI BANJARANYAR TAKERHARJO SOLOKURO LAMONGAN",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20582889",
+      "nama_satuan_pendidikan": "MTSS TANWIRUT THOLIBIN",
+      "alamat": "JL.H.IRSYAT NO.58B DADAPAN SOLOKURO LAMONGAN",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20506647",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tebluru",
+      "alamat": "Jl. Proklamasi No.3",
+      "kelurahan": "Tebluru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506634",
+      "nama_satuan_pendidikan": "SD Negeri 2 Takerharjo",
+      "alamat": "Jl. Telagaurung Petiyin",
+      "kelurahan": "Takerharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506637",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tebluru",
+      "alamat": "Ngulaan",
+      "kelurahan": "Tebluru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506102",
+      "nama_satuan_pendidikan": "SD Negeri Banyubang",
+      "alamat": "Jl. Puk. Banyubang",
+      "kelurahan": "Banyubang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506128",
+      "nama_satuan_pendidikan": "SD Negeri Bluri",
+      "alamat": "Jl. Tlepak No. 16",
+      "kelurahan": "Bluri",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506040",
+      "nama_satuan_pendidikan": "SD Negeri Dadapan",
+      "alamat": "Jalan Merik No.08",
+      "kelurahan": "Dadapan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506030",
+      "nama_satuan_pendidikan": "SD Negeri Dagan",
+      "alamat": "Jl Puk Dagan No.17",
+      "kelurahan": "Dagan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506011",
+      "nama_satuan_pendidikan": "SD Negeri Payaman",
+      "alamat": "Jl. Ringin No. 388",
+      "kelurahan": "Payaman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506455",
+      "nama_satuan_pendidikan": "SD Negeri Sugihan",
+      "alamat": "Jl. Pemuda No. 278",
+      "kelurahan": "Sugihan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506643",
+      "nama_satuan_pendidikan": "SD Negeri Tenggulun",
+      "alamat": "Jl. Merdeka No. 01",
+      "kelurahan": "Tenggulun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506274",
+      "nama_satuan_pendidikan": "SMP DR. MUSTAIN ROMLY",
+      "alamat": "Jl. Pon Pes R.Muta`abbidin  No. 102 Solokuro",
+      "kelurahan": "Payaman",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20506411",
+      "nama_satuan_pendidikan": "SMP MA`ARIF NU SIMANRAYA",
+      "alamat": "Jalan Raya Dusun Simanraya Desa Dadapan",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 57,
+      "npsn": "20506407",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 20 SOLOKURO",
+      "alamat": "Jl. Sidorejo No. 08 Desa Tebluru",
+      "kelurahan": "Tebluru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 58,
+      "npsn": "20506386",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SOLOKURO",
+      "alamat": "Desa Payaman",
+      "kelurahan": "Payaman",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "69786981",
+      "nama_satuan_pendidikan": "SMP TERPADU NURUL FATTAH",
+      "alamat": "Desa Dadapan",
+      "kelurahan": "Dadapan",
+      "status": "SWASTA"
+    }
+  ]
+}

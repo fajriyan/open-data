@@ -1,0 +1,498 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SAMBENG",
+  "updated_at": "2026-09-21T01:55:28.310Z",
+  "count": 61,
+  "negeri": 36,
+  "swasta": 25,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718729",
+      "nama_satuan_pendidikan": "MIS AL AZIZ",
+      "alamat": "JALAN PEMUDA NO 06 RT 8 RW 04 DESA TENGGIRING",
+      "kelurahan": "Tenggiring",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718731",
+      "nama_satuan_pendidikan": "MIS AL BASHOR",
+      "alamat": "DSN. TAMBAR RT.003/RW. 002",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718726",
+      "nama_satuan_pendidikan": "MIS AL ISLAM",
+      "alamat": "DSN. KANDANGAN DS. CANDISARI KEC. SAMBENG",
+      "kelurahan": "Candisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718722",
+      "nama_satuan_pendidikan": "MIS AL ISLAM",
+      "alamat": "GARUNG",
+      "kelurahan": "Garung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718730",
+      "nama_satuan_pendidikan": "MIS AL ISTIQOMAH",
+      "alamat": "JL.BERINGIN NO 2 DESA SEMAMPIREJO",
+      "kelurahan": "Semampirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718732",
+      "nama_satuan_pendidikan": "MIS AL-HIKMAH",
+      "alamat": "JL.BANYULEGI NO. 27",
+      "kelurahan": "Gempolmanis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718725",
+      "nama_satuan_pendidikan": "MIS AL-ITTIHAD",
+      "alamat": "DUSUN TLATAH WETAN",
+      "kelurahan": "Barurejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718733",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JL. MASJID AL ITTIHAD  DESA WUDI",
+      "kelurahan": "Wudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718723",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "DSN.PANDAK",
+      "kelurahan": "Jatipandak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718724",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DSN.KEDUNGCALUK DS.KRETERANGGON",
+      "kelurahan": "Kreteranggon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718721",
+      "nama_satuan_pendidikan": "MIS MATHLABUL ULUM",
+      "alamat": "Dusun Seren Desa Jatipandak",
+      "kelurahan": "Jatipandak",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718727",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH RESIK",
+      "alamat": "DSN. RESIK DS. KEDUNGWANGI",
+      "kelurahan": "Kedungwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718728",
+      "nama_satuan_pendidikan": "MIS NURUL ISLAM",
+      "alamat": "JL. RAYA KEDUK NOMOR 62",
+      "kelurahan": "Kedungwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718734",
+      "nama_satuan_pendidikan": "MIS WALISONGO",
+      "alamat": "Citro Wati",
+      "kelurahan": "Wonorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20582870",
+      "nama_satuan_pendidikan": "MTSS AL BASHOR",
+      "alamat": "DSN. TAMBAR RT.003/RW.002",
+      "kelurahan": "Sidokumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "20582868",
+      "nama_satuan_pendidikan": "MTSS AL-HIKMAH",
+      "alamat": "JALAN RAYA SAMBENG MANTUP DESA GEMPOLMANIS",
+      "kelurahan": "Wateswinangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20582866",
+      "nama_satuan_pendidikan": "MTSS DARUL ULUM",
+      "alamat": "JL. MASJID AL ITTHAD NO. 69",
+      "kelurahan": "Wudi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582867",
+      "nama_satuan_pendidikan": "MTSS EMPAT LIMA ASSA`ADAH",
+      "alamat": "KANDANGAN-CANDISARI-SAMBENG",
+      "kelurahan": "Candisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "69725110",
+      "nama_satuan_pendidikan": "MTSS ISLAMIYAH",
+      "alamat": "DSN.KEDUNGCALUK DS KRETERANGGON KEC. SAMBENG",
+      "kelurahan": "Kreteranggon",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582869",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 28 RESIK",
+      "alamat": "DSN. RESIK DS. KEDUNGWANGI",
+      "kelurahan": "Kedungwangi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20177902",
+      "nama_satuan_pendidikan": "SD IT Al Manar",
+      "alamat": "Jln.Raya Dringu No.6 Pataan",
+      "kelurahan": "Pataan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20555407",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Sambeng",
+      "alamat": "Jl. Raya Sambeng-Ngimbang Ponpes Al Furqon Desa Pataan Kecamatan Sambeng",
+      "kelurahan": "Pataan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20506093",
+      "nama_satuan_pendidikan": "SD Negeri 1 Barurejo",
+      "alamat": "Dusun Kedung Kidang",
+      "kelurahan": "Barurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506046",
+      "nama_satuan_pendidikan": "SD Negeri 1 Candisari",
+      "alamat": "Jl. Cungkup No. 01",
+      "kelurahan": "Candisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506061",
+      "nama_satuan_pendidikan": "SD Negeri 1 Garung",
+      "alamat": "Dusun Garung",
+      "kelurahan": "Garung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20505881",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungwangi",
+      "alamat": "Jln. Raya Kedungwangi No.02",
+      "kelurahan": "Kedungwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20505908",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kreteranggon",
+      "alamat": "Dusun Kedungcaluk",
+      "kelurahan": "Kreteranggon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505981",
+      "nama_satuan_pendidikan": "SD Negeri 1 Nogojatisari",
+      "alamat": "Jl Raya Sambeng Mantup No 16, Dusun Nogo",
+      "kelurahan": "Nogojatisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506019",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pamotan",
+      "alamat": "Dusun Pamotan",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506008",
+      "nama_satuan_pendidikan": "SD Negeri 1 Pataan",
+      "alamat": "Jalan Raya Pataan No.12",
+      "kelurahan": "Pataan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506522",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sekidang",
+      "alamat": "Dusun Sekidang",
+      "kelurahan": "Sekidang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506524",
+      "nama_satuan_pendidikan": "SD Negeri 1 Selorejo",
+      "alamat": "Dusun Tlogo",
+      "kelurahan": "Selorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506526",
+      "nama_satuan_pendidikan": "SD Negeri 1 Semampirejo",
+      "alamat": "Jln. Pendidikan No.32",
+      "kelurahan": "Semampirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506606",
+      "nama_satuan_pendidikan": "SD Negeri 1 Wateswinangun",
+      "alamat": "Jl. Kambangan Garung No. 04 Dusun Sahar",
+      "kelurahan": "Wateswinangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506590",
+      "nama_satuan_pendidikan": "SD Negeri 1 Wonorejo",
+      "alamat": "Dusun Wonokoyo",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506092",
+      "nama_satuan_pendidikan": "SD Negeri 2 Barurejo",
+      "alamat": "Dusun Tlatahwetan",
+      "kelurahan": "Barurejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506047",
+      "nama_satuan_pendidikan": "SD Negeri 2 Candisari",
+      "alamat": "Jl. Cungkup No. 10",
+      "kelurahan": "Candisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506062",
+      "nama_satuan_pendidikan": "SD NEGERI 2 GARUNG",
+      "alamat": "Dusun Peresan",
+      "kelurahan": "Garung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20505880",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungwangi",
+      "alamat": "Jl. Pucang Anom No. 07",
+      "kelurahan": "Kedungwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20549636",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kreteranggon",
+      "alamat": "Dusun Krete",
+      "kelurahan": "Kreteranggon",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20505982",
+      "nama_satuan_pendidikan": "SD Negeri 2 Nogojatisari",
+      "alamat": "Dusun Pancur",
+      "kelurahan": "Nogojatisari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506020",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pamotan",
+      "alamat": "Dusun Ngegreng",
+      "kelurahan": "Pamotan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506009",
+      "nama_satuan_pendidikan": "SD Negeri 2 Pataan",
+      "alamat": "Dusun Montor",
+      "kelurahan": "Pataan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506523",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sekidang",
+      "alamat": "Dusun Karangaji",
+      "kelurahan": "Sekidang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506525",
+      "nama_satuan_pendidikan": "SD Negeri 2 Selorejo",
+      "alamat": "Dusun Pedes",
+      "kelurahan": "Selorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506527",
+      "nama_satuan_pendidikan": "SD Negeri 2 Semampirejo",
+      "alamat": "Jalan Pendidikan No. 106",
+      "kelurahan": "Semampirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506607",
+      "nama_satuan_pendidikan": "SD Negeri 2 Wateswinangun",
+      "alamat": "Dusun Tlatah",
+      "kelurahan": "Wateswinangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20548709",
+      "nama_satuan_pendidikan": "SD NEGERI 2 WONOREJO",
+      "alamat": "Dusun Jombok",
+      "kelurahan": "Wonorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20507217",
+      "nama_satuan_pendidikan": "SD Negeri Ardirejo",
+      "alamat": "Jln. Raya Sambeng No.52",
+      "kelurahan": "Ardirejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20506205",
+      "nama_satuan_pendidikan": "SD Negeri Gempolmanis",
+      "alamat": "Jl. Balai Desa No. 04",
+      "kelurahan": "Gempolmanis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 51,
+      "npsn": "20506231",
+      "nama_satuan_pendidikan": "SD Negeri Jatipandak",
+      "alamat": "Dusun Mlurus",
+      "kelurahan": "Jatipandak",
+      "status": "NEGERI"
+    },
+    {
+      "no": 52,
+      "npsn": "20506167",
+      "nama_satuan_pendidikan": "SD Negeri Kedungbanjar",
+      "alamat": "Jalan Kedungsambi No.18",
+      "kelurahan": "Kedungbanjar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 53,
+      "npsn": "20506005",
+      "nama_satuan_pendidikan": "SD Negeri Pasarlegi",
+      "alamat": "Dusun Slegi",
+      "kelurahan": "Pasarlegi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506549",
+      "nama_satuan_pendidikan": "SD Negeri Sidokumpul",
+      "alamat": "Dusun Bebed",
+      "kelurahan": "Sidokumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20506632",
+      "nama_satuan_pendidikan": "SD Negeri Sumbersari",
+      "alamat": "Jln Raya Berjo No. 117",
+      "kelurahan": "Sumbersari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20506642",
+      "nama_satuan_pendidikan": "SD Negeri Tenggiring",
+      "alamat": "Jalan Pemuda No. 06",
+      "kelurahan": "Tenggiring",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506591",
+      "nama_satuan_pendidikan": "SD Negeri Wudi",
+      "alamat": "Dusun Wudi",
+      "kelurahan": "Wudi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "70035000",
+      "nama_satuan_pendidikan": "SMP ISLAM TERPADU NAWA",
+      "alamat": "Dusun Nogo",
+      "kelurahan": "Nogojatisari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 59,
+      "npsn": "20548714",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 24 SAMBENG",
+      "alamat": "Jl. Raya Sambeng Ngimbang",
+      "kelurahan": "Pataan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 60,
+      "npsn": "20506370",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SAMBENG",
+      "alamat": "JL. RAYA KEDUNGWANGI",
+      "kelurahan": "Kedungwangi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506448",
+      "nama_satuan_pendidikan": "SMP PGRI  1 SAMBENG",
+      "alamat": "Dusun Krete, Desa Kreteranggon,Kecamatan Sambeng",
+      "kelurahan": "Kreteranggon",
+      "status": "SWASTA"
+    }
+  ]
+}

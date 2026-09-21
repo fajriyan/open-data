@@ -1,0 +1,410 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. MADURAN",
+  "updated_at": "2026-09-21T01:56:50.861Z",
+  "count": 50,
+  "negeri": 16,
+  "swasta": 34,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718623",
+      "nama_satuan_pendidikan": "MIS 04 SUWALAN",
+      "alamat": "DUSUN SUWALAN DESA BLUMBANG",
+      "kelurahan": "Duriwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718616",
+      "nama_satuan_pendidikan": "MIS AL-ISLAMIYAH",
+      "alamat": "JL.RAYA 32 PARENGAN MADURAN LAMONGAN",
+      "kelurahan": "Pangean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718620",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL. RAYA PAGENDINGAN - KANUGRAHAN",
+      "kelurahan": "Kanugrahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718621",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JL. RAYA TURI-BANJARAN RT.001/RW.001 DESA TURI",
+      "kelurahan": "Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718612",
+      "nama_satuan_pendidikan": "MIS HAYATUL ULUM",
+      "alamat": "JLN. TEUKU UMAR RT. 003 RW. 001 DESA PANGEAN",
+      "kelurahan": "Turi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718608",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL ATHFAL",
+      "alamat": "JL. MASJID JAMI BAITUR ROHMAN RT03 RW03 DUSUN BONTEN",
+      "kelurahan": "Brumbun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718609",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL MUTA`ALLIMIN",
+      "alamat": "JL MELATI 154 BRUMBUN",
+      "kelurahan": "Brumbun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718619",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL UMMAH",
+      "alamat": "JL. DESA PRINGGOBOYO MADURAN LAMONGAN",
+      "kelurahan": "Pringgoboyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718614",
+      "nama_satuan_pendidikan": "MIS IHYAUDDIN",
+      "alamat": "JL.PANGLIMA SUDIRMAN NO.154 DESA NGAYUNG KECAMATAN MADURAN KABUPATEN LAMONGAN",
+      "kelurahan": "Ngayung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718622",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "JALAN RAYA DESA BLUMBANG",
+      "kelurahan": "Blumbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718613",
+      "nama_satuan_pendidikan": "MIS MANBAUD DALALAH",
+      "alamat": "JL. KARYA BAKTI RT 03/01 MADURAN",
+      "kelurahan": "Maduran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718605",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL RAYA DURIWETAN RT 07 RW 01",
+      "kelurahan": "Duriwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718615",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. SUNAN KALIJAGA RT 03 RW 01 GUMANTUK",
+      "kelurahan": "Gumantuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718624",
+      "nama_satuan_pendidikan": "MIS MIM 10 GEDANGAN",
+      "alamat": "JL. RAYA MUKA SENTONO NO. 5 RT 05 RW 01 DESA GEDANGAN KECAMATAN MADURAN KABUPAT",
+      "kelurahan": "Gedangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718607",
+      "nama_satuan_pendidikan": "MIS MIMA MIFTAHUL HUDA",
+      "alamat": "Dusun Jamang",
+      "kelurahan": "Taji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69883401",
+      "nama_satuan_pendidikan": "MIS MODEL AISYATUL WAHIDAH",
+      "alamat": "Jl. Ahmad Yani 03 turi banjaran rt 08 rw 02.",
+      "kelurahan": "Taji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718618",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 1 PANGKATREJO",
+      "alamat": "JL. RAYA PANGKATREJO NO. 80",
+      "kelurahan": "Jangkungsomo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718625",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 5 KLAGEN",
+      "alamat": "JL.KLAGENSRAMPAT RT 04 RW01",
+      "kelurahan": "Klagensrampat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718611",
+      "nama_satuan_pendidikan": "MIS NASHRUL ULUM",
+      "alamat": "JLN. JERUK RT.03 RW.01 DESA KLAGENSRAMPAT KEC.MADURAN KAB.LAMONGAN",
+      "kelurahan": "Klagensrampat",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718617",
+      "nama_satuan_pendidikan": "MIS NIHAYATUL ULUM",
+      "alamat": "JL. RAYA PANGKATREJO NO. 90 MADURAN LAMONGAN",
+      "kelurahan": "Pangkatrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718606",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "RT.04/RW.01,TAJI",
+      "kelurahan": "Taji",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718610",
+      "nama_satuan_pendidikan": "MIS NURUL KHOIRIYAH",
+      "alamat": "JLN. MASJID BAITUR ROHMAN RT.06 RW.02",
+      "kelurahan": "Siwuran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60730146",
+      "nama_satuan_pendidikan": "MTSS FATHUL HIDAYAH",
+      "alamat": "JL.IMAM BONJOL RT.01 RW.01 DESA PANGEAN KECAMATAN MADURAN KABUPATEN LAMONGAN",
+      "kelurahan": "Pangean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "20582826",
+      "nama_satuan_pendidikan": "MTSS HIDAYATUL UMMAH",
+      "alamat": "JALAN DESA PRINGGGOBOYO RT.003 RW.001 KECAMATAN MADURAN KABUPATEN LAMONGAN",
+      "kelurahan": "Jangkungsomo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "20582827",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JL.PATIMURA,RT.05/RW.02 DURIWETAN",
+      "kelurahan": "Duriwetan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "20582828",
+      "nama_satuan_pendidikan": "MTSS MODEL AISYATUL WAHIDAH",
+      "alamat": "JL. AHMAD YANI BANJARAN NO. 3",
+      "kelurahan": "Kec. Maduran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "20582829",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 29 GEDANGAN",
+      "alamat": "JL. RAYA MUKA SENTONO NO.5",
+      "kelurahan": "Jangkungsomo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60730315",
+      "nama_satuan_pendidikan": "MTSS UNGGULAN DARUL HIKMAH",
+      "alamat": "JL. SUNAN GIRI NO. 21 RT.02.02",
+      "kelurahan": "Gumantuk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "69766977",
+      "nama_satuan_pendidikan": "SD Muhammadiyah Plus Maduran",
+      "alamat": "JL. RAYA MADURAN RT. 06 RW. 02 MADURAN",
+      "kelurahan": "Maduran",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "20506127",
+      "nama_satuan_pendidikan": "SD Negeri Blumbang",
+      "alamat": "Jalan Tangkis Dukuh Carang Kuning",
+      "kelurahan": "Blumbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506116",
+      "nama_satuan_pendidikan": "SD Negeri Brumbun",
+      "alamat": "Jl banturejo",
+      "kelurahan": "Brumbun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506058",
+      "nama_satuan_pendidikan": "SD Negeri Duriwetan",
+      "alamat": "JALAN DIPONEGORO",
+      "kelurahan": "Duriwetan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506197",
+      "nama_satuan_pendidikan": "SD Negeri Gumantuk",
+      "alamat": "Desa Gumantuk",
+      "kelurahan": "Gumantuk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506229",
+      "nama_satuan_pendidikan": "SD NEGERI JANGKUNGSOMO",
+      "alamat": "Jalan Raya Jangkungsomo",
+      "kelurahan": "Jangkungsomo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506139",
+      "nama_satuan_pendidikan": "SD Negeri Kanugrahan",
+      "alamat": "Kanugrahan",
+      "kelurahan": "Kanugrahan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20505914",
+      "nama_satuan_pendidikan": "SD Negeri Klagensrampat",
+      "alamat": "Rt.10 Rw.02",
+      "kelurahan": "Klagensrampat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20505822",
+      "nama_satuan_pendidikan": "SD Negeri Maduran",
+      "alamat": "Jl. Karya Bangun",
+      "kelurahan": "Maduran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20505975",
+      "nama_satuan_pendidikan": "SD Negeri Ngayung",
+      "alamat": "Jln Protokol No 45",
+      "kelurahan": "Ngayung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506024",
+      "nama_satuan_pendidikan": "SD Negeri Pangean",
+      "alamat": "pangean",
+      "kelurahan": "Pangean",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20551649",
+      "nama_satuan_pendidikan": "SD Negeri Pangkatrejo",
+      "alamat": "Jl. Raya Pangkatrejo No. 33",
+      "kelurahan": "Pangkatrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20505929",
+      "nama_satuan_pendidikan": "SD Negeri Pringgoboyo",
+      "alamat": "Jalan Raya Dukoh No.03",
+      "kelurahan": "Pringgoboyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506554",
+      "nama_satuan_pendidikan": "SD Negeri Siwuran",
+      "alamat": "RT. 2 / RW. 1",
+      "kelurahan": "Siwuran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506618",
+      "nama_satuan_pendidikan": "SD Negeri Taji",
+      "alamat": "KH. MASKUN",
+      "kelurahan": "Taji",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506568",
+      "nama_satuan_pendidikan": "SD Negeri Turi",
+      "alamat": "Dusun Banjaran",
+      "kelurahan": "Turi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506423",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 4 MADURAN",
+      "alamat": "Jl Raya Pangkatrejo No. 82",
+      "kelurahan": "Pangkatrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20506351",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Maduran",
+      "alamat": "Jl. Raya Maduran",
+      "kelurahan": "Maduran",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "69985581",
+      "nama_satuan_pendidikan": "SMP NU AL-HIDAYAH",
+      "alamat": "Jalan Tanah Lapang",
+      "kelurahan": "Kanugrahan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "70063534",
+      "nama_satuan_pendidikan": "SMP SAINTEK FATHUL HIDAYAH",
+      "alamat": "Jl. Imam Bonjol RT.01 RW.01",
+      "kelurahan": "Pangean",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20506362",
+      "nama_satuan_pendidikan": "SMP WACHID HASJIM MADURAN",
+      "alamat": "Jl. Raya No. 32 Parengan",
+      "kelurahan": "Parengan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "70040053",
+      "nama_satuan_pendidikan": "SPM WUSTHA SALAFIYAH NUUR AL ANWAR",
+      "alamat": "JL. RAYA PARENGAN DESA PARENGAN",
+      "kelurahan": "Parengan",
+      "status": "SWASTA"
+    }
+  ]
+}

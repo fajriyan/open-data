@@ -1,0 +1,394 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. KARANGBINANGUN",
+  "updated_at": "2026-09-21T01:56:28.413Z",
+  "count": 48,
+  "negeri": 23,
+  "swasta": 25,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718512",
+      "nama_satuan_pendidikan": "MI DARUL ULUM",
+      "alamat": "Jl. Ayas 15 Dusun Badan",
+      "kelurahan": "Bogobabadan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718518",
+      "nama_satuan_pendidikan": "MIS AL-ISLAM",
+      "alamat": "JL.RAYA KARANGBINANGUN DS. SAMBOPINGGIR",
+      "kelurahan": "Sambopinggir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718506",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "JL. RAYA TIMUR PASAR NO. 01 BLAWI",
+      "kelurahan": "Blawi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60714402",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "Jl. Perempatan",
+      "kelurahan": "Waruk",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718502",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DSN. PUPUS DESA BLAWI",
+      "kelurahan": "Blawi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718511",
+      "nama_satuan_pendidikan": "MIS IHAYUL ULUM",
+      "alamat": "JL. KH. ACHMAD GADUNG NO. 33 PENDOWOLIMO",
+      "kelurahan": "Pendowolimo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718516",
+      "nama_satuan_pendidikan": "MIS ISHLAHIYAH",
+      "alamat": "DESA KURO KEC. KARANGBINANGUN KAB. LAMONGAN",
+      "kelurahan": "Kuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718504",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DSN. LUNTAS DS. BANJAREJO",
+      "kelurahan": "Banjarejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718514",
+      "nama_satuan_pendidikan": "MIS KHOIRUL HUDA",
+      "alamat": "JLN. POROS TENGAH DSN.MENGAI DSA. SUKOREJO",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718513",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JL. RAYA MAYONG NO. 45 RT.04 RW.03",
+      "kelurahan": "Mayong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718515",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL HUDA",
+      "alamat": "DSN. WEDENG RT.001/RW.001 DESA SUKOREJO",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718505",
+      "nama_satuan_pendidikan": "MIS MUINUDDIN",
+      "alamat": "DUSUN ALASMALANG DESA GAWEREJO KECAMATAN LARANGBINANGUN KABUPATEN LAMONGAN",
+      "kelurahan": "Gawerejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718517",
+      "nama_satuan_pendidikan": "MIS NURUL HUDA",
+      "alamat": "JL. RADEN BAGUS BARANGGAYAM",
+      "kelurahan": "Baranggayam",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718507",
+      "nama_satuan_pendidikan": "MIS NURUL QOMAR 1",
+      "alamat": "JL. RAYA KARANGBINANGUN NO.01 DSN. MAGOK",
+      "kelurahan": "Putatbangah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718508",
+      "nama_satuan_pendidikan": "MIS NURUL QOMAR 2",
+      "alamat": "JL. TELAGA DUSUN PUTATREJO DESA PUTATBANGAH",
+      "kelurahan": "Putatbangah",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718510",
+      "nama_satuan_pendidikan": "MIS RAUDLATUL ULUM",
+      "alamat": "Sumberjo RT.01/RW.03 Desa Somowinangun",
+      "kelurahan": "Somowinangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718509",
+      "nama_satuan_pendidikan": "MIS ROHMATUL UMMAH",
+      "alamat": "JL POROS DESA KARANGANOM",
+      "kelurahan": "Somowinangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718503",
+      "nama_satuan_pendidikan": "MIS TAHDZIBUL AKHLAQ",
+      "alamat": "DUSUN MONOLELO DESA KARANGBINANGUN",
+      "kelurahan": "Karangbinangun",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582797",
+      "nama_satuan_pendidikan": "MTSS BAHRUL ULUM",
+      "alamat": "JL. TIMUR PASAR NO 1 BLAWI (KKM MTSN LMG)",
+      "kelurahan": "Blawi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582793",
+      "nama_satuan_pendidikan": "MTSS ISLAHIYAH",
+      "alamat": "JL. ROLAK KURO RT.01 RW.01 NO. 26 (KKM MTSN LMG)",
+      "kelurahan": "Kuro",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582794",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL HUDA",
+      "alamat": "Dsn. Wedeng RT.01/RW.01 Desa Sukorejo",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582796",
+      "nama_satuan_pendidikan": "MTSS ROHMATUL UMMAH",
+      "alamat": "JL. RAYA KARANGANOM ( KKM MTSN LMG)",
+      "kelurahan": "Karanganom",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20505912",
+      "nama_satuan_pendidikan": "SD Negeri 1 Ketapangtelu",
+      "alamat": "Mediyeng",
+      "kelurahan": "Ketapangtelu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506017",
+      "nama_satuan_pendidikan": "SD Negeri 1 Palangan",
+      "alamat": "Jln. MASJID NO. 47",
+      "kelurahan": "Palangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20505911",
+      "nama_satuan_pendidikan": "SD Negeri 2 Ketapangtelu",
+      "alamat": "Dusun Ketapang",
+      "kelurahan": "Ketapangtelu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506018",
+      "nama_satuan_pendidikan": "SD Negeri 2 Palangan",
+      "alamat": "Desa Palangan",
+      "kelurahan": "Palangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20549379",
+      "nama_satuan_pendidikan": "SD Negeri Banjarejo",
+      "alamat": "Desa Banjarejo",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20506103",
+      "nama_satuan_pendidikan": "SD Negeri Banyuurip",
+      "alamat": "Banyuurip",
+      "kelurahan": "Banyuurip",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506094",
+      "nama_satuan_pendidikan": "SD Negeri Baranggayam",
+      "alamat": "Desa Baranggayam",
+      "kelurahan": "Baranggayam",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506090",
+      "nama_satuan_pendidikan": "SD Negeri Blawi",
+      "alamat": "Jl. H. ARUM NO.142, Ds. BLAWI, Kec. KARANGBINANGUN",
+      "kelurahan": "Blawi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506129",
+      "nama_satuan_pendidikan": "SD Negeri Bogobabadan",
+      "alamat": "Dusun Kepeng",
+      "kelurahan": "Bogobabadan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506063",
+      "nama_satuan_pendidikan": "SD Negeri Gawerejo",
+      "alamat": "Dusun Wates",
+      "kelurahan": "Gawerejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506141",
+      "nama_satuan_pendidikan": "SD Negeri Karangbinangun",
+      "alamat": "Jl Raya Karangbinangun",
+      "kelurahan": "Karangbinangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20505860",
+      "nama_satuan_pendidikan": "SD Negeri Mayong",
+      "alamat": "Desa Mayong",
+      "kelurahan": "Mayong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20505939",
+      "nama_satuan_pendidikan": "SD Negeri Pendowolimo",
+      "alamat": "Jl. raya pendowolimo",
+      "kelurahan": "Pendowolimo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20505930",
+      "nama_satuan_pendidikan": "SD Negeri Priyoso",
+      "alamat": "Desa Priyoso",
+      "kelurahan": "Priyoso",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20505964",
+      "nama_satuan_pendidikan": "SD Negeri Putatbangah",
+      "alamat": "Putatbangah",
+      "kelurahan": "Putatbangah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20505955",
+      "nama_satuan_pendidikan": "SD Negeri Sambopinggir",
+      "alamat": "Jl.Raya Karangbinangun No.143",
+      "kelurahan": "Sambopinggir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506474",
+      "nama_satuan_pendidikan": "SD Negeri Somowinangun",
+      "alamat": "Desa Somowinangun",
+      "kelurahan": "Somowinangun",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506491",
+      "nama_satuan_pendidikan": "SD Negeri Sukorejo",
+      "alamat": "Dsn Wedeng",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506601",
+      "nama_satuan_pendidikan": "SD Negeri Waruk",
+      "alamat": "Dusun Waruk",
+      "kelurahan": "Waruk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506605",
+      "nama_satuan_pendidikan": "SD Negeri Watangpanjang",
+      "alamat": "Desa Watangpanjang",
+      "kelurahan": "Watangpanjang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20506585",
+      "nama_satuan_pendidikan": "SD Negeri Windu",
+      "alamat": "Desa Windu",
+      "kelurahan": "Windu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "70056236",
+      "nama_satuan_pendidikan": "SMP ISLAM DARUL HIKAM",
+      "alamat": "Ds. Windu Karangbinangun",
+      "kelurahan": "Windu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20506415",
+      "nama_satuan_pendidikan": "SMP MA`ARIF 1 KARANGBINANGUN",
+      "alamat": "Jalan Alasmalang Desa Gawerejo",
+      "kelurahan": "Gawerejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20506416",
+      "nama_satuan_pendidikan": "SMP MA`ARIF 2 KARANGBINANGUN",
+      "alamat": "Jl.Raya Mayong No.45",
+      "kelurahan": "Mayong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "20506358",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Karangbinangun",
+      "alamat": "Jl. Raya Karangbinangun No.25",
+      "kelurahan": "Windu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506394",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 KARANGBINANGUN",
+      "alamat": "Jln. Bengawan Solo No.1",
+      "kelurahan": "Banjarejo",
+      "status": "NEGERI"
+    }
+  ]
+}

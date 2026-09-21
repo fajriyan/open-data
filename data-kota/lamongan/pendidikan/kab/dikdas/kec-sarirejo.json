@@ -1,0 +1,290 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. SARIREJO",
+  "updated_at": "2026-09-21T01:57:14.741Z",
+  "count": 35,
+  "negeri": 12,
+  "swasta": 23,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718747",
+      "nama_satuan_pendidikan": "MIS AL GHOZALI",
+      "alamat": "DUSUN KARANGAJI RT 04/RW 01",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718746",
+      "nama_satuan_pendidikan": "MIS AL HIDAYAH",
+      "alamat": "Serut",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718740",
+      "nama_satuan_pendidikan": "MIS AL-HIDAYAH",
+      "alamat": "DUSUN KRADENAN",
+      "kelurahan": "Sarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718752",
+      "nama_satuan_pendidikan": "MIS ANNAJIYAH",
+      "alamat": "DSN. BENDIL",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718742",
+      "nama_satuan_pendidikan": "MIS ASSA`ADAH",
+      "alamat": "JL. TEUKU UMAR NO. 13 GEMPOLTUKMLOKO",
+      "kelurahan": "Gempoltukmloko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718749",
+      "nama_satuan_pendidikan": "MIS BABUSSALAM",
+      "alamat": "DUSUN SEPAT RT 001 / RW 007",
+      "kelurahan": "Tambakmenjangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718745",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "DERMO RT 02 RW 03",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718741",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DUSUN GENDOT",
+      "kelurahan": "Sarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718751",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DUSUN GENDOT",
+      "kelurahan": "Kec. Sarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718738",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "Dsn. Tulung  RT.01 RW.04",
+      "kelurahan": "Tambakmenjangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718744",
+      "nama_satuan_pendidikan": "MIS IRSYADIYAH",
+      "alamat": "LEMAHBANG",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718750",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "WALANGKOPO RT 03/RW 06",
+      "kelurahan": "Kedungkumpul",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718743",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL FUAD",
+      "alamat": "DSN JOGO RT.03 RW.02 DS. DERMOLEMAHBANG",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718739",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "TIMBUAN DS. TAMBAKMENJANGAN KEC. SARIREJO",
+      "kelurahan": "Tambakmenjangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718735",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. SEDAP MALAM NO 67",
+      "kelurahan": "Simbatan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718736",
+      "nama_satuan_pendidikan": "MIS MIFTAHUL ULUM",
+      "alamat": "JL. JOKO MURSODO NO. 65 RT/RW : 002/001",
+      "kelurahan": "Beru",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718737",
+      "nama_satuan_pendidikan": "MIS MUHYIDDIN",
+      "alamat": "DUSUN GRIGIS",
+      "kelurahan": "Sumberjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718748",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "DUSUN BANJANGAN",
+      "kelurahan": "Tambakmenjangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582874",
+      "nama_satuan_pendidikan": "MTSS AL-IRSYADIYAH",
+      "alamat": "DERMOLEMAHBANG SARIREJO LAMONGAN (KKM MTSN LMG)",
+      "kelurahan": "Dermolemahbang",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582871",
+      "nama_satuan_pendidikan": "MTSS ASSA`ADAH",
+      "alamat": "JL.RAYA GEMPOLTUKMLOKO, NO.23",
+      "kelurahan": "Gempoltukmloko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20582873",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "TIMBUAN DS. TAMBANKMENJANGAN KEC. SARIREJO (KKM MTSN LMG)",
+      "kelurahan": "Tambakmenjangan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "20582872",
+      "nama_satuan_pendidikan": "MTSS MIFTAHUL ULUM",
+      "alamat": "JLN. JOKO MURSODO RT. 02 RW. 01 (KKM MTSN LMG)",
+      "kelurahan": "Kec. Sarirejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "20506185",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungkumpul",
+      "alamat": "Dusun Kepuh",
+      "kelurahan": "Kedungkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506627",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sumberjo",
+      "alamat": "Dusun Badu kidul",
+      "kelurahan": "Sumberjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506652",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tambakmenjangan",
+      "alamat": "Dsn. Timbuan",
+      "kelurahan": "Tambakmenjangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506028",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungkumpul",
+      "alamat": "Dusun Kemlaten",
+      "kelurahan": "Kedungkumpul",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506629",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUMBERJO",
+      "alamat": "Dsn. Mejeruk",
+      "kelurahan": "Sumberjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20506653",
+      "nama_satuan_pendidikan": "SD Negeri 3 Tambakmenjangan",
+      "alamat": "Dsn. Banjangan",
+      "kelurahan": "Tambakmenjangan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506088",
+      "nama_satuan_pendidikan": "SD Negeri Beru",
+      "alamat": "Beru",
+      "kelurahan": "Beru",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506049",
+      "nama_satuan_pendidikan": "SD Negeri Canggah",
+      "alamat": "Ds.Canggah",
+      "kelurahan": "Canggah",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506053",
+      "nama_satuan_pendidikan": "SD Negeri Dermolemahbang",
+      "alamat": "Dsn. Lemahbang",
+      "kelurahan": "Dermolemahbang",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506208",
+      "nama_satuan_pendidikan": "SD Negeri Gempoltukmloko",
+      "alamat": "Dusun Dampit",
+      "kelurahan": "Gempoltukmloko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506538",
+      "nama_satuan_pendidikan": "SD Negeri Simbatan",
+      "alamat": "Simbatan",
+      "kelurahan": "Simbatan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506371",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 SARIREJO",
+      "alamat": "GEMPOLTUKMLOKO",
+      "kelurahan": "Gempoltukmloko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506397",
+      "nama_satuan_pendidikan": "SMP TASHWIRUL AFKAR",
+      "alamat": "Jl. Wijaya Kusuma No. 35",
+      "kelurahan": "Simbatan",
+      "status": "SWASTA"
+    }
+  ]
+}

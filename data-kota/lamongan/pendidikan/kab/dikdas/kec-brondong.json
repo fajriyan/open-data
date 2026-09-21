@@ -1,0 +1,706 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. BRONDONG",
+  "updated_at": "2026-09-21T01:57:10.093Z",
+  "count": 87,
+  "negeri": 20,
+  "swasta": 67,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69725774",
+      "nama_satuan_pendidikan": "MIS AL MUBAROK",
+      "alamat": "DESA TLOGORETNO RW 1/ RT 1",
+      "kelurahan": "Tlogoretno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718431",
+      "nama_satuan_pendidikan": "MIS AL-FATAH SIDOMUKTI",
+      "alamat": "JL. MASJID KHOIRUL HUDA TEGALAGUNG SIDOMUKTI BRONDONG LAMONGAN",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718434",
+      "nama_satuan_pendidikan": "MIS AL-JIHAD ASTANA",
+      "alamat": "JL. PEMUDA NO. 99 BRONDONG",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "69725775",
+      "nama_satuan_pendidikan": "MIS AL-MAARIF",
+      "alamat": "CUMPLENG BRENGKOK",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "70013192",
+      "nama_satuan_pendidikan": "MIS AS SYARIF",
+      "alamat": "JL. MASJID MAULANA AL-BAQIR BETIRING RT 11 RW 03",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718418",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "JALAN POROS UTAMA NO 88 SENDANGHARJO",
+      "kelurahan": "Sendangharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "69734197",
+      "nama_satuan_pendidikan": "MIS HIDAYATUL MUBTADIIN",
+      "alamat": "JL. SIDOMUKTI BRONDONG LAMONGAN",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718428",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU",
+      "alamat": "JLN. PENDIDIKAN NO. 1 CUMPLENG BRONDONG LAMONGAN",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718420",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NU ISLAMIYAH",
+      "alamat": "JL. MASJID JAMI` NO. 36 LEMBOR",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "69888861",
+      "nama_satuan_pendidikan": "MIS Ma`arif NU Sumber Agung",
+      "alamat": "Jl. Raya Sumber Agung RT 005 RW 002",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "70028081",
+      "nama_satuan_pendidikan": "MIS MA`ARIF NURUL YAQIN TLOGORETNO",
+      "alamat": "DUSUN KEPODANG",
+      "kelurahan": "Tlogoretno",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718429",
+      "nama_satuan_pendidikan": "MIS MAARIF AL-AMINAH",
+      "alamat": "JL.RAYA NO. 100 PAMBON",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "69725773",
+      "nama_satuan_pendidikan": "MIS MAARIF ASY-SYAFIIYAH",
+      "alamat": "JL.MASJID AT-TAQWA BRONDONG",
+      "kelurahan": "Kec. Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718422",
+      "nama_satuan_pendidikan": "MIS MAARIF NU DARUL ULUM BRENGKOK",
+      "alamat": "JL. MASJID JAMI AL-HUDA NO. 147 BRENGKOK BRONDONG",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718435",
+      "nama_satuan_pendidikan": "MIS MAMBA`UL ULUM",
+      "alamat": "JL. YPP MAMBA`UL ULUM GEMBYANG",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "60718430",
+      "nama_satuan_pendidikan": "MIS MAMBAUL MAARIF",
+      "alamat": "JL POROS UTAMA NGESONG SEDAYULAWAS BRONDONG",
+      "kelurahan": "Lohgung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "60718427",
+      "nama_satuan_pendidikan": "MIS MIM 07 SENDANGHARJO",
+      "alamat": "JL SENDANGSENGLAN NO 645 RT 11 RW 01 SENDANGHARJO BRONDONG LAMONGAN",
+      "kelurahan": "Sendangharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "60718414",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 01 SEDAYULAWAS",
+      "alamat": "JL. CEMPAKA NO.01 SEDAYULAWAS BRONDONG LAMONGAN JAWA TIMUR",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "60718415",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 02",
+      "alamat": "JL.CEMPAKA NO.01 SEDAYULAWAS BRONDONG LAMONGAN",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "60718417",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 04 NGESONG",
+      "alamat": "JL. DUSUN NGESONG RT 05 RW 08",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "60718419",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 05 MENCOREK",
+      "alamat": "JL. PENDIDIKAN NO. 001 RT.003/RW.001 DSN. MENCOREK DS. SENDANGHARJO KEC. BRONDO",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 22,
+      "npsn": "60718412",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 06",
+      "alamat": "JL.PEMUDA IV/40 BRONDONG",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 23,
+      "npsn": "60718426",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 08 LEMBOR",
+      "alamat": "PERGURUAN MUHAMMADIYAH LEMBOR",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 24,
+      "npsn": "60718424",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 09 LABUHAN",
+      "alamat": "JLN. TIKUNG NO.55 DESA LABUHAN KEC. BRONDONG KAB. LAMONGAN",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 25,
+      "npsn": "60718433",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 10 CUMPLENG",
+      "alamat": "JL. K. HUSNAN DSN. CUMPLENG DS. BRENGKOK",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 26,
+      "npsn": "60718413",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 11",
+      "alamat": "JLN. PUD NO. 04",
+      "kelurahan": "Kec. Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 27,
+      "npsn": "60718432",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 12 BETIRING",
+      "alamat": "JL. SENDANG NO. O3 RT.09/RW. 03 BETIRING BRONDONG LAMONGAN",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 28,
+      "npsn": "60718421",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 13",
+      "alamat": "JL. RAYA PROYEK BRENGKOK BRONDONG LAMONGAN",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 29,
+      "npsn": "60718423",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 14 PAMBON",
+      "alamat": "JL. RAYA NO 240 PAMBON BRONDONG LAMONGAN",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 30,
+      "npsn": "60718425",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 15 SIDOMUKTI",
+      "alamat": "KOMPLEKS MASJID MUJAHIDIN SIDOMUKTI BRONDONG LAMONGAN",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 31,
+      "npsn": "60718436",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 16 JOMPONG",
+      "alamat": "JL.R.A KARTINI",
+      "kelurahan": "Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 32,
+      "npsn": "60718416",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH-03 WEDUNG",
+      "alamat": "KOMPLEK PERGURUAN MUHAMMADIYAH WEDUNG",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 33,
+      "npsn": "60718437",
+      "nama_satuan_pendidikan": "MIS SABILUN NAJAH",
+      "alamat": "JL.MASJID BABUSSALAM-MOYORUTI.A",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 34,
+      "npsn": "69725772",
+      "nama_satuan_pendidikan": "MIS UNGGULAN AL AZHAR",
+      "alamat": "JL. EMBONG SEPUR NO. 20 RT.06 RW.06",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 35,
+      "npsn": "69853462",
+      "nama_satuan_pendidikan": "MTs AL MA ARIF CUMPLENG",
+      "alamat": "JL. MASJID AL MUBAROK",
+      "kelurahan": "Kec. Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 36,
+      "npsn": "20582767",
+      "nama_satuan_pendidikan": "MTSS DARUL ULUM",
+      "alamat": "JL. RAYA NO. 100 PAMBON BRONDONG",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 37,
+      "npsn": "20582776",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF 28 ISLAMIYAH",
+      "alamat": "JL. POROS UTAMA RT. 07 RW. 02",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 38,
+      "npsn": "20582773",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF DARUL AFKAR",
+      "alamat": "JL. POROS UTAMA NO. 269",
+      "kelurahan": "Sendangharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 39,
+      "npsn": "20582775",
+      "nama_satuan_pendidikan": "MTSS MAARIF NU 24 DARUL ULUM",
+      "alamat": "KOMPLEK MASJID JAMI` AL-HUDA BRENGKOK BRONDONG",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 40,
+      "npsn": "20582770",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 16 BRENGKOK",
+      "alamat": "JALAN RAYA PROYEK BRENGKOK BRONDONG LAMONGAN",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 41,
+      "npsn": "20582771",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 19 LABUHAN",
+      "alamat": "KOMPLEK MASJID JAMI DARUSSALAM LABUHAN",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20582772",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 21 WEDUNG",
+      "alamat": "KOMPLEK PERGURUAN MUHAMMADIYAH WEDUNG",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20582774",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 25 BRONDONG",
+      "alamat": "JL. PEMUDA IV/40",
+      "kelurahan": "Lembor",
+      "status": "SWASTA"
+    },
+    {
+      "no": 44,
+      "npsn": "20582769",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 3 SEDAYULAWAS",
+      "alamat": "JL. EMBONG SEPUR GG. III NO. 5 SEDAYULAWAS",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 45,
+      "npsn": "20582768",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 31CUMPLENG",
+      "alamat": "JL.K. HUSNAN CUMPLENG BRONDONG",
+      "kelurahan": "Lohgung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 46,
+      "npsn": "20582777",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH-32 SUMBERAGUNG",
+      "alamat": "JL. PUD SUMBERAGUNGBRONDONG",
+      "kelurahan": "Sumberagung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 47,
+      "npsn": "69894697",
+      "nama_satuan_pendidikan": "NAHDLATUL ULAMA",
+      "alamat": "Pasar Desa Labuhan",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 48,
+      "npsn": "20570359",
+      "nama_satuan_pendidikan": "SD Al - Falah Labuhan",
+      "alamat": "Gg Aman RT.12 RW.02",
+      "kelurahan": "Labuhan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 49,
+      "npsn": "20548702",
+      "nama_satuan_pendidikan": "SD Islam Al-Huda",
+      "alamat": "Jl Kenanga No 109",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 50,
+      "npsn": "20570360",
+      "nama_satuan_pendidikan": "SD Islam Terpadu Assalafiyyah",
+      "alamat": "Jl. Kamboja Dsn. Pambon Desa Brengkok Kec. Brondong",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "20506598",
+      "nama_satuan_pendidikan": "SD Islam Walisongo",
+      "alamat": "Jl.  Pemuda No. 99",
+      "kelurahan": "Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "20551768",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Brondong",
+      "alamat": "Jln. Sumur Suwuk No. 009 Gembyang",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20506132",
+      "nama_satuan_pendidikan": "SD Negeri 1 Brengkok",
+      "alamat": "Jl Moyoruti No 693",
+      "kelurahan": "Brengkok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 54,
+      "npsn": "20506119",
+      "nama_satuan_pendidikan": "SD Negeri 1 Brondong",
+      "alamat": "Jalan Raya Brondong No 132",
+      "kelurahan": "Brondong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 55,
+      "npsn": "20505837",
+      "nama_satuan_pendidikan": "SD Negeri 1 Lohgung",
+      "alamat": "Jl. Raya Lohgung No.171 Brondong",
+      "kelurahan": "Lohgung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 56,
+      "npsn": "20505958",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sedayulawas",
+      "alamat": "Jl. Kamboja No. 47 Sedayulawas",
+      "kelurahan": "Sedayulawas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506515",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sendangharjo",
+      "alamat": "Jln Poros Utama 19 Widhe",
+      "kelurahan": "Sendangharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506121",
+      "nama_satuan_pendidikan": "SD Negeri 2 Brengkok",
+      "alamat": "Jl. Proyek Brengkok No.1",
+      "kelurahan": "Brengkok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20554152",
+      "nama_satuan_pendidikan": "SD Negeri 2 Lohgung",
+      "alamat": "Jl. Raya Lohgung No. 07",
+      "kelurahan": "Lohgung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20505972",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sedayulawas",
+      "alamat": "Jl. Floodway No.11  Sedayulawas",
+      "kelurahan": "Sedayulawas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506120",
+      "nama_satuan_pendidikan": "SD Negeri 3 Brengkok",
+      "alamat": "Jl.Raya Pambon No.10",
+      "kelurahan": "Brengkok",
+      "status": "NEGERI"
+    },
+    {
+      "no": 62,
+      "npsn": "20506504",
+      "nama_satuan_pendidikan": "SD Negeri 3 Sedayulawas",
+      "alamat": "Jl. Punggur Wedung Sedayulawas",
+      "kelurahan": "Sedayulawas",
+      "status": "NEGERI"
+    },
+    {
+      "no": 63,
+      "npsn": "20506508",
+      "nama_satuan_pendidikan": "SD Negeri 3 Sendangharjo",
+      "alamat": "Dusun Benges Desa Sendangharjo",
+      "kelurahan": "Sendangharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 64,
+      "npsn": "20506110",
+      "nama_satuan_pendidikan": "SD Negeri 4 Brondong",
+      "alamat": "Jl. Pemuda No. 55",
+      "kelurahan": "Brondong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 65,
+      "npsn": "20506112",
+      "nama_satuan_pendidikan": "SD Negeri 5 Brondong",
+      "alamat": "Jl. Ra Kartini no.26 Brondong",
+      "kelurahan": "Brondong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 66,
+      "npsn": "20506113",
+      "nama_satuan_pendidikan": "SD Negeri 6 Brondong",
+      "alamat": "Jalan Pemuda No 52 Brondong",
+      "kelurahan": "Brondong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 67,
+      "npsn": "20506114",
+      "nama_satuan_pendidikan": "SD Negeri 7 Brondong",
+      "alamat": "Jl Raya Brondong No 132",
+      "kelurahan": "Brondong",
+      "status": "NEGERI"
+    },
+    {
+      "no": 68,
+      "npsn": "20505902",
+      "nama_satuan_pendidikan": "SD Negeri Labuhan",
+      "alamat": "Jl.Poros Sukolilo Labuhan Brondong",
+      "kelurahan": "Labuhan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 69,
+      "npsn": "20506553",
+      "nama_satuan_pendidikan": "SD Negeri Sidomukti",
+      "alamat": "Jl. Raya Sidomukti No. 148",
+      "kelurahan": "Sidomukti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 70,
+      "npsn": "20506483",
+      "nama_satuan_pendidikan": "SD Negeri Sumberagung",
+      "alamat": "Jl. Raya Blimbing - Laren No. 1 RT.01 RW.01 Desa Sumberagung",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 71,
+      "npsn": "20554151",
+      "nama_satuan_pendidikan": "SD Negeri Tlogoretno",
+      "alamat": "Jl. Kepodang No. 18 Tlogoretno",
+      "kelurahan": "Tlogoretno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 72,
+      "npsn": "20575760",
+      "nama_satuan_pendidikan": "SD Plus At-Taqwa",
+      "alamat": "JL.TAPAK SIRING GENENG INDAH RT 04 RW 07",
+      "kelurahan": "Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 73,
+      "npsn": "70048046",
+      "nama_satuan_pendidikan": "SDIT Al-Mubarok",
+      "alamat": "Jl. Trunojoyo RT.04 RW.07 Geneng Indah",
+      "kelurahan": "Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 74,
+      "npsn": "20506277",
+      "nama_satuan_pendidikan": "SMP ABDHI NEGARA BRONDONG",
+      "alamat": "Jl. Embong Sepor Sedayu Lawas",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 75,
+      "npsn": "20549007",
+      "nama_satuan_pendidikan": "SMP AL AKBAR BRONDONG",
+      "alamat": "Jl. Pahlawan 26 Lohgung",
+      "kelurahan": "Lohgung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 76,
+      "npsn": "20554225",
+      "nama_satuan_pendidikan": "SMP ISLAM AL HUDA BRONDONG",
+      "alamat": "Jl. Kenanga No. 109 Sedayulawas",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 77,
+      "npsn": "20506414",
+      "nama_satuan_pendidikan": "SMP ISLAM MAMBAUL ULUM",
+      "alamat": "Jl. Ypp. Mambaul Ulum Gembyang",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 78,
+      "npsn": "20557422",
+      "nama_satuan_pendidikan": "SMP JADID AR-ROHMAN BRONDONG",
+      "alamat": "JL. Simpang Poros No 48 RT 2 RW 1",
+      "kelurahan": "Sendangharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 79,
+      "npsn": "20506420",
+      "nama_satuan_pendidikan": "SMP MA`ARIF 6 BRONDONG",
+      "alamat": "Jl. Pendidikan No. 01 Cumpleng Desa Brengkok",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 80,
+      "npsn": "20549010",
+      "nama_satuan_pendidikan": "SMP MA`ARIF NU ASY-SYAFIIYAH",
+      "alamat": "Jl. Masjid At-Taqwa Desa Lohgung",
+      "kelurahan": "Lohgung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 81,
+      "npsn": "69766975",
+      "nama_satuan_pendidikan": "SMP MAMBA`UL MA`ARIF BRONDONG",
+      "alamat": "DUSUN NGESONG DESA SEDAYULAWAS",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 82,
+      "npsn": "20506402",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 15 BRONDONG",
+      "alamat": "Jl. Kenanga No. 41 Desa Sedayulawas",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    },
+    {
+      "no": 83,
+      "npsn": "20506403",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 16 BRONDONG",
+      "alamat": "Jl. Raya No. 10 Pambon Desa Brengkok",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 84,
+      "npsn": "20506366",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 BRONDONG",
+      "alamat": "Jl. Raya Brondong",
+      "kelurahan": "Tlogoretno",
+      "status": "NEGERI"
+    },
+    {
+      "no": 85,
+      "npsn": "69960163",
+      "nama_satuan_pendidikan": "SMP NU BRONDONG",
+      "alamat": "Kel. Brondong",
+      "kelurahan": "Brondong",
+      "status": "SWASTA"
+    },
+    {
+      "no": 86,
+      "npsn": "69849586",
+      "nama_satuan_pendidikan": "SMPS ISLAM TERPADU  ASSALAFIYYAH",
+      "alamat": "DUSUN PAMBON",
+      "kelurahan": "Brengkok",
+      "status": "SWASTA"
+    },
+    {
+      "no": 87,
+      "npsn": "69771420",
+      "nama_satuan_pendidikan": "SMPS IT INSAN MULIA BRONDONG",
+      "alamat": "Jl. Kamboja Gg. Pondok Desa Sedayulawas",
+      "kelurahan": "Sedayulawas",
+      "status": "SWASTA"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. MANTUP",
+  "updated_at": "2026-09-21T01:55:32.656Z",
+  "count": 44,
+  "negeri": 22,
+  "swasta": 22,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "60718635",
+      "nama_satuan_pendidikan": "MIS BAHRUL ULUM",
+      "alamat": "DSN. NGAGLIK DS. SIDOMULYO KEC. MANTUP LAMONGAN",
+      "kelurahan": "Sidomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "60718631",
+      "nama_satuan_pendidikan": "MIS DARUL ULUM",
+      "alamat": "DSN. KEDUKBEMBEM DS. KEDUKBEMBEM KEC. MANTUP KAB. LAMONGAN",
+      "kelurahan": "Kedukbembem",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718628",
+      "nama_satuan_pendidikan": "MIS DARUSSALAM",
+      "alamat": "DUSUN TUGU RT 01 RW 03",
+      "kelurahan": "Tugu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718629",
+      "nama_satuan_pendidikan": "MIS ISHLAHIYAH",
+      "alamat": "JL. RAYA SUKOBENDU-LAMONGAN NO. 191",
+      "kelurahan": "Sukobendu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718637",
+      "nama_satuan_pendidikan": "MIS Islamiyah",
+      "alamat": "JL. K.H. AHMAD DAHLAN NO. 194, DESA TUGU",
+      "kelurahan": "Tugu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718634",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH",
+      "alamat": "DUSUN BANJARSELIR DESA SUMBERAGUNG KEC. MANTUP KAB. LAMONGAN",
+      "kelurahan": "Sumberdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718633",
+      "nama_satuan_pendidikan": "MIS ITTIHADIL IKHWAN",
+      "alamat": "JL. RAYA MANTUP NO. 28 SUMBERDADI",
+      "kelurahan": "Sumberdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "60718632",
+      "nama_satuan_pendidikan": "MIS LIWAUL ISLAM",
+      "alamat": "JL.KEDUNGSOKO NO.2 KEC.MANTUP KAB. LAMONGAN",
+      "kelurahan": "Kedungsoko",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "60718626",
+      "nama_satuan_pendidikan": "MIS MAMBAUL ULUM",
+      "alamat": "JLN.RAYA WATON NO 40 RT 01/RW 01 MANTUP",
+      "kelurahan": "Mantup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "60718630",
+      "nama_satuan_pendidikan": "MIS MUHAMMADIYAH 1",
+      "alamat": "JL.SUKARDJI KH. 13 DESA PLABUHANREJO",
+      "kelurahan": "Plabuhanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "60718627",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "DSN. GLUGU DS. MANTUP KEC. MANTUP",
+      "kelurahan": "Mantup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "60718639",
+      "nama_satuan_pendidikan": "MIS NURUL ULUM",
+      "alamat": "DUSUN KEDUNGDOWO DESA PLABUHANREJO",
+      "kelurahan": "Plabuhanrejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "60718638",
+      "nama_satuan_pendidikan": "MIS SYAFI`IYAH",
+      "alamat": "DSN JAGIR",
+      "kelurahan": "Tunggunjagir",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "60718640",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ATHFAL",
+      "alamat": "JLN KIYAI ARIF BELUD SARI REJO MOJOSARI MANTUP",
+      "kelurahan": "Mojosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "60718636",
+      "nama_satuan_pendidikan": "MIS TARBIYATUL ULUM",
+      "alamat": "JL. KEDUNGSARI INDAH DUSUN KEDUNGSARI",
+      "kelurahan": "Sukosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "70028051",
+      "nama_satuan_pendidikan": "MTs EMAS  Islamic Boarding School",
+      "alamat": "Dsn. Ngaglik RT.003/001",
+      "kelurahan": "Sidomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "20582830",
+      "nama_satuan_pendidikan": "MTSS AL ISLAHIYAH",
+      "alamat": "JALAN RAYA SUKOBENDU NO.62",
+      "kelurahan": "Sukobendu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "20582831",
+      "nama_satuan_pendidikan": "MTSS AL-KHOIRIYAH",
+      "alamat": "JL.Raya Mantup NO.193 Kec.Mantup Kab.Lamongan",
+      "kelurahan": "Mantup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20582832",
+      "nama_satuan_pendidikan": "MTSS ITTIHADIL IKHWAN",
+      "alamat": "JL. RAYA MANTUP NO 28 SUMBERDADI",
+      "kelurahan": "Sumberdadi",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20582833",
+      "nama_satuan_pendidikan": "MTSS MA`ARIF 22",
+      "alamat": "JL. KYAI ARIF BELUDSARIREJO",
+      "kelurahan": "Mojosari",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20505892",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kedungsoko",
+      "alamat": "Jl. Raya Desa Kedungsoko",
+      "kelurahan": "Kedungsoko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20505841",
+      "nama_satuan_pendidikan": "SD Negeri 1 Mantup",
+      "alamat": "Jalan Raya Mantup No. 102",
+      "kelurahan": "Mantup",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20506492",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SUKOBENDU",
+      "alamat": "Jln. Raya Sukobendu No. 62 Desa Sukobendu Kec. Mantup Kab. Lamongan",
+      "kelurahan": "Sukobendu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506562",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tunggunjagir",
+      "alamat": "Jl. Manggalapati No. 10 Desa Tunggunjagir",
+      "kelurahan": "Tunggunjagir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20505893",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kedungsoko",
+      "alamat": "Jl. Maijo No. 17 Kedungsoko",
+      "kelurahan": "Kedungsoko",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20505842",
+      "nama_satuan_pendidikan": "SD Negeri 2 Mantup",
+      "alamat": "Jalan Sambilan No. 02 Mantup",
+      "kelurahan": "Mantup",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506493",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sukobendu",
+      "alamat": "Dusun Tlanak Desa sukobendu",
+      "kelurahan": "Sukobendu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20506564",
+      "nama_satuan_pendidikan": "SD Negeri 3 Tunggunjagir",
+      "alamat": "JL. RAYA DUMPIAGUNG-GONDANG NO.76 DUSUN TUNGGUN DESA TUNGGUNJAGIR",
+      "kelurahan": "Tunggunjagir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20506565",
+      "nama_satuan_pendidikan": "SD Negeri 4 Tunggunjagir",
+      "alamat": "Dusun Glendeh Desa Tunggunjagir",
+      "kelurahan": "Tunggunjagir",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506164",
+      "nama_satuan_pendidikan": "SD Negeri Kedukbembem",
+      "alamat": "Dusun Banyuurip Desa Kedukbembem",
+      "kelurahan": "Kedukbembem",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20505974",
+      "nama_satuan_pendidikan": "SD Negeri Mojosari",
+      "alamat": "Dusun Sendangsari Desa Mojosari",
+      "kelurahan": "Mojosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20505945",
+      "nama_satuan_pendidikan": "SD Negeri Plabuhanrejo",
+      "alamat": "Dusun Plabuhan Desa Plabuhanrejo",
+      "kelurahan": "Plabuhanrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20505952",
+      "nama_satuan_pendidikan": "SD Negeri Rumpuk",
+      "alamat": "Desa Rumpuk",
+      "kelurahan": "Rumpuk",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506542",
+      "nama_satuan_pendidikan": "SD Negeri Sidomulyo",
+      "alamat": "Dusun Sidomoro Desa Sidomulyo",
+      "kelurahan": "Sidomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20506480",
+      "nama_satuan_pendidikan": "SD NEGERI SUKOSARI",
+      "alamat": "Dusun Penompo Desa Sukosari",
+      "kelurahan": "Sukosari",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506482",
+      "nama_satuan_pendidikan": "SD Negeri Sumberagung",
+      "alamat": "DUSUN GEMPOL WARU DESA SUMBERAGUNG",
+      "kelurahan": "Sumberagung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20506610",
+      "nama_satuan_pendidikan": "SD Negeri Sumberbendo",
+      "alamat": "Dusun Patuk Desa Sumberbendo",
+      "kelurahan": "Sumberbendo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506624",
+      "nama_satuan_pendidikan": "SD Negeri Sumberdadi",
+      "alamat": "Jln. H. Abd. Madjid No.103 Desa Sumberdadi",
+      "kelurahan": "Sumberdadi",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506631",
+      "nama_satuan_pendidikan": "SD Negeri Sumberkerep",
+      "alamat": "Jln. Ayamalas No.13 Desa Sumberkerep",
+      "kelurahan": "Sumberkerep",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506570",
+      "nama_satuan_pendidikan": "SD Negeri Tugu",
+      "alamat": "Jalan Hasyim Asyari Desa Tugu",
+      "kelurahan": "Tugu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506418",
+      "nama_satuan_pendidikan": "SMP MAARIF 4 MANTUP",
+      "alamat": "Mantup",
+      "kelurahan": "Mantup",
+      "status": "SWASTA"
+    },
+    {
+      "no": 42,
+      "npsn": "20506422",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 22 MANTUP",
+      "alamat": "Jl. Kh. Ahmad Dahlan No. 194 Desa Tugu Mantup",
+      "kelurahan": "Tugu",
+      "status": "SWASTA"
+    },
+    {
+      "no": 43,
+      "npsn": "20506352",
+      "nama_satuan_pendidikan": "SMP NEGERI 1 MANTUP",
+      "alamat": "Jl. Raya Balong Panggang No.03",
+      "kelurahan": "Mantup",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506384",
+      "nama_satuan_pendidikan": "SMP NEGERI 2 MANTUP",
+      "alamat": "Jl. Desa Kedungsoko Mantup",
+      "kelurahan": "Kedungsoko",
+      "status": "NEGERI"
+    }
+  ]
+}

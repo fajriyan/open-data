@@ -1,0 +1,506 @@
+{
+  "source": "kemendikdasmen.go.id",
+  "label": "DAFTAR SATUAN PENDIDIKAN (SEKOLAH) DIKDAS PER KEC. LAMONGAN",
+  "updated_at": "2026-09-21T01:56:09.788Z",
+  "count": 62,
+  "negeri": 34,
+  "swasta": 28,
+  "data": [
+    {
+      "no": 1,
+      "npsn": "69827675",
+      "nama_satuan_pendidikan": "MI Ma`arif NU Sunan Drajat",
+      "alamat": "Jl. Sunan Drajat 74 Lamongan",
+      "kelurahan": "Banjarmendalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 2,
+      "npsn": "69993353",
+      "nama_satuan_pendidikan": "MI NARRATIVE QURAN",
+      "alamat": "Jl. Kalianyar",
+      "kelurahan": "Sukomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 3,
+      "npsn": "60718569",
+      "nama_satuan_pendidikan": "MIS ISLAMIYAH SUNAN GIRI",
+      "alamat": "JL. BASUKI RAHMAD NO. 124",
+      "kelurahan": "Sukomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 4,
+      "npsn": "60718571",
+      "nama_satuan_pendidikan": "MIS NURUL HIDAYAH",
+      "alamat": "JALAN RANCANGSARI NOMOR 02. DESA RANCANGKENCONO",
+      "kelurahan": "Rancang Kencono",
+      "status": "SWASTA"
+    },
+    {
+      "no": 5,
+      "npsn": "60718570",
+      "nama_satuan_pendidikan": "MIS PEMBANGUNAN",
+      "alamat": "DUSUN KUCUR",
+      "kelurahan": "Sidomukti",
+      "status": "SWASTA"
+    },
+    {
+      "no": 6,
+      "npsn": "60718572",
+      "nama_satuan_pendidikan": "MIS THORIQUL ULUM",
+      "alamat": "JL. MASTRIP GG. MADE TEGAL SEBALONG NO. 118",
+      "kelurahan": "Jetis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 7,
+      "npsn": "60718573",
+      "nama_satuan_pendidikan": "MIS UNGGULAN SABILILLAH",
+      "alamat": "JL. SUMARGO NO 1A",
+      "kelurahan": "Tlogoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 8,
+      "npsn": "70033897",
+      "nama_satuan_pendidikan": "MTs UNGGULAN SABILILLAH LAMONGAN",
+      "alamat": "Jalan Sumargo No. 1A Lamongan",
+      "kelurahan": "Tlogoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 9,
+      "npsn": "20582811",
+      "nama_satuan_pendidikan": "MTSS MUHAMMADIYAH 15 LAMONGAN",
+      "alamat": "Jl. Jend. Sudirman No. 01 Lamongan",
+      "kelurahan": "Banjarmendalan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 10,
+      "npsn": "20582813",
+      "nama_satuan_pendidikan": "MTSS PLUS THORIQUL ULUM",
+      "alamat": "JL. MASTRIP 118 MADE LAMONGAN",
+      "kelurahan": "Made",
+      "status": "SWASTA"
+    },
+    {
+      "no": 11,
+      "npsn": "20582810",
+      "nama_satuan_pendidikan": "MTSS PUTRA PUTRI LAMONGAN",
+      "alamat": "JALAN LAMONGREJO 56-58",
+      "kelurahan": "Jetis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 12,
+      "npsn": "20582812",
+      "nama_satuan_pendidikan": "MTSS SUNAN AMPEL",
+      "alamat": "JL. RAYA KEBET NO. 78 KEBET - LAMONGAN",
+      "kelurahan": "Kebet",
+      "status": "SWASTA"
+    },
+    {
+      "no": 13,
+      "npsn": "69725410",
+      "nama_satuan_pendidikan": "MTSS TERPADU ROUDLOTUL QUR`AN",
+      "alamat": "JL.ANDANWANGI 95A TLOGOANYAR LAMONGAN",
+      "kelurahan": "Tlogoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 14,
+      "npsn": "70002205",
+      "nama_satuan_pendidikan": "SD Alam Citra Insani",
+      "alamat": "Jl. Raya Mastrip",
+      "kelurahan": "Tanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 15,
+      "npsn": "20507221",
+      "nama_satuan_pendidikan": "SD Islam Plus Al- Mudhofar",
+      "alamat": "Jl. Raya Made No. 147 Lamongan",
+      "kelurahan": "Made",
+      "status": "SWASTA"
+    },
+    {
+      "no": 16,
+      "npsn": "69830411",
+      "nama_satuan_pendidikan": "SD Islam Terpadu Cendekia",
+      "alamat": "Jl. Veteran No. 172 AA Kelurahan Tlogoanyar",
+      "kelurahan": "Tlogoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 17,
+      "npsn": "70063774",
+      "nama_satuan_pendidikan": "SD ISLAM ZAWIYAH AL-AZHAR",
+      "alamat": "Dsn. Sempu RT.02 RW.01",
+      "kelurahan": "Kec. Lamongan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 18,
+      "npsn": "70062428",
+      "nama_satuan_pendidikan": "SD JAZEERAH ISLAMIC SCHOOL",
+      "alamat": "Jl. Kusuma Bangsa Gg. Beringin 4",
+      "kelurahan": "Tumenggungan",
+      "status": "SWASTA"
+    },
+    {
+      "no": 19,
+      "npsn": "20507220",
+      "nama_satuan_pendidikan": "SD Kemala Bhayangkari 5",
+      "alamat": "Jl. Kombespol M. Duryat No.50 Lamongan",
+      "kelurahan": "Jetis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 20,
+      "npsn": "20507211",
+      "nama_satuan_pendidikan": "SD Muhammadiyah 1 Lamongan",
+      "alamat": "Jl. Andanwangi no 30",
+      "kelurahan": "Sidoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 21,
+      "npsn": "20505916",
+      "nama_satuan_pendidikan": "SD Negeri 1 Kramat",
+      "alamat": "Jl. Kramat Jaya 88",
+      "kelurahan": "Kramat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 22,
+      "npsn": "20505816",
+      "nama_satuan_pendidikan": "SD Negeri 1 Made",
+      "alamat": "Made",
+      "kelurahan": "Made",
+      "status": "NEGERI"
+    },
+    {
+      "no": 23,
+      "npsn": "20505970",
+      "nama_satuan_pendidikan": "SD Negeri 1 Rancangkencono",
+      "alamat": "Jalan Rancang Sari 169",
+      "kelurahan": "Rancang Kencono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 24,
+      "npsn": "20506506",
+      "nama_satuan_pendidikan": "SD NEGERI 1 SENDANGREJO",
+      "alamat": "Dusun Blungkan",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 25,
+      "npsn": "20506544",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sidoharjo",
+      "alamat": "Jl. Sumargo No. 6 Lamongan",
+      "kelurahan": "Sidoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 26,
+      "npsn": "20506498",
+      "nama_satuan_pendidikan": "SD Negeri 1 Sukomulyo",
+      "alamat": "Jl. Andansari no 6",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 27,
+      "npsn": "20506558",
+      "nama_satuan_pendidikan": "SD Negeri 1 Tumenggungan",
+      "alamat": "Jl. Laras Liris Gg Cimanuk 12",
+      "kelurahan": "Tumenggungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 28,
+      "npsn": "20505917",
+      "nama_satuan_pendidikan": "SD Negeri 2 Kramat",
+      "alamat": "Jalan Kramat Jaya No. 08",
+      "kelurahan": "Kramat",
+      "status": "NEGERI"
+    },
+    {
+      "no": 29,
+      "npsn": "20505971",
+      "nama_satuan_pendidikan": "SD Negeri 2 Rancangkencono",
+      "alamat": "Sekarputih",
+      "kelurahan": "Rancang Kencono",
+      "status": "NEGERI"
+    },
+    {
+      "no": 30,
+      "npsn": "20506507",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sendangrejo",
+      "alamat": "Desa Sendangrejo",
+      "kelurahan": "Sendangrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 31,
+      "npsn": "20506545",
+      "nama_satuan_pendidikan": "SD Negeri 2 Sidoharjo",
+      "alamat": "DUKUH SIDODADI KELURAHAN SIDOHARJO",
+      "kelurahan": "Sidoharjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 32,
+      "npsn": "20506499",
+      "nama_satuan_pendidikan": "SD NEGERI 2 SUKOMULYO",
+      "alamat": "Jalan Mastrip Nomor 4 Lamongan",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 33,
+      "npsn": "20506559",
+      "nama_satuan_pendidikan": "SD Negeri 2 Tumenggungan",
+      "alamat": "Jalan Pahlawan Nomor 44",
+      "kelurahan": "Tumenggungan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 34,
+      "npsn": "20506583",
+      "nama_satuan_pendidikan": "SD Negeri 3 Jetis",
+      "alamat": "Jl.Lamongrejo No.28, kec. Lamongan",
+      "kelurahan": "Jetis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 35,
+      "npsn": "20505818",
+      "nama_satuan_pendidikan": "SD Negeri 3 Made",
+      "alamat": "Jl. Made Mulyo 40",
+      "kelurahan": "Made",
+      "status": "NEGERI"
+    },
+    {
+      "no": 36,
+      "npsn": "20506218",
+      "nama_satuan_pendidikan": "SD Negeri 4 Jetis",
+      "alamat": "Jl. Ki Sarmidi Mangun Sarkoro",
+      "kelurahan": "Jetis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 37,
+      "npsn": "20505819",
+      "nama_satuan_pendidikan": "SD Negeri 4 Made",
+      "alamat": "Jl. Made Karyo 43 Lamongan",
+      "kelurahan": "Made",
+      "status": "NEGERI"
+    },
+    {
+      "no": 38,
+      "npsn": "20506097",
+      "nama_satuan_pendidikan": "SD Negeri Banjarmendalan",
+      "alamat": "Jl. Veteran No. 19 Lamongan",
+      "kelurahan": "Banjarmendalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 39,
+      "npsn": "20506145",
+      "nama_satuan_pendidikan": "SD Negeri Karanglangit",
+      "alamat": "Jl. Kelud 35 Ds Karanglangit",
+      "kelurahan": "Karanglangit",
+      "status": "NEGERI"
+    },
+    {
+      "no": 40,
+      "npsn": "20506174",
+      "nama_satuan_pendidikan": "SD Negeri Kebet",
+      "alamat": "Jl. Raya Sugio No. 32",
+      "kelurahan": "Kebet",
+      "status": "NEGERI"
+    },
+    {
+      "no": 41,
+      "npsn": "20506220",
+      "nama_satuan_pendidikan": "SD Negeri Kepatihan",
+      "alamat": "Jl. Ki Sarmidi Mangun Sarkoro 16",
+      "kelurahan": "Jetis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 42,
+      "npsn": "20506016",
+      "nama_satuan_pendidikan": "SD Negeri Pangkatrejo",
+      "alamat": "Dusun Bilo Desa Pangkatrejo",
+      "kelurahan": "Pangkatrejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 43,
+      "npsn": "20505923",
+      "nama_satuan_pendidikan": "SD Negeri Plosowahyu",
+      "alamat": "Jln Wahyu No 181 Desa Plosowahyu",
+      "kelurahan": "Plosowahyu",
+      "status": "NEGERI"
+    },
+    {
+      "no": 44,
+      "npsn": "20506543",
+      "nama_satuan_pendidikan": "SD Negeri Sidomukti",
+      "alamat": "Jl. Raya Mantup Gg. Kucur 49",
+      "kelurahan": "Sidomukti",
+      "status": "NEGERI"
+    },
+    {
+      "no": 45,
+      "npsn": "20506479",
+      "nama_satuan_pendidikan": "SD Negeri Sukorejo",
+      "alamat": "Jln. Sunan Kalijogo No. 37",
+      "kelurahan": "Sukorejo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 46,
+      "npsn": "20506628",
+      "nama_satuan_pendidikan": "SD Negeri Sumberjo",
+      "alamat": "Jalan Plandi No. 24 Desa Sumberjo",
+      "kelurahan": "Sumberjo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 47,
+      "npsn": "20506659",
+      "nama_satuan_pendidikan": "SD Negeri Tanjung",
+      "alamat": "Jl. Raya Tanjung 140",
+      "kelurahan": "Tanjung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 48,
+      "npsn": "20506575",
+      "nama_satuan_pendidikan": "SD Negeri Tlogoanyar",
+      "alamat": "Jl. Andanwangi 153",
+      "kelurahan": "Tlogoanyar",
+      "status": "NEGERI"
+    },
+    {
+      "no": 49,
+      "npsn": "20506584",
+      "nama_satuan_pendidikan": "SD Negeri Wajik",
+      "alamat": "Jl. Masjid No. 193",
+      "kelurahan": "Wajik",
+      "status": "NEGERI"
+    },
+    {
+      "no": 50,
+      "npsn": "20507213",
+      "nama_satuan_pendidikan": "SD NU Banat Banin Lamongan",
+      "alamat": "Jl. Kyai Amin No. 14",
+      "kelurahan": "Jetis",
+      "status": "SWASTA"
+    },
+    {
+      "no": 51,
+      "npsn": "70010840",
+      "nama_satuan_pendidikan": "SMP ALAM CITRA INSANI LAMONGAN",
+      "alamat": "JL. Raya Mastrip",
+      "kelurahan": "Tanjung",
+      "status": "SWASTA"
+    },
+    {
+      "no": 52,
+      "npsn": "70040020",
+      "nama_satuan_pendidikan": "SMP APLIKATIF AS SUNNIYYAH SUNAN DRAJAT LAMONGAN",
+      "alamat": "Jl. Sunan drajat no 74",
+      "kelurahan": "Sidoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 53,
+      "npsn": "20549009",
+      "nama_satuan_pendidikan": "SMP ISLAM TANFIRUL GHOYYI",
+      "alamat": "Jl Sunan Giri No 29 Groyok Lamongan",
+      "kelurahan": "Sukorejo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 54,
+      "npsn": "20506406",
+      "nama_satuan_pendidikan": "SMP MUHAMMADIYAH 2 LAMONGAN",
+      "alamat": "Jl. K.H.  Ahmad Dahlan No. 40 Lamongan",
+      "kelurahan": "Sidoharjo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 55,
+      "npsn": "20506443",
+      "nama_satuan_pendidikan": "SMP MURNI SUNAN DRAJAT LAMONGAN",
+      "alamat": "Jl. Sumargo No.22",
+      "kelurahan": "Tlogoanyar",
+      "status": "SWASTA"
+    },
+    {
+      "no": 56,
+      "npsn": "20506349",
+      "nama_satuan_pendidikan": "SMP Negeri 1 Lamongan",
+      "alamat": "Jl.Ki Sarmidi Mangunsarkoro No. 18 Lamongan",
+      "kelurahan": "Jetis",
+      "status": "NEGERI"
+    },
+    {
+      "no": 57,
+      "npsn": "20506385",
+      "nama_satuan_pendidikan": "SMP Negeri 2 Lamongan",
+      "alamat": "Jl. Veteran Nomor 3 Lamongan",
+      "kelurahan": "Banjarmendalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 58,
+      "npsn": "20506380",
+      "nama_satuan_pendidikan": "SMP NEGERI 3 LAMONGAN",
+      "alamat": "Jl. Mastrip No. 73 Kelurahan Sukomulyo",
+      "kelurahan": "Sukomulyo",
+      "status": "NEGERI"
+    },
+    {
+      "no": 59,
+      "npsn": "20506382",
+      "nama_satuan_pendidikan": "SMP NEGERI 4 LAMONGAN",
+      "alamat": "Jl. Jend. Sudirman No. 74 Kelurahan Banjarmendalan",
+      "kelurahan": "Banjarmendalan",
+      "status": "NEGERI"
+    },
+    {
+      "no": 60,
+      "npsn": "20506396",
+      "nama_satuan_pendidikan": "SMP NEGERI 5 LAMONGAN",
+      "alamat": "Jl. Raya Tanjung Lamongan",
+      "kelurahan": "Tanjung",
+      "status": "NEGERI"
+    },
+    {
+      "no": 61,
+      "npsn": "20506433",
+      "nama_satuan_pendidikan": "SMP SUNAN GIRI 1 LAMONGAN",
+      "alamat": "Jl. Basuki Rahmad No 106 - 108",
+      "kelurahan": "Sukomulyo",
+      "status": "SWASTA"
+    },
+    {
+      "no": 62,
+      "npsn": "69759218",
+      "nama_satuan_pendidikan": "SMP THORIQUL `ULUM LAMONGAN",
+      "alamat": "JL. Mastrip No. 118 Made Tegal Sebalong",
+      "kelurahan": "Made",
+      "status": "SWASTA"
+    }
+  ]
+}
